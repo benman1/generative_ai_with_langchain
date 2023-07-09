@@ -1,4 +1,5 @@
 # langchain
+.langchain.db
 langflow.db
 
 # mac
@@ -25,3 +26,5 @@ wheels/
 __pycache__/
 **/*.pyc
 
+# Logs
+logs/
