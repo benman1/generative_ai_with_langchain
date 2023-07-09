@@ -1,0 +1,19 @@
+name: langchain_ai
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10.8=h218abb5_1
+  - jupyter==1.0.0
+  - pip
+  - pip:
+    - langchain==0.0.188
+    - openai==0.27.7
+    - google-search-results==1.0.0
+    - pypdf==3.9.1
+    - tiktoken==0.4.0
+    - langflow==0.2.12
+    - streamlit==1.24.1
+    - gradio==3.36.1
+    - aviary[frontend,backend] @ git+https://github.com/ray-project/aviary.git
+prefix: /opt/anaconda3/envs/langchain_ai
