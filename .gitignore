@@ -1,0 +1,27 @@
+# langchain
+langflow.db
+
+# mac
+.DS_Store
+
+# Distribution/Packaging
+.env
+.venv
+env/
+venv/
+wheels/
+*.egg
+
+
+# IDEs
+.idea
+.vs/
+.vscode/
+.spyderproject
+.spyproject
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+**/*.pyc
+
