@@ -12,7 +12,7 @@ This is the recommended method for installing dependencies. Please make sure you
 
 First create the environment for the book that contains all the dependencies:
 ```bash
-conda env create --file langchain_ai.yml
+conda env create --file langchain_ai.yaml --force
 ```
 
 The conda environment is called `langchain_ai`. You can activate it as follows:
