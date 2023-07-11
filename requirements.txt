@@ -1,4 +1,5 @@
 jupyter>=1.0.0
+jupyterlab
 langchain==0.0.229
 huggingface_hub
 openai

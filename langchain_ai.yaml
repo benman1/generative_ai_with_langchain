@@ -19,6 +19,7 @@ dependencies:
     - setuptools==67.8.0
     - wheel==0.38.4
     - jupyter>=1.0.0
+    - jupyterlab
     - langchain==0.0.229
     - huggingface_hub
     - openai

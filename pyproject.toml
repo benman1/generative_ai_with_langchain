@@ -10,6 +10,7 @@ keywords = ["llms", "langchain", "ai", "chatgpt", "gpt", "openai", "huggingface"
 
 [tool.poetry.dependencies]
 jupyter>=1.0.0
+jupyterlab
 langchain==0.0.229
 huggingface_hub
 openai
