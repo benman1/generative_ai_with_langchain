@@ -6,7 +6,7 @@ authors = [
 ]
 readme = "README.md"
 repository = "https://github.com/benman1/generative_ai_with_langchain"
-keywords = ["llms", "langchain", "ai", "chatgpt"]
+keywords = ["llms", "langchain", "ai", "chatgpt", "gpt", "openai", "huggingface"]
 
 [tool.poetry.dependencies]
 absl-py = 1.4.0
@@ -164,7 +164,7 @@ jupyterlab-pygments = 0.2.2
 jupyterlab-widgets = 3.0.8
 keyring = 24.2.0
 kiwisolver = 1.4.4
-langchain = 0.0.219
+langchain = 0.0.229
 langchainplus-sdk = 0.0.20
 langflow = 0.2.12
 lightning-utilities = 0.9.0
@@ -378,3 +378,4 @@ xxhash = 3.2.0
 yarl = 1.9.2
 zipp = 3.15.0
 zstandard = 0.21.0
+replicate = 0.8.4
