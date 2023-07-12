@@ -21,7 +21,7 @@ dependencies:
     - jupyter>=1.0.0
     - jupyterlab
     - langchain==0.0.229
-    - huggingface_hub
+    - huggingface_hub>=0.14.1
     - openai
     - google-cloud-aiplatform>=1.26.0
     - replicate
