@@ -16,3 +16,5 @@ huggingface_hub>=0.14.1
 openai
 google-cloud-aiplatform>=1.26.0
 replicate
+google-ai-generativelanguage
+google-generativeai

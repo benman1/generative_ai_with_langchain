@@ -4,4 +4,6 @@ langchain==0.0.229
 huggingface_hub>=0.14.1
 openai
 google-cloud-aiplatform>=1.26.0
+google-ai-generativelanguage
+google-generativeai
 replicate
