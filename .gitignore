@@ -2,6 +2,9 @@
 .langchain.db
 langflow.db
 
+# api keys
+config.py
+
 # mac
 .DS_Store
 
@@ -12,6 +15,7 @@ env/
 venv/
 wheels/
 *.egg
+.ruff_cache
 
 
 # IDEs
@@ -20,6 +24,7 @@ wheels/
 .vscode/
 .spyderproject
 .spyproject
+.ipynb_checkpoints
 
 
 # Byte-compiled / optimized / DLL files
