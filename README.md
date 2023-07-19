@@ -45,6 +45,12 @@ poetry install
 ```
 This should take the `pyproject.toml` file and install all dependencies.
 
+## Code validation
+To run the code validation in ruff, please run
+```bash
+ruff check .
+```
+
 ## Contributing
 
 If you find anything amiss with the notebooks or dependencies, please feel free to create a pull request.
