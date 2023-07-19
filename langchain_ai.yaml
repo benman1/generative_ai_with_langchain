@@ -20,11 +20,18 @@ dependencies:
     - wheel==0.38.4
     - jupyter>=1.0.0
     - jupyterlab
-    - langchain==0.0.229
+    - langchain==0.0.235
     - huggingface_hub>=0.14.1
     - openai
     - google-cloud-aiplatform>=1.26.0
     - replicate
-    - google-ai-generativelanguage
     - google-generativeai
+    - ruff==0.0.278
+    - pypdf>=3.12.2
+    - tiktoken>=0.4.0
+    - duckduckgo_search>=3.8.4
+    - streamlit>=1.24.1
+    - arxiv>=1.4.8
+    - wikipedia>=1.4.0
+    - wolframalpha>=5.0.0
 prefix: /opt/anaconda3/envs/langchain_ai
