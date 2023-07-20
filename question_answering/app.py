@@ -23,6 +23,10 @@ set_environment()
 st.set_page_config(page_title="LangChain Question Answering", page_icon=":robot:")
 st.header("Ask a research question!")
 
+strategy = st.radio(
+    "Reasoning strategy",
+    ("plan-and-solve", "one-shot-react", ))
+
 tool_names = st.multiselect(
     'Which tools do you want to use?',
     [
@@ -31,7 +35,7 @@ tool_names = st.multiselect(
     ],
     ["ddg-search", "wolfram-alpha", "wikipedia"])
 
-agent_chain = load_agent(tool_names=tool_names)
+agent_chain = load_agent(tool_names=tool_names, strategy=strategy)
 
 st_callback = StreamlitCallbackHandler(st.container())
 
