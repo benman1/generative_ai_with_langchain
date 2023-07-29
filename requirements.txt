@@ -1,6 +1,7 @@
 jupyter>=1.0.0
 jupyterlab
 langchain==0.0.235
+langchain[docarray]==0.0.239
 huggingface_hub>=0.14.1
 openai
 google-cloud-aiplatform>=1.26.0
@@ -14,3 +15,9 @@ streamlit>=1.24.1
 arxiv>=1.4.8
 wikipedia>=1.4.0
 wolframalpha>=5.0.0
+unstructured>=0.8.1
+pandoc>=1.1.0  # needs system install as well!
+sentence-transformers>=2.2.2
+gradio>=3.38.0
+gpt4all>=1.0.6
+google-api-python-client>=2.94.0
