@@ -8,6 +8,10 @@ from langchain.experimental import PlanAndExecute, load_agent_executor, load_cha
 
 ReasoningStrategies = Literal["one-shot-react", "plan-and-solve"]
 
+from config import set_environment
+
+set_environment()
+
 
 def load_agent(
         tool_names: list[str],
@@ -15,7 +19,10 @@ def load_agent(
 ) -> Chain:
     """Logic to build up an agent.
 
-    By default should use tools like these:
+    Please note the absence of any memory here. This can be
+    easily improved by adding a conversational memory.
+
+    By default, should use tools like these:
     * DuckDuckGoSearchRun, wolfram alpha, arxiv search, wikipedia
 
     plan_and_execute means that all plans are made ahead of time
@@ -34,6 +41,11 @@ def load_agent(
         executor = load_agent_executor(llm, tools, verbose=True)
         return PlanAndExecute(planner=planner, executor=executor, verbose=True)
 
+    # Occasionally, we might come across a output parsing error.
+    # We can handle these by setting "handle_parsing_errors"
     return initialize_agent(
-        tools=tools, llm=llm, agent=AgentType.ZERO_SHOT_REACT_DESCRIPTION, verbose=True
+        tools=tools, llm=llm,
+        agent=AgentType.ZERO_SHOT_REACT_DESCRIPTION,
+        verbose=True,
+        handle_parsing_errors="Check your output and make sure it conforms!"
     )

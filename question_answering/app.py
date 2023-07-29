@@ -15,10 +15,8 @@ or on Hugging Face Spaces. For Streamlit Community Cloud do this:
 import streamlit as st
 from langchain.callbacks import StreamlitCallbackHandler
 
-from config import set_environment
 from question_answering.agent import load_agent
 
-set_environment()
 
 st.set_page_config(page_title="LangChain Question Answering", page_icon=":robot:")
 st.header("Ask a research question!")
@@ -31,11 +29,13 @@ tool_names = st.multiselect(
     'Which tools do you want to use?',
     [
         "google-search", "ddg-search", "wolfram-alpha", "arxiv",
-        "wikipedia", "python_repl", "pal-math", "llm-math"
+        "wikipedia", "python_repl", "pal-math",
+        "llm-math"
     ],
     ["ddg-search", "wolfram-alpha", "wikipedia"])
 
-agent_chain = load_agent(tool_names=tool_names, strategy=strategy)
+if len(tool_names) > 0:
+    agent_chain = load_agent(tool_names=tool_names)
 
 st_callback = StreamlitCallbackHandler(st.container())
 
