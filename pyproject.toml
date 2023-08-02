@@ -11,7 +11,10 @@ keywords = ["llms", "langchain", "ai", "chatgpt", "gpt", "openai", "huggingface"
 [tool.poetry.dependencies]
 jupyter="^1.0.0"
 jupyterlab="4.0.2"
-langchain[docarray]="0.0.239"
+langchain = [
+  "langchain>=0.0.239",
+  "docarray"
+]
 huggingface_hub="^0.14.1"
 openai="^0.27.8"
 google-cloud-aiplatform="^1.26.0"
