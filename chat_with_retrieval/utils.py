@@ -23,6 +23,7 @@ from langchain.vectorstores import DocArrayInMemorySearch
 
 from config import set_environment
 
+logging.basicConfig(encoding="utf-8", level=logging.INFO)
 LOGGER = logging.getLogger()
 set_environment()
 # Setup LLM and QA chain; set temperature low to keep hallucinations in check

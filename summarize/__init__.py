@@ -1,4 +1,9 @@
-"""Create summaries from pdf files."""
+"""Create summaries from pdf files.
+
+Given any pdf file or directory with pdf files,
+create a summary and save it as a .txt file.
+"""
+import logging
 import os
 from pathlib import Path
 
@@ -20,6 +25,8 @@ langchain.llm_cache = langchain.cache.SQLiteCache(database_path=".langchain.db")
 CHAT = ChatOpenAI(
     temperature=0.7,
 )
+logging.basicConfig(encoding="utf-8", level=logging.INFO)
+LOGGING = logging.getLogger()
 
 
 def format_summary(summary: dict) -> str:
@@ -66,10 +73,10 @@ def summarize_docs(
             template=prompts.ANALOGY
         )
         summary["analogy"] = llm_chain.predict(text=summary["output_text"])
-        print(f"Total Tokens: {cb.total_tokens}")
-        print(f"Prompt Tokens: {cb.prompt_tokens}")
-        print(f"Completion Tokens: {cb.completion_tokens}")
-        print(f"Total Cost (USD): ${cb.total_cost}")
+        LOGGING.info(f"Total Tokens: {cb.total_tokens}")
+        LOGGING.info(f"Prompt Tokens: {cb.prompt_tokens}")
+        LOGGING.info(f"Completion Tokens: {cb.completion_tokens}")
+        LOGGING.info(f"Total Cost (USD): ${cb.total_cost}")
 
     return format_summary(summary=summary)
 
@@ -88,6 +95,7 @@ def create_pdf_summary(pdf_file):
     pdf_path = Path(pdf_file)
     output_file = pdf_path.with_suffix('.txt')
     if os.path.exists(output_file):
+        LOGGING.info("Summary file already exists!")
         with open(output_file, "r") as f:
             return f.read()
 
@@ -98,7 +106,7 @@ def create_pdf_summary(pdf_file):
     with open(output_file, "w") as f:
         f.write(summary)
 
-    print(summary)
+    LOGGING.info(summary)
 
 
 def create_pdf_summaries(directory: str):
@@ -107,11 +115,13 @@ def create_pdf_summaries(directory: str):
         if not Path(filename).suffix.endswith("pdf") or not os.path.isfile(full_filename):
             continue
 
-        print(f"creating summary for {filename}...")
-        create_pdf_summaries(full_filename)
+        LOGGING.info(f"Creating summary for {filename}...")
+        create_pdf_summary(full_filename)
 
 
 if __name__ == "__main__":
-    create_pdf_summary(
-        "/Users/ben/Downloads/langchain book/resources/textbooks are all you need.pdf"
-    )
+    directory = "/Users/ben/Downloads/langchain book/chapter6/"
+    create_pdf_summaries(directory=directory)
+    # create_pdf_summary(
+    #     "/Users/ben/Downloads/langchain book/resources/textbooks are all you need.pdf"
+    # )
