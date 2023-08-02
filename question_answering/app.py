@@ -34,8 +34,8 @@ tool_names = st.multiselect(
     ],
     ["ddg-search", "wolfram-alpha", "wikipedia"])
 
-if len(tool_names) > 0:
-    agent_chain = load_agent(tool_names=tool_names)
+
+agent_chain = load_agent(tool_names=tool_names)
 
 st_callback = StreamlitCallbackHandler(st.container())
 

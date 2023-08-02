@@ -1,6 +1,7 @@
 """Create an agent executor to use in the research app."""
 from typing import Literal
 
+from langchain import LLMChain
 from langchain.agents import AgentType, initialize_agent, load_tools
 from langchain.chains.base import Chain
 from langchain.chat_models import ChatOpenAI
@@ -32,6 +33,10 @@ def load_agent(
     llm = GPT4All(model="/Users/ben/Downloads/orca-mini-3b.ggmlv3.q4_0.bin")
     """
     llm = ChatOpenAI(temperature=0, streaming=True)
+    if len(tool_names) == 0:
+        # if there are no tools, no point building a tool agent
+        return LLMChain(llm=llm)
+
     tools = load_tools(
         tool_names=tool_names,
         llm=llm
