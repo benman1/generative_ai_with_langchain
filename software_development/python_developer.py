@@ -9,12 +9,12 @@ from pathlib import Path
 from typing import Literal
 
 import pip
+from pip._internal.exceptions import InstallationError
 from langchain import PromptTemplate, LLMChain
 from langchain.chains.base import Chain
 from langchain.llms import FakeListLLM
 from langchain.tools.python.tool import sanitize_input
 from pydantic import BaseModel, Field
-
 
 logging.basicConfig(encoding="utf-8", level=logging.INFO)
 DEV_PROMPT = (
@@ -55,7 +55,7 @@ def set_directory(path: Path):
         os.chdir(origin)
 
 
-class PythonDeveloper():
+class PythonDeveloper:
     """Execution environment for Python code."""
 
     def __init__(
@@ -67,7 +67,7 @@ class PythonDeveloper():
             save_intermediate_steps: bool = False
     ):
         self.save_intermediate_steps = save_intermediate_steps
-        self.llm = llm_chain
+        self.llm_chain = llm_chain
         self.path = path
         self.create_directory()
         self.logger = logging.getLogger()
@@ -82,7 +82,7 @@ class PythonDeveloper():
         If intermediate steps are desired, store the code to
         a separate Python file.
         """
-        code = self.llm.run(task)
+        code = self.llm_chain.run(task)
         if self.save_intermediate_steps:
             self.write_file("", code, "w")
         return code
@@ -96,6 +96,25 @@ class PythonDeveloper():
         file_handler.setFormatter(formatter)
         return file_handler
 
+    def install_package(
+            self,
+            module_not_found_error: ModuleNotFoundError
+    ) -> bool:
+        """Install a package.
+
+        Returns True if installation successful.
+        Note: We could implement a logic for virtual environments here.
+        """
+        try:
+            package = str(module_not_found_error).strip().split(" ")[-1].strip("'")
+            self.logger.info(f"installing {package}")
+            pip.main(['install', package])
+            return True
+        except InstallationError as ex:
+            # Any other error, we want to fail here.
+            self.logger.exception(ex)
+            return False
+
     @meaningful_output
     def run(
             self,
@@ -103,7 +122,7 @@ class PythonDeveloper():
             filename: str = "main.py",
             mode: Literal["w", "a"] = "w"
     ) -> str:
-        """Run Python code in a sandbox.
+        """Generate and execute Python code.
 
         Returns the output from the run.
         """
@@ -117,18 +136,8 @@ class PythonDeveloper():
         # import executor; we can try others like pylint
         # func = compile(f"eval(\"import {module_name}\")", filename="<>", mode="eval")
         try:
-            #with DirectorySandbox(self.path):
-            stdout = "module"
-            iteration = 0
-            while "module" in stdout:
-                stdout = self.execute_code(code, filename)
-                print(stdout)
-                if iteration > 0:
-                    package = stdout.strip().split(" ")[-1].strip("'")
-                    print(f"installing {package}")
-                    pip.main(['install', package])
-                iteration = iteration + 1
-            return stdout
+            # with DirectorySandbox(self.path):
+            return self.execute_code(code, filename)
         except (ModuleNotFoundError, NameError) as ex:
             return str(ex)
         except SyntaxError as ex:
@@ -150,8 +159,9 @@ class PythonDeveloper():
                     exec(function, ns)
                     return f.getvalue()
         except ModuleNotFoundError as ex:
-            # we could implement a logic here for virtual environments
-            return str(ex)
+            if self.install_package(ex):
+                return self.execute_code(code, filename)
+            raise ex
 
     def write_file(
             self,
