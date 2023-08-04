@@ -1,8 +1,7 @@
 """Task planner and executor for software development."""
 
 from langchain import LLMChain, OpenAI, PromptTemplate
-from langchain.agents import Tool, ZeroShotAgent
-from langchain.memory import ConversationBufferMemory
+from langchain.agents import Tool
 from langchain.tools import DuckDuckGoSearchResults
 from langchain_experimental.plan_and_execute import (
     PlanAndExecute,
@@ -22,22 +21,29 @@ todo_prompt = PromptTemplate.from_template(
     "The output should be a list of the format {function name}: {requirements of the function}"
     "Come up with a list of needed functions for this objective: {objective}"
 )
-todo_llm = LLMChain(llm=OpenAI(temperature=0), prompt=todo_prompt)
+todo_llm = LLMChain(
+    llm=OpenAI(temperature=0),
+    prompt=todo_prompt
+)
 # # , model_name="ada"
 software_prompt = PromptTemplate.from_template(DEV_PROMPT)
 # careful: if you have the wrong model spec, you might not get any code!
 software_llm = LLMChain(
     llm=OpenAI(
         temperature=0,
+        max_tokens=4000
     ),
     prompt=software_prompt
 )
 software_dev = PythonDeveloper(llm_chain=software_llm)
-code_tool = Tool.from_function(
+
+code_tool = Tool(
+    name="PythonSoftwareEngineer",
     func=software_dev.run,
-    name="PythonREPL",
     description=(
-        "You are a software engineer who writes Python code given a function."
+        "Useful for writing Python code. "
+        "Input: a task or function to write. "
+        "Output: a Python code that solves the task. "
     ),
     args_schema=PythonExecutorInput
 )
@@ -53,15 +59,7 @@ planner_tool = Tool(
 )
 ddg_search = DuckDuckGoSearchResults()
 tools = [
-    Tool(
-        name="PythonSoftwareEngineer",
-        func=software_dev.run,
-        description=(
-            "Useful for writing Python code. "
-            "Input: a task. "
-            "Output: a Python code that solves the task. "
-        )
-    ),
+    code_tool,
     Tool(
         name="DDGSearch",
         func=ddg_search.run,
@@ -89,11 +87,11 @@ Task: {input}
 
 """
 
-memory = ConversationBufferMemory(memory_key="chat_history", return_messages=True)
-prompt = ZeroShotAgent.create_prompt(
-    tools, prefix=PREFIX,
-    suffix=SUFFIX, input_variables=["input", "agent_scratchpad", "chat_history"]
-)
+# memory = ConversationBufferMemory(memory_key="chat_history", return_messages=True)
+# prompt = ZeroShotAgent.create_prompt(
+#     tools, prefix=PREFIX,
+#     suffix=SUFFIX, input_variables=["input", "agent_scratchpad", "chat_history"]
+# )
 
 llm = OpenAI()
 planner = load_chat_planner(llm)
@@ -137,18 +135,4 @@ agent_executor = PlanAndExecute(
 
 
 if __name__ == "__main__":
-    objective = "Write a tetris game in python!"
-    agent_executor.run(objective)
-    # for step in agent_executor.iter(objective):
-    #     if output := step.get("intermediate_step"):
-    #         action, value = output[0]
-    #         print(f"action: {action}; value: {value}")
-    #         # Ask user if they want to continue
-    #         _continue = input("Should the agent continue (Y/n)?:\n")
-    #         if _continue != "Y":
-    #             break
-
-    #agent_executor.run("Write a tetris game in python!")
-
-
-
+    agent_executor.run("Write a tetris game in python!")
