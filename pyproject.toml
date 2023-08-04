@@ -15,6 +15,7 @@ langchain = [
   "langchain>=0.0.251",
   "docarray"
 ]
+langchain_experimental="^0.4.3"
 huggingface_hub="^0.14.1"
 openai="^0.27.8"
 google-cloud-aiplatform="^1.26.0"
@@ -34,6 +35,7 @@ sentence-transformers="^2.2.2"
 gradio="^3.38.0"
 gpt4all="^1.0.6"
 google-api-python-client="^2.94.0"
+pip="^23.1.2"
 
 [tool.ruff]
 select = [
