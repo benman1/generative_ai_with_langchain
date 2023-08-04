@@ -7,6 +7,18 @@ You can install your local environment with conda (recommended) or pip. The envi
 
 If you have any problems with the environment, please raise an issue, where you show the error you got. If you feel confident, please go ahead and create a pull request.
 
+For pip and poetry, make sure you install pandoc in your system. On MacOS use brew:
+```bash
+brew install pandoc
+```
+
+On Ubuntu or Debian linux, use apt:
+```bash
+sudo apt-get install pandoc
+```
+
+On Windows, you can use an [installer](https://github.com/jgm/pandoc/releases/latest).
+
 ### Conda
 This is the recommended method for installing dependencies. Please make sure you have [anaconda](https://www.anaconda.com/download) installed.
 
