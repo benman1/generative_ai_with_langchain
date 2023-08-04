@@ -9,11 +9,11 @@ from pathlib import Path
 from typing import Literal
 
 import pip
-from pip._internal.exceptions import InstallationError
-from langchain import PromptTemplate, LLMChain
+from langchain import LLMChain, PromptTemplate
 from langchain.chains.base import Chain
 from langchain.llms import FakeListLLM
 from langchain.tools.python.tool import sanitize_input
+from pip._internal.exceptions import InstallationError
 from pydantic import BaseModel, Field
 
 logging.basicConfig(encoding="utf-8", level=logging.INFO)
@@ -90,7 +90,9 @@ class PythonDeveloper:
     @staticmethod
     def setup_audit_trail(audit_file: str) -> FileHandler:
         """Set up a logger that tracks all calls to run."""
-        formatter = logging.Formatter("%(asctime)s | %(levelname)s | %(message)s")
+        formatter = logging.Formatter(
+            "%(asctime)s | %(levelname)s | %(message)s"
+        )
         file_handler = logging.FileHandler(audit_file)
         file_handler.setLevel(logging.DEBUG)
         file_handler.setFormatter(formatter)
@@ -134,7 +136,6 @@ class PythonDeveloper:
 
         self.write_file(code=code, filename=filename, mode=mode)
         # import executor; we can try others like pylint
-        # func = compile(f"eval(\"import {module_name}\")", filename="<>", mode="eval")
         try:
             # with DirectorySandbox(self.path):
             return self.execute_code(code, filename)
