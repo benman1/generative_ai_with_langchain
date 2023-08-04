@@ -1,19 +1,17 @@
 """Task planner and executor for software development."""
-import logging
 
+from langchain import LLMChain, OpenAI, PromptTemplate
 from langchain.agents import Tool, ZeroShotAgent
-from langchain import OpenAI, LLMChain, PromptTemplate
 from langchain.memory import ConversationBufferMemory
 from langchain.tools import DuckDuckGoSearchResults
 from langchain_experimental.plan_and_execute import (
-    PlanAndExecute, load_agent_executor, load_chat_planner
+    PlanAndExecute,
+    load_agent_executor,
+    load_chat_planner,
 )
 
-from software_development.python_developer import (
-    PythonDeveloper,
-    PythonExecutorInput, DEV_PROMPT
-)
 from config import set_environment
+from software_development.python_developer import DEV_PROMPT, PythonDeveloper, PythonExecutorInput
 
 set_environment()
 
