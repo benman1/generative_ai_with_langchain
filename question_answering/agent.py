@@ -1,11 +1,12 @@
 """Create an agent executor to use in the research app."""
 from typing import Literal
 
-from langchain import LLMChain
+from langchain import LLMChain, PromptTemplate
 from langchain.agents import AgentType, initialize_agent, load_tools
 from langchain.chains.base import Chain
 from langchain.chat_models import ChatOpenAI
-from langchain.experimental import PlanAndExecute, load_agent_executor, load_chat_planner
+from langchain_experimental.plan_and_execute import PlanAndExecute, load_agent_executor, load_chat_planner
+
 
 ReasoningStrategies = Literal["one-shot-react", "plan-and-solve"]
 
@@ -35,7 +36,11 @@ def load_agent(
     llm = ChatOpenAI(temperature=0, streaming=True)
     if len(tool_names) == 0:
         # if there are no tools, no point building a tool agent
-        return LLMChain(llm=llm)
+        return LLMChain(llm=llm, prompt=PromptTemplate(
+            template="Try to answer this question: {question}. "
+                     "If you don't know the answer, say you don't know.",
+            input_variables=["question"]
+        ))
 
     tools = load_tools(
         tool_names=tool_names,
