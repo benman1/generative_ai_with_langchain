@@ -12,7 +12,7 @@ from langchain.chains import OpenAIModerationChain, SimpleSequentialChain
 from chat_with_retrieval.utils import (
     load_document, DocumentLoader,
     configure_retriever,
-    configure_chain, PrintRetrievalHandler
+    configure_chain
 )
 
 st.set_page_config(page_title="LangChain: Chat with Documents", page_icon="🦜")
