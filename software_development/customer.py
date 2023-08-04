@@ -44,4 +44,5 @@ class Customer:
 
 
 if __name__ == "__main__":
+    # added manually
     Customer("12345678", "Ben", "Auffarth")

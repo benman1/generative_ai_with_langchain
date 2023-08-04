@@ -56,6 +56,7 @@ class Customer:
 
 
 if __name__ == "__main__":
+    # added manually
     customer = Customer("Ben", "Auffarth")
     customer2 = Customer("Paul", "Smith")
     print(customer == customer2)
