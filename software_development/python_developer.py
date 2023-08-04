@@ -9,14 +9,24 @@ from pathlib import Path
 from typing import Literal
 
 import pip
-from langchain import PromptTemplate
+from langchain import PromptTemplate, LLMChain
 from langchain.chains.base import Chain
+from langchain.llms import FakeListLLM
 from langchain.tools.python.tool import sanitize_input
 from pydantic import BaseModel, Field
 
 
+logging.basicConfig(encoding="utf-8", level=logging.INFO)
+DEV_PROMPT = (
+    "You are a software engineer who writes Python code given tasks or objectives. "
+    "Come up with a python code for this task: {task}"
+    "Please use PEP8 syntax and comments!"
+)
+
+
 class PythonExecutorInput(BaseModel):
     code: str = Field()
+
 
 def meaningful_output(func):
     def wrapper(*args, **kwargs):
@@ -27,17 +37,6 @@ def meaningful_output(func):
                    f"{func_output}"
         else:
             return "The code returned nothing."
-    return wrapper
-
-
-def audit_trail(func):
-    def wrapper(*args, **kwargs):
-        for arg in args:
-            print(f"{arg}\n")
-        for key in kwargs:
-            print("another keyword arg: %s: %s" % (key, kwargs[key]))
-        return func(*args, **kwargs)
-
     return wrapper
 
 
@@ -65,7 +64,7 @@ class PythonDeveloper():
             path: str = "dev",
             audit_file: str = "audit.log",
             do_sanitize_input: bool = True,
-            save_intermediate_steps: bool = True
+            save_intermediate_steps: bool = False
     ):
         self.save_intermediate_steps = save_intermediate_steps
         self.llm = llm_chain
@@ -78,7 +77,11 @@ class PythonDeveloper():
         self.do_sanitize_input = do_sanitize_input
 
     def write_code(self, task: str) -> str:
-        """Given a task description write Python code."""
+        """Given a task description write Python code.
+
+        If intermediate steps are desired, store the code to
+        a separate Python file.
+        """
         code = self.llm.run(task)
         if self.save_intermediate_steps:
             self.write_file("", code, "w")
@@ -93,7 +96,6 @@ class PythonDeveloper():
         file_handler.setFormatter(formatter)
         return file_handler
 
-    @audit_trail
     @meaningful_output
     def run(
             self,
@@ -105,9 +107,9 @@ class PythonDeveloper():
 
         Returns the output from the run.
         """
-        print(f"task: {task}\n")
+        self.logger.info(f"Task:\n{task}")
         code = self.write_code(task)
-        print(f"code: {code}\n")
+        self.logger.info(f"Code:\n{code}")
         if self.do_sanitize_input:
             code = sanitize_input(code)
 
@@ -127,8 +129,7 @@ class PythonDeveloper():
                     pip.main(['install', package])
                 iteration = iteration + 1
             return stdout
-        except ModuleNotFoundError as ex:
-            # we could implement a logic here for virtual environments
+        except (ModuleNotFoundError, NameError) as ex:
             return str(ex)
         except SyntaxError as ex:
             return f"This is not valid Python code! Exception thrown: {ex}"
@@ -136,7 +137,7 @@ class PythonDeveloper():
             # If this is an image, we could add a tool to create images.
             return f"This file doesn't exist!\n{ex}"
         except SystemExit as ex:
-            self.logger.debug(ex)
+            self.logger.warning(ex)
             return str(ex)
 
     def execute_code(self, code: str, filename: str) -> str:
@@ -144,9 +145,9 @@ class PythonDeveloper():
         try:
             with set_directory(Path(self.path)):
                 ns = dict(__file__=filename, __name__="__main__")
-                code = compile(code, "<>", "exec")
+                function = compile(code, "<>", "exec")
                 with redirect_stdout(io.StringIO()) as f:
-                    exec(code, ns)
+                    exec(function, ns)
                     return f.getvalue()
         except ModuleNotFoundError as ex:
             # we could implement a logic here for virtual environments
@@ -180,14 +181,16 @@ class PythonDeveloper():
 
 
 if __name__ == "__main__":
-    software_prompt = PromptTemplate.from_template(
-        "You are a software engineer who writes Python code given tasks or objectives. "
-        "Come up with a python code for this task: {task}"
-        "Please use PEP8 syntax and comments!"
-    )
+    software_prompt = PromptTemplate.from_template(DEV_PROMPT)
     # careful: if you have the wrong model spec, you might not get any code!
-    software_llm = FakeLLM
+    software_llm = LLMChain(
+        llm=FakeListLLM(
+            responses=[
+                "import os; print(os.getcwd())",
+                "import os; os.listdir('.')",
+                "print('hello world!')"
+            ]
+        ),
+        prompt=software_prompt
+    )
     env = PythonDeveloper(software_llm)
-    print(env.run("""import os; print(os.getcwd())"""))
-    print(env.run("""import os; os.listdir(".")"""))
-    print(env.run("""print("hello world!")"""))
