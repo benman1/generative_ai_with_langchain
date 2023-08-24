@@ -1,4 +1,7 @@
-"""Create an agent executor to use in the research app."""
+"""Create an agent executor to use in the research app.
+
+TODO: make sure history is maintained and used in conversation!
+"""
 from typing import Literal
 
 from langchain import LLMChain, PromptTemplate
@@ -55,7 +58,7 @@ def load_agent(
     # We can handle these by setting "handle_parsing_errors"
     return initialize_agent(
         tools=tools, llm=llm,
-        agent=AgentType.ZERO_SHOT_REACT_DESCRIPTION,
+        agent=AgentType.STRUCTURED_CHAT_ZERO_SHOT_REACT_DESCRIPTION,
         verbose=True,
         handle_parsing_errors="Check your output and make sure it conforms!"
     )
