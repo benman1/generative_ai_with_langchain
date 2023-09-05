@@ -16,7 +16,7 @@ import streamlit as st
 from langchain.callbacks import StreamlitCallbackHandler
 
 from question_answering.agent import load_agent
-
+from question_answering.utils import MEMORY
 
 st.set_page_config(page_title="LangChain Question Answering", page_icon=":robot:")
 st.header("Ask a research question!")
@@ -33,15 +33,22 @@ tool_names = st.multiselect(
         "llm-math"
     ],
     ["ddg-search", "wolfram-alpha", "wikipedia"])
+if st.sidebar.button("Clear message history"):
+    MEMORY.chat_memory.clear()
 
+avatars = {"human": "user", "ai": "assistant"}
+for msg in MEMORY.chat_memory.messages:
+    st.chat_message(avatars[msg.type]).write(msg.content)
 
-agent_chain = load_agent(tool_names=tool_names)
+agent_chain = load_agent(tool_names=tool_names, strategy=strategy)
 
-st_callback = StreamlitCallbackHandler(st.container())
-
-if prompt := st.chat_input():
+assistant = st.chat_message("assistant")
+if prompt := st.chat_input(placeholder="Ask me anything!"):
     st.chat_message("user").write(prompt)
+    stream_handler = StreamlitCallbackHandler(assistant)
     with st.chat_message("assistant"):
-        st_callback = StreamlitCallbackHandler(st.container())
-        response = agent_chain.run(prompt, callbacks=[st_callback])
-        st.write(response)
+        response = agent_chain.run({
+            "input": prompt,
+            "chat_history": MEMORY.chat_memory.messages
+        }, callbacks=[stream_handler]
+        )
