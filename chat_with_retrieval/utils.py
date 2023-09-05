@@ -1,8 +1,13 @@
-"""Utility functions and constants."""
+"""Utility functions and constants.
+
+I am having some problems caching the memory and the retrieval. When
+I decorate for caching, I get streamlit init errors.
+"""
 import logging
 import pathlib
 from typing import Any
 
+import streamlit as st
 from langchain.document_loaders import (
     PyPDFLoader,
     TextLoader,
@@ -65,4 +70,3 @@ def load_document(temp_filepath: str) -> list[Document]:
     docs = loader.load()
     logging.info(docs)
     return docs
-
