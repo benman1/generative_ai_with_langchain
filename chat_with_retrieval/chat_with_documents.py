@@ -3,7 +3,12 @@ import logging
 import os
 import tempfile
 
-from langchain.chains import OpenAIModerationChain, SimpleSequentialChain, ConversationalRetrievalChain, FlareChain
+from langchain.chains import (
+    ConversationalRetrievalChain,
+    FlareChain,
+    OpenAIModerationChain,
+    SimpleSequentialChain,
+)
 from langchain.chains.base import Chain
 from langchain.chat_models import ChatOpenAI
 from langchain.embeddings import OpenAIEmbeddings

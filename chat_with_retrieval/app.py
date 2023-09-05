@@ -4,6 +4,7 @@ Run like this:
 > PYTHONPATH=. streamlit run chat_with_retrieval/chat_with_documents.py
 """
 import logging
+
 import streamlit as st
 from streamlit.external.langchain import StreamlitCallbackHandler
 
