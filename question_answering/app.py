@@ -1,6 +1,6 @@
 """Question answering app in Streamlit.
 
-Based on this template:
+Originally based on this template:
 https://github.com/hwchase17/langchain-streamlit-template/blob/master/main.py
 
 Run locally as follows:

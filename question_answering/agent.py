@@ -8,10 +8,8 @@ from langchain import LLMChain, PromptTemplate
 from langchain.agents import AgentType, initialize_agent, load_tools
 from langchain.chains.base import Chain
 from langchain.chat_models import ChatOpenAI
-from langchain.prompts import ChatPromptTemplate
 from langchain_experimental.plan_and_execute import PlanAndExecute, load_agent_executor
-from langchain_experimental.plan_and_execute.planners.base import LLMPlanner
-from langchain_experimental.plan_and_execute.planners.chat_planner import PlanningOutputParser, load_chat_planner
+from langchain_experimental.plan_and_execute.planners.chat_planner import load_chat_planner
 
 from config import set_environment
 
@@ -38,6 +36,12 @@ PREFIX_WITH_TOOLS = PREFIX + "Look up the information using tools if necessary!\
 INSTRUCTION = "Try to answer this question: {input}."
 
 ReasoningStrategies = Literal["one-shot-react", "plan-and-solve"]
+
+
+def handle_errors(error) -> str:
+    """Error handling feedback."""
+    return f"Check your output and make sure it conforms! {str(error)[:50]}"
+
 
 def load_agent(
         tool_names: list[str],
@@ -93,5 +97,5 @@ def load_agent(
         },
         #memory=MEMORY,
         verbose=True,
-        handle_parsing_errors="Check your output and make sure it conforms!"
+        handle_parsing_errors=handle_errors,
     )
