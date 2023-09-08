@@ -39,6 +39,11 @@ pip="^23.1.2"
 apify-client="^1.4.0"
 chromadb="^0.4.8"
 lanarky="^0.7.13"
+ray = [
+  "ray>=2.6.3",
+  "serve"
+]
+faiss-cpu="^1.7.4"
 
 [tool.ruff]
 select = [
