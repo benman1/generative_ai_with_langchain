@@ -43,4 +43,5 @@ dependencies:
     - google-api-python-client>=2.94.0
     - apify-client>=1.4.0
     - chromadb>=0.4.8
+    - lanarky>=0.7.13
 prefix: /opt/anaconda3/envs/langchain_ai
