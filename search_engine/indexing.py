@@ -17,15 +17,14 @@ import time
 import numpy as np
 import ray
 from bs4 import BeautifulSoup as Soup
-
 from langchain import FAISS
 from langchain.document_loaders import RecursiveUrlLoader
 from langchain.embeddings import OpenAIEmbeddings
 from langchain.schema import Document
-
 from langchain.text_splitter import RecursiveCharacterTextSplitter
+
 from config import set_environment
-from search_engine.utils import get_embeddings, INDEX_PATH
+from search_engine.utils import INDEX_PATH, get_embeddings
 
 # set keys:
 set_environment()
@@ -99,7 +98,7 @@ def create_db_parallel(chunks: list[Document]):
 
 
 if __name__ == "__main__":
-    print(f"Starting indexing process.")
+    print("Starting indexing process.")
     st = time.time()
     chunks = chunk_docs(url="https://docs.ray.io/en/latest/")
     if len(chunks) == 0:

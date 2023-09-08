@@ -6,15 +6,14 @@ Adapted from open_source_LLM_search_engine:
 https://github.com/ray-project/langchain-ray/
 """
 import time
-from typing import List
 
-from langchain import FAISS
-from ray import serve
 import requests
 from fastapi import FastAPI
+from langchain import FAISS
+from ray import serve
 
-from search_engine.utils import INDEX_PATH, get_embeddings
 from config import set_environment
+from search_engine.utils import INDEX_PATH, get_embeddings
 
 # set keys:
 set_environment()
