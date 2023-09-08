@@ -21,7 +21,7 @@ dependencies:
     - wheel==0.38.4
     - jupyter>=1.0.0
     - jupyterlab
-    - langchain[docarray]==0.0.251
+    - langchain[docarray]==0.0.284
     - langchain_experimental
     - huggingface_hub>=0.14.1
     - openai
