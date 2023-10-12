@@ -69,7 +69,7 @@ If you find anything amiss with the notebooks or dependencies, please feel free 
 
 If you want to change the conda dependency specification (the yaml file), you can test it like this:
 ```bash
-conda env create --file langchain_ai.yml --force
+conda env create --file langchain_ai.yaml --force
 ```
 
 You can update the pip requirements like this:
