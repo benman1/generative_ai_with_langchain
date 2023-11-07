@@ -44,6 +44,7 @@ ray = [
   "serve"
 ]
 faiss-cpu="^1.7.4"
+promptwatch="^0.2.9"
 
 [tool.ruff]
 select = [

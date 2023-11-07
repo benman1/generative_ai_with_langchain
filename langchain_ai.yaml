@@ -46,4 +46,5 @@ dependencies:
     - lanarky>=0.7.13
     - ray[serve]>=2.6.3
     - faiss-cpu>=1.7.4
+    - promptwatch>=0.2.9
 prefix: /opt/anaconda3/envs/langchain_ai
