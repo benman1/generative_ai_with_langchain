@@ -39,6 +39,11 @@ conda activate langchain_ai
 pip install -r requirements.txt
 ```
 
+If you are working with a slow internet connection, you might see a timeout with pip (this can also happen with conda and pip). As a workaround, you can increase the timeout setting like this:
+```bash
+export PIP_DEFAULT_TIMEOUT=100
+```
+
 ### Docker
 There's a [docker](https://www.docker.com/) file for the environment as well. It uses the docker environment and starts an ipython notebook. To use it, first build it, and then run it:
 
