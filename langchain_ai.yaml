@@ -47,4 +47,5 @@ dependencies:
     - ray[serve]>=2.6.3
     - faiss-cpu>=1.7.4
     - promptwatch>=0.2.9
+    - langchain_decorators>=0.2.3
 prefix: /opt/anaconda3/envs/langchain_ai
