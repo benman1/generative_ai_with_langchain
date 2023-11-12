@@ -3,7 +3,7 @@ jupyterlab
 langchain[docarray]>=0.0.284
 langchain_experimental
 huggingface_hub>=0.14.1
-openai
+openai==0.28.1
 google-cloud-aiplatform>=1.26.0
 google-generativeai
 replicate

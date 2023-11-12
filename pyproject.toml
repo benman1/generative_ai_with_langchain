@@ -17,7 +17,7 @@ langchain = [
 ]
 langchain_experimental="*"
 huggingface_hub="^0.14.1"
-openai="^0.27.8"
+openai="0.28.1"
 google-cloud-aiplatform="^1.26.0"
 replicate="^0.8.4"
 google-generativeai="0.1.0"
