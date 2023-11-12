@@ -6,6 +6,10 @@ from langchain.chat_models import ChatOpenAI
 from langchain_experimental.plan_and_execute import (
     load_chat_planner, load_agent_executor, PlanAndExecute
 )
+from config import set_environment
+
+
+set_environment()
 
 ReasoningStrategies = Literal["zero-shot-react", "plan-and-solve"]
 
