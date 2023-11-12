@@ -23,7 +23,7 @@ st.header("Ask a research question!")
 
 strategy = st.radio(
     "Reasoning strategy",
-    ("plan-and-solve", "one-shot-react", ))
+    ("plan-and-solve", "zero-shot-react", ))
 
 tool_names = st.multiselect(
     'Which tools do you want to use?',
