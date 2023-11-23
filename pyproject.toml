@@ -1,3 +1,4 @@
+[tool.poetry]
 name = "generative-ai-with-langchain"
 version = "0.1.0"
 description = "Build large language model (LLM) apps with Python, ChatGPT and other models.."
@@ -9,12 +10,10 @@ repository = "https://github.com/benman1/generative_ai_with_langchain"
 keywords = ["llms", "langchain", "ai", "chatgpt", "gpt", "openai", "huggingface"]
 
 [tool.poetry.dependencies]
+python = "^3.10"
 jupyter="^1.0.0"
 jupyterlab="4.0.2"
-langchain = [
-  "langchain>=0.0.284",
-  "docarray"
-]
+langchain = { version = ">=0.0.284", extras = ["docarray"] }
 langchain_experimental="*"
 huggingface_hub="^0.14.1"
 openai="0.28.1"
@@ -39,10 +38,8 @@ pip="^23.1.2"
 apify-client="^1.4.0"
 chromadb="^0.4.8"
 lanarky="^0.7.13"
-ray = [
-  "ray>=2.6.3",
-  "serve"
-]
+ray = { version = ">=2.6.3", extras = ["serve"] }
+
 faiss-cpu="^1.7.4"
 promptwatch="^0.2.9"
 langchain_decorators="^0.2.3"
