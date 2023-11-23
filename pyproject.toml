@@ -10,6 +10,7 @@ repository = "https://github.com/benman1/generative_ai_with_langchain"
 keywords = ["llms", "langchain", "ai", "chatgpt", "gpt", "openai", "huggingface"]
 
 [tool.poetry.dependencies]
+python = "^3.10"
 jupyter="^1.0.0"
 jupyterlab="4.0.2"
 langchain = { version = ">=0.0.284", extras = ["docarray"] }
