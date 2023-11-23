@@ -1,3 +1,4 @@
+[tool.poetry]
 name = "generative-ai-with-langchain"
 version = "0.1.0"
 description = "Build large language model (LLM) apps with Python, ChatGPT and other models.."
