@@ -7,8 +7,8 @@ import logging
 import os
 from pathlib import Path
 
-import langchain
-from langchain import LLMChain, PromptTemplate
+from langchain.chains import LLMChain
+from langchain.prompts import PromptTemplate
 from langchain.callbacks import get_openai_callback
 from langchain.chains.summarize import load_summarize_chain
 from langchain.chat_models import ChatOpenAI
@@ -19,8 +19,6 @@ from config import set_environment
 from summarize import prompts
 
 set_environment()
-# cache for debugging - reset: rm .langchain.db
-langchain.llm_cache = langchain.cache.SQLiteCache(database_path=".langchain.db")
 
 CHAT = ChatOpenAI(
     temperature=0.7,
@@ -120,8 +118,6 @@ def create_pdf_summaries(directory: str):
 
 
 if __name__ == "__main__":
-    directory = "/Users/ben/Downloads/langchain book/chapter6/"
+    directory = "/Users/ben/Downloads/"
     create_pdf_summaries(directory=directory)
-    # create_pdf_summary(
-    #     "/Users/ben/Downloads/langchain book/resources/textbooks are all you need.pdf"
-    # )
+
