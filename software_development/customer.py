@@ -29,8 +29,8 @@ class Customer:
             ValueError("Customer ID must have exactly eight characters") 
 
         try: 
-            int(self.cust_id[0]) == True   
-        except Exception as err:  
+            int(self.cust_id[0]) is True   
+        except Exception:  
             raise TypeError('First character of CustID should be numeric') from None
         
     #### setter functions go here 
