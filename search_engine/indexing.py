@@ -17,7 +17,7 @@ import time
 import numpy as np
 import ray
 from bs4 import BeautifulSoup as Soup
-from langchain import FAISS
+from langchain.vectorstores import FAISS
 from langchain.document_loaders import RecursiveUrlLoader
 from langchain.embeddings import OpenAIEmbeddings
 from langchain.schema import Document
@@ -109,5 +109,5 @@ if __name__ == "__main__":
     print(f"Completed in {et} seconds.")
     """
     Starting indexing process.
-    Completed in 30.39633297920227 seconds.
+    Completed in 39.936267137527466 seconds.
     """

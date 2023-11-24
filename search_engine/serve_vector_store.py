@@ -4,12 +4,15 @@ Building a vector store fast.
 
 Adapted from open_source_LLM_search_engine:
 https://github.com/ray-project/langchain-ray/
+
+You can run this from the terminal in the search_engine directory like this:
+> PYTHONPATH=../ python serve_vector_store.py
 """
 import time
 
 import requests
 from fastapi import FastAPI
-from langchain import FAISS
+from langchain.vectorstores import FAISS
 from ray import serve
 
 from config import set_environment
@@ -21,7 +24,7 @@ set_environment()
 app = FastAPI()
 
 
-@serve.deployment(route_prefix="/")
+@serve.deployment()
 @serve.ingress(app)
 class VectorSearchDeployment:
     def __init__(self):
@@ -46,11 +49,12 @@ class VectorSearchDeployment:
         return retval
 
 
+deployment = VectorSearchDeployment.bind()
+serve.run(deployment)
+
 if __name__ == "__main__":
     # using bind() instead of remote()
     # this will ready the dag, but not execute it yet.
-    app = VectorSearchDeployment.bind()
-    serve.run(app)
     print(requests.get(
         "http://localhost:8000/search",
         params={
@@ -58,3 +62,4 @@ if __name__ == "__main__":
                      " and how can they help with large language models (LLMs)?"
         }
     ).json())
+    input("Press Enter to shut down the server...")
