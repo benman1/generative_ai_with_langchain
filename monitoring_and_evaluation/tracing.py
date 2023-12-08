@@ -1,10 +1,8 @@
 """Tracing of agent calls and intermediate results."""
 import subprocess
 
-from langchain.agents.openai_functions_agent.base import _FunctionsAgentAction
 from langchain.chat_models import ChatOpenAI
-from langchain.schema import AIMessage
-from langchain.tools import tool
+from langchain.tools import StructuredTool
 from langchain.agents import AgentType, initialize_agent
 
 from pydantic import HttpUrl
@@ -13,7 +11,7 @@ from config import set_environment
 
 set_environment()
 
-@tool
+
 def ping(url: HttpUrl, return_error: bool) -> str:
     """Ping the fully specified url. Must include https:// in the url."""
     hostname = urlparse(str(url)).netloc
@@ -26,10 +24,14 @@ def ping(url: HttpUrl, return_error: bool) -> str:
     return output
 
 
+# alternatively annotate the ping() function with @tool
+ping_tool = StructuredTool.from_function(ping)
+
+
 llm = ChatOpenAI(model="gpt-3.5-turbo-0613", temperature=0)
 agent = initialize_agent(
     llm=llm,
-    tools=[ping],
+    tools=[ping_tool],
     agent=AgentType.OPENAI_MULTI_FUNCTIONS,
     return_intermediate_steps=True,  # IMPORTANT!
 )
