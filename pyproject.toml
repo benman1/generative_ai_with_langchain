@@ -9,6 +9,9 @@ readme = "README.md"
 repository = "https://github.com/benman1/generative_ai_with_langchain"
 keywords = ["llms", "langchain", "ai", "chatgpt", "gpt", "openai", "huggingface"]
 
+[pylint.FORMAT]
+max-line-length = 120
+
 [tool.poetry.dependencies]
 python = "^3.10"
 jupyter="^1.0.0"
