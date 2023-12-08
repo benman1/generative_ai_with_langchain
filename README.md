@@ -63,6 +63,11 @@ poetry install
 This should take the `pyproject.toml` file and install all dependencies.
 
 ## Code validation
+I've included a `Makefile` that includes instructions for validation with flake8, mypy, and other tools. I have run mypy like this:
+```bash
+make typecheck
+```
+
 To run the code validation in ruff, please run
 ```bash
 ruff check .
