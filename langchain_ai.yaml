@@ -1,4 +1,4 @@
-langchain_ai.yamlname: langchain_ai
+name: langchain_ai
 channels:
   - defaults
 dependencies:
