@@ -12,11 +12,12 @@ st.title("👨‍💻 Chat with your CSV")
 
 st.write("Please upload your CSV file below.")
 
-data = st.file_uploader("Upload a CSV")
+data_file = st.file_uploader("Upload a CSV")
 
 query = st.text_area("Insert your query")
 
 if st.button("Submit Query", type="primary"):
-    agent = create_agent(data)
+    assert data_file is not None
+    agent = create_agent(data_file.getvalue().decode())
     response = query_agent(agent=agent, query=query)
     st.write(response)

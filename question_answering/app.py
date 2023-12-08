@@ -40,6 +40,7 @@ avatars = {"human": "user", "ai": "assistant"}
 for msg in MEMORY.chat_memory.messages:
     st.chat_message(avatars[msg.type]).write(msg.content)
 
+assert strategy is not None
 agent_chain = load_agent(tool_names=tool_names, strategy=strategy)
 
 assistant = st.chat_message("assistant")

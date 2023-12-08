@@ -65,7 +65,7 @@ def load_document(temp_filepath: str) -> list[Document]:
             f"Invalid extension type {ext}, cannot load this type of file"
         )
 
-    loader = loader(temp_filepath)
-    docs = loader.load()
+    loaded = loader(temp_filepath)
+    docs = loaded.load()
     logging.info(docs)
     return docs

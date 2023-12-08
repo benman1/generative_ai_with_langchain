@@ -68,5 +68,5 @@ def parse_cv(pdf_file_path: str) -> str:
 
 if __name__ == "__main__":
     print(parse_cv(
-        "openresume-resume.pdf"
+        pdf_file_path="openresume-resume.pdf"
     ))

@@ -2,7 +2,7 @@
 
 from langchain import LLMChain, OpenAI, PromptTemplate
 from langchain.agents import Tool
-from langchain.tools import DuckDuckGoSearchResults
+from langchain.tools import DuckDuckGoSearchResults, BaseTool
 from langchain_experimental.plan_and_execute import (
     PlanAndExecute,
     load_agent_executor,
@@ -58,7 +58,7 @@ planner_tool = Tool(
     )
 )
 ddg_search = DuckDuckGoSearchResults()
-tools = [
+tools: list[BaseTool] = [
     code_tool,
     Tool(
         name="DDGSearch",
