@@ -6,7 +6,7 @@ dependencies:
   - ca-certificates
   - libffi=3.4.4
   - ncurses=6.4
-  - openssl=3.0.9
+  - openssl
   - python=3.10.12
   - readline=8.2
   - sqlite=3.41.2
