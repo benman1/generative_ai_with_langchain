@@ -73,6 +73,23 @@ To run the code validation in ruff, please run
 ruff check .
 ```
 
+## Setting API keys
+Following best practices regarding safety, I am not committing my credentials to GitHub. You might see `import` statements  mentioning a `config.py` file, which is not included in the repository. This module has a method `set_environment()` that sets all the keys as environment variables like this:
+
+Example config.py:
+
+```python
+import os
+
+def set_environment():
+     os.environ['OPENAI_API_KEY']='your-api-key-here'
+```
+
+Obviously, you'd put your API credentials here. Depending on the integration (Openai, Azure, etc) you need to add the corresponding API keys. The OpenAI API keys are the most often used across all the code. 
+
+You can find more details about API credentials and setup in chapter 3 of the book [Generative AI with LangChain](https://www.amazon.com/Generative-AI-LangChain-language-ChatGPT-ebook/dp/B0CBBL55PQ).
+
+
 ## Contributing
 
 If you find anything amiss with the notebooks or dependencies, please feel free to create a pull request.
