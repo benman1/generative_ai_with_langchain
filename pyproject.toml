@@ -41,7 +41,7 @@ google-api-python-client="^2.94.0"
 pip="^23.1.2"
 apify-client="^1.4.0"
 chromadb="^0.4.8"
-lanarky="^0.7.13"
+lanarky="0.8.3"
 ray = { version = ">=2.6.3", extras = ["serve"] }
 
 faiss-cpu="^1.7.4"
