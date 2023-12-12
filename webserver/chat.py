@@ -2,7 +2,6 @@
 Adapted from https://github.com/ajndkr/lanarky/blob/main/examples/app/conversation_chain.py
 """
 from fastapi import FastAPI
-from lanarky.testing import mount_gradio_app
 from langchain import ConversationChain
 from langchain.chat_models import ChatOpenAI
 
@@ -14,6 +13,7 @@ from config import set_environment
 
 set_environment()
 
+app = FastAPI()
 
 def create_chain():
     return ConversationChain(
@@ -25,7 +25,6 @@ def create_chain():
     )
 
 
-app = mount_gradio_app(FastAPI(title="ConversationChainDemo"))
 templates = Jinja2Templates(directory="webserver/templates")
 chain = create_chain()
 
