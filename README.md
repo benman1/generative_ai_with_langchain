@@ -1,6 +1,10 @@
 # Generative AI with LangChain, First Edition
 This is the code repository for [Generative AI with LangChain, First Edition](https://www.packtpub.com/product/generative-ai-with-langchain/9781835083468), published by Packt.
 
+<a href="https://www.packtpub.com/product/generative-ai-with-langchain/9781835083468">
+<img src="https://content.packt.com/B21269/cover_image_small.png" alt="Learn PostgreSQL - second edition" height="256px" align="right">
+</a>
+
 **Build large language model (LLM) apps with Python, ChatGPT, and other LLMs**
 
 The authors of this book are -[Ben Auffarth](https://www.linkedin.com/in/ben-auffarth/?originalSubdomain=uk)
