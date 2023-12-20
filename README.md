@@ -30,7 +30,7 @@ Unlock the full potential of LLMs within your projects as you navigate through g
 
 ## Outline and Chapter Summary
 
-This new edition will teach you how to use the most recent Keycloak distribution. Recent Keycloak versions are now based on Quarkus, which delivers a new and enhanced user experience as well as a new admin console with a greater emphasis on usability. You will see how to use Spring Security while utilizing the most recent Keycloak release. You will learn about the new Keycloak distribution and best practices for using OAuth. Finally, you'll go through general best practices and other tips for protecting your applications.
+This book is a comprehensive introduction to LLMs and LangChain, demystifying the basic mechanics of LangChain, its functionalities, and the myriad of applications it can be integrated into.
 
 
 1. What Is Generative AI
