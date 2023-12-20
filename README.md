@@ -7,7 +7,7 @@ This is the code repository for [Generative AI with LangChain, First Edition](ht
 
 **Build large language model (LLM) apps with Python, ChatGPT, and other LLMs**
 
-The authors of this book are -[Ben Auffarth](https://www.linkedin.com/in/ben-auffarth/?originalSubdomain=uk)
+The author of this book is - [Ben Auffarth](https://www.linkedin.com/in/ben-auffarth/?originalSubdomain=uk)
 ## About the book
 
 ChatGPT and the GPT models by OpenAI have brought about a revolution not only in how we write and research but also in how we can process information. This book discusses the functioning, capabilities, and limitations of LLMs underlying chat systems, including ChatGPT and Bard. It also demonstrates, in a series of practical examples, how to use the LangChain framework to build production-ready and responsive LLM applications for tasks ranging from customer support to software development assistance and data analysis – illustrating the expansive utility of LLMs in real-world applications.
