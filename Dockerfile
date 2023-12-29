@@ -23,4 +23,4 @@ RUN conda env update --name base --file langchain_ai.yaml -vv
 WORKDIR /home
 
 EXPOSE 8080
-ENTRYPOINT ["conda", "run", "-n", "base", "jupyter", "notebook", "--ip=0.0.0.0", "--allow-root", "--NotebookApp.token=''", "--NotebookApp.password=''"]
+ENTRYPOINT ["conda", "run", "-n", "base", "jupyter", "notebook", "--notebook-dir=/notebooks", "--ip=0.0.0.0", "--allow-root", "--NotebookApp.token=''", "--NotebookApp.password=''"]

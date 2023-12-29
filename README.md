@@ -58,11 +58,11 @@ export PIP_DEFAULT_TIMEOUT=100
 There's a [docker](https://www.docker.com/) file for the environment as well. It uses the docker environment and starts an ipython notebook. To use it, first build it, and then run it:
 
 ```bash
-docker build -t new_image .
-docker run -it new_image
+docker build -t langchain_ai .
+docker run -d -p 8888:8888 langchain_ai
 ```
 
-You should be able to find the notebook in your browser at [http://localhost:8080](http://localhost:8080).
+You should be able to find the notebook in your browser at [http://localhost:8888](http://localhost:8888).
 
 ### Poetry
 
