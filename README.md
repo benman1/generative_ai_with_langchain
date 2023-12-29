@@ -8,6 +8,120 @@ This is the code repository for [Generative AI with LangChain, First Edition](ht
 **Build large language model (LLM) apps with Python, ChatGPT, and other LLMs**
 
 The author of this book is - [Ben Auffarth](https://www.linkedin.com/in/ben-auffarth/?originalSubdomain=uk)
+
+# Working with this repository
+This is the companion repository for the book. Here are a few instructions that help getting set up. Please also see chapter 3. 
+
+## Environment
+You can install your local environment with conda (recommended) or pip. The environment configurations for conda and pip are provided. Please note that if you choose pip as you installation tool, you might need additional tweaking.
+
+If you have any problems with the environment, please raise an issue, where you show the error you got. If you feel confident, please go ahead and create a pull request.
+
+For pip and poetry, make sure you install pandoc in your system. On MacOS use brew:
+```bash
+brew install pandoc
+```
+
+On Ubuntu or Debian linux, use apt:
+```bash
+sudo apt-get install pandoc
+```
+
+On Windows, you can use an [installer](https://github.com/jgm/pandoc/releases/latest).
+
+### Conda
+This is the recommended method for installing dependencies. Please make sure you have [anaconda](https://www.anaconda.com/download) installed.
+
+First create the environment for the book that contains all the dependencies:
+```bash
+conda env create --file langchain_ai.yaml --force
+```
+
+The conda environment is called `langchain_ai`. You can activate it as follows:
+```bash
+conda activate langchain_ai 
+```
+
+### Pip
+[Pip](https://pypi.org/project/pip/) is the default dependency management tool in Python. With pip, you should be able to install all the libraries from the requirements file:
+
+```bash
+pip install -r requirements.txt
+```
+
+If you are working with a slow internet connection, you might see a timeout with pip (this can also happen with conda and pip). As a workaround, you can increase the timeout setting like this:
+```bash
+export PIP_DEFAULT_TIMEOUT=100
+```
+
+### Docker
+There's a [docker](https://www.docker.com/) file for the environment as well. It uses the docker environment and starts an ipython notebook. To use it, first build it, and then run it:
+
+```bash
+docker build -t new_image .
+docker run -it new_image
+```
+
+You should be able to find the notebook in your browser at [http://localhost:8080](http://localhost:8080).
+
+### Poetry
+
+Make sure you have [poetry](https://python-poetry.org/) installed. On Linux and MacOS, you should be able to use the requirements file:
+```bash
+poetry install
+```
+This should take the `pyproject.toml` file and install all dependencies.
+
+## Code validation
+I've included a `Makefile` that includes instructions for validation with flake8, mypy, and other tools. I have run mypy like this:
+```bash
+make typecheck
+```
+
+To run the code validation in ruff, please run
+```bash
+ruff check .
+```
+
+## Setting API keys
+Following best practices regarding safety, I am not committing my credentials to GitHub. You might see `import` statements  mentioning a `config.py` file, which is not included in the repository. This module has a method `set_environment()` that sets all the keys as environment variables like this:
+
+Example config.py:
+
+```python
+import os
+
+def set_environment():
+     os.environ['OPENAI_API_KEY']='your-api-key-here'
+```
+
+Obviously, you'd put your API credentials here. Depending on the integration (Openai, Azure, etc) you need to add the corresponding API keys. The OpenAI API keys are the most often used across all the code. 
+
+You can find more details about API credentials and setup in chapter 3 of the book [Generative AI with LangChain](https://www.amazon.com/Generative-AI-LangChain-language-ChatGPT-ebook/dp/B0CBBL55PQ).
+
+
+## Contributing
+
+If you find anything amiss with the notebooks or dependencies, please feel free to create a pull request.
+
+If you want to change the conda dependency specification (the yaml file), you can test it like this:
+```bash
+conda env create --file langchain_ai.yaml --force
+```
+
+You can update the pip requirements like this:
+```bash
+pip freeze > requirements.txt
+```
+
+Please make sure that you keep these two ways of maintaining dependencies in sync.
+
+Then make sure, you test the notebooks in the new environment to see that they run.
+
+
+# Generative AI with LangChain 
+Create generative AI apps with LangChain.
+
 ## About the book
 
 ChatGPT and the GPT models by OpenAI have brought about a revolution not only in how we write and research but also in how we can process information. This book discusses the functioning, capabilities, and limitations of LLMs underlying chat systems, including ChatGPT and Bard. It also demonstrates, in a series of practical examples, how to use the LangChain framework to build production-ready and responsive LLM applications for tasks ranging from customer support to software development assistance and data analysis – illustrating the expansive utility of LLMs in real-world applications.
