@@ -12,6 +12,14 @@ The author of this book is - [Ben Auffarth](https://www.linkedin.com/in/ben-auff
 # Working with this repository
 This is the companion repository for the book. Here are a few instructions that help getting set up. Please also see chapter 3. 
 
+All chapters rely on Python. 
+
+## Software and hardware list
+
+| Chapter | Software required    | Link to the software    | Hardware specifications    | OS required    |
+|:---:  |:---:  |:---:  |:---:  |:---:  |
+| All chapters  | Python 3.10+  | [https://www.python.org/downloads/](https://www.python.org/downloads/) | Should work on any recent computer | Windows, MacOS, Linux (any), macOS, Windows |
+
 ## Environment
 You can install your local environment with conda (recommended) or pip. The environment configurations for conda and pip are provided. Please note that if you choose pip as you installation tool, you might need additional tweaking.
 
@@ -314,17 +322,6 @@ The focus then shifts to the economic consequences and societal implications of 
 
 
 > If you feel this book is for you, get your [copy](https://www.amazon.com/Generative-AI-LangChain-language-ChatGPT/dp/1835083463/ref=sr_1_2?crid=2XYQSRSV1SUSF&keywords=Langchain&qid=1703044611&sprefix=langchain%2Caps%2C552&sr=8-2) today! <img alt="Coding" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
-
-
-With the following software and hardware list you can run all code files present in the book (Chapter number mention here).
-
-## Software and hardware list
-
-| Chapter | Software required    | Link to the software    | Hardware specifications    | OS required    |
-|:---:  |:---:  |:---:  |:---:  |:---:  |
-| All chapters  | Python 3.10+  | [https://www.python.org/downloads/](https://www.python.org/downloads/) | Should work on any recent computer | Windows, MacOS, Linux (any), macOS, Windows |
-
-
 
 ## Know more on the Discord server <img alt="Coding" height="25" width="32"  src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif">
 You can get more engaged on the discord server for more latest updates and discussions in the community at [Discord](https://packt.link/lang)
