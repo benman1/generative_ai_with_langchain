@@ -18,7 +18,9 @@ All chapters rely on Python.
 
 | Chapter | Software required    | Link to the software    | Hardware specifications    | OS required    |
 |:---:  |:---:  |:---:  |:---:  |:---:  |
-| All chapters  | Python 3.10+  | [https://www.python.org/downloads/](https://www.python.org/downloads/) | Should work on any recent computer | Windows, MacOS, Linux (any), macOS, Windows |
+| All chapters  | Python 3.10/3.11  | [https://www.python.org/downloads/](https://www.python.org/downloads/) | Should work on any recent computer | Windows, MacOS, Linux (any), macOS, Windows |
+
+Please note that Python 3.12 might not work (see [#11](/../../issues/11)).
 
 ## Environment
 You can install your local environment with conda (recommended) or pip. The environment configurations for conda and pip are provided. Please note that if you choose pip as you installation tool, you might need additional tweaking.
