@@ -1,13 +1,25 @@
 # Generative AI with LangChain, First Edition
-This is the code repository for [Generative AI with LangChain, First Edition](https://www.packtpub.com/product/generative-ai-with-langchain/9781835083468), published by Packt.
+Build large language model (LLM) apps with Python, ChatGPT, and other LLMs!
+
+This is the code repository for [Generative AI with LangChain, First Edition](https://www.packtpub.com/product/generative-ai-with-langchain/9781835083468), written by [Ben Auffarth](https://www.linkedin.com/in/ben-auffarth/?originalSubdomain=uk) and published by Packt. 
 
 <a href="https://www.packtpub.com/product/generative-ai-with-langchain/9781835083468">
-<img src="https://content.packt.com/B21269/cover_image_small.png" alt="Learn PostgreSQL - second edition" height="256px" align="right">
+<img src="https://content.packt.com/B21269/cover_image_small.png" alt="Generative AI with LangChain - first edition" height="256px" align="right">
 </a>
 
-**Build large language model (LLM) apps with Python, ChatGPT, and other LLMs**
+## Note to Readers
+Thank you for choosing "Generative AI with LangChain"! We appreciate your enthusiasm and feedback.
 
-The author of this book is - [Ben Auffarth](https://www.linkedin.com/in/ben-auffarth/?originalSubdomain=uk)
+<b>Code Updates: </b> 
+Our commitment is to provide you with stable and valuable code examples. While LangChain is known for frequent updates, we understand the importance of aligning our code with the latest changes. The companion repository is regularly updated to harmonize with LangChain developments. </b>
+
+<b>Expect Stability:</b>
+For stability and usability, the repository might not match every minor LangChain update. We aim for consistency and reliability to ensure a seamless experience for our readers. 
+
+<b>How to Reach Us:</b>
+Encountering issues or have suggestions? Please don't hesitate to open an issue, and we'll promptly address it. Your feedback is invaluable, and we're here to support you in your journey with LangChain.
+
+Thank you for your understanding and happy coding!
 
 # Working with this repository
 This is the companion repository for the book. Here are a few instructions that help getting set up. Please also see chapter 3. 
@@ -339,7 +351,6 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ## Get to know the Author
 _Ben Auffarth_ A seasoned data science leader with a background and Ph.D. in computational neuroscience. Ben has analyzed terabytes of data, simulated brain activity on supercomputers with up to 64k cores, designed and conducted wet lab experiments, built production systems processing underwriting applications, and trained neural networks on millions of documents. He’s the author of the books Machine Learning for Time Series and Artificial Intelligence with Python
 Cookbook. He now works in insurance at Hastings Direct.
-
 
 ## Other Related Books
 - [Transformers for Natural Language Processing and Computer Vision](https://www.packtpub.com/product/transformers-for-natural-language-processing-and-computer-vision-third-edition/9781805128724)
