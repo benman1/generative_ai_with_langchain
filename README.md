@@ -90,7 +90,7 @@ You should be able to find the notebook in your browser at [http://localhost:888
 
 Make sure you have [poetry](https://python-poetry.org/) installed. On Linux and MacOS, you should be able to use the requirements file:
 ```bash
-poetry install
+poetry install --no-root
 ```
 This should take the `pyproject.toml` file and install all dependencies.
 
