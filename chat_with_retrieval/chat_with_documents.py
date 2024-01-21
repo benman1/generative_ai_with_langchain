@@ -48,7 +48,7 @@ def configure_retriever(
     retriever = vectordb.as_retriever(
         search_type="mmr", search_kwargs={
             "k": 5,
-            "fetch_k": 4,
+            "fetch_k": 7,
             "include_metadata": True
         },
     )
