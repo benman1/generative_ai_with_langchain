@@ -3,16 +3,22 @@ FROM continuumio/miniconda3:latest
 
 ENV PIP_DEFAULT_TIMEOUT=1000
 
-RUN apt-get update && apt-get install -y wget build-essential && rm -rf /var/lib/apt/lists/*
-RUN conda update -n base -c defaults conda -y && conda --version
+RUN apt-get update && apt-get install -y pandoc wget build-essential && rm -rf /var/lib/apt/lists/*
 
 # Update the environment:
-COPY langchain_ai.yaml .
+COPY requirements.txt .
 COPY notebooks ./notebooks
-RUN python -m pip install --upgrade pip && conda clean -a && python -m pip cache purge
-RUN conda env update --name base --file langchain_ai.yaml -vv
+
+# I was sometimes running into errors with hashes:
+RUN python -m pip install --upgrade pip && pip cache purge 
+
+# This is to avoid getting the GPU torch version. Please remove the index option, if you have a GPU:
+RUN pip install torch>=1.11.0 --extra-index-url https://download.pytorch.org/whl/cpu
+
+# Avoid any hash conflicts and extra time compiling:
+RUN pip install --prefer-binary --no-cache-dir -r requirements.txt
 
 WORKDIR /home
 
 EXPOSE 8888
-ENTRYPOINT ["conda", "run", "-n", "base", "jupyter", "notebook", "--notebook-dir=/notebooks", "--ip=0.0.0.0", "--allow-root", "--NotebookApp.token=''", "--NotebookApp.password=''"]
+ENTRYPOINT ["jupyter", "notebook", "--notebook-dir=/notebooks", "--ip=0.0.0.0", "--allow-root", "--NotebookApp.token=''", "--NotebookApp.password=''"]
