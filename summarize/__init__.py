@@ -101,7 +101,7 @@ def create_pdf_summary(pdf_file):
         pdf_file_path=pdf_file
     )
     # write output:
-    with open(output_file, "w") as f:
+    with open(output_file, "w", encoding="utf-8") as f:
         f.write(summary)
 
     LOGGING.info(summary)
