@@ -18,6 +18,6 @@ query = st.text_area("Insert your query")
 
 if st.button("Submit Query", type="primary"):
     assert data_file is not None
-    agent = create_agent(data_file.getvalue().decode())
+    agent = create_agent(data_file)
     response = query_agent(agent=agent, query=query)
     st.write(response)
