@@ -21,6 +21,16 @@ Encountering issues or have suggestions? Please don't hesitate to open an issue,
 
 Thank you for your understanding and happy coding!
 
+## LangChain version
+This repository is pinned to version 0.0.284, and - as mentioned earlier - there've been a few changes in the meantime. Important to note is that the default model in OpenAI LLMs and Chat models for this version is "gpt-3.5-turbo". You can simply pass the the `model` parameter (in later LC versions model_name) with your desired version, like so:
+
+```python
+ConversationChain(llm=ChatOpenAI(model_name="gpt-4-0125-preview"))
+```
+
+Check out OpenAI's model documentation for a full list of models and updates, for example here: https://platform.openai.com/docs/models/gpt-4-and-gpt-4-turbo 
+
+
 # Working with this repository
 This is the companion repository for the book. Here are a few instructions that help getting set up. Please also see chapter 3. 
 
@@ -35,9 +45,9 @@ All chapters rely on Python.
 Please note that Python 3.12 might not work (see [#11](/../../issues/11)).
 
 ## Environment
-You can install your local environment with conda (recommended) or pip. The environment configurations for conda and pip are provided. Please note that if you choose pip as you installation tool, you might need additional tweaking.
+You can install your local environment with conda (recommended) or pip. The environment configurations for conda and pip are provided. Please note that if you choose pip as you installation tool, you might need additional tweaking. 
 
-If you have any problems with the environment, please raise an issue, where you show the error you got. If you feel confident, please go ahead and create a pull request.
+On Windows, some people have been experiencing difficulties with conda and pip (because of readline and ncurses). If that's the case for you, please have a look at WSL or use the Docker installation. If you have any problems with the environment, please raise an issue, where you show the error you got. If you feel confident, please go ahead and create a pull request.
 
 For pip and poetry, make sure you install pandoc in your system. On MacOS use brew:
 ```bash
