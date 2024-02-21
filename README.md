@@ -22,7 +22,7 @@ Encountering issues or have suggestions? Please don't hesitate to open an issue,
 Thank you for your understanding and happy coding!
 
 ## LangChain version
-This repository is pinned to version 0.0.284, and - as mentioned earlier - there've been a few changes in the meantime. Important to note is that the default model in OpenAI LLMs and Chat models for this version is "gpt-3.5-turbo". You can simply pass the the `model` parameter (in later LC versions model_name) with your desired version, like so:
+This repository is pinned to version 0.0.284, and - as mentioned earlier - there've been a few changes in the meantime. Important to note is that the default model in OpenAI LLMs and Chat models for this version is "gpt-3.5-turbo". If you want to use a different model, you can simply pass the the `model_name` parameter with your desired version, like so:
 
 ```python
 ConversationChain(llm=ChatOpenAI(model_name="gpt-4-0125-preview"))
