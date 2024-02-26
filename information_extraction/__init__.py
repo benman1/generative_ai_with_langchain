@@ -61,7 +61,7 @@ def parse_cv(pdf_file_path: str) -> str:
     pdf_loader = PyPDFLoader(pdf_file_path)
     docs = pdf_loader.load_and_split()
     # please note that function calling is not enabled for all models!
-    llm = ChatOpenAI(model_name="gpt-3.5-turbo-0613")
+    llm = ChatOpenAI(model_name="gpt-3.5-turbo")
     chain = create_extraction_chain_pydantic(pydantic_schema=Resume, llm=llm)
     return chain.run(docs)
 
