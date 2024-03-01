@@ -1,8 +1,8 @@
 jupyter>=1.0.0
 jupyterlab
 langchain[docarray]==0.0.284
-langchain_experimental
-langsmith>=0.0.65
+langchain_experimental==0.0.25
+langsmith==0.0.65
 huggingface_hub>=0.14.1
 openai==0.28.1
 google-cloud-aiplatform>=1.26.0
