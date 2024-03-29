@@ -7,46 +7,17 @@ authors = [
 ]
 readme = "README.md"
 repository = "https://github.com/benman1/generative_ai_with_langchain"
-keywords = ["llms", "langchain", "ai", "chatgpt", "gpt", "openai", "huggingface"]
+keywords = ["llms", "langchain", "ai", "chatgpt", "gpt", "openai", "huggingface" "claude3", "claude", "gemini"]
+dynamic = ["dependencies"]
 
 [pylint.FORMAT]
 max-line-length = 120
 
-[tool.poetry.dependencies]
-python = "^3.10"
-jupyter="^1.0.0"
-jupyterlab="4.0.2"
-langchain = { version = "0.0.284", extras = ["docarray"] }
-langchain_experimental="*"
-langsmith="^0.0.65"
-huggingface_hub="^0.14.1"
-openai="0.28.1"
-google-cloud-aiplatform="^1.26.0"
-replicate="^0.8.4"
-google-generativeai="0.1.0"
-ruff="^0.0.278"
-pypdf="^3.12.2"
-tiktoken="^0.4.0"
-duckduckgo_search="^3.8.4"
-streamlit="^1.24.1"
-arxiv="^1.4.8"
-wikipedia="^1.4.0"
-wolframalpha="^5.0.0"
-unstructured="^0.8.1"
-pandoc="^1.1.0"  # needs system install as well!
-sentence-transformers="^2.2.2"
-gradio="^3.38.0"
-gpt4all="^1.0.6"
-google-api-python-client="^2.94.0"
-pip="^23.1.2"
-apify-client="^1.4.0"
-chromadb="^0.4.8"
-lanarky="0.7.16"
-ray = { version = ">=2.6.3", extras = ["serve"] }
+[tool.setuptools.dynamic]
+dependencies = {file = ["requirements.txt"]}
 
-faiss-cpu="^1.7.4"
-promptwatch="^0.2.9"
-langchain_decorators="^0.2.3"
+[tool.poetry.dependencies]
+python = "^3.11"
 
 [tool.ruff]
 select = [
