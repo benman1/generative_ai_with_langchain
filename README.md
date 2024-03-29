@@ -10,6 +10,12 @@ This is the code repository for [Generative AI with LangChain, First Edition](ht
 ## Note to Readers
 Thank you for choosing "Generative AI with LangChain"! We appreciate your enthusiasm and feedback.
 
+Please note that we've released an updated version of the book. Consequently, there are two different branches for this repository: 
+* [main](https://github.com/benman1/generative_ai_with_langchain/tree/main) - this is the original version of the book.
+* [softupdate](https://github.com/benman1/generative_ai_with_langchain/tree/softupdate) - this is for the latest update of the book, corresponding to ver 0.1.13 of LangChain.
+
+Please refer to the version that you are interested in or that corresponds to your version of the book.
+
 <b>Code Updates: </b> 
 Our commitment is to provide you with stable and valuable code examples. While LangChain is known for frequent updates, we understand the importance of aligning our code with the latest changes. The companion repository is regularly updated to harmonize with LangChain developments. </b>
 
