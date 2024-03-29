@@ -16,6 +16,7 @@ venv/
 wheels/
 *.egg
 .ruff_cache
+.mypy_cache.
 search_engine/faiss_index.db/
 
 # IDEs
@@ -33,3 +34,4 @@ __pycache__/
 
 # Logs
 logs/
+*.log
