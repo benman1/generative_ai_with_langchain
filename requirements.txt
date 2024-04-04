@@ -6,9 +6,12 @@ langserve[all]==0.0.51
 langchain-cli==0.0.21
 langchain_decorators==0.5.4
 huggingface_hub==0.22.1
-openai==1.14.3
+langchain_openai==0.1.1
+langchain-google-genai==1.0.1
+langchain_anthropic==0.1.4
 google-cloud-aiplatform==1.45.0
 google-generativeai==0.4.1
+langchain_google_vertexai==0.1.2
 replicate==0.25.1
 ruff==0.3.4
 pypdf==4.1.0
@@ -21,6 +24,7 @@ wolframalpha==5.0.0
 unstructured==0.12.6
 pandoc==1.1.0  # needs system install as well!
 sentence-transformers==2.6.1
+accelerate==0.28.0
 gradio==3.50.2
 gpt4all==2.3.2
 google-api-python-client==2.124.0
