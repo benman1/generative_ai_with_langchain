@@ -7,14 +7,14 @@ import logging
 import pathlib
 from typing import Any
 
-from langchain.document_loaders import (
+from langchain.memory import ConversationBufferMemory
+from langchain.schema import Document
+from langchain_community.document_loaders import (
     PyPDFLoader,
     TextLoader,
     UnstructuredEPubLoader,
     UnstructuredWordDocumentLoader,
 )
-from langchain.memory import ConversationBufferMemory
-from langchain.schema import Document
 
 
 def init_memory():
@@ -28,7 +28,6 @@ def init_memory():
         return_messages=True,
         output_key='answer'
     )
-
 
 MEMORY = init_memory()
 
@@ -49,7 +48,7 @@ class DocumentLoader(object):
         ".txt": TextLoader,
         ".epub": EpubReader,
         ".docx": UnstructuredWordDocumentLoader,
-        ".doc": UnstructuredWordDocumentLoader
+        ".doc": UnstructuredWordDocumentLoader,
     }
 
 
@@ -58,7 +57,7 @@ def load_document(temp_filepath: str) -> list[Document]:
 
     Doesn't handle a lot of errors at the moment.
     """
-    ext = pathlib.Path(temp_filepath).suffix
+    ext = pathlib.Path(temp_filepath).suffix.lower()
     loader = DocumentLoader.supported_extensions.get(ext)
     if not loader:
         raise DocumentLoaderException(

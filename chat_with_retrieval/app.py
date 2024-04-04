@@ -56,11 +56,16 @@ if user_query := st.chat_input(placeholder="Give me 3 keywords for what you have
     container = st.empty()
     stream_handler = StreamlitCallbackHandler(container)
     with st.chat_message("assistant"):
-        response = CONV_CHAIN.run({
+        params = {
             "question": user_query,
             "chat_history": MEMORY.chat_memory.messages
-        }, callbacks=[stream_handler]
-        )
+        }
+        if use_flare:
+            params = {"user_input": user_query}
+        config = {'callbacks': [stream_handler]}
+        response = CONV_CHAIN.invoke(input=params, config=config)
+        output_key = 'response' if use_flare else 'answer'
+
         # Display the response from the chatbot
         if response:
-            container.markdown(response)
+            container.markdown(response[output_key])
