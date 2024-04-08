@@ -2,6 +2,7 @@ jupyter==1.0.0
 jupyterlab==4.1.5
 langchain[docarray]==0.1.13
 langchain_experimental==0.0.55
+langchainhub==0.1.15
 langserve[all]==0.0.51
 langchain-cli==0.0.21
 langchain_decorators==0.5.4
@@ -21,6 +22,7 @@ streamlit==1.32.2
 arxiv==2.1.0
 wikipedia==1.4.0
 wolframalpha==5.0.0
+numexpr==2.10.0
 unstructured==0.12.6
 pandoc==1.1.0  # needs system install as well!
 sentence-transformers==2.6.1
