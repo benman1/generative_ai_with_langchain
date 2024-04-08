@@ -1,17 +1,19 @@
 from typing import Literal
 
-from langchain.agents import initialize_agent, load_tools, AgentType
+from langchain import hub
+from langchain.agents import create_react_agent, AgentExecutor
 from langchain.chains.base import Chain
-from langchain.chat_models import ChatOpenAI
+from langchain_openai import ChatOpenAI
 from langchain_experimental.plan_and_execute import (
     load_chat_planner, load_agent_executor, PlanAndExecute
 )
 from config import set_environment
-
+from question_answering.tool_loader import load_tools
 
 set_environment()
 
 ReasoningStrategies = Literal["zero-shot-react", "plan-and-solve"]
+
 
 def load_agent(
         tool_names: list[str],
@@ -27,6 +29,7 @@ def load_agent(
         executor = load_agent_executor(llm, tools, verbose=True)
         return PlanAndExecute(planner=planner, executor=executor, verbose=True)
 
-    return initialize_agent(
-        tools=tools, llm=llm, agent=AgentType.ZERO_SHOT_REACT_DESCRIPTION, verbose=True
+    prompt = hub.pull("hwchase17/react")
+    return AgentExecutor(
+        agent=create_react_agent(llm=llm, tools=tools, prompt=prompt), tools=tools
     )

@@ -8,12 +8,14 @@ Run locally as follows:
 
 Alternatively, you can deploy this on the Streamlit Community Cloud
 or on Hugging Face Spaces. For Streamlit Community Cloud do this:
-1. Create a github repo
+1. Create a GitHub repo
 2. Go to Streamlit Community Cloud, click on "New app" and select the new repo
 3. Click "Deploy!"
 """
 import streamlit as st
-from langchain.callbacks import StreamlitCallbackHandler
+from langchain_community.callbacks.streamlit import (
+    StreamlitCallbackHandler,
+)
 
 from question_answering.agent import load_agent
 from question_answering.utils import MEMORY
@@ -28,9 +30,9 @@ strategy = st.radio(
 tool_names = st.multiselect(
     'Which tools do you want to use?',
     [
-        "google-search", "ddg-search", "wolfram-alpha", "arxiv",
-        "wikipedia", "python_repl", "pal-math",
-        "llm-math"
+        "critical_search", "llm-math", "python_repl",
+        "wikipedia", "arxiv", "google-search",
+        "wolfram-alpha", "ddg-search"
     ],
     ["ddg-search", "wolfram-alpha", "wikipedia"])
 if st.sidebar.button("Clear message history"):
@@ -43,13 +45,12 @@ for msg in MEMORY.chat_memory.messages:
 assert strategy is not None
 agent_chain = load_agent(tool_names=tool_names, strategy=strategy)
 
-assistant = st.chat_message("assistant")
+
 if prompt := st.chat_input(placeholder="Ask me anything!"):
     st.chat_message("user").write(prompt)
-    stream_handler = StreamlitCallbackHandler(assistant)
     with st.chat_message("assistant"):
-        response = agent_chain.run({
-            "input": prompt,
-            "chat_history": MEMORY.chat_memory.messages
-        }, callbacks=[stream_handler]
+        st_callback = StreamlitCallbackHandler(st.container())
+        response = agent_chain.invoke(
+            {"input": prompt}, {"callbacks": [st_callback]}
         )
+        st.write(response["output"])
