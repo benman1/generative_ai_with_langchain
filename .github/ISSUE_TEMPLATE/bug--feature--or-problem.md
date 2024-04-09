@@ -1,11 +1,12 @@
 ---
 name: Bug, feature, or problem
 about: Create a report to help improve the code
-title: 'Problem with '
+title: 'Problem with ...'
 labels: ''
 assignees: benman1
 
 ---
+Please note that the code on GitHub and the book refer to [particular versions of LangChain](https://github.com/benman1/generative_ai_with_langchain/blob/main/requirements.txt#L3). Because LC is changing so heavily, if you are using different versions the code will not work without modifications. 
 
 **Describe the problem**
 A clear and concise description of what the problem is.
