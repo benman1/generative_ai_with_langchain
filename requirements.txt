@@ -13,6 +13,7 @@ langchain_anthropic==0.1.4
 google-cloud-aiplatform==1.45.0
 google-generativeai==0.4.1
 langchain_google_vertexai==0.1.2
+langchain-cohere==0.1.1
 replicate==0.25.1
 ruff==0.3.4
 pypdf==4.1.0
@@ -35,3 +36,9 @@ chromadb==0.4.24
 lanarky==0.8.6
 faiss-cpu==1.8.0
 promptwatch==0.4.4
+pdf2image==1.17.0
+pdfminer.six==20231228
+pillow_heif==0.16.0
+opencv-python==4.9.0.80
+pikepdf==8.15.0
+pymupdf==1.24.1
