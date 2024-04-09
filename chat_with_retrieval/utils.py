@@ -7,14 +7,12 @@ import logging
 import pathlib
 from typing import Any
 
-from langchain.document_loaders import (
-    PyPDFLoader,
-    TextLoader,
-    UnstructuredEPubLoader,
-    UnstructuredWordDocumentLoader,
-)
 from langchain.memory import ConversationBufferMemory
-from langchain.schema import Document
+from langchain_community.document_loaders.epub import UnstructuredEPubLoader
+from langchain_community.document_loaders.pdf import PyPDFLoader
+from langchain_community.document_loaders.text import TextLoader
+from langchain_community.document_loaders.word_document import UnstructuredWordDocumentLoader
+from langchain_core.documents import Document
 
 
 def init_memory():

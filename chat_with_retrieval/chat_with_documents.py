@@ -3,20 +3,18 @@ import logging
 import os
 import tempfile
 
-from langchain.chains import (
-    ConversationalRetrievalChain,
-    FlareChain,
-    OpenAIModerationChain,
-    SimpleSequentialChain,
-)
 from langchain.chains.base import Chain
-from langchain.chat_models import ChatOpenAI
-from langchain.embeddings import OpenAIEmbeddings
+from langchain.chains.conversational_retrieval.base import ConversationalRetrievalChain
+from langchain.chains.flare.base import FlareChain
+from langchain.chains.moderation import OpenAIModerationChain
+from langchain.chains.sequential import SimpleSequentialChain
 from langchain.retrievers import ContextualCompressionRetriever
 from langchain.retrievers.document_compressors import EmbeddingsFilter
-from langchain.schema import BaseRetriever, Document
-from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.vectorstores import DocArrayInMemorySearch
+from langchain_community.vectorstores.docarray import DocArrayInMemorySearch
+from langchain_core.documents import Document
+from langchain_core.retrievers import BaseRetriever
+from langchain_openai import ChatOpenAI, OpenAIEmbeddings
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 from chat_with_retrieval.utils import MEMORY, load_document
 from config import set_environment
