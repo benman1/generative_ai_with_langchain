@@ -13,6 +13,10 @@ from langchain_community.document_loaders.pdf import PyPDFLoader
 from langchain_community.document_loaders.text import TextLoader
 from langchain_community.document_loaders.word_document import UnstructuredWordDocumentLoader
 from langchain_core.documents import Document
+from streamlit.logger import get_logger
+
+logging.basicConfig(encoding="utf-8", level=logging.INFO)
+LOGGER = get_logger(__name__)
 
 
 def init_memory():
@@ -27,7 +31,7 @@ def init_memory():
         output_key='answer'
     )
 
-
+LOGGER.info("init memory")
 MEMORY = init_memory()
 
 

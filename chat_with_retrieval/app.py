@@ -3,21 +3,18 @@
 Run like this:
 > PYTHONPATH=. streamlit run chat_with_retrieval/chat_with_documents.py
 """
-import logging
-
 import streamlit as st
 from streamlit.external.langchain import StreamlitCallbackHandler
 
 from chat_with_retrieval.chat_with_documents import configure_retrieval_chain
-from chat_with_retrieval.utils import MEMORY, DocumentLoader
+from chat_with_retrieval.utils import MEMORY, DocumentLoader, LOGGER
 
-logging.basicConfig(encoding="utf-8", level=logging.INFO)
-LOGGER = logging.getLogger()
-
+LOGGER.info("Show title")
 st.set_page_config(page_title="LangChain: Chat with Documents", page_icon="🦜")
 st.title("🦜 LangChain: Chat with Documents")
 
 
+LOGGER.info("Upload files")
 uploaded_files = st.sidebar.file_uploader(
     label="Upload files",
     type=list(DocumentLoader.supported_extensions.keys()),
@@ -32,6 +29,7 @@ use_compression = st.checkbox("compression", value=False)
 use_flare = st.checkbox("flare", value=False)
 use_moderation = st.checkbox("moderation", value=False)
 
+LOGGER.info("Configure chain")
 CONV_CHAIN = configure_retrieval_chain(
     uploaded_files,
     use_compression=use_compression,
@@ -39,6 +37,7 @@ CONV_CHAIN = configure_retrieval_chain(
     use_moderation=use_moderation
 )
 
+LOGGER.info("Clear button")
 if st.sidebar.button("Clear message history"):
     MEMORY.chat_memory.clear()
 
@@ -50,10 +49,11 @@ if  len(MEMORY.chat_memory.messages) == 0:
 for msg in MEMORY.chat_memory.messages:
     st.chat_message(avatars[msg.type]).write(msg.content)
 
+LOGGER.info("Chat interface")
+container = st.container()
 assistant = st.chat_message("assistant")
 if user_query := st.chat_input(placeholder="Give me 3 keywords for what you have right now"):
     st.chat_message("user").write(user_query)
-    container = st.empty()
     stream_handler = StreamlitCallbackHandler(container)
     with st.chat_message("assistant"):
         response = CONV_CHAIN.run({

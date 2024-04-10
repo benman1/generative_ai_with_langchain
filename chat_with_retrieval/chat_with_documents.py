@@ -1,5 +1,4 @@
 """Chat with retrieval and embeddings."""
-import logging
 import os
 import tempfile
 
@@ -16,19 +15,20 @@ from langchain_core.retrievers import BaseRetriever
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
-from chat_with_retrieval.utils import MEMORY, load_document
+from chat_with_retrieval.utils import MEMORY, load_document, LOGGER
 from config import set_environment
 
-logging.basicConfig(encoding="utf-8", level=logging.INFO)
-LOGGER = logging.getLogger()
+
 set_environment()
 
+LOGGER.info("setup LLM")
 # Setup LLM and QA chain; set temperature low to keep hallucinations in check
 LLM = ChatOpenAI(
     model_name="gpt-3.5-turbo", temperature=0, streaming=True
 )
 
 
+LOGGER.info("configure_retriever")
 def configure_retriever(
         docs: list[Document],
         use_compression: bool = False
@@ -108,4 +108,3 @@ def configure_retrieval_chain(
 
     moderation_chain = OpenAIModerationChain()
     return SimpleSequentialChain(chains=[chain, moderation_chain])
-
