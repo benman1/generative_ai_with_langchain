@@ -1,4 +1,5 @@
 """Chat with retrieval and embeddings."""
+
 import os
 import tempfile
 
@@ -23,16 +24,13 @@ set_environment()
 
 LOGGER.info("setup LLM")
 # Setup LLM and QA chain; set temperature low to keep hallucinations in check
-LLM = ChatOpenAI(
-    model_name="gpt-3.5-turbo", temperature=0, streaming=True
-)
+LLM = ChatOpenAI(model_name="gpt-3.5-turbo", temperature=0, streaming=True)
 
 
 LOGGER.info("configure_retriever")
-def configure_retriever(
-        docs: list[Document],
-        use_compression: bool = False
-) -> BaseRetriever:
+
+
+def configure_retriever(docs: list[Document], use_compression: bool = False) -> BaseRetriever:
     """Retriever to use."""
     # Split each document documents:
     text_splitter = RecursiveCharacterTextSplitter(chunk_size=1500, chunk_overlap=200)
@@ -44,18 +42,13 @@ def configure_retriever(
     # Create vectordb with single call to embedding model for texts:
     vectordb = DocArrayInMemorySearch.from_documents(splits, embeddings)
     retriever = vectordb.as_retriever(
-        search_type="mmr", search_kwargs={
-            "k": 5,
-            "fetch_k": 7,
-            "include_metadata": True
-        },
+        search_type="mmr",
+        search_kwargs={"k": 5, "fetch_k": 7, "include_metadata": True},
     )
     if not use_compression:
         return retriever
 
-    embeddings_filter = EmbeddingsFilter(
-        embeddings=embeddings, similarity_threshold=0.2
-    )
+    embeddings_filter = EmbeddingsFilter(embeddings=embeddings, similarity_threshold=0.2)
     return ContextualCompressionRetriever(
         base_compressor=embeddings_filter,
         base_retriever=retriever,
@@ -77,20 +70,15 @@ def configure_chain(retriever: BaseRetriever, use_flare: bool = True) -> Chain:
     )
     if use_flare:
         # different set of parameters and init
-        # unfortunately, have to use "protected" class
-        return FlareChain.from_llm(
-            **params
-        )
-    return ConversationalRetrievalChain.from_llm(
-        **params
-    )
+        return FlareChain.from_llm(**params)
+    return ConversationalRetrievalChain.from_llm(**params)
 
 
 def configure_retrieval_chain(
-        uploaded_files,
-        use_compression: bool = False,
-        use_flare: bool = False,
-        use_moderation: bool = False
+    uploaded_files,
+    use_compression: bool = False,
+    use_flare: bool = False,
+    use_moderation: bool = False,
 ) -> Chain:
     """Read documents, configure retriever, and the chain."""
     docs = []

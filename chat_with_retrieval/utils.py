@@ -3,6 +3,7 @@
 I am having some problems caching the memory and the retrieval. When
 I decorate for caching, I get streamlit init errors.
 """
+
 import logging
 import pathlib
 from typing import Any
@@ -24,12 +25,11 @@ def init_memory():
 
     We are caching this, so it won't be deleted
      every time, we restart the server.
-     """
+    """
     return ConversationBufferMemory(
-        memory_key='chat_history',
-        return_messages=True,
-        output_key='answer'
+        memory_key="chat_history", return_messages=True, output_key="answer"
     )
+
 
 LOGGER.info("init memory")
 MEMORY = init_memory()
@@ -46,12 +46,13 @@ class DocumentLoaderException(Exception):
 
 class DocumentLoader(object):
     """Loads in a document with a supported extension."""
+
     supported_extensions = {
         ".pdf": PyPDFLoader,
         ".txt": TextLoader,
         ".epub": EpubReader,
         ".docx": UnstructuredWordDocumentLoader,
-        ".doc": UnstructuredWordDocumentLoader
+        ".doc": UnstructuredWordDocumentLoader,
     }
 
 
