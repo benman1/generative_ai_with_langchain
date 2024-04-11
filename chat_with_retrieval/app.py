@@ -44,7 +44,7 @@ if st.sidebar.button("Clear message history"):
 
 avatars = {"human": "user", "ai": "assistant"}
 
-if  len(MEMORY.chat_memory.messages) == 0:
+if len(MEMORY.chat_memory.messages) == 0:
     st.chat_message("assistant").markdown("Ask me anything!")
 
 for msg in MEMORY.chat_memory.messages:
@@ -56,11 +56,16 @@ if user_query := st.chat_input(placeholder="Give me 3 keywords for what you have
     container = st.empty()
     stream_handler = StreamlitCallbackHandler(container)
     with st.chat_message("assistant"):
-        response = CONV_CHAIN.run({
-            "question": user_query,
-            "chat_history": MEMORY.chat_memory.messages
-        }, callbacks=[stream_handler]
-        )
+        if use_flare:
+            params = {
+                "user_input": user_query,
+            }
+        else:
+            params = {
+                "question": user_query,
+                "chat_history": MEMORY.chat_memory.messages,
+            }
+        response = CONV_CHAIN.run(params, callbacks=[stream_handler])
         # Display the response from the chatbot
         if response:
             container.markdown(response)
