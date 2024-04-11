@@ -7,7 +7,7 @@ from langchain.chains.base import Chain
 from langchain.chains.conversational_retrieval.base import ConversationalRetrievalChain
 from langchain.chains.flare.base import FlareChain
 from langchain.chains.moderation import OpenAIModerationChain
-from langchain.chains.sequential import SimpleSequentialChain
+from langchain.chains.sequential import SequentialChain
 from langchain.retrievers import ContextualCompressionRetriever
 from langchain.retrievers.document_compressors import EmbeddingsFilter
 from langchain_community.vectorstores.docarray import DocArrayInMemorySearch
@@ -96,5 +96,8 @@ def configure_retrieval_chain(
     if not use_moderation:
         return chain
 
-    moderation_chain = OpenAIModerationChain()
-    return SimpleSequentialChain(chains=[chain, moderation_chain])
+    input_variables = ["user_input"] if use_flare else ["chat_history", "question"]
+    moderation_input = "response" if use_flare else "answer"
+    moderation_chain = OpenAIModerationChain(input_key=moderation_input)
+    return SequentialChain(chains=[chain, moderation_chain],
+                           input_variables=input_variables)
