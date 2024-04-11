@@ -61,6 +61,8 @@ def configure_chain(retriever: BaseRetriever, use_flare: bool = True) -> Chain:
     Passing in a max_tokens_limit amount automatically
     truncates the tokens when prompting your llm!
     """
+    output_key = 'response' if use_flare else 'answer'
+    MEMORY.output_key = output_key
     params = dict(
         llm=LLM,
         retriever=retriever,
