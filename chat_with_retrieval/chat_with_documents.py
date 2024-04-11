@@ -7,7 +7,7 @@ from langchain.chains import (
     ConversationalRetrievalChain,
     FlareChain,
     OpenAIModerationChain,
-    SimpleSequentialChain,
+    SequentialChain,
 )
 from langchain.chains.base import Chain
 from langchain.chat_models import ChatOpenAI
@@ -70,6 +70,8 @@ def configure_chain(retriever: BaseRetriever, use_flare: bool = True) -> Chain:
     Passing in a max_tokens_limit amount automatically
     truncates the tokens when prompting your llm!
     """
+    output_key = 'response' if use_flare else 'answer'
+    MEMORY.output_key = output_key
     params = dict(
         llm=LLM,
         retriever=retriever,
@@ -108,6 +110,10 @@ def configure_retrieval_chain(
     if not use_moderation:
         return chain
 
-    moderation_chain = OpenAIModerationChain()
-    return SimpleSequentialChain(chains=[chain, moderation_chain])
-
+    input_variables = ["user_input"] if use_flare else ["chat_history", "question"]
+    moderation_input = "response" if use_flare else "answer"
+    moderation_chain = OpenAIModerationChain(input_key=moderation_input)
+    return SequentialChain(
+        chains=[chain, moderation_chain],
+        input_variables=input_variables
+    )
