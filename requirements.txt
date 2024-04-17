@@ -1,6 +1,7 @@
 jupyter==1.0.0
 jupyterlab==4.1.5
 langchain[docarray]==0.1.13
+langchain-core==0.1.42 
 langchain_experimental==0.0.55
 langchainhub==0.1.15
 langserve[all]==0.0.51
@@ -33,6 +34,7 @@ gpt4all==2.3.2
 google-api-python-client==2.124.0
 apify-client==1.6.4
 chromadb==0.4.24
+langchain_chroma==0.1.0
 lanarky==0.8.6
 faiss-cpu==1.8.0
 promptwatch==0.4.4
