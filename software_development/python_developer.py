@@ -9,10 +9,11 @@ from pathlib import Path
 from typing import Literal
 
 import pip
-from langchain import LLMChain, PromptTemplate
 from langchain.chains.base import Chain
-from langchain.llms import FakeListLLM
-from langchain.tools.python.tool import sanitize_input
+from langchain.chains.llm import LLMChain
+from langchain_community.llms.fake import FakeListLLM
+from langchain_core.prompts import PromptTemplate
+from langchain_experimental.tools.python.tool import sanitize_input
 from pip._internal.exceptions import InstallationError
 from pydantic import BaseModel, Field
 
