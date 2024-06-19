@@ -5,8 +5,7 @@ Run like this:
 """
 import streamlit as st
 
-from data_science.agent import query_agent, create_agent
-
+from data_science.agent import create_agent, query_agent
 
 st.title("👨‍💻 Chat with your CSV")
 

@@ -1,9 +1,11 @@
 """Agent functionality."""
-from langchain import OpenAI, PromptTemplate
-from langchain.agents import create_pandas_dataframe_agent, AgentExecutor
 import pandas as pd
-
 from config import set_environment
+from langchain.agents import AgentExecutor
+from langchain_core.prompts import PromptTemplate
+from langchain_experimental.agents.agent_toolkits import create_pandas_dataframe_agent
+from langchain_openai import OpenAI
+
 from data_science.prompts import PROMPT
 
 set_environment()
