@@ -1,5 +1,5 @@
 # Using a miniconda base image:
-FROM continuumio/miniconda3:latest
+FROM continuumio/miniconda3:23.9.0-0
 
 ENV PIP_DEFAULT_TIMEOUT=1000
 
