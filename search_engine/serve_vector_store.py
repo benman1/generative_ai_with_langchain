@@ -12,7 +12,7 @@ import time
 
 import requests
 from fastapi import FastAPI
-from langchain.vectorstores import FAISS
+from langchain_community.vectorstores import FAISS
 from ray import serve
 
 from config import set_environment

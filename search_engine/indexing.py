@@ -17,11 +17,11 @@ import time
 import numpy as np
 import ray
 from bs4 import BeautifulSoup as Soup
-from langchain.vectorstores import FAISS
-from langchain.document_loaders import RecursiveUrlLoader
 from langchain.embeddings import OpenAIEmbeddings
-from langchain.schema import Document
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_community.document_loaders import RecursiveUrlLoader
+from langchain_community.vectorstores import FAISS
+from langchain_core.documents import Document
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 from config import set_environment
 from search_engine.utils import INDEX_PATH, get_embeddings
