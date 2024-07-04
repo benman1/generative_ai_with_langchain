@@ -1,6 +1,6 @@
 """Utility functions and classes."""
 from langchain.memory import ConversationBufferMemory
-from langchain.prompts import MessagesPlaceholder
+from langchain_core.prompts import MessagesPlaceholder
 
 
 def init_memory():
@@ -8,11 +8,9 @@ def init_memory():
 
     We are caching this, so it won't be deleted
      every time, we restart the server.
-     """
+    """
     return ConversationBufferMemory(
-        memory_key='chat_history',
-        return_messages=True,
-        output_key='answer'
+        memory_key="chat_history", return_messages=True, output_key="answer"
     )
 
 

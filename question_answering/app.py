@@ -25,16 +25,26 @@ st.header("Ask a research question!")
 
 strategy = st.radio(
     "Reasoning strategy",
-    ("plan-and-solve", "zero-shot-react", ))
+    (
+        "plan-and-solve",
+        "zero-shot-react",
+    ),
+)
 
 tool_names = st.multiselect(
-    'Which tools do you want to use?',
+    "Which tools do you want to use?",
     [
-        "critical_search", "llm-math", "python_repl",
-        "wikipedia", "arxiv", "google-search",
-        "wolfram-alpha", "ddg-search"
+        "critical_search",
+        "llm-math",
+        "python_repl",
+        "wikipedia",
+        "arxiv",
+        "google-search",
+        "wolfram-alpha",
+        "ddg-search",
     ],
-    ["ddg-search", "wolfram-alpha", "wikipedia"])
+    ["ddg-search", "wolfram-alpha", "wikipedia"],
+)
 if st.sidebar.button("Clear message history"):
     MEMORY.chat_memory.clear()
 
@@ -50,7 +60,5 @@ if prompt := st.chat_input(placeholder="Ask me anything!"):
     st.chat_message("user").write(prompt)
     with st.chat_message("assistant"):
         st_callback = StreamlitCallbackHandler(st.container())
-        response = agent_chain.invoke(
-            {"input": prompt}, {"callbacks": [st_callback]}
-        )
+        response = agent_chain.invoke({"input": prompt}, {"callbacks": [st_callback]})
         st.write(response["output"])

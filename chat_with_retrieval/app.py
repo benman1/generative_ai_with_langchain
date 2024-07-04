@@ -8,7 +8,7 @@ import streamlit as st
 from streamlit.external.langchain import StreamlitCallbackHandler
 
 from chat_with_retrieval.chat_with_documents import configure_retrieval_chain
-from chat_with_retrieval.utils import MEMORY, DocumentLoader, LOGGER
+from chat_with_retrieval.utils import LOGGER, MEMORY, DocumentLoader
 
 LOGGER.info("Show title")
 st.set_page_config(page_title="LangChain: Chat with Documents", page_icon="🦜")

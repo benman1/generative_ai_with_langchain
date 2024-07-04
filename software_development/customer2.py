@@ -24,9 +24,9 @@ class Customer:
 
     def __eq__(self, other: "Customer") -> bool:
         if isinstance(other, type(self)):
-            return all([
-                getattr(self, attr) == getattr(other, attr)
-                for attr in ["firstname", "lastname"]])
+            return all(
+                [getattr(self, attr) == getattr(other, attr) for attr in ["firstname", "lastname"]]
+            )
         else:
             raise TypeError("Cannot compare different types")
 
@@ -35,21 +35,23 @@ class Customer:
             assert len({type(x) for x in [self, other]}) == 1
 
             if not hasattr(self, "fullname"):
-                setattr(self, 'fullname', f'{self.firstname}{self.lastname}')
+                setattr(self, "fullname", f"{self.firstname}{self.lastname}")
 
-            if not hasattr(other, 'fullname'):
-                setattr(other, 'fullname', f'{other.firstname}{other.lastname}')
+            if not hasattr(other, "fullname"):
+                setattr(other, "fullname", f"{other.firstname}{other.lastname}")
 
             return self.fullname < other.fullname
 
         except AssertionError as e:
-            print('Error:', e)
+            print("Error:", e)
 
     def __repr__(self):
         return f"Customer('{self.firstname}', '{self.lastname}','{hex(abs(self.id_))[-6:]})"
 
     def __hash__(self):
-        hsh = abs(hash((self.firstname + self.lastname))) % ((sys.maxsize + 1) * 2) + sys.maxsize * 3
+        hsh = (
+            abs(hash((self.firstname + self.lastname))) % ((sys.maxsize + 1) * 2) + sys.maxsize * 3
+        )
         self.id_ = hsh
 
         return hsh

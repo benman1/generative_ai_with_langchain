@@ -1,15 +1,17 @@
 """Task planner and executor for software development."""
 
-from langchain import LLMChain, OpenAI, PromptTemplate
-from langchain.agents import Tool
-from langchain.tools import DuckDuckGoSearchResults, BaseTool
+from config import set_environment
+from langchain.chains import LLMChain
+from langchain_community.tools import DuckDuckGoSearchResults
+from langchain_core.prompts import PromptTemplate
+from langchain_core.tools import BaseTool, Tool
 from langchain_experimental.plan_and_execute import (
     PlanAndExecute,
     load_agent_executor,
     load_chat_planner,
 )
+from langchain_openai import OpenAI
 
-from config import set_environment
 from software_development.python_developer import DEV_PROMPT, PythonDeveloper, PythonExecutorInput
 
 set_environment()
@@ -21,20 +23,11 @@ todo_prompt = PromptTemplate.from_template(
     "The output should be a list of the format {function name}: {requirements of the function}"
     "Come up with a list of needed functions for this objective: {objective}"
 )
-todo_llm = LLMChain(
-    llm=OpenAI(temperature=0),
-    prompt=todo_prompt
-)
+todo_llm = LLMChain(llm=OpenAI(temperature=0), prompt=todo_prompt)
 # # , model_name="ada"
 software_prompt = PromptTemplate.from_template(DEV_PROMPT)
 # careful: if you have the wrong model spec, you might not get any code!
-software_llm = LLMChain(
-    llm=OpenAI(
-        temperature=0,
-        max_tokens=4000
-    ),
-    prompt=software_prompt
-)
+software_llm = LLMChain(llm=OpenAI(temperature=0, max_tokens=4000), prompt=software_prompt)
 software_dev = PythonDeveloper(llm_chain=software_llm)
 
 code_tool = Tool(
@@ -45,7 +38,7 @@ code_tool = Tool(
         "Input: a task or function to write. "
         "Output: a Python code that solves the task. "
     ),
-    args_schema=PythonExecutorInput
+    args_schema=PythonExecutorInput,
 )
 planner_tool = Tool(
     name="TODO",
@@ -55,7 +48,7 @@ planner_tool = Tool(
         "Input: an objective to create a todo list for. "
         "Output: a todo list for that objective. "
         "Please be very clear what the objective is!"
-    )
+    ),
 )
 ddg_search = DuckDuckGoSearchResults()
 tools: list[BaseTool] = [
@@ -67,8 +60,8 @@ tools: list[BaseTool] = [
             "Useful for research and understanding background of objectives. "
             "Input: an objective. "
             "Output: background information about the objective. "
-        )
-    )
+        ),
+    ),
 ]
 
 PREFIX = """You are an agent designed to write python code.
@@ -78,9 +71,11 @@ Chat History:
 
 You have access to a python REPL, which you can use to execute python code. 
 Once the code is complete and free of errors you are finished.
-If it does not seem like you can write this code, just return "I struggle to implement this" as the answer.
+If it does not seem like you can write this code, just return "I struggle to implement this"
+ as the answer.
 """
-SUFFIX = """Begin! Your goal is to write software. If you get an error, debug your code and try again!"
+SUFFIX = """Begin! Your goal is to write software. If you get an error, debug your code
+ and try again!"
 
 Task: {input}
 {agent_scratchpad}
@@ -105,7 +100,7 @@ agent_executor = PlanAndExecute(
     executor=executor,
     verbose=True,
     handle_parsing_errors="Check your output and make sure it conforms!",
-    return_intermediate_steps=True
+    return_intermediate_steps=True,
 )
 
 # agent = ZeroShotAgent(

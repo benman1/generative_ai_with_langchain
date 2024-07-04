@@ -1,5 +1,5 @@
 """Shared code for the semantic search."""
-from langchain.embeddings import OpenAIEmbeddings
+from langchain_openai.embeddings import OpenAIEmbeddings
 
 get_embeddings = OpenAIEmbeddings
 # alternatively, for local embeddings, use:

@@ -28,14 +28,17 @@ Guidelines:
 - The summary should become highly dense and concise yet self-contained. Missing entities can appear anywhere in the new cover letter.
 
 Answer in JSON. The JSON should be a list (length 5) of dictionaries whose keys are "Missing_Entities" and "Denser_Summary". 
-"""
+"""  # noqa: E501
 
 SUMMARY = (
-    "Summarize this text in as much detail as possible. Give a clear explanation of the objectives, core assertions, implications, "
+    "Summarize this text in as much detail as possible. Give a clear explanation of "
+    "the objectives, core assertions, implications, "
     "and mechanics elucidated in this text - remove citations! \n"
-    "I want to highlight the main points starting from their importance and impact, mechanics, available tools, and potential extensions that impact dimensions such as privacy, safety flexibility, competitive performance, ease of use."
+    "I want to highlight the main points starting from their importance and impact, "
+    "mechanics, available tools, and potential extensions that impact dimensions such "
+    "as privacy, safety flexibility, competitive performance, ease of use."
     "Text: {text} \n"
-)
+)  # noqa: E501
 
 HIGH_LEVEL = (
     "Please explain the value of this text in basic terms like you're "

@@ -1,13 +1,12 @@
 """Tracing of agent calls and intermediate results."""
 import subprocess
-
-from langchain.chat_models import ChatOpenAI
-from langchain.tools import StructuredTool
-from langchain.agents import AgentType, initialize_agent
-
-from pydantic import HttpUrl
 from urllib.parse import urlparse
+
 from config import set_environment
+from langchain.agents import AgentType, initialize_agent
+from langchain_core.tools import StructuredTool
+from langchain_openai.chat_models import ChatOpenAI
+from pydantic import HttpUrl
 
 set_environment()
 

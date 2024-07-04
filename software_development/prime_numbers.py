@@ -11,7 +11,7 @@ def calculate_primes(n):
     # set the first two elements in the list to False since they are not prime
     candidates[0] = candidates[1] = False
 
-    for i in range(2, int(n ** 0.5) + 1):
+    for i in range(2, int(n**0.5) + 1):
         if candidates[i]:
             # mark all multiples of i as non-prime
             for j in range(i * i, n + 1, i):
@@ -22,5 +22,5 @@ def calculate_primes(n):
 
 if __name__ == "__main__":
     # added manually
-    print(eratosthenes_sieve(20))
+    print(calculate_primes(20))
     # Output: [2, 3, 5, 7, 11, 13, 17, 19]

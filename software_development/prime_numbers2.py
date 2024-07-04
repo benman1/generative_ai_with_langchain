@@ -12,10 +12,10 @@ def calculate_primes(n):
     >>> calculate_primes(20)
     Output: [2, 3, 5, 7, 11, 13, 17, 19]
     """
-    sieve = [True for _ in range(n+1)]
-    for i in range(2, int(math.sqrt(n))+1):
+    sieve = [True for _ in range(n + 1)]
+    for i in range(2, int(math.sqrt(n)) + 1):
         if sieve[i]:
-            for j in range(i*i, n+1, i):
+            for j in range(i * i, n + 1, i):
                 sieve[j] = False
     return [2] + [i for i in range(3, n, 2) if sieve[i]]
 
