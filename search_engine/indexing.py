@@ -17,13 +17,13 @@ import time
 import numpy as np
 import ray
 from bs4 import BeautifulSoup as Soup
-from langchain.vectorstores import FAISS
-from langchain.document_loaders import RecursiveUrlLoader
-from langchain.embeddings import OpenAIEmbeddings
-from langchain.schema import Document
-from langchain.text_splitter import RecursiveCharacterTextSplitter
-
 from config import set_environment
+from langchain.embeddings import OpenAIEmbeddings
+from langchain_community.document_loaders import RecursiveUrlLoader
+from langchain_community.vectorstores import FAISS
+from langchain_core.documents import Document
+from langchain_text_splitters import RecursiveCharacterTextSplitter
+
 from search_engine.utils import INDEX_PATH, get_embeddings
 
 # set keys:
@@ -40,16 +40,13 @@ def chunk_docs(url: str) -> list[Document]:
 
     # Load docs
     loader = RecursiveUrlLoader(
-        url=url,
-        max_depth=2,
-        extractor=lambda x: Soup(x, "html.parser").text
+        url=url, max_depth=2, extractor=lambda x: Soup(x, "html.parser").text
     )
     docs = loader.load()
 
     # Split into sentences.
     return text_splitter.create_documents(
-        [doc.page_content for doc in docs],
-        metadatas=[doc.metadata for doc in docs]
+        [doc.page_content for doc in docs], metadatas=[doc.metadata for doc in docs]
     )
 
 
@@ -57,7 +54,7 @@ def create_db(chunks: list[Document]) -> FAISS:
     """This is the easy way."""
     return FAISS.from_documents(
         chunks,
-        OpenAIEmbeddings()
+        OpenAIEmbeddings(),
         # get_embeddings()
     )
 
@@ -69,10 +66,7 @@ def process_shard(chunks: list[Document]):
     You can specify the number of GPUs or CPUs you want to use as
     part of the ray decorator.
     """
-    return FAISS.from_documents(
-        documents=chunks,
-        embedding=get_embeddings()
-    )
+    return FAISS.from_documents(documents=chunks, embedding=get_embeddings())
 
 
 def create_db_parallel(chunks: list[Document]):
