@@ -11,11 +11,11 @@ You can run this from the terminal in the search_engine directory like this:
 import time
 
 import requests
+from config import set_environment
 from fastapi import FastAPI
 from langchain_community.vectorstores import FAISS
 from ray import serve
 
-from config import set_environment
 from search_engine.utils import INDEX_PATH, get_embeddings
 
 # set keys:
@@ -55,11 +55,13 @@ serve.run(deployment)
 if __name__ == "__main__":
     # using bind() instead of remote()
     # this will ready the dag, but not execute it yet.
-    print(requests.get(
-        "http://localhost:8000/search",
-        params={
-            "query": "What are the different components of Ray"
-                     " and how can they help with large language models (LLMs)?"
-        }
-    ).json())
+    print(
+        requests.get(
+            "http://localhost:8000/search",
+            params={
+                "query": "What are the different components of Ray"
+                " and how can they help with large language models (LLMs)?"
+            },
+        ).json()
+    )
     input("Press Enter to shut down the server...")
