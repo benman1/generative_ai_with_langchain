@@ -7,15 +7,15 @@ import logging
 import os
 from pathlib import Path
 
-from langchain.chains import LLMChain
-from langchain.prompts import PromptTemplate
+from config import set_environment
 from langchain.callbacks import get_openai_callback
+from langchain.chains import LLMChain
 from langchain.chains.summarize import load_summarize_chain
 from langchain.chat_models import ChatOpenAI
 from langchain.document_loaders import PyPDFLoader
+from langchain.prompts import PromptTemplate
 from langchain.schema import Document
 
-from config import set_environment
 from summarize import prompts
 
 set_environment()
@@ -31,12 +31,12 @@ def format_summary(summary: dict) -> str:
     """Format a summary into a single string."""
     summary_template = PromptTemplate(
         input_variables=["main_summary", "executive_summary", "analogy"],
-        template="{main_summary}\nSUMMARY:\n{executive_summary}\nANALOGY: {analogy}"
+        template="{main_summary}\nSUMMARY:\n{executive_summary}\nANALOGY: {analogy}",
     )
     return summary_template.format(
         main_summary="\n".join(summary["intermediate_steps"]),
         executive_summary=summary["output_text"],
-        analogy=summary["analogy"]
+        analogy=summary["analogy"],
     )
 
 
@@ -47,7 +47,7 @@ def load_pdf(pdf_file_path: str) -> list[Document]:
 
 
 def summarize_docs(
-        docs: list[Document],
+    docs: list[Document],
 ) -> str:
     """Summarize a list of Documents.
 
@@ -61,15 +61,12 @@ def summarize_docs(
         chain_type="map_reduce",
         map_prompt=PromptTemplate(input_variables=["text"], template=prompts.SUMMARY),
         combine_prompt=PromptTemplate(input_variables=["text"], template=prompts.HIGH_LEVEL),
-        return_map_steps=True
+        return_map_steps=True,
     )
     summary = chain({"input_documents": docs})
     # only works if the model is OpenAI
     with get_openai_callback() as cb:
-        llm_chain = LLMChain.from_string(
-            llm=CHAT,
-            template=prompts.ANALOGY
-        )
+        llm_chain = LLMChain.from_string(llm=CHAT, template=prompts.ANALOGY)
         summary["analogy"] = llm_chain.predict(text=summary["output_text"])
         LOGGING.info(f"Total Tokens: {cb.total_tokens}")
         LOGGING.info(f"Prompt Tokens: {cb.prompt_tokens}")
@@ -91,15 +88,13 @@ def create_pdf_summary(pdf_file):
     If summary was already created, return previous output.
     """
     pdf_path = Path(pdf_file)
-    output_file = pdf_path.with_suffix('.txt')
+    output_file = pdf_path.with_suffix(".txt")
     if os.path.exists(output_file):
         LOGGING.info("Summary file already exists!")
         with open(output_file, "r") as f:
             return f.read()
 
-    summary = summarize_pdf(
-        pdf_file_path=pdf_file
-    )
+    summary = summarize_pdf(pdf_file_path=pdf_file)
     # write output:
     with open(output_file, "w") as f:
         f.write(summary)
@@ -120,4 +115,3 @@ def create_pdf_summaries(directory: str):
 if __name__ == "__main__":
     directory = "/Users/ben/Downloads/"
     create_pdf_summaries(directory=directory)
-

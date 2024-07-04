@@ -8,11 +8,9 @@ def init_memory():
 
     We are caching this, so it won't be deleted
      every time, we restart the server.
-     """
+    """
     return ConversationBufferMemory(
-        memory_key='chat_history',
-        return_messages=True,
-        output_key='answer'
+        memory_key="chat_history", return_messages=True, output_key="answer"
     )
 
 

@@ -5,12 +5,11 @@ create_benchmark to create the benchmark dataset.
 """
 import os
 
-from langchain.chains import LLMChain
-from langchain_openai import ChatOpenAI
-from langchain.smith import RunEvalConfig, run_on_dataset
-from langsmith import Client
-
 from config import set_environment
+from langchain.chains import LLMChain
+from langchain.smith import RunEvalConfig, run_on_dataset
+from langchain_openai import ChatOpenAI
+from langsmith import Client
 
 set_environment()
 os.environ["LANGCHAIN_TRACING_V2"] = "true"
@@ -34,7 +33,7 @@ evaluation_config = RunEvalConfig(
     evaluators=[
         # Arbitrary criterion as a key: value pair in the criteria dict:
         RunEvalConfig.Criteria({"helpfulness": "Is the response helpful?"}),
-        RunEvalConfig.Criteria({"insightful": "Is the response carefully thought out?"})
+        RunEvalConfig.Criteria({"insightful": "Is the response carefully thought out?"}),
     ]
 )
 

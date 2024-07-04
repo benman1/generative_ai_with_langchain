@@ -34,10 +34,10 @@ def meaningful_output(func):
         func_output = func(*args, **kwargs)
         print(func_output)
         if len(func_output.strip()) > 0:
-            return f"The code returned the following:\n" \
-                   f"{func_output}"
+            return f"The code returned the following:\n" f"{func_output}"
         else:
             return "The code returned nothing."
+
     return wrapper
 
 
@@ -60,21 +60,19 @@ class PythonDeveloper:
     """Execution environment for Python code."""
 
     def __init__(
-            self,
-            llm_chain: Chain,
-            path: str = "dev",
-            audit_file: str = "audit.log",
-            do_sanitize_input: bool = True,
-            save_intermediate_steps: bool = False
+        self,
+        llm_chain: Chain,
+        path: str = "dev",
+        audit_file: str = "audit.log",
+        do_sanitize_input: bool = True,
+        save_intermediate_steps: bool = False,
     ):
         self.save_intermediate_steps = save_intermediate_steps
         self.llm_chain = llm_chain
         self.path = path
         self.create_directory()
         self.logger = logging.getLogger()
-        self.logger.addHandler(
-            self.setup_audit_trail(audit_file=audit_file)
-        )
+        self.logger.addHandler(self.setup_audit_trail(audit_file=audit_file))
         self.do_sanitize_input = do_sanitize_input
 
     def write_code(self, task: str) -> str:
@@ -91,18 +89,13 @@ class PythonDeveloper:
     @staticmethod
     def setup_audit_trail(audit_file: str) -> FileHandler:
         """Set up a logger that tracks all calls to run."""
-        formatter = logging.Formatter(
-            "%(asctime)s | %(levelname)s | %(message)s"
-        )
+        formatter = logging.Formatter("%(asctime)s | %(levelname)s | %(message)s")
         file_handler = logging.FileHandler(audit_file)
         file_handler.setLevel(logging.DEBUG)
         file_handler.setFormatter(formatter)
         return file_handler
 
-    def install_package(
-            self,
-            module_not_found_error: ModuleNotFoundError
-    ) -> bool:
+    def install_package(self, module_not_found_error: ModuleNotFoundError) -> bool:
         """Install a package.
 
         Returns True if installation successful.
@@ -111,7 +104,7 @@ class PythonDeveloper:
         try:
             package = str(module_not_found_error).strip().split(" ")[-1].strip("'")
             self.logger.info(f"installing {package}")
-            pip.main(['install', package])
+            pip.main(["install", package])
             return True
         except InstallationError as ex:
             # Any other error, we want to fail here.
@@ -119,12 +112,7 @@ class PythonDeveloper:
             return False
 
     @meaningful_output
-    def run(
-            self,
-            task: str,
-            filename: str = "main.py",
-            mode: Literal["w", "a"] = "w"
-    ) -> str:
+    def run(self, task: str, filename: str = "main.py", mode: Literal["w", "a"] = "w") -> str:
         """Generate and execute Python code.
 
         Returns the output from the run.
@@ -165,12 +153,7 @@ class PythonDeveloper:
                 return self.execute_code(code, filename)
             raise ex
 
-    def write_file(
-            self,
-            filename: str,
-            code: str,
-            mode: Literal["w", "a"] = "w"
-    ) -> Path:
+    def write_file(self, filename: str, code: str, mode: Literal["w", "a"] = "w") -> Path:
         """Write code to disk.
 
         If filename is an empty string, write to
@@ -200,9 +183,9 @@ if __name__ == "__main__":
             responses=[
                 "import os; print(os.getcwd())",
                 "import os; os.listdir('.')",
-                "print('hello world!')"
+                "print('hello world!')",
             ]
         ),
-        prompt=software_prompt
+        prompt=software_prompt,
     )
     env = PythonDeveloper(software_llm)

@@ -2,8 +2,8 @@
 
 by calculating the embedding distance to an expected output (a reference).
 """
-from langchain.evaluation import load_evaluator, EvaluatorType, PairwiseStringEvalChain
 from config import set_environment
+from langchain.evaluation import EvaluatorType, PairwiseStringEvalChain, load_evaluator
 
 set_environment()
 # evaluator = load_evaluator("embedding_distance")
@@ -30,15 +30,18 @@ custom_criteria = {
 evaluator = load_evaluator(EvaluatorType.PAIRWISE_STRING, criteria=custom_criteria)
 
 assert isinstance(evaluator, PairwiseStringEvalChain)
-print(evaluator.evaluate_string_pairs(
-    prediction="Every cheerful household shares a similar rhythm of joy; but sorrow, in each household, plays a unique, haunting melody.",
-    prediction_b="Where one finds a symphony of joy, every domicile of happiness resounds in harmonious,"
-    " identical notes; yet, every abode of despair conducts a dissonant orchestra, each"
-    " playing an elegy of grief that is peculiar and profound to its own existence.",
-    input="Write some prose about families.",
-))
+print(
+    evaluator.evaluate_string_pairs(
+        prediction="Every cheerful household shares a similar rhythm of joy; but sorrow, "
+        "in each household, plays a unique, haunting melody.",
+        prediction_b="Where one finds a symphony of joy, every domicile of happiness "
+        "resounds in harmonious,"
+        " identical notes; yet, every abode of despair conducts a dissonant orchestra, each"
+        " playing an elegy of grief that is peculiar and profound to its own existence.",
+        input="Write some prose about families.",
+    )
+)  # noqa: E501
 
 
 if __name__ == "__main__":
     pass
-
