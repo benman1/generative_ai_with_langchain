@@ -1,6 +1,6 @@
 """Utility functions and classes."""
 from langchain.memory import ConversationBufferMemory
-from langchain.prompts import MessagesPlaceholder
+from langchain_core.prompts import MessagesPlaceholder
 
 
 def init_memory():

@@ -1,5 +1,7 @@
 """Prompt tracking with PromptWatch.io."""
-from langchain import LLMChain, OpenAI, PromptTemplate
+from langchain.chains import LLMChain
+from langchain_core.prompts import PromptTemplate
+from langchain_openai import OpenAI
 from promptwatch import PromptWatch
 
 from config import set_environment

@@ -1,5 +1,4 @@
-from langchain import OpenAI
-from langchain.chat_models import ChatAnthropic
+from langchain_openai import OpenAI
 from langchain.evaluation import load_evaluator, EvaluatorType
 
 eval_llm = OpenAI(temperature=0)

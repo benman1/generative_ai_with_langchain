@@ -2,7 +2,7 @@ from typing import Literal
 
 from langchain import hub
 from langchain.agents import create_react_agent, AgentExecutor
-from langchain.chains.base import Chain
+from langchain.chains import Chain
 from langchain_openai import ChatOpenAI
 from langchain_experimental.plan_and_execute import (
     load_chat_planner, load_agent_executor, PlanAndExecute

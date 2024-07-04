@@ -1,5 +1,5 @@
-from langchain.chat_models import ChatOpenAI
-from langchain.prompts import PromptTemplate
+from langchain_openai.chat_models import ChatOpenAI
+from langchain_core.prompts import PromptTemplate
 from config import set_environment
 
 set_environment()

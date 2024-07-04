@@ -18,7 +18,7 @@ import numpy as np
 import ray
 from bs4 import BeautifulSoup as Soup
 from config import set_environment
-from langchain.embeddings import OpenAIEmbeddings
+from langchain_openai.embeddings import OpenAIEmbeddings
 from langchain_community.document_loaders import RecursiveUrlLoader
 from langchain_community.vectorstores import FAISS
 from langchain_core.documents import Document

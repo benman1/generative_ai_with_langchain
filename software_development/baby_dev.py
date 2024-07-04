@@ -1,8 +1,10 @@
 """Task planner and executor for software development."""
 
-from langchain import LLMChain, OpenAI, PromptTemplate
-from langchain.agents import Tool
-from langchain.tools import DuckDuckGoSearchResults, BaseTool
+from langchain.chains import LLMChain
+from langchain_core.prompts import PromptTemplate
+from langchain_openai import OpenAI
+from langchain_core.tools import Tool, BaseTool
+from langchain_community.tools import DuckDuckGoSearchResults
 from langchain_experimental.plan_and_execute import (
     PlanAndExecute,
     load_agent_executor,

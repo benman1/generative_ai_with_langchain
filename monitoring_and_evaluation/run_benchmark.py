@@ -5,8 +5,8 @@ create_benchmark to create the benchmark dataset.
 """
 import os
 
-from langchain import LLMChain
-from langchain.chat_models import ChatOpenAI
+from langchain.chains import LLMChain
+from langchain_openai import ChatOpenAI
 from langchain.smith import RunEvalConfig, run_on_dataset
 from langsmith import Client
 

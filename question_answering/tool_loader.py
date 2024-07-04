@@ -3,7 +3,7 @@ from typing import Optional
 
 from langchain import hub
 from langchain.agents import Tool, create_self_ask_with_search_agent, AgentExecutor
-from langchain.chains.llm_math.base import LLMMathChain
+from langchain.chains import LLMMathChain
 from langchain_community.tools.arxiv.tool import ArxivQueryRun
 from langchain_community.tools.ddg_search import DuckDuckGoSearchRun
 from langchain_community.tools.google_search import GoogleSearchRun

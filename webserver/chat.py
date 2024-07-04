@@ -2,8 +2,8 @@
 Adapted from https://github.com/ajndkr/lanarky/blob/main/examples/app/conversation_chain.py
 """
 from fastapi import FastAPI
-from langchain import ConversationChain
-from langchain.chat_models import ChatOpenAI
+from langchain.chains import ConversationChain
+from langchain_openai.chat_models import ChatOpenAI
 
 from lanarky import LangchainRouter
 from starlette.requests import Request
