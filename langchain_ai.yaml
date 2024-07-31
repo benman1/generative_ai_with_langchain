@@ -17,5 +17,5 @@ dependencies:
   - pandoc=2.12
   - pip=23.1.2
   - pip:
-    - -r file:requirements.txt
+    - -r requirements.txt
 prefix: /opt/anaconda3/envs/langchain_ai
