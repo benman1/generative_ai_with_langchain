@@ -1,6 +1,6 @@
+"""Defining an agent."""
 from typing import Literal
 
-from config import set_environment
 from langchain import hub
 from langchain.agents import AgentExecutor, create_react_agent
 from langchain.chains import Chain
@@ -11,7 +11,8 @@ from langchain_experimental.plan_and_execute import (
 )
 from langchain_openai import ChatOpenAI
 
-from question_answering.tool_loader import load_tools
+from chapter3.question_answering.tool_loader import load_tools
+from config import set_environment
 
 set_environment()
 

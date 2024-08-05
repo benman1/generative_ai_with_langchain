@@ -1,0 +1,11 @@
+T,Model,Average ⬆️,MMLU
+🔶,davidkim205/Rhea-72b-v0.5 📑,81.22,77.95
+💬,Contamination/contaminated_proof_7b_v1.0_safetensor 📑,81.14,78.92
+💬,MTSAIR/MultiVerse_70B 📑,81,78.22
+🔶MTSAIR/MultiVerse_70B 📑,80.98,78.27
+🔶,SF-Foundation/Ein-72B-v0.11 📑,80.81,77.2
+🔶,SF-Foundation/Ein-72B-v0.13 📑,80.79,77.07
+🔶,SF-Foundation/Ein-72B-v0.12 📑,80.72,77.17
+🔶,abacusai/Smaug-72B-v0.1 📑,80.48,77.15
+🔶,ibivibiv/alpaca-dragon-72b-v1 📑,79.3,77.4
+💬,moreh/MoMo-72B-lora-1.8.7-DPO 📑,78.55,77.13

@@ -17,8 +17,8 @@ from langchain_community.callbacks.streamlit import (
     StreamlitCallbackHandler,
 )
 
-from question_answering.agent import load_agent
-from question_answering.utils import MEMORY
+from chapter3.question_answering.agent import load_agent
+from chapter3.question_answering.utils import MEMORY
 
 st.set_page_config(page_title="LangChain Question Answering", page_icon=":robot:")
 st.header("Ask a research question!")
