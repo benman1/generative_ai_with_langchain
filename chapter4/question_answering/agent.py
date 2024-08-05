@@ -11,7 +11,7 @@ from langchain_experimental.plan_and_execute import (
 )
 from langchain_openai import ChatOpenAI
 
-from chapter3.question_answering.tool_loader import load_tools
+from chapter4.question_answering.tool_loader import load_tools
 from config import set_environment
 
 set_environment()

@@ -4,7 +4,7 @@ Originally based on this template:
 https://github.com/hwchase17/langchain-streamlit-template/blob/master/main.py
 
 Run locally as follows:
-> PYTHONPATH=. streamlit run question_answering/app.py
+> PYTHONPATH=. streamlit run chapter4/question_answering/app.py
 
 Alternatively, you can deploy this on the Streamlit Community Cloud
 or on Hugging Face Spaces. For Streamlit Community Cloud do this:
@@ -17,8 +17,8 @@ from langchain_community.callbacks.streamlit import (
     StreamlitCallbackHandler,
 )
 
-from chapter3.question_answering.agent import load_agent
-from chapter3.question_answering.utils import MEMORY
+from chapter4.question_answering.agent import load_agent
+from chapter4.question_answering.utils import MEMORY
 
 st.set_page_config(page_title="LangChain Question Answering", page_icon=":robot:")
 st.header("Ask a research question!")
