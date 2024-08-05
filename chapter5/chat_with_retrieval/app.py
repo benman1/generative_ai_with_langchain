@@ -1,14 +1,14 @@
 """Document loading functionality.
 
 Run like this:
-> PYTHONPATH=. streamlit run chat_with_retrieval/chat_with_documents.py
+> PYTHONPATH=. streamlit run chapter5/chat_with_retrieval/chat_with_documents.py
 """
 
 import streamlit as st
 from streamlit.external.langchain import StreamlitCallbackHandler
 
-from chat_with_retrieval.chat_with_documents import configure_retrieval_chain
-from chat_with_retrieval.utils import LOGGER, MEMORY, DocumentLoader
+from chapter5.chat_with_retrieval.chat_with_documents import configure_retrieval_chain
+from chapter5.chat_with_retrieval.utils import LOGGER, MEMORY, DocumentLoader
 
 LOGGER.info("Show title")
 st.set_page_config(page_title="LangChain: Chat with Documents", page_icon="🦜")

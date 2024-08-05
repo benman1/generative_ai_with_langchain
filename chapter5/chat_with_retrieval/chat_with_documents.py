@@ -17,7 +17,7 @@ from langchain_core.retrievers import BaseRetriever
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
-from chat_with_retrieval.utils import LOGGER, MEMORY, load_document
+from chapter5.chat_with_retrieval.utils import LOGGER, MEMORY, load_document
 
 set_environment()
 
