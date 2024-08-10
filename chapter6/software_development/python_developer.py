@@ -6,13 +6,12 @@ import uuid
 from contextlib import contextmanager, redirect_stdout
 from logging import FileHandler
 from pathlib import Path
-from typing import Literal
+from typing import Literal, Union
 
 import pip
-from langchain.chains.base import Chain
-from langchain.chains.llm import LLMChain
 from langchain_community.llms.fake import FakeListLLM
 from langchain_core.prompts import PromptTemplate
+from langchain_core.runnables import RunnableSerializable
 from langchain_experimental.tools.python.tool import sanitize_input
 from pip._internal.exceptions import InstallationError
 from pydantic import BaseModel, Field
@@ -61,7 +60,7 @@ class PythonDeveloper:
 
     def __init__(
         self,
-        llm_chain: Chain,
+        llm_chain: RunnableSerializable,
         path: str = "dev",
         audit_file: str = "audit.log",
         do_sanitize_input: bool = True,
@@ -81,7 +80,7 @@ class PythonDeveloper:
         If intermediate steps are desired, store the code to
         a separate Python file.
         """
-        code = self.llm_chain.run(task)
+        code = self.llm_chain.invoke({"objective": task})
         if self.save_intermediate_steps:
             self.write_file("", code, "w")
         return code
@@ -177,15 +176,13 @@ class PythonDeveloper:
 
 if __name__ == "__main__":
     software_prompt = PromptTemplate.from_template(DEV_PROMPT)
-    # careful: if you have the wrong model spec, you might not get any code!
-    software_llm = LLMChain(
-        llm=FakeListLLM(
-            responses=[
-                "import os; print(os.getcwd())",
-                "import os; os.listdir('.')",
-                "print('hello world!')",
-            ]
-        ),
-        prompt=software_prompt,
+    llm = FakeListLLM(
+        responses=[
+            "import os; print(os.getcwd())",
+            "import os; os.listdir('.')",
+            "print('hello world!')",
+        ]
     )
+    # careful: if you have the wrong model spec, you might not get any code!
+    software_llm = prompt=software_prompt | llm
     env = PythonDeveloper(software_llm)

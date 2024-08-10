@@ -9,7 +9,6 @@ from pathlib import Path
 
 from config import set_environment
 from langchain.callbacks import get_openai_callback
-from langchain.chains import LLMChain
 from langchain.chains.summarize import load_summarize_chain
 from langchain.chat_models import ChatOpenAI
 from langchain.document_loaders import PyPDFLoader
@@ -66,8 +65,8 @@ def summarize_docs(
     summary = chain({"input_documents": docs})
     # only works if the model is OpenAI
     with get_openai_callback() as cb:
-        llm_chain = LLMChain.from_string(llm=CHAT, template=prompts.ANALOGY)
-        summary["analogy"] = llm_chain.predict(text=summary["output_text"])
+        llm_chain = PromptTemplate.from_template(prompts.ANALOGY) | CHAT
+        summary["analogy"] = llm_chain.invoke({"text": summary["output_text"]})
         LOGGING.info(f"Total Tokens: {cb.total_tokens}")
         LOGGING.info(f"Prompt Tokens: {cb.prompt_tokens}")
         LOGGING.info(f"Completion Tokens: {cb.completion_tokens}")

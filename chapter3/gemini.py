@@ -1,7 +1,6 @@
-from langchain_google_genai import ChatGoogleGenerativeAI
-from langchain_google_genai import GoogleGenerativeAI
+from langchain_google_genai import GoogleGenerativeAI, ChatGoogleGenerativeAI
 
-from langchain import PromptTemplate, LLMChain
+from langchain import PromptTemplate
 
 from config import set_environment
 
@@ -34,13 +33,10 @@ llm = GoogleGenerativeAI()
 #     top_p=0.85
 # )
 
-llm_chain = LLMChain(prompt=prompt, llm=llm, verbose=True)
+llm_chain = prompt | llm
 
 def respond_to_customer_email(customer_email: str):
     print(llm_chain.run(customer_email))
-
-
-
 
 
 
