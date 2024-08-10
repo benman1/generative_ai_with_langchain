@@ -16,7 +16,7 @@ from langchain.document_loaders import PyPDFLoader
 from langchain.prompts import PromptTemplate
 from langchain.schema import Document
 
-from summarize import prompts
+from chapter5.summarize import prompts
 
 set_environment()
 
