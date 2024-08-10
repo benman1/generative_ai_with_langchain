@@ -12,7 +12,7 @@ from langchain_experimental.plan_and_execute import (
 )
 from langchain_openai import OpenAI
 
-from software_development.python_developer import DEV_PROMPT, PythonDeveloper, PythonExecutorInput
+from chapter6.software_development.python_developer import DEV_PROMPT, PythonDeveloper, PythonExecutorInput
 
 set_environment()
 
