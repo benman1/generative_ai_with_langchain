@@ -1,7 +1,7 @@
 """Document loading functionality.
 
 Run like this:
-> PYTHONPATH=. streamlit run chat_with_retrieval/chat_with_documents.py
+> PYTHONPATH=. streamlit run chat_with_retrieval/app.py
 """
 import logging
 
