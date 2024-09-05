@@ -2,6 +2,6 @@
 
 | Section	| File | Colab	 | Kaggle	| Gradient |
 |-----------|--------|--------|-----------|----------|
-| Prompting | [diverse prompting examples](chapter8/prompting)  |        | | |
-| Fine-tuning example  |  [notebook](chapter8/fine_tuning.ipynb)   |       |  |   |
+| Prompting | [diverse prompting examples](prompting)  |        | | |
+| Fine-tuning example  |  [notebook](fine_tuning.ipynb)   |       |  |   |
 
