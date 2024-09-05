@@ -2,6 +2,6 @@
 
 | Section	| File | Colab	 | Kaggle	| Gradient |
 |-----------|--------|--------|-----------|----------|
-| Example of data analysis | [notebook](chapter7/data_science.ipynb)  |        | | |
-| Interactive GUI for data analysis  |  [python script](chapter7/app.py)   |  x      | x | x |
+| Example of data analysis | [notebook](data_science.ipynb)  |        | | |
+| Interactive GUI for data analysis  |  [python script](app.py)   |  x      | x | x |
 

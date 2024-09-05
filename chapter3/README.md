@@ -20,11 +20,11 @@ set_environment()
 
 | Section	| File | Colab	 | Kaggle	| Gradient |
 |-----------|--------|--------|-----------|----------|
-| LLMs, prompts, and chat models |  [notebook](chapter3/LLMs_chat_models_and_prompts.ipynb)   |        | | |
-| Running local models |  [notebook](chapter3/Running_local_models.ipynb)   |        | | |
-| Customer service helper | [notebook](chapter3/customer_service_use_case.ipynb)  |        | | |
-| Using HuggingFace Hub models | [notebook](chapter3/hf_hub_models.ipynb)     |        | | |
-| Map-reduce for summarization | [notebook](chapter3/map-reduce.ipynb)   |        | | |
-| Tracking costs |  [notebook](chapter3/tracking_costs.ipynb)  |        | | |
+| LLMs, prompts, and chat models |  [notebook](LLMs_chat_models_and_prompts.ipynb)   |        | | |
+| Running local models |  [notebook](Running_local_models.ipynb)   |        | | |
+| Customer service helper | [notebook](customer_service_use_case.ipynb)  |        | | |
+| Using HuggingFace Hub models | [notebook](hf_hub_models.ipynb)     |        | | |
+| Map-reduce for summarization | [notebook](map-reduce.ipynb)   |        | | |
+| Tracking costs |  [notebook](tracking_costs.ipynb)  |        | | |
 
 

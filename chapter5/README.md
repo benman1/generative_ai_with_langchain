@@ -3,12 +3,12 @@
 
 | Section	| File | Colab	 | Kaggle	| Gradient |
 |-----------|--------|--------|-----------|----------|
-| Embeddings | [notebook](chapter5/embeddings.ipynb)  |        | | |
-| Memory | [notebook](chapter5/memory.ipynb)     |        | | |
-| Moderation | [notebook](chapter5/moderation.ipynb)     |        |   |   |
-| Retrievers | [notebook](chapter5/retrievers.ipynb)     |       |   |   |
-| Summarization | [notebook](chapter5/pdf_summary.ipynb)     |       |   |   |
-| Summarization of pdfs |  [directory](chapter5/summarize.py)   |   x     | x | x |
-| Chat with retrieval project |  [directory](chapter5/chat_with_retrieval)   |  x      | x | x |
-| Map reduce with RAG | [python script](chapter5/rag_map_reduce.py)     |       |   |   |
+| Embeddings | [notebook](embeddings.ipynb)  |        | | |
+| Memory | [notebook](memory.ipynb)     |        | | |
+| Moderation | [notebook](moderation.ipynb)     |        |   |   |
+| Retrievers | [notebook](retrievers.ipynb)     |       |   |   |
+| Summarization | [notebook](pdf_summary.ipynb)     |       |   |   |
+| Summarization of pdfs |  [directory](summarize.py)   |   x     | x | x |
+| Chat with retrieval project |  [directory](chat_with_retrieval)   |  x      | x | x |
+| Map reduce with RAG | [python script](rag_map_reduce.py)     |       |   |   |
 
