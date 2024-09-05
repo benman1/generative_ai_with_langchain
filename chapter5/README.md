@@ -1,4 +1,4 @@
-# Chapter 5 - Building Capable Assistants
+# Chapter 5 - Building a Chatbot Like ChatGPT
 
 
 | Section	| File | Colab	 | Kaggle	| Gradient |
