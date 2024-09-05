@@ -8,7 +8,7 @@
 | Moderation | [notebook](moderation.ipynb)     |        |   |   |
 | Retrievers | [notebook](retrievers.ipynb)     |       |   |   |
 | Summarization | [notebook](pdf_summary.ipynb)     |       |   |   |
-| Summarization of pdfs |  [directory](summarize.py)   |   x     | x | x |
+| Summarization of pdfs |  [directory](summarize)   |   x     | x | x |
 | Chat with retrieval project |  [directory](chat_with_retrieval)   |  x      | x | x |
 | Map reduce with RAG | [python script](rag_map_reduce.py)     |       |   |   |
 
