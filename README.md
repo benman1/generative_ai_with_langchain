@@ -10,9 +10,9 @@ This is the code repository for [Generative AI with LangChain, First Edition](ht
 ## Note to Readers
 Thank you for choosing "Generative AI with LangChain"! We appreciate your enthusiasm and feedback.
 
-Please note that we are working on a new release of the book that will include significant updates. These will be made available for anyone who bought the book until this point as an electronic copy. Consequently, there are two different branches for this repository: 
+**Please note that we've released an update of the book that includes significant updates.** These is be available for anyone who has bought the book before the new release as an electronic copy. Consequently, there are two different branches for this repository: 
 * [main](https://github.com/benman1/generative_ai_with_langchain/tree/main) - this is the original version of the book.
-* [softupdate](https://github.com/benman1/generative_ai_with_langchain/tree/softupdate) - this is for the latest update of the book, corresponding to ver 0.1.13 of LangChain.
+* [softupdate](https://github.com/benman1/generative_ai_with_langchain/tree/softupdate) - this is for the latest update of the book, corresponding to version 0.1.13 of LangChain.
 
 Please refer to the version that you are interested in or that corresponds to your version of the book.
 
@@ -178,21 +178,6 @@ Unlock the full potential of LLMs within your projects as you navigate through g
 ## Outline and Chapter Summary
 
 This book is a comprehensive introduction to LLMs and LangChain, demystifying the basic mechanics of LangChain, its functionalities, and the myriad of applications it can be integrated into.
-
-In the following table, you can find links to the files (directories) in this repository, and to notebook execution platforms such as Google Colab and Kaggle/Gradient Notebooks. 
-
-| Chapter	| Files | Colab	 | Kaggle	| Gradient |
-|-----------|--------|--------|-----------|----------|
-| 01, What Is Generative AI |     |        | | |
-| 02, LangChain for LLM Apps |     |        | | |
-| 03, Getting Started with LangChain |   |        | | |
-| 04, Building Capable Assistants |       |        | | |
-| 05, Building a Chatbot like ChatGPT |    |        | | |
-| 06, Developing Software with Generative AI |  |        | | |
-| 07, LLMs for Data Science |              |        | |  |
-| 08, Customizing LLMs and Their Output |          |        | | |
-| 09, Generative AI in Production |           |        | | |
-| 10, The Future of Generative Models |        |        | | |
 
 > If you feel this book is for you, get your [copy](https://amzn.to/3IZevQC) today! <img alt="Coding" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
 
