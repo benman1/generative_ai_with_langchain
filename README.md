@@ -53,6 +53,8 @@ You can install your local environment with conda (recommended) or pip. The envi
 
 If you have any problems with the environment, please raise an issue, where you show the error you got. If you feel confident, please go ahead and create a pull request.
 
+On Windows, some people have been experiencing difficulties with conda and pip (because of readline and ncurses). If that's the case for you, please have a look at WSL or use the Docker installation. If you have any problems with the environment, please raise an issue, where you show the error you got. If you feel confident, please go ahead and create a pull request.
+
 For pip and poetry, make sure you install pandoc in your system. On MacOS use brew:
 ```bash
 brew install pandoc
