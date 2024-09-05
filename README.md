@@ -157,6 +157,22 @@ To run the code validation in ruff, please run
 ruff check .
 ```
 
+## Code by Chapters
+In the following table, you can find links to the directories in this repository. Each directory contains further links to python scripts and to notebooks. We'll also link to platforms such as Google Colab and Kaggle/Gradient Notebooks. 
+
+| Chapter	| Directory |
+|-----------|--------|
+| 01, What Is Generative AI | no code examples  |
+| 02, LangChain for LLM Apps |   no code examples  | 
+| 03, Getting Started with LangChain |  [directory](chapter3) |  
+| 04, Building Capable Assistants |   [directory](chapter4)    |    
+| 05, Building a Chatbot like ChatGPT | [directory](chapter5)   |    
+| 06, Developing Software with Generative AI | [directory](chapter6) |  
+| 07, LLMs for Data Science |      [directory](chapter7)        |    
+| 08, Customizing LLMs and Their Output |      [directory](chapter8)    |    
+| 09, Generative AI in Production |     [directory](chapter9)      |     
+| 10, The Future of Generative Models |   no code examples     |   
+
 # Generative AI with LangChain 
 Create generative AI apps with LangChain.
 
@@ -166,6 +182,7 @@ ChatGPT and the GPT models by OpenAI have brought about a revolution not only in
 
 Unlock the full potential of LLMs within your projects as you navigate through guidance on fine-tuning, prompt engineering, and best practices for deployment and monitoring in production environments. Whether you're building creative writing tools, developing sophisticated chatbots, or crafting cutting-edge software development aids, this book will be your roadmap to mastering the transformative power of generative AI with confidence and creativity.
 
+This book is a comprehensive introduction to LLMs and LangChain, demystifying the basic mechanics of LangChain, its functionalities, and the myriad of applications it can be integrated into.
 
 ## Key Takeaways
 - Understand LLMs, their strengths and limitations
@@ -178,26 +195,7 @@ Unlock the full potential of LLMs within your projects as you navigate through g
 - Deploy LLMs as a service with LangChain and apply evaluation strategies
 - Privately interact with documents using open-source LLMs to prevent data leaks
 
-## Outline and Chapter Summary
-
-This book is a comprehensive introduction to LLMs and LangChain, demystifying the basic mechanics of LangChain, its functionalities, and the myriad of applications it can be integrated into.
-
-In the following table, you can find links to the files (directories) in this repository, and to notebook execution platforms such as Google Colab and Kaggle/Gradient Notebooks. 
-
-| Chapter	| Files | Colab	 | Kaggle	| Gradient |
-|-----------|--------|--------|-----------|----------|
-| 01, What Is Generative AI |     |        | | |
-| 02, LangChain for LLM Apps |     |        | | |
-| 03, Getting Started with LangChain |   |        | | |
-| 04, Building Capable Assistants |       |        | | |
-| 05, Building a Chatbot like ChatGPT |    |        | | |
-| 06, Developing Software with Generative AI |  |        | | |
-| 07, LLMs for Data Science |              |        | |  |
-| 08, Customizing LLMs and Their Output |          |        | | |
-| 09, Generative AI in Production |           |        | | |
-| 10, The Future of Generative Models |        |        | | |
-
-> If you feel this book is for you, get your [copy](https://amzn.to/3IZevQC) today! <img alt="Coding" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
+If you feel this book is for you, get your [copy](https://amzn.to/3IZevQC) today! <img alt="Coding" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
 
 ## Get to know the Author
 _Ben Auffarth_ A seasoned data science leader with a background and Ph.D. in computational neuroscience. Ben has analyzed terabytes of data, simulated brain activity on supercomputers with up to 64k cores, designed and conducted wet lab experiments, built production systems processing underwriting applications, and trained neural networks on millions of documents. He’s the author of the books Machine Learning for Time Series and Artificial Intelligence with Python
