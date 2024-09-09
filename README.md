@@ -202,7 +202,7 @@ There's a [docker](https://www.docker.com/) file for the environment as well. It
 
 ```bash
 docker build -t langchain_ai .
-docker run -d -p 8888:8888 langchain_ai
+docker run -it -p 8888:8888 langchain_ai
 ```
 
 You should be able to find the notebook in your browser at [http://localhost:8888](http://localhost:8888).
