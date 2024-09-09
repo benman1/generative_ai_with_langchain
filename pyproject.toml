@@ -8,16 +8,56 @@ authors = [
 readme = "README.md"
 repository = "https://github.com/benman1/generative_ai_with_langchain"
 keywords = ["llms", "langchain", "ai", "chatgpt", "gpt", "openai", "huggingface", "claude3", "claude", "gemini"]
-dynamic = ["dependencies"]
 
 [pylint.FORMAT]
 max-line-length = 120
 
-[tool.setuptools.dynamic]
-dependencies = {file = ["requirements.txt"]}
-
 [tool.poetry.dependencies]
 python = "^3.11"
+accelerate = "0.33.0"
+apify-client = "1.6.4"
+arxiv = "2.1.0"
+duckduckgo_search = "5.2.1"
+faiss-cpu = "1.8.0"
+google-api-python-client = "2.124.0"
+google-cloud-aiplatform = "1.60.0"
+google-generativeai = "0.4.1"
+gpt4all = "2.3.2"
+gradio = "3.50.2"
+huggingface-hub = "0.24.5"
+jupyter = "~1.0"
+lanarky = {version = "0.8.6", python = ">=3.11,<3.12"}
+langchain-anthropic = "0.1.4"
+langchain-chroma = "0.1.2"
+langchain-cli = "0.0.21"
+langchain-cohere = "0.1.1"
+langchain-core = "0.1.42 "
+langchain-experimental = "0.0.55"
+langchain-google-genai = "1.0.1"
+langchain-google-vertexai = "0.1.2"
+langchain-openai = "0.1.1"
+langchain = {extras = ["docarray"], version = "0.1.13"}
+langchainhub = "0.1.20"
+langserve = {extras = ["all"], version = "0.0.51"}
+numexpr = "2.10.0"
+opencv-python = "4.9.0.80"
+pandoc = "1.1.0"  # needs system install as well!
+pdf2image = "1.17.0"
+"pdfminer.six" = "20231228"
+pikepdf = "8.15.1"
+pillow_heif = "0.16.0"
+pymupdf = "1.24.1"
+pypdf = "4.1.0"
+replicate = "0.30.1"
+ruff = "0.3.4"
+sentence-transformers = "2.6.1"
+streamlit = "1.37.0"
+tiktoken = "0.6.0"
+unstructured = {version = "0.15.0", python=">=3.11,<3.13"}
+wikipedia = "1.4.0"
+wolframalpha = "5.0.0"
+torch = {version = "~2.2.2", python=">=3.11,<3.13"}
+
 
 [tool.ruff]
 select = [
@@ -61,10 +101,11 @@ line-length = 99
 # Allow unused variables when underscore-prefixed.
 dummy-variable-rgx = "^(_+|(_+[a-zA-Z0-9_]*[a-zA-Z0-9]+?))$"
 
-# Assume Python 3.10.
-target-version = "py310"
+# Assume Python 3.11.
+target-version = "py311"
 
 [tool.ruff.mccabe]
 # Unlike Flake8, default to a complexity level of 10.
 max-complexity = 10
+
 
