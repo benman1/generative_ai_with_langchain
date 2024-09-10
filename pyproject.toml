@@ -1,6 +1,6 @@
-[project]
+[tool.poetry]
 name = "generative-ai-with-langchain"
-version = "0.1.0"
+version = "0.2.0"
 description = "Build large language model (LLM) apps with Python, ChatGPT and other models.."
 authors = [
     "Ben Auffarth <auffarth@gmail.com>",
@@ -8,13 +8,9 @@ authors = [
 readme = "README.md"
 repository = "https://github.com/benman1/generative_ai_with_langchain"
 keywords = ["llms", "langchain", "ai", "chatgpt", "gpt", "openai", "huggingface", "claude3", "claude", "gemini"]
-dynamic = ["dependencies"]
 
 [pylint.FORMAT]
 max-line-length = 120
-
-[tool.setuptools.dynamic]
-dependencies = { file = ["requirements.txt"] }
 
 [tool.poetry.dependencies]
 # poetry doesn't seem to support dynamic dependencies - we have to keep this in sync with requirements.txt...
