@@ -153,12 +153,11 @@ All chapters rely on Python.
 Please note that Python 3.12 might not work (see [#11](/../../issues/11)).
 
 ### Environment
-You can install your local environment with conda (recommended) or pip. The environment configurations for conda and pip are provided. Please note that if you choose pip as you installation tool, you might need additional tweaking.
+You can install your local environment with conda (recommended) or pip. The environment configurations for conda, pip, and poetry are provided. They all have been tested on MacOS. Please note that if you choose pip as you installation tool, you might need additional installation of system dependencies.
 
 If you have any problems with the environment, please raise an issue, where you show the error you got. If you feel confident, please go ahead and create a pull request.
 
 On Windows, some people have been experiencing difficulties with conda and pip (because of readline and ncurses). If that's the case for you, please have a look at [WSL](https://learn.microsoft.com/en-us/windows/wsl/install) or use the Docker installation. Some people on Winodws reported they [needed](https://stackoverflow.com/questions/73969269/error-could-not-build-wheels-for-hnswlib-which-is-required-to-install-pyprojec/76245995#76245995) to install Visual Cpp Build Tools. In any case, if you have any problems with the environment, please raise an issue, where you show the error you got. If you feel confident that you found an improvement, please go ahead and create a pull request.
-
 
 For pip and poetry, make sure you install pandoc in your system. On MacOS use brew:
 ```bash
