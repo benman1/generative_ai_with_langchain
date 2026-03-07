@@ -23,11 +23,10 @@ Each notebook can be run as a standalone example. For detailed instructions, see
 
 ### FastAPI Deployment
 
-The FastAPI example demonstrates how to create a web service with both standard REST endpoints and WebSocket support for streaming responses. To run:
+The FastAPI example demonstrates how to create a web service with both standard REST endpoints and WebSocket support for streaming responses. To run (from root):
 
 ```bash
-cd fastapi
-python main.py
+PYTHONPATH=. python chapter9/fastapi/main.py
 ```
 
 Then visit http://localhost:8000 in your browser.
