@@ -9,7 +9,7 @@ Please make sure you set up your environment with pip, conda, poetry, or docker!
 | Code understanding | [notebook](code_understanding.ipynb)  | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/benman1/generative_ai_with_langchain/blob/second_edition/chapter7/code_understanding.ipynb) | [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/new) |
 | Build a RAG on a documentation website | [notebook](langchain_rag.ipynb)  | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/benman1/generative_ai_with_langchain/blob/second_edition/chapter7/langchain_rag.ipynb) | [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/new) |
 | Example of data analysis | [notebook](data_science.ipynb)  | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/benman1/generative_ai_with_langchain/blob/second_edition/chapter7/data_science.ipynb) | [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/new) |
-| Interactive GUI for data analysis  |  [python script](app.py)   |  x      |
+| Interactive GUI for data analysis  |  [python script](data_science/app.py)   |  x      |
 | Software development project |  [directory](software_development)   |  x      |
 
 

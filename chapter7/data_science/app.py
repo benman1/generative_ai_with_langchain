@@ -5,7 +5,7 @@ Run like this:
 """
 import streamlit as st
 
-from data_science.agent import create_agent, query_agent
+from chapter7.data_science.agent import create_agent, query_agent
 
 st.title("👨‍💻 Chat with your CSV")
 
@@ -17,6 +17,6 @@ query = st.text_area("Insert your query")
 
 if st.button("Submit Query", type="primary"):
     assert data_file is not None
-    agent = create_agent(data_file.getvalue().decode())
+    agent = create_agent(data_file.read())
     response = query_agent(agent=agent, query=query)
     st.write(response)
