@@ -4,7 +4,7 @@ Adapted from https://github.com/ajndkr/lanarky/blob/main/examples/app/conversati
 from config import set_environment
 from fastapi import FastAPI
 from lanarky import LangchainRouter
-from langchain.chains import ConversationChain
+from langchain_classic.chains import ConversationChain
 from langchain_openai.chat_models import ChatOpenAI
 from starlette.requests import Request
 from starlette.templating import Jinja2Templates

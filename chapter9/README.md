@@ -36,11 +36,11 @@ Then visit http://localhost:8000 in your browser.
 The Ray examples show how to build and serve a searchable index using distributed computing:
 
 ```bash
-cd ray
+
 # First build the index
-python build_index.py
+PYTHONPATH=. python chapter9/ray/build_index.py
 # Then serve it
-python serve_index.py
+PYTHONPATH=. python chapter9/ray/serve_index.py
 ```
 
 Access the API at http://localhost:8000/?query=your+search+query
@@ -54,7 +54,7 @@ The observability examples demonstrate how to implement monitoring for LLM appli
 python prompt_tracking.py
 
 # For agent tracing
-python tracing.py
+PYTHONPATH=. python chapter9/tracing.py
 ```
 
 
