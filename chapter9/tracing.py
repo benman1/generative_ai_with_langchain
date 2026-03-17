@@ -3,14 +3,23 @@ import subprocess
 from urllib.parse import urlparse
 
 from config import set_environment
-from langchain.agents import AgentType, initialize_agent
-from langchain_core.tools import StructuredTool
-from langchain_openai.chat_models import ChatOpenAI
+from langchain_classic.agents import AgentExecutor, create_openai_tools_agent
+from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
+from langchain_core.tools import tool
+from langchain_openai import ChatOpenAI
 from pydantic import HttpUrl
 
 set_environment()
 
+prompt = ChatPromptTemplate.from_messages(
+    [
+        ("system", "You are a network assistant. Use tools to check latency."),
+        ("human", "{input}"),
+        MessagesPlaceholder(variable_name="agent_scratchpad"),
+    ]
+)
 
+@tool
 def ping(url: HttpUrl, return_error: bool) -> str:
     """Ping the fully specified url. Must include https:// in the url."""
     hostname = urlparse(str(url)).netloc
@@ -23,19 +32,17 @@ def ping(url: HttpUrl, return_error: bool) -> str:
     return output
 
 
-# alternatively annotate the ping() function with @tool
-ping_tool = StructuredTool.from_function(ping)
-
-
-llm = ChatOpenAI(model="gpt-3.5-turbo-0613", temperature=0)
-agent = initialize_agent(
-    llm=llm,
-    tools=[ping_tool],
-    agent=AgentType.OPENAI_MULTI_FUNCTIONS,
-    return_intermediate_steps=True,  # IMPORTANT!
+tools = [ping]
+llm = ChatOpenAI(model="gpt-5-nano", temperature=0)
+agent = create_openai_tools_agent(llm, tools, prompt)
+agent_executor = AgentExecutor(
+    agent=agent, tools=tools, verbose=True, return_intermediate_steps=True
 )
 
-result = agent("What's the latency like for https://langchain.com?")
+result = agent_executor.invoke(
+    {"input": "What's the latency like for https://langchain.com?"}
+)
+
 print(result)
 
 if __name__ == "__main__":

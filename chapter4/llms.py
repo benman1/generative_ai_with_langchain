@@ -1,6 +1,6 @@
 """Loading LLMs and Embeddings."""
-from langchain.embeddings import CacheBackedEmbeddings
-from langchain.storage import LocalFileStore
+from langchain_classic.embeddings import CacheBackedEmbeddings
+from langchain_classic.storage import LocalFileStore
 from langchain_groq import ChatGroq
 from langchain_openai import OpenAIEmbeddings
 

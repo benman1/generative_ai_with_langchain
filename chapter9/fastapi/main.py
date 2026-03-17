@@ -6,7 +6,7 @@ from fastapi import FastAPI, Request, WebSocket, WebSocketDisconnect
 from fastapi.templating import Jinja2Templates
 from fastapi.staticfiles import StaticFiles
 from fastapi.responses import HTMLResponse
-from langchain.callbacks import AsyncIteratorCallbackHandler
+from langchain_classic.callbacks import AsyncIteratorCallbackHandler
 from langchain_anthropic import ChatAnthropic
 from langchain_core.messages import HumanMessage
 import uvicorn
@@ -20,8 +20,8 @@ set_environment()
 app = FastAPI()
 
 # Setup templates and static files
-templates = Jinja2Templates(directory="templates")
-app.mount("/static", StaticFiles(directory="static"), name="static")
+templates = Jinja2Templates(directory="chapter9/fastapi/templates")
+app.mount("/static", StaticFiles(directory="chapter9/fastapi/static"), name="static")
 
 # Initialize a non-streaming LLM for the regular API endpoints
 regular_llm = ChatAnthropic(
@@ -83,10 +83,10 @@ async def websocket_endpoint(websocket: WebSocket):
 
             # Create a streaming model instance with the callback handler for this specific request
             streaming_llm = ChatAnthropic(
-                model="claude-3-sonnet-20240229",
+                model="claude-sonnet-4-6",
                 temperature=0,
                 callbacks=[callback_handler],
-                streaming=True
+                streaming=True,
             )
 
             # Start generation in a background task

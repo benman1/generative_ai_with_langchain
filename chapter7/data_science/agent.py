@@ -1,16 +1,19 @@
 """Agent functionality."""
+from typing import IO
+
 import pandas as pd
 from config import set_environment
-from langchain.agents import AgentExecutor
+from langchain_classic.agents import AgentExecutor
 from langchain_core.prompts import PromptTemplate
 from langchain_experimental.agents.agent_toolkits import create_pandas_dataframe_agent
 from langchain_openai import ChatOpenAI
 
-from data_science.prompts import PROMPT
+from chapter7.data_science.prompts import PROMPT
 
 set_environment()
 
-def create_agent(csv_file: str) -> AgentExecutor:
+
+def create_agent(csv: str | IO[bytes]) -> AgentExecutor:
     """
     Create data agent.
 
@@ -21,8 +24,10 @@ def create_agent(csv_file: str) -> AgentExecutor:
         An agent executor.
     """
     llm = ChatOpenAI()
-    df = pd.read_csv(csv_file)
-    agent = create_pandas_dataframe_agent(llm, df, verbose=True)
+    df = pd.read_csv(csv)
+    agent = create_pandas_dataframe_agent(
+        llm, df, verbose=True, allow_dangerous_code=True, 
+    )
     return agent
 
 def query_agent(agent: AgentExecutor, query: str) -> str:

@@ -23,11 +23,10 @@ Each notebook can be run as a standalone example. For detailed instructions, see
 
 ### FastAPI Deployment
 
-The FastAPI example demonstrates how to create a web service with both standard REST endpoints and WebSocket support for streaming responses. To run:
+The FastAPI example demonstrates how to create a web service with both standard REST endpoints and WebSocket support for streaming responses. To run (from root):
 
 ```bash
-cd fastapi
-python main.py
+PYTHONPATH=. python chapter9/fastapi/main.py
 ```
 
 Then visit http://localhost:8000 in your browser.
@@ -37,11 +36,11 @@ Then visit http://localhost:8000 in your browser.
 The Ray examples show how to build and serve a searchable index using distributed computing:
 
 ```bash
-cd ray
+
 # First build the index
-python build_index.py
+PYTHONPATH=. python chapter9/ray/build_index.py
 # Then serve it
-python serve_index.py
+PYTHONPATH=. python chapter9/ray/serve_index.py
 ```
 
 Access the API at http://localhost:8000/?query=your+search+query
@@ -55,7 +54,7 @@ The observability examples demonstrate how to implement monitoring for LLM appli
 python prompt_tracking.py
 
 # For agent tracing
-python tracing.py
+PYTHONPATH=. python chapter9/tracing.py
 ```
 
 
