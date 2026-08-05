@@ -1,33 +1,23 @@
 <h1 align="center">
-Generative AI with LangChain, Second Edition</h1>
-<p align="center">This is the code repository for <a href ="https://www.packtpub.com/en-us/product/generative-ai-with-langchain-second-edition-9781837022014"> Generative AI with LangChain, Second Edition</a>, published by Packt.
+Generative AI with LangChain and LangGraph, Third Edition</h1>
+<p align="center">This is the code repository for <b>Generative AI with LangChain and LangGraph, Third Edition</b>, to be published by Packt.
 </p>
 
 <h2 align="center">
-Build production ready LLM applications and advanced agents using Python and LangGraph 
+Build production-ready LLM applications and advanced agents with Python, LangChain v1 and LangGraph
 </h2>
 <p align="center">
 Ben Auffarth, Leonid Kuligin</p>
 
 <p align="center">
    <a href="https://discord.gg/YQbX5rsc74" alt="Discord" title="Learn more on the Discord server"><img width="32px" src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://packt.link/free-ebook/9781837022014"><img width="32px" alt="Free PDF" title="Free PDF" src="https://cdn-icons-png.flaticon.com/512/4726/4726010.png"/></a>
- &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://packt.link/gbp/9781837022014"><img width="32px" alt="Graphic Bundle" title="Graphic Bundle" src="https://cdn-icons-png.flaticon.com/512/2659/2659360.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://amzn.to/4dErkya"><img width="32px" alt="Amazon" title="Get your copy" src="https://cdn-icons-png.flaticon.com/512/15466/15466027.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 <details open> 
   <summary><h2>About the book</summary>
-<a href="https://www.packtpub.com/en-us/product/generative-ai-with-langchain-9781837022014">
-<img src="https://content.packt.com/B32363/cover_image_small.jpg" alt="Generative AI with LangChain, 2nd Edition (2025)" height="256px" align="right">
-</a>
+The third edition is rebuilt around <b>LangChain v1</b> and <b>LangGraph v1</b>, the first releases where the agent and graph APIs settled into a stable shape. It covers what it takes to move an LLM prototype into production: graph-based workflows you can inspect and resume, agents with explicit tool boundaries, retrieval that is measured rather than assumed, and the evaluation and observability layers that tell you whether any of it works.
 
-This second edition tackles the biggest challenge facing companies in AI today: moving from prototypes to production. Fully updated to reflect the latest developments in the LangChain ecosystem, it captures how modern AI systems are developed, deployed, and scaled in enterprise environments. This edition places a strong focus on multi-agent architectures, robust LangGraph workflows, and advanced retrieval-augmented generation (RAG) pipelines.
-You'll explore design patterns for building agentic systems, with practical implementations of multi-agent setups for complex tasks. The book guides you through reasoning techniques such as Tree-of -Thoughts, structured generation, and agent handoffs—complete with error handling examples. Expanded chapters on testing, evaluation, and deployment address the demands of modern LLM applications, showing you how to design secure, compliant AI systems with built-in safeguards and responsible development principles. This edition also expands RAG coverage with guidance on hybrid search, re-ranking, and fact-checking pipelines to enhance output accuracy.
-Whether you're extending existing workflows or architecting multi-agent systems from scratch, this book provides the technical depth and practical instruction needed to design LLM applications ready for success in production environments.
+RAG coverage is expanded well past hybrid search and re-ranking into a failure taxonomy you can debug against, and a full human-in-the-loop project. Chapters on testing, evaluation and deployment address what changes when real users arrive, and every chapter ships runnable notebooks that work without a paid API key wherever that is possible.
+
 </details>
 <details open> 
   <summary><h2>Key Learnings</summary>
@@ -47,25 +37,19 @@ Whether you're extending existing workflows or architecting multi-agent systems 
   <details open>
 <summary><h2>Note to Readers</summary>
 
-Thank you for choosing "Generative AI with LangChain"! We appreciate your enthusiasm and feedback.
+Thank you for choosing "Generative AI with LangChain and LangGraph"! We appreciate your enthusiasm and feedback.
 
-Please note that we've released several updated versions of the book. Consequently, there are three different branches for this repository: 
-* [2nd edition](https://github.com/benman1/generative_ai_with_langchain/tree/second_edition) - this is for the 2nd edition of the book, corresponding to ver 0.3 of LangChain.
-* [softupdate](https://github.com/benman1/generative_ai_with_langchain/tree/softupdate) - this is for the soft update of the book (2024), corresponding to ver 0.1.13 of LangChain.
-* [main](https://github.com/benman1/generative_ai_with_langchain/tree/main) - this is the original version of the book (December 2023).
+The book has been through several editions, and each has its own branch:
+* [third_edition](https://github.com/benman1/generative_ai_with_langchain/tree/third_edition) - **this branch**, for the 3rd edition, targeting **LangChain v1.0 and above** and LangGraph v1.
+* [second_edition](https://github.com/benman1/generative_ai_with_langchain/tree/second_edition) - the 2nd edition, corresponding to LangChain 0.3.
+* [softupdate](https://github.com/benman1/generative_ai_with_langchain/tree/softupdate) - the soft update of the book (2024), corresponding to LangChain 0.1.13.
+* [main](https://github.com/benman1/generative_ai_with_langchain/tree/main) - the original version of the book (December 2023).
+
+**LangChain v1 is a breaking change.** `langchain.retrievers` and `langchain.chains` no longer exist; compression retrievers, rerankers and the legacy chains moved to the separate `langchain-classic` package, which `pip install langchain` does not pull in. `langchain-community` is archived and `langchain-experimental` is being sunset: both still import, both warn. Code from the 2nd edition branch will not run unchanged.
 
 Please refer to the version that you are interested in or that corresponds to your version of the book.
 </details>
 
-<details open>
-<summary><h3>Download a free PDF <img alt="Coding" height="25" width="40" src="https://emergency.com.au/wp-content/uploads/2021/03/free.gif"></summary>
-Download a free PDF <img alt="Coding" height="25" width="40" src="https://emergency.com.au/wp-content/uploads/2021/03/free.gif">
-
-_If you have already purchased an up-to-date print or Kindle version of this book, you can get a DRM-free PDF version at no cost. Simply click on the link to claim your free PDF._
-[Free-Ebook](https://packt.link/free-ebook/9781837022014) <img alt="Coding" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
-
-We  provide a PDF file that has color images of the screenshots/diagrams used in this book at [GraphicBundle](https://packt.link/gbp/9781837022014) <img alt="Coding" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
-</details>
 
 <details open>
 <summary><h3>Commitment</summary>
@@ -94,7 +78,7 @@ In the following table, you can find links to the directories in this repository
 | Chapter 1 | The Rise of Generative AI: From Language Models to Agents | [chapter1/](./chapter1) |
 | Chapter 2 | First Steps with LangChain | [chapter2/](./chapter2) |
 | Chapter 3 | Building Workflows with LangGraph | [chapter3/](./chapter3) |
-| Chapter 4 | Building Intelligent RAG Systems with LangChain | [chapter4/](./chapter4) |
+| Chapter 4 | Retrieval Augmented Generation | [chapter4/](./chapter4) |
 | Chapter 5 | Building Intelligent Agents | [chapter5/](./chapter5) |
 | Chapter 6 | Advanced Applications and Multi-Agent Systems | [chapter6/](./chapter6) |
 | Chapter 7 | Software Development and Data Analysis Agents | [chapter7/](./chapter7) |
