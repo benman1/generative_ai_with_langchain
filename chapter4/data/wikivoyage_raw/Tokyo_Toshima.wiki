@@ -1,0 +1,436 @@
+{{pagebanner|Toshima WV banner.jpg}}
+[[File:Tokyo_Wikivoyage_locator_maps_-_Toshima.png|120px|thumb|right|Location of Toshima in Tokyo]]
+'''Toshima''' (豊島) is a ward in northwest [[Tokyo]], [[Japan]]. This guide incorporates '''Ikebukuro''' (池袋), a section of Toshima and one of the three major metropolitan sub-centers on the Yamanote Line, along with [[Shinjuku]] and [[Shibuya]].
+
+==Understand==
+Toshima is, in some sense, the "real" Tokyo: while very central, it's notably short on historical landmarks or glitzy tourist attractions.  '''Ikebukuro''' in particular is a major transport hub nearly as large as Shinjuku, but somehow lacking all the cachet.  But, as so often in Japan, if you dig a little you'll discover all sorts of interesting, quirky places well off the tourist trail.
+
+=== Tourist office ===
+* {{listing
+| name=Toshima Tourist Information Center| url= | email=
+| address=Notoya building 3F 1-19-7 Nishi-Ikebukuro|lat=35.73121 | long=139.70962 | directions=
+| phone=+81 3-3985-8311 | tollfree= | fax=+81 3-3985-8315
+| hours= 09:00-18:00, holiday 10:00-17:00| price=
+| content=
+}}
+
+The local tourist association has a [http://www.kanko-toshima.jp/en/index.html Japanese-only guide site].
+
+==Get in==
+{{Mapframe|35.72884|139.71508|width=450|height=300}}
+{{Mapshape}}
+
+===By plane===
+The fastest way to get from [[Narita Airport]] to Ikebukuro is to take a '''Keisei Skyliner''' train to Nippori and change to a JR Yamanote Line train. This takes about 60 minutes and costs ¥2560. JR's '''Narita Express''' makes many runs to Ikebukuro, but they take longer (95 minutes) and cost more (¥4010 round-trip only, as of 2015). Some Narita Express trains terminate at Shinjuku and do not continue to Ikebukuro; in this case, it's suggested to exit the Narita Express at '''Shibuya''', where you can pick up a commuter train on the same platform that will bring you to Ikebukuro in two stops. (Switching at Shinjuku is not recommended as you will likely have to change platforms.)
+
+The budget option is to take the Keisei Line limited express from Narita Airport to Nippori, and change there to the Yamanote line (95 minutes, ¥1160). During the evening hours, faster '''Access Tokkyu''' commuter trains from Narita Airport to Nippori shave 20 minutes off the overall travel time against a ¥200 additional fare.
+
+Airport Limousine buses also make runs from Narita Airport to Ikebukuro's Hotel Metropolitan and Sunshine City Prince Hotel, the latter located right next to the Sunshine 60 tower and shopping complex (about 2 hours, ¥3000).
+
+From Haneda Airport to Ikebukuro, take the Keikyu Railway to Shinagawa and change to the JR Yamanote Line (55 minutes, ¥650). Limousine Buses run from Haneda to the same hotels mentioned above (about one hour, ¥1200).
+
+===By train===
+[[File:Ikebukuro Station.jpg|thumb|Ikebukuro Station at night]]
+
+Ikebukuro is served by the '''JR Yamanote''', '''Saikyo''' and '''Shonan-Shinjuku''' lines. The ''Super View Odoriko'' (スーパービュー踊り子) Limited Express service departs each morning for [[Atami]], [[Itō]] and [[Shimoda]], and returns in the afternoon.
+
+Two private railway lines start from Ikebukuro. The '''Seibu Ikebukuro Line''' has departures for [[Tokorozawa]], [[Irumashi]] and [[Hanno]], with ''Chichibu'' (ちちぶ) Limited Express trains running all the way to the national park in [[Chichibu-Tama-Kai National Park|Chichibu]]. The '''Tobu Tojo Line''' runs trains to [[Kawagoe]] and [[Ogawamachi]].
+
+===By subway===
+The Tokyo Metro Marunouchi Line starts here, and the Yurakucho Line for [[Tokyo/Ginza|Ginza]], Shin-Kiba and Wakoshi stops here. The Fukutoshin Line connects Ikebukuro to [[Tokyo/Shinjuku|Shinjuku]] and [[Tokyo/Shibuya|Shibuya]], paralleling the Yamanote Line.
+
+Both the Yurakucho and Fukutoshin subway lines offer through-runs to the Seibu Ikebukuro and Tobu Tojo lines (at Kotake-Mukaihara and Wakoshi stations, respectively).
+
+==Get around==
+The '''Toden Arakawa line''' (aka Sakura Tram), the last streetcar line in Tokyo, putters through Toshima starting from Waseda University (just across the ward border with [[Tokyo/Shinjuku|Shinjuku]]), through Zoshigaya, Otsuka, and all the way to Minowa at the northern edge of [[Tokyo/Taito|Taito]].
+
+==See==
+
+[[File:Zoshigaya-inside-april2013.jpg|thumb|Zoshigaya Cemetery]]
+There is, quite frankly, very little in the way of attractions for tourists in Toshima.
+
+* {{see
+| name=Zōshigaya Cemetery | alt=雑司が谷霊園 Zōshigaya-reien | url= | email=
+| address=Minami-Ikebukuro 4-chome | lat=35.722 | long=139.72 | directions=near Higashi-Ikebukuro station
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikidata=Q1457455
+| content=The final resting place of Lafcadio Hearn is about the most exciting attraction in this neck of the woods.
+}}
+
+[[File:BanchouzanKouganji1.jpg|thumb|Kouganji]]
+* {{see
+| name=Kōgan-ji Temple | alt=高岩寺 | url= | email=
+| address=3-35-2 Sugamo | lat=35.735703 | long=139.735647| directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikidata=Q6587321
+| content=This small temple in Sugamo is known for two statues: ''Togenuki Jizō'', who heals sick children, and the boddhisattva ''Kannon'', who will cure your pains if you wash themagical appropriate part of the statue. More morbidly, you can also pray to Kannon for a swift and painless death, so you will not be a burden to your relatives in your old age. Visitors pray ''Enmei Jizōson'' for their health too. The way to pray is unusual. People drink a small Japanese paper. A small picture of a stone statue of ''Enmei Jizōson'' is drawn on it.
+}}
+* {{see
+| name=Myōkō-ji Temple | alt=妙行寺 | url= | email=
+| address= | lat= | long= | directions=15 min from JR Sugamo station
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikidata=Q11447015
+| content=According to legend, the grave of Lady Oiwa (''Oiwa-san'') in ''Yotsuya Kaidan'', Japan's best-known ghost story and a direct inspiration for the ''Ring'' horror movies, is in this temple. In a nutshell, the beautiful Oiwa was disfigured, divorced and killed, and then comes back to haunt the people who wronged her.
+}}
+
+[[File:Honmyoji temple sugamo.JPG|thumb|Honmyoji temple]]
+*{{see
+| name=Honmyōji Temple | alt=本妙寺 | url= | email=
+| address=5-35-6 Sugamo | lat=35.739659 | long=139.735108 | directions=10 min from JR Sugamo station
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=This temple is known for a fire called ''Meireki-no-Taika'', an inferno 400 years ago which killed over 100,000 people. It is said that this fire broke out in Honmyōji. There are also some tombs of famous people in this temple. A Japanese swordman Chiba Shūsaku and a political office leader Tōyama Kinshirō, for example.
+}}
+* {{see
+| name=Hōmyōji | alt=法明寺 | url=http://www.homyoji.or.jp/index.html | email=
+| address= | lat=35.724361 | long=139.71375 | directions=3-18-18 Minamiikebukuro
+| phone=+81 3-3971-4383 | tollfree= | fax=
+| hours= | price=
+| wikidata=Q11555197
+| content=Famous Japanese temple built in 810. Features the statue of Kishimojin (鬼子母神像) who is a Japanese God of fertility. Visitors go to Hōmyōji to pray for their children's birth, growth and security. The Kishimojin figure typically take the form of the devil, but this statue holds a baby, and the figure is beautiful. In this temple the Oeshiki-Taisai festival (御会式大祭) is held from October 16 to October 18 every year.
+}}
+* {{see
+| name=Sunshine 60 | alt= | url=http://www.sunshinecity.co.jp/ | email=
+| address=Ikebukuro | lat=35.72935 | long=139.71821 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q602942
+| content=Sunshine 60 was once the tallest building in Japan and it remains the most prominent building within the Sunshine City complex. The surrounding Sunshine City complex includes shops, restaurants, an aquarium, and an observatory at the top of the Sunshine 60 building.
+}}
+* {{see
+| name=Tokyo Metropolitan Theatre | alt=東京芸術劇場| url=https://www.geigeki.jp/ | email=
+| address=on the west side of the Ikebukuro train/subway station | lat=35.729722 | long=139.708056 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Offers various exhibits and concerts behind the impressive glass facade.
+}}
+*{{see
+| name=Tokyo Shaheed Minar | alt=ショヒド・ミナール | url= | email=
+| address=Ikebukuro | lat= | long= | directions=at the west side of Ikebukuro train/subway station, in the Nishiguchi (West Gate) park, in front of Tokyo Metropolitan Theatre
+| phone= | tollfree=
+| hours= | price=
+| content=A beautiful monument, symbolizing love to the mother language. It is based on the mother language movement, that originated in Dhaka, Bangladesh in 1952, followed by the UNESCO declaration of International Mother Language Day (21 February). It was a present from Bangladesh to the Japanese people, in 2005, recognizing Tokyo Boishakhi Mela (Bangladesh New Year Festival), organized every year in mid April, by Japan Bangladesh Society.
+}}
+
+==Do==
+[[File:Namco NamjaTown front.jpg|thumb|Namco Namja Town at Sunshine City]]
+*{{do
+| name=Ikefukurō | alt=いけふくろう | url= | email=
+| address=Ikebukuro | lat=35.72691 | long=139.711505 | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=A statue of an owl (fukurō) near the east exit. Many people use this as a meeting spot.
+}}
+*{{do
+| name=Namja Town | alt=ナンジャタウンホーム | url=http://www.namja.jp/ | email=
+| address=Ikebukuro | lat=35.728917 | long=139.720120 | directions=in Sunshine 60 on 2 & 3F
+| phone= | tollfree=
+| hours=10:00-22:00 | price=
+| wikidata=Q5364305
+| content=The Namja Town has many attractions. For example there are some Japanese style haunted houses, interactive 1964 shooting games, egg-raising game (the whole process is quite similar to raising a child, where you will need to take the egg to toilets, restaurants, and hospitals, until after a certain point. Then you can take the eggs to play games. This is quite a 'couply' game to do). And there are big food shops: the gyoza stadium, the ice cream city, and the dessert empire of Tokyo. The ¥3,900 "Namja Passport" tickets (¥3,300 for under 18) admits you to 14 attractions and the food shops. Night passport, which you can get for ¥2,500 (¥2,000 for under 18), is available after 17:00. But if you want to visit the food shops only, you buy the ¥300 "Namja Entry" tickets. The attractions cost from ¥600 to ¥1000 each.
+}}.
+**Namja Town is not very friendly to non-Japanese speakers. English translations are only present in few places and most of the game require you to answer a few questions, totally in Japanese. To fully enjoy this unique theme park, proficiency in Japanese language is important. That being said, you definitely can still have fun even if you only speak English.
+*{{do
+| name=Manten | alt=満天 | url=https://planetarium.konicaminolta.jp/manten/ | email=
+| address=Ikebukuro | lat=35.728883 | long=139.720185 | directions=10 min from JR Ikebukuro station
+| phone= | tollfree=
+| hours= | price=¥1000-1300
+| content=There is a planetarium called ''Manten'' (meaning "full sky") in Sunshine City. This planetarium shows three types of programs and repeats them in a day. These three types of programs are called The Planetarium Program, The CG Planetarium Program, The Healing Program. The Planetarium Program shows some themes of programs with Japanese famous musicians. The CG Planetarium Program shows science programs. The Healing Program shows are more intended for relaxing to. Some aromas are changed when scenes are changed. These programs are changed regularly.
+}}
+
+==Buy==
+*{{do
+| name=Animate | url= | email=
+| address= Ikebukuro | lat= | long= | directions=next door to K-Books, down the street from Mandarake, and across the highway from the Sunshine 60
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Lots of new anime/manga-related merchandise.
+}}
+*{{do
+| name=K-Books | url= | email=
+| address= Ikebukuro | lat= | long= | directions=next door to the Animate, down the block from Mandarake, across the highway from the Sunshine 60
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Good selection of anime, manga, and posters.
+}}
+*{{do
+| name=Mandarake | url= | email=
+| address=Lions Mansion Ikebukuro B1F, 3-15-2 Higashi-ikebukuro | lat= | long= | directions=Not far from the Sunshine 60
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=One of the Mandarake chain of used anime/manga goods stores, the Ikebukuro branch specializes in doujinshi, in particular doujinshi for girls.
+}}
+*Two of Tokyo's major department store/railroad conglomerate chains, '''Seibu''' and '''Tobu''', are based in Ikebukuro and the stores here were not long ago the largest in the world. Paradoxically, Seibu, which roughly means "west Tokyo", is on the east side of the station, while Tobu, which means "east Tokyo", is on the west side.
+* {{buy
+| name=Bic Camera | url=http://www.biccamera.co.jp/shoplist/p_ikebukuro.html | email=
+| address= Ikebukuro | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=This discount retailer's flagship store on the east side of the station, with several branches nearby.
+}}
+* {{buy
+| name=Junkudō | alt=ジュンク堂 | url=http://www.junkudo.co.jp/ | email=
+| address=2-15-5 Minami-ikebukuro | lat= | long= | directions=leave the train station by the Seibu exit; turn right and go down the street a couple of blocks - Junkudo is half a block up from the tall building with a
+| phone= | tollfree=
+| hours= | price=
+| content=A 9-story bookstore (top floor has English titles).
+}}
+* {{buy
+| name=Sugamo | alt=巣鴨 | url= | email=
+| address= | lat=35.73899 | long=139.73101 | directions=on the JR Yamanote and Toei Mita lines
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Popularly known as "Grandma's [[Tokyo/Harajuku|Harajuku]]" (''obaachan no Harajuku''), and indeed most shops in the area do seem targeted towards an older clientèle. For the (rare) tourist, however, this means a plentiful supply of tea, pottery, kitchen implements and clothes in styles that went out of fashion 50 years ago. The area is at its liveliest on the 4th, 14th and 24th of each month when a street market is held.
+}}
+* {{buy
+| name=Maruji | alt=丸治 | url=http://www.sugamo-maruji.jp/ | email=
+| address=Sugamo 4-21-11 and three other outlets nearby | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=&yen;800 and up
+| content=Probably the most famous and successful shop in Sugamo, Maruji specializes in one thing: '''red underwear''' (赤パンツ ''aka-pantsu''). By energizing a pressure point below your navel, Maruji's crimson panties, boxers and long-johns will keep you warm and fill you with vigor &mdash; or so they say.
+}}
+
+==Eat==
+* {{eat
+| name=Konaya | alt=古奈屋 | url=http://www.konaya.ne.jp/ | email=
+| address=Sugamo 3-37-1 | lat= | long= | directions=
+| phone= | tollfree=
+| hours=M W-F 10:00-16:30, Sa Su 10:00-18:30 | price=
+| content=The original shop of restaurant chain renowned for its curry udon noodles. The noodles are cut by hand, the special curry stock is brewed for two days, and &yen;1210 will get you some mighty fine tasting udon.
+}}
+*{{eat
+| name=Akebono Sushi | url= | email=
+| address=1-9-23 Minami-Ikebukuru | lat= | long= | directions=
+| phone=+81 3-3984-4936 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+*{{eat
+| name=Fight Gyoza | alt=ファイト餃子 | url=https://www.white-gyouza.co.jp/branch/sugamo.html | email=
+| address=4-23-6 Sugamo | lat= | long= | directions=
+| phone=+81 3-3917-6261 | tollfree=
+| hours= | price=
+| content=Famous for deep-fried gyoza. So many people stand in a line in front of the restaurant.
+}}
+*{{eat
+| name=Souten | alt=蒼天 | url=https://yakitorisouten.com/ | email=
+| address=Otsuka 3-39-13 | lat=35.729629 | long=139.727369 | directions=JR Otsuka South Exit, cross the tram line, walk past the shrine, left then right; if you get to the junior high school, you've gone too far
+| phone=+81 3-5944-8105 | tollfree= | fax=
+| hours= | price=From ¥5,000
+| content=High-end yakitori. Five stick set from around &yen;1,600. Do try the chicken sashimi--outside the comfort zone for many visitors, but you may be pleasantly surprised. Extensive selection of nihonshu featuring Kozaemon. Its website has some English info.
+}}
+*{{eat
+| name=Tobu and Seibu basements | url= | email=
+| address= Ikebukuro | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Urban Japanese keep their grocery stores beneath their department stores. If you go to the B1 and B2 levels of the massive stores flanking the Ikebukuro station, you will find endless acres of raw and prepared food. Buy a bunch and take it back to your hotel fridge.
+}}
+*{{eat
+| name=Shakey's Pizza | url= | email=
+| address= Ikebukuro | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Down Sunshine-Dori on the way to Sunshine 60, on the left, there's a Shakey's Pizza. There are lunchtime buffets with great pizza the way only Japanese like to serve it.
+}}
+* {{eat
+| name=Ghiottone | alt=ギオットーネ | url=https://ghiottone.gorp.jp/ | email=
+| address=Nishi-Ikebukuro 3-27-1 | lat= | long= | directions=5 min walk from west exit
+| phone= | tollfree=
+| hours= | price=
+| content=Excellent pasta and salads, in portions that are ample for two. The crab spaghetti is very popular. No non-smoking tables.
+}}
+* {{eat
+| name=Malay-Chan | alt=マレーチャン | url=https://www.malaychan-satu.jp/ | email=
+| address=3-22-6 Nishi-Ikebukuro | lat= | long= | directions=locate the Metropolitan Art Space and the bus loop that services that area; walk to the curve of the loop, cross the main street (Geikijo dori) there and walk up a little street that winds left, then right; then walk about 2 blocks farther
+| phone= | tollfree=
+| hours= | price=
+| content=A small Malaysian restaurant on the west side of the train/subway station that is a little hard to find. Halal food.
+}}
+* {{eat
+| name=Mutekiya | alt=無敵家 | url=https://www.mutekiya.com/ | email=
+| address=Ikebukuro | lat= | long= | directions=on the east side of Ikebukuro, opposite Junkudo Bookstore
+| phone= | tollfree=
+| hours= | price=
+| content=Good ramen.
+}}
+* {{eat
+| name=Al-Flah | url=http://www.al-flah.com/ | email=
+| address= Ikebukuro | lat= | long= | directions=on the right-hand side of the Royal Hotel in Ikebukuro, on the 4th floor
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=A halal supermarket and restaurant that sells halal food, including vegetarian curries. The store also conveniently has a bollywood-movie section.
+}}
+* {{eat
+| name=Namja Town | url=http://www.namja.jp/ | email=
+| address= Ikebukuro | lat= | long= | directions=in Sunshine 60 on 2 & 3F
+| phone= | tollfree= | fax=
+| hours=10:00-22:00 | price=
+| content=Namja Town has some big food shops in Sunshin City– the gyoza studium, the ice cream city, and the dessert empire of Tokyo. Gyoza is a kind of Japanese food. The gyoza stadium collects gyozas of many famous gyoza restaurants in Japan. The ice cream city collects many kinds of ice creams in the world. The dessert empire of Tokyo collects some famous cakes. And it has events regularly. For example many kinds of pudding were collected before. Namja Town is exhilarating but incomprehensible if you don't speak Japanese. In the ice cream section, for example, there is a shop selling over 100 varieties of ice cream in single-serving cups, almost none of which have a single non-Japanese word on the label. Still, it's easy to try various gyoza by pointing at picture menus.
+}}
+
+==Drink==
+Ikebukuro has an extensive assortment of places to drink and get drunk. For sampling sake, JR Otsuka station area has a number of good choices.
+
+===Cafes===
+* {{drink
+| name=Sakura Cafe Ikebukuro | alt= | url=https://www.sakura-cafe.asia/ikebukuro/ | email=info@sakura-cafe.asia
+| address=2-40-7 Ikebukuro | lat= | long= | directions=6 min walk from Ikebukuro station
+| phone=+81 3-3971-2237 | tollfree=
+| hours=Open 24/7 | price=
+| content=Opened in 2008, one of Tokyo's largest open-air-terrace cafes with easy-going and relaxed style located at 1st floor of "Sakura Hotel Ikebukuro" which welcomes guests from over 110 countries every year. International atmosphere with 60 beers from around the world from ¥550, monthly changing snacks and meals from ¥300 also from a wide variety of countries, and coffee for ¥180.
+}}
+
+===Bars/clubs===
+
+===Cat cafes===
+
+==Sleep==
+===Budget===
+* {{sleep
+| name=Sakura Hotel Ikebukuro | url=http://www.sakura-hotel.co.jp/ikebukuro | email=info@sakura-hotel-ikebukuro.com
+| address=2-40-7 Ikebukuro | lat=35.73342 | long=139.70758 | directions=6 min walk from Ikebukuro station
+| phone=+81 3-3971-2237 | tollfree= | fax=
+| hours= | price=Single ¥6,800, dormitory ¥3,200
+| checkin= | checkout=
+| content=Various rooms are good for groups and private. All staff speak English.
+}}
+* {{sleep
+| name=Kimi Ryokan | alt=貴美旅館 | url=http://www.kimi-ryokan.jp/ | email=
+| address=2-36-8 Ikebukuro | lat= | long= | directions=8 min from JR Ikebukuro West Exit
+| phone=+81 3-3971-3766 | tollfree=
+| checkin= | checkout= | price=
+| content=This friendly if very tourist-oriented ''minshuku'' (no, it's not a ryokan) is an excellent option for first time travelers to Tokyo. It is reasonably priced (¥4500) and has English speaking staff. A nice way to spend your first night on a tatami.
+}}
+
+===Mid-range===
+* {{sleep
+| name=Hotel Metropolitan Tokyo Ikebukuro | alt=ホテルメトロポリタン東京池袋 | url=https://ikebukuro.metropolitan.jp/ | email=
+| address=1-6-1 Nishi-Ikebukuro | lat= | long= | directions=
+| phone=+81 3-3980-1111 | tollfree= | fax=+81 3-3980-5600
+| checkin= | checkout= | price=
+| content=A short walk away from Ikebukuro station, a decent 4-star hotel with nice, clean rooms and friendly staff who mostly speak fluent English. Limousine bus services are available to both Narita and Haneda airports.
+}}
+* {{sleep
+| name=Dai-ichi Inn Ikebukuro | alt=第一イン池袋 | url=https://www.hankyu-hotel.com/hotel/dh/ikebukuro | email=
+| address=1-42-8 Higashi-Ikebukuro | lat= | long= | directions=
+| phone=+81 3-3986-1221 | tollfree= | fax=+81 3-3982-4128
+| checkin= | checkout= | price=
+| content=A 1-minute walk from the station (take East Exit), right across from the back of Parco. In-room broadband internet, massage service, 24-hour convenience store, and many other amenities. TV channel list includes CNN. Some of the staff speak near-fluent English, others not so much.
+}}
+* {{sleep
+| name=Hotel Grand City | url=http://www.grand-city.gr.jp | email=
+| address=1-30-7 Higashi-Ikebukuro | lat= | long= | directions=5-minute walk towards Sunshine City
+| phone=+81 3-3984-5121 | tollfree= | fax=+81 3-3984-5127
+| hours= | price=
+| checkin= | checkout=
+| content=The staff don't speak English very well.
+}}
+*{{sleep
+| name=APA Hotel Tokyo Itabashi-ekimae | alt=アパホテル東京板橋駅前 | url=https://www.apahotel.com/hotel/syutoken/tokyo/tokyoitabashi/ | email=
+| address=4-47-1 Kami-Ikebukuro | lat= | long= | directions=
+| phone=+81 3-5974-8111 | tollfree=
+| checkin=15:00 | checkout=11:00 | price=
+| content=This three-star hotel is near the Itabshi Station, 3 min to Ikebukuro and 8 min to Shinjuku.
+}}
+
+==Connect==
+
+==Go next==
+{{routebox
+| image1=JR JY line symbol.svg
+| imagesize1=30
+| directionl1=E
+| majorl1=[[Tokyo/Ueno|Ueno]]
+| minorl1=[[Tokyo/North|Tabata]] ← Sugamo
+| directionr1=S
+| majorr1=[[Tokyo/Shinjuku|Shinjuku]]
+| minorr1=[[Tokyo/Shinjuku|Takadanobaba]] → [[Tokyo/Shinjuku|Shin-Ōkubo]]
+
+| image2=JR JA line symbol.svg
+| imagesize2=30
+| directionl2=N
+| majorl2=[[Saitama|Ōmiya]]
+| minorl2=[[Saitama|Musashi Urawa]] ←[[Tokyo/North|Akabane]]
+| directionr2=S
+| majorr2=[[Tokyo/Odaiba|Tōkyō Teleport]]
+| minorr2=[[Tokyo/Shibuya|Shibuya]] → [[Tokyo/Ebisu|Ebisu]] → into [[File:Rinkai Line symbol.svg|30px]]
+
+| image3=Subway TokyoMarunouchi.png
+| imagesize3=30
+| directionl3=W
+| majorl3=END
+| minorl3=
+| directionr3=E
+| majorr3=[[Tokyo/Ginza|Ginza]]
+| minorr3=[[Tokyo/Bunkyo|Kōrakuen]] → [[Tokyo/Chiyoda|Tokyo]]
+
+| image4=Subway TokyoYurakucho.png
+| imagesize4=30
+| directionl4=W
+| majorl4=[[Kawagoe]]
+| minorl4=into [[File:Tobu Tojo Line (TJ) symbol.svg|30px]] ←[[Tokyo/North|Kotake Mukaihara]]
+| directionr4=E
+| majorr4=[[Tokyo/East|Shin-Kiba]]
+| minorr4=[[Tokyo/Chiyoda|Yurakucho]] → [[Tokyo/Chuo|Tsukishima]]
+
+| image5=Subway TokyoFukutoshin.png
+| imagesize5=30
+| directionl5=W
+| majorl5=[[Tokorozawa]]
+| minorl5=into [[File:SeibuIkebukuro.svg|30px]] ←[[Tokyo/North|Kotake Mukaihara]]
+| directionr5=E
+| majorr5=[[Tokyo/Shibuya|Shibuya]]
+| minorr5=[[Tokyo/Shinjuku|Shinjyuku 3chome]] → [[Tokyo/Harajuku|Meijijinngu-mae]]
+
+| image6=Subway TokyoMita.png
+| imagesize6=30
+| directionl6=N
+| majorl6=[[Tokyo/North|Nishi Takashimadaira]]
+| minorl6=[[Tokyo/North|Shin Itabashi]]
+| directionr6=S
+| majorr6=[[Tokyo/Minato|Shiba park]]
+| minorr6=[[Tokyo/Bunkyo|Kasuga]] → [[Tokyo/Chiyoda|Jibocho]]
+
+| image7=Tobu Tojo Line (TJ) symbol.svg
+| imagesize7=30
+| directionl7=N
+| majorl7=[[Kawagoe]]
+| minorl7=[[Tokyo/North|Narimasu]]
+| directionr7=S
+| majorr7=END
+| minorr7=
+
+| image8=SeibuIkebukuro.svg
+| imagesize8=30
+| directionl8=W
+| majorl8=[[Chichibu|Seibu-Chichibu]]
+| minorl8=[[Tokorozawa]] ← [[Nishitokyo|Hoya]]
+| directionr8=E
+| majorr8=END
+| minorr8=
+
+| image9=Shuto Urban Expwy Sign 0005.svg
+| imagesize9=30
+| directionl9=N
+| majorl9=[[Saitama|Ōmiya]]
+| minorl9=into [[File:Shuto Urban Expwy Sign S5.svg|30px]] ← Toda
+| directionr9=S
+| majorr9=[[Tokyo/Chiyoda]]
+| minorr9=
+
+| image10=Shuto Urban Expwy Sign C2.svg
+| imagesize10=30
+| directionl10=S
+| majorl10=[[Tokyo/Odaiba]]
+| minorl10=into [[File:Shuto Urban Expwy Sign B.svg|30px]] ← [[Tokyo/Shibuya|Tomigaya]] ← [[Tokyo/Shinjuku|Nishi-shinjuku]]
+| directionr10=E
+| majorr10=[[Tokyo Disney Resort|Urayasu]]
+| minorr10=[[Tokyo/East|Ougiohashi]] → [[Tokyo/East|Kosuge]] → into [[File:Shuto Urban Expwy Sign B.svg|30px]]
+}}
+{{usabledistrict}}
+{{geo|35.732458|139.715406}}
+{{IsPartOf|Tokyo}}

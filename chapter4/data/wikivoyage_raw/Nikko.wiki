@@ -1,0 +1,479 @@
+{{pagebanner|Nikko banner.jpg|unesco=yes}}
+
+'''Nikkō''' (日光)  is a town of 76,000 people (2021) to the north of [[Tokyo]], in [[Tochigi (prefecture)|Tochigi Prefecture]]. Attractions include the mausoleum of shōgun Tokugawa Ieyasu (Nikkō Tōshō-gū) and that of his grandson Iemitsu (Iemitsu-byō Taiyū-in), and the Futarasan Shrine, which dates to the year 767 AD. There are also many famous hot springs (onsen) in the area. Elevations range from 200 to 2,000 m. 
+
+==Understand==
+[[File:Nikko Toshogu Yomeimon Gate 2024.jpg|thumb|The ornately decorated Yomeimon gate at Tōshō-gū]]
+
+Nikko is a hugely popular tourist destination, but most visitors day-trip from Tokyo and never venture beyond a few tourist hot spots near the station.  However, the "city" covers a quarter of Tochigi prefecture, much of it mountainous and remote, and there are countless hot springs, hiking trails and less-known sights to be seen if you venture even slightly off the beaten track.  The area's many mountains and waterfalls have made it an important source of hydroelectric power, and it has also been used for mining copper, aluminum and concrete.
+
+===History===
+{{infobox|Magnificent enough?|A famous Japanese saying proclaims ''Nikko wo minakereba "kekkō" to iu na''. Most tourist literature translates this as "Don't say 'magnificent' until you've seen Nikko", but there's another dimension to this Japanese pun: it can also mean "See Nikko and say 'enough'", since ''kekkō'' is used in Japanese as a polite way of declining an offer.}}
+
+The first temple in Nikkō was founded more than 1,200 years ago along the shores of the Daiya River. However, in 1616, the dying Shogun Tokugawa Ieyasu, who had unified Japan and moved to capital to Edo (present-day [[Tokyo]]), made it known that his final wish was for his successors to "Build a small shrine in Nikko and enshrine me as the God. I will be the guardian of peace keeping in Japan." As a result, Nikkō became home of the mausoleums of two Tokugawa Shoguns, Tokugawa Ieyasu and his grandson, Tokugawa Iemitsu, which are on the [[UNESCO World Heritage List]].  Unlike most Japanese temples and shrines, the buildings here are extremely gaudy and ornate, with multicolored carvings and plenty of gold leaf, and show heavy Chinese influence. Some sense of dignity is restored by a magnificent forest of over 13,000 cedar trees, covering the entire area.
+
+However, for all of the grandeur the shoguns could muster, they're now over-shadowed in the eyes of many visitors by a trio of small wooden carvings on a stable wall: the famous '''three wise monkeys''' who see no evil, hear no evil and say no evil.
+
+===Orientation===
+The actual town of Nikko lies on the southern side of Nikko City, along the Daiya River.  To the west, about an hour away by bus, are Lake Chuzenji and the Kegon Falls, also known as '''Oku-Nikkō''' (奥日光, "Inner Nikko").  The twin hot spring towns of [[Kinugawa]], home of the Edo Wonderland Historical Theme Park, and [[Kawaji]] are an hour north by train along the Kinugawa River and covered separately.  '''Nikkō National Park''' (日光国立公園) covers a large chunk of the northern side, sprawling across into Tochigi and Fukushima as well.
+
+===Tourist information site===
+The local tourist association has a guide site in English, [https://www.visitnikko.jp/en/ Nikko Official Guide].
+
+==Get in==
+{{Mapframe|36.7559|139.601|zoom=13}}
+===By plane===
+
+===By train===
+Nikko has two major train stations: {{marker|name=Nikkō Station|wikidata=Q1048777}}, served by Japan Railways (JR), and {{marker|name=Tōbu-Nikkō Station|wikidata=Q7862640}}, appropriately served by the private Tōbu railway. The train stations are separated by only a few minutes walk and are around 2 km from Toshogu Shrine.
+
+If heading from [[Tokyo]] like most others, deciding how to reach Nikko depends on your budget, and whether or not you have any sort of regional or national JR Rail Pass.
+
+====By Tobu Railway from Asakusa====
+[[File:Tobu_Railway_500_Series_"Revaty".jpg|thumb|250px|Tobu's ''Revaty'' limited express began service to Nikko in 2017.]]
+Tobu Railway operates frequent service to Nikko from their terminal at '''Asakusa Station''', which is connected to the Toei Asakusa and Tokyo Metro Ginza subway lines. Conventional commuter services take around 2 hr 30 min - 3 hr depending on the time of day and cost ¥1360, with several transfers required. A more convenient way to travel to Nikko is on one of Tobu's direct limited express services, which take 2 hours and are operated with either the older ''SPACIA'' trains or the newer ''Revaty'' trains. Services depart every 30-60 minutes, costing ¥2700 for the ''SPACIA'' or ¥2800 for the ''Revaty''. All services stop at the station for '''Tokyo SkyTree'''.
+
+The limited express trains that offer direct service to Nikko are called ''Kegon''; there are also ''Kinu'' trains that you can use, but you'll need to change to a short local service at Shimo-Imaichi to reach Nikko.
+
+Tobu offers a few travel passes for foreign tourists that wish to visit Nikko and surrounding areas. Passes for foreign tourists can be purchased online through Tobu's website, or in person at the Tobu tourist information desk at Asakusa station. The passes do not include admission to the world heritage shrines and temples.
+
+* '''Nikko Pass - World Heritage Area''': ¥2000 for 2 days. This pass includes unlimited train travel between Tobu-Nikko, Shimo-Imaichi and Kinugawa Onsen, unlimited travel on Tobu buses between Tobu-Nikko and the world heritage sites, and discounted admission to attractions in Nikko and Kinugawa.
+* '''Nikko Pass - All Area''': a 4-day pass costing ¥4520 from mid-April to November, and ¥4150 at other times. In addition to the features of the World Heritage Pass, the All Area pass includes unlimited bus travel from Nikko to Lake Chuzenji, Yumoto Onsen and Kirifuri Falls.
+
+There are two more passes available to everyone, not just foreign tourists:
+* '''Marugoto Nikko Free Pass''': ¥4150-4520 for 4 days. This pass includes unlimited train travel between Shimo-Imaichi and Tobu-Nikko, and unlimited bus travel from Nikko to the world heritage sites, Lake Chuzenji, Yumoto Onsen and Kirifuri Falls.
+* '''Marugoto Nikko Kinugawa Free Pass''': ¥5630-6150 for 4 days. In addition to the features of the Marugoto Nikko Free Pass, this pass includes unlimited train travel between Shimo-Imaichi and Kinugawa, and unlimited bus travel on routes in the Kinugawa area.
+
+Included in these passes is one round-trip from the Asakusa area on standard commuter trains. You can purchase separate reservation tickets for the direct limited express services on either the ''SPACIA'' (¥1340 each way) or the ''Revaty'' (¥1440 each way). A 20% discount is given on these tickets when purchased with a pass.
+
+====By JR from Tokyo Station====
+You can reach Nikko from Tokyo Station in around 2 hours by taking the Tohoku Shinkansen to [[Utsunomiya]] and changing to the JR Nikko Line. Since the one-way fare starts from ¥5060 unreserved, this travel option makes more sense for holders of the '''Japan Rail Pass''' or one of JR East's regional passes including the '''Tokyo Wide Pass'''.
+
+====By JR/Tobu from Shinjuku/Ikebukuro====
+JR and Tobu operate joint limited express trains a few times a day from Shinjuku and Ikebukuro stations that operate to Tobu-Nikko in 2 hours at a cost of ¥4000. One service operates directly to Nikko, while the others operate to Kinugawa and require a train change at Shimo-Imaichi. Regional JR East passes, including the Tokyo Wide Pass, fully cover this journey. Holders of the national Japan Rail Pass must pay a surcharge for the portion of the trip on Tobu tracks, in which case it may be easier to just take the JR to either Tokyo or Omiya to connect to the ''shinkansen''.
+
+===By bus===
+Tohoku Express Bus operates one daily round-trip service from Tokyo Station, reaching Tobu-Nikko station in 3 hr. The trip costs ¥2500 one way or ¥4000 round trip. The bus from Tokyo leaves at 07:50, and the return trip from Tobu-Nikko leaves at 16:00.
+
+There is also a twice-daily bus service from [[Yokohama]] station, which is the same bus that serves Nikko from Haneda Airport (4 hours, ¥3300).
+
+==Get around==
+The JR and Tobu stations have '''Tourist Information Centers''' open during daytime hours. Both stations are about 2 km to the west of the shrine area.
+
+To reach the shrines, you can take a Tobu Bus (bus stop 2C just outside the Tobu Nikko train station, bus fare included in Tobu's World Heritage Pass, about a 6-minute bus ride to the UNESCO World Heritage area), or you can get up close and personal with the neighborhood and use your own two feet, following the pedestrian signs along the main road (Route 119). Getting off at bus stops 81–85 on the Tobu 2C bus line will get you to the shrine and temple area. Halfway between the stations and shrines, there is another Tourist Information Center (591 Gokomachi area; {{phone|+81 288-53-3795}}) where you can get maps, ask questions (some English spoken), use the Internet (¥100/30 minutes), and quench your thirst with water from a small, ladle-drawn waterfall. Also if it is raining, they very happily lend out umbrellas and you are able to drop these off on the way back. Allow about a half-hour or so to walk from the train station to the shrine entrance.
+
+The JR station has various tourist bus passes for the Nikko area from the JR ticket office.  As an example, a ¥2000 ticket will get you 2 days of unlimited rides to and back from the Chuzenji onsen area lake area, which is discounted from the posted fares.  The back of the ticket includes a helpful map showing the numbered stops and where the ticket if valid.
+
+==See==
+{{infobox|The Three Punny Monkeys|The most famous sight in Nikko is a small carving of three monkeys, who "see no evil, hear no evil, speak no evil". But why monkeys? It's a Japanese pun: the negation ''-zaru'' (-ざる) sounds the same as vocalized form of ''saru'' (猿), "monkey", so they're the "see-monkey" (見ざる ''mizaru''), "hear-monkey" (聞かざる ''kikazaru'') and "speak-monkey" (言わざる ''iwazaru'').
+|image=Toshogu Three Monkeys Restored 2024 Crop.jpg}}
+
+[[File:Shinkyō October 2008.JPG|thumb|250px|Shinkyō]]
+[[File:Rinnoji Lantern Pond.JPG|thumb|View of Shoyoen, Rinnoji Temple]]
+
+* {{see
+| name=Tōshōgū | alt=東照宮 | url=https://www.toshogu.jp/ | email=
+| address= | lat=36.759167 | long=139.598611 | directions=
+| phone= | tollfree=
+| hours=Apr-Oct: 08:00-16:30; Nov-Mar: 08:00-15:30 | price=&yen;1600, or ¥2400 in combination with the museum (below)
+| wikidata=Q696641
+| content=The official mausoleum of dynasty founder Tokugawa Ieyasu and the most extravagant temple in Nikko, constructed in 1634 on the order of his grandson Iemitsu, though not his actual resting place. The shrine took 2 years to complete with the efforts of 15,000 workers. Although the surrounding shrine is very ornate, the tomb itself is surprisingly simple and unassuming. While it had been believed that Tokugawa Ieyasu's body was moved here from Kunōzan Tōshō-gū in [[Shizuoka]] following its completion, 21st-century research has revealed that his body was never moved here and remains in Shizuoka.
+}}
+** After two flights of steps you will reach the '''Sacred Stable''', housing a white horse. The most famous symbol here is the carving of the '''three wise monkeys''' (see infobox), a part of a curious series of carvings about the life cycle of a monkey, from giddy childhood to fearful old age. Nearby, you can also find an interesting approximation of an elephant, carved by an artist who had clearly never seen one.
+** {{see
+| name=Yakushi-dō Hall | alt=薬師堂 | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=The Hall of the Medicine Buddha is known for a dragon painting on the ceiling. A monk is usually on hand to speak (Japanese only, some broken English if you're lucky) and strike a special block which produces a sharp, piercing echo if struck directly below the dragon's mouth. This is said to be identical to the cry of a dragon &mdash; not quite the roar of English legend but an attention-getter all the same.
+}}
+** {{see
+| name=Yomei-mon Gate | alt=陽明門 | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=An incredibly ornate gate with over 400 carvings squeezed in. To the right of the main hall is the way to Ieyasu's tomb. Look out for another famous carving, this time of a sleeping cat (''nemuri-neko''). There are 200 stone steps, and steep ones at that; and then you finally reach the surprisingly simple gravesite.
+}}
+* {{see
+| name=Taiyuin-byō | alt=大猷院廟 | url=https://www.rinnoji.or.jp/temple/taiyuuin/ | email=
+| address= | lat=36.757696 | long=139.594121 | directions=
+| phone= | tollfree=
+| hours=Apr-Oct: 08:00-16:30, Nov-Mar: 08:00-15:30 | price=&yen;550
+| wikidata=Q2480885
+| content=Iemitsu, the 3rd Tokugawa Shogun and grandson of Ieyasu, is buried here. Smaller, although much more beautiful than Tōshōgū. The main hall and mausoleum can only be viewed from outside. Unlike Tōshōgū, the tomb is not accessible to the public.
+}}
+* {{see
+| name=Tōshōgū Museum | alt=東照宮宝物館 | url=https://www.toshogu.jp/shisetsu/houmotsu.html | email=
+| address= | lat=36.7560 | long=139.6002 | directions=
+| phone= | tollfree= | fax=
+| hours=09:00-16:00 | price=&yen;800
+| content=A small museum of artifacts related to Tōshōgū and the Tokugawa dynasty. The introductory video is quite good, and the fascinating half-Japanese, half-Western suit of armor that Ieyasu is said to have worn at the Battle of Sekigahara is worth a look, but the rest of the exhibits are a bit lackluster: old scrolls, swords and knickknacks. The cafe is a nice place for a break though. Tickets can be bought in combination with the shrine or separately.
+}}
+* {{see
+| name=Rinnō-ji Temple | alt=輪王寺 | url=https://www.rinnoji.or.jp/ | email=
+| address= | lat=36.754161 | long=139.602708 | directions=
+| phone= | tollfree=
+| hours=Apr-Oct: 08:00-17:00, Nov-Mar: 08:00-16:00 | price=Sanbutsu-do, Taiyu-in, and Treasure Hall set ticket: adult ¥1000, children ¥500; tickets for just one or two sites cost less
+| wikidata=Q1348249
+| lastedit=2022-05-24
+| content=Founded by Shodo Shonin, the monk that introduced Buddhism to Nikko in the 8th century. Known for its three large Buddha figures (at the Sanbutsudoh Hall portion of Rinnoji Temple) and for the beautiful and peaceful '''Shōyō-en Garden''' (逍遥園), the entrance price allows you to see one of the three Buddhas and the renovation works.
+}}
+* {{see
+| name=Futarasan Shrine | alt=二荒山神社 | url=http://www.futarasan.jp/ | email=
+| address= | lat= | long= | directions=Directly west of Toshogu.
+| phone= | tollfree=
+| hours=Apr-Oct: 09:00-16:30, Nov-Mar: 09:00-15:30 | price=&yen;200
+| wikidata=Q701927
+| content=It was founded in 782 by Shodo Shonin, the monk that introduced Buddhism to Nikko in the 8th century. The existing structure, built in 1617, is the oldest in Nikko. The shrine is dedicated to the spirits of Nikko's three holy mountains: Mt. Nantai, Mt. Nyoho, and Mt. Taro.
+}}
+
+There are a few other sites near the temple area:
+
+* {{see
+| name=Shinkyō Bridge | alt=神橋 | url=http://www.shinkyo.net | email=
+| address= | lat=36.75336 | long=139.60399 | directions=
+| phone=+81 288-54-0535 | tollfree= | fax=+81 288-54-0537
+| hours= | price=
+| wikidata=Q28040588
+| content=This much-photographed red bridge separates the shrines from the town of Nikko. In feudal times, only the shogun was permitted to cross the bridge, and even today it's barred from pedestrian traffic &mdash; although there's a 4-lane highway rumbling right past. You can get a nice view from the sidewalk, but to set foot on the bridge and look down into the gorge below, you'll have to buy a &yen;350 ticket from the booth nearby.
+}}
+* {{see
+| name=Takino-o Shrine | alt=滝尾神社 ''Takino-o-jinja'' | url= | email=
+| address= | lat=36.765359 | long=139.592054 | directions=
+| phone=+81 288-54-0535 | tollfree=
+| hours= | price=
+| wikidata=Q28952427
+| content=This often overlooked mountain shrine is situated slightly up the mountain behind Toshogu and provides a welcome relief from the more crowded areas of Sannai. It takes its name from the picturesque waterfall that greets you at the base of the entrance. You can get there by walking for about 15-20 minutes along an ancient and atmospheric stone path that begins behind the Toshogu Shamusho (office). This path also features several other notable sites such as the Kyosha-do Hall (Japanese Chess pieces are left here as offerings for hopes of a safe birth), the worship hall Kaisan-do and the gravesite of Shodo-Shonin (the latter two are maintained by Rinnoji Temple).
+}}
+* {{see
+| name=Kanmangafuchi Abyss | alt={{lang|ja|憾満ヶ淵}} | url= | email=
+| address= | lat=36.749958 | long=139.591848 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q113376363
+| lastedit=2024-04-19
+| content=A long series of ''jizo'' protector statues on the side of a hill, some adorned with hats and bibs, some crumbling with age, with a river, small waterfalls and rapids below. Legend says that the statues change places from time to time, and a visitor will never see them in the same order twice. It can be tricky to find - at Shinkyō, instead of heading up the steps to the temple area, follow the road around to the west (to the left, if you crossed over the bridge) and walk roughly half an hour following the river - look for signs along the way. You will be walking through a residential area. If you pass the Turtle Inn, you are heading in the correct direction.
+}}
+* {{see
+| name=Tamozawa Imperial Villa Memorial Park | alt=日光田母沢御用邸記念公園 | url=https://www.park-tochigi.com/tamozawa/ | email=
+| address= | lat=36.7525 | long=139.591389 | directions=next to the Botanical Garden.
+| phone=+81 288-53-6767 | tollfree=
+| hours=W-M 09:00-16:30 | price=
+| wikidata=Q11504890
+| content=Built for the Emperor Taisho in 1899, the former imperial villa also served as a hide-out for Hirohito during World War II.
+}}
+* {{see
+| name=Nikko Botanical Garden | alt= | url=https://www.bg.s.u-tokyo.ac.jp/nikko/en/ | email=
+| address= | lat=36.75 | long=139.6 | directions=
+| phone=+81 288-54-0206 | tollfree=
+| hours=May-Nov: Tu-Su 09:00-16:30 | price=
+| wikidata=Q15262331
+| lastedit=2024-04-20
+| content=Has plenty of the local flora and gardens that were said to be favorites of the Emperor Taisho. It's now an adjunct to Tokyo University.
+}}
+
+===Lake Chuzenji-area attractions===
+The Lake Chuzenji-area can be reached by taking bus #1 or #2 from the Nikko or Tobu-Nikko train stations and remaining on the bus past the temple area. The journey takes approximately 1 hour.
+* {{see
+| name=Kegon Falls | alt=華厳滝 | url=https://www.kegon.jp/ | email=
+| address= | lat=36.737889 | long=139.502 | directions=Bus stop #24
+| phone= | tollfree=
+| hours=Dec-Ｆeb: 09:00-16:30; Mar-Apr Nov: 08:00-17:00; May-Sep: 07:30-18:00; Oct: 07:30-17:00 | price=Elevator round trip: adult ¥550, child ¥330
+| wikidata=Q37580
+| lastedit=2024-04-20
+| content=One of Japan's [[Japan's Top 3|top 3 waterfalls]], Kegon Falls features a 97-meter drop. A viewpoint offers spectacular photo opportunities. In the winter, the falls freeze, offering a unique scene.
+}}
+* '''Akechidaira View Point''' (Bus stop #23) - You can take a cable car (¥730 9AM-4PM) to a viewpoint of Mount Nantaisan, Kegon Falls, and Lake Chuzenji.
+* '''Lake Chuzenji''' - (Bus stop #26) - The highest lake in Japan, this lake has cool temperatures in the summer and is surrounded by summer villas of the rich. Sightseeing boats (hourly, 09:30-15:30; winter: 10:30-14:30) offer spectacular views.
+**Chuzen-ji temple is a 700-m walk south from the red Buddhist gate along route 250.
+**An additional 700-m walk will bring you to the former ambassador villas for Britain and Italy. The properties have now been returned to Japan and converted to memorial parks with beautiful views of the lake. Admission to both for ¥300 includes a self guided tour of the building including the history of properties and notable figures. Traditional English tea service also available.
+* '''Ryuzu Falls''' (Bus stop #35) - A cascade down rocky steps. In spring, this waterfall is surrounded by azalea flowers and in autumn, it is surrounded by lush colorful foliage.
+* '''Odashirogahara Plateau''' (Bus stop #36) - An area of wetlands surrounded by Mongolian oak groves. Famous for a lone birch tree known as the Lady of Odashirogahara
+* '''Senjogahara Plateau''' (Bus stop #38) - Wetlands with a wooden raised path for hiking (2 hours, circular trail). Beautiful flowers.
+* '''Yudaki Falls''' (Bus stop #40) - A 70-m cascade flowing from Lake Yunoko. There is a view point at the basin of the falls.
+* '''Lake Yunoko''' (Bus stop #41) - A pretty lake surrounded by a hiking trail (1 hour).
+
+==Do==
+* {{do
+| name=Nikko National Park | alt= | url=https://www.env.go.jp/en/nature/nps/park/nikko/index.html | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=Offers plenty of hiking opportunities.
+}}
+** National Route 120 heads from the center of town into the park, passing '''Mt. Nantai''' and Lake Chuzenji (中禅寺湖 ''Chuzenji-ko'') on its way to the '''Senjogahara Plateau''', where the gods of Mt. Nantai and Mt. Akagi are said to have battled for possession of Lake Chuzenji - with several animal and insect transformations and archery experts involved in Mt. Nantai's eventual victory. There's a 6.3-km walking course on the plateau; allow a little over two and a half hours. Lake Chuzenji is surrounded by hiking trails ranging from 4.6 km (1½ hours) to 19.7 km (6 hours), and also has rowing and motor boat facilities in the warm season. The area is sometimes called '''Oku-Nikko''' (奥日光 ''Oku-Nikko''), meaning "Inner Nikko".
+** Route 120 then crosses over the Yukawa River and passing the Yudaki Falls, Lake Yunoko and the [[Yumoto]] spa and ski slopes to the northwest of the city, eventually reaching Mt. Shirane and Lakes Kirikomi and Karikomi, which have their own walking courses.
+** Once inside the park, special "low-pollution hybrid" buses run from a depot at Akanuma, near the Yukawa River and the Ryuzu Falls, to the nature preserve at Senjugahama, on the western shores of Lake Chuzenji. Parking is free at Akanuma, but the road to Senjugahama is closed to all other vehicles.
+* A short walk south from the center of town will get you on a strenuous but rewarding hiking trail to the summit of '''Mt. Nakimushi''' (鳴虫山 ''Nakimushiyama''). Allow a few hours for a return trip.
+* Adventurous hikers might want to take the city bus to Matō, down National Route 122 in the far southwestern corner of Nikko city territory, in order to hike to '''Akagane Shinsui Koen''' (Copper Hydro Park), billed as Japan's Grand Canyon, as pollution has killed all the trees and left the valley bare. The infamous Ashio copper mine was located nearby. (See [[Kiryu]] for details.)
+*{{do
+| name=Woodsman's Village | alt= | url=https://infinity-arts.wixsite.com/woodsman | email=
+| address=4401-1 Naka-Okorogawa | lat= | long= | directions=By car: from Tokyo take Tohoku Highway to the Nikko Utsunomiya Toll Road about 2½ hours. Get off at the Imaichi IC. It takes about 20 minutes from Imaichi to Woodsmans Village. By train: From Asakusa, Tokyo Take the Limited express on the Tobu Railways (Nikko Line) to Shimoimaichi Station, this takes about 1½ hours. Then you have two options: walk to the Imaichi JR station (about 10 minutes) and take the Okorogawa Bus or you can also take a taxi, which should cost about ¥4,500.
+| phone=+81 288-63-3324 | tollfree=
+| hours= | price=
+| content=Woodsman's Village is a place in the beautiful hills of Nikko, where one can rent a log cabin for a certain length of time to stay in. Also, there is an option for renting a barbecue grill.
+}}
+*{{do
+| name=Nikko Kirifuri Ice Arena | alt= | url=https://www.pref.tochigi.lg.jp/c09/education/sports/shisetsu/icearena.html | email=
+| address=2854 Tokorono | lat=36.760278 | long=139.610278 | directions=from Nikko st., take a bus or you can also take a taxi
+| phone=+81 288-53-5881 | tollfree=
+| hours= | price=children: ¥650, Adults: ¥1,310
+| wikidata=Q7035313
+| content=Home arena of Nikkō Ice Bucks of the Asia League Ice Hockey. No competition day, play ice skating.
+}}
+*{{do
+| name=Nikko Yumoto Onsen Ski Park | alt=日光湯本温泉スキー場 | url=http://www.nikkoyumoto-ski.com/ | email=
+| address= | lat=36.803006 | long=139.418326 | directions=
+| phone =+81 288-62-2532 | tollfree= | fax=
+| hours= | price=
+| content=Near Lake Yunoko and Yumoto Hot Spring.
+}}
+
+==Buy==
+Aside from the usual good luck charms at the shrines and souvenir shops selling phone straps of Hello Kitty in local dress, there are several interesting secondhand shops along Hippari Dako selling used kimono, antiques and knick knacks.
+
+Popular souvenirs from Nikkō include:
+* ''yuba'' (ゆば), the 'skin' that forms on top when making tofu; better eaten fresh, see [[#Eat]]
+* ''tamarizuke'' (たまり漬け), vegetables pickled in ''tamari'' soy sauce
+
+Oddly, Western-style cheesecake and ''kasutera'' pastries are also popular despite having no obvious historical or cultural connection to Nikkō.
+
+==Eat==
+''Yuba'' (ゆば), the 'skin' that forms on top when making tofu, seems to be everywhere in Nikko. Even if you're not a fan of tofu, it tastes pretty good, especially with ''soba'' (buckwheat noodles in a soup broth). ''Yuba'' is also one of the most typical edible ''omiyage'' from Nikko.
+
+* {{eat
+| name=Hippari Dako | alt= | url= | email=
+| address= | lat=36.7525 | long=139.6063 | directions=On main street just before the shrines.
+| phone= | tollfree= | fax=
+| hours= | price=&yen;500 and up
+|lastedit=2025-12-19| content=Enshrined in Lonely Planet, every other foreign tourist to Nikko seems to stop here for ''yakitori'' (grilled chicken skewers) and noodles, so you might as well join the crowd. Every available space is plastered with business cards and scribbled recommendations from visitors. Their menu contains several vegetarian options as well. The food is nothing special, but it's cheap, cheerful and has menus in many languages.
+}}
+*{{eat
+| name=Gurumans Wagyu | url=http://g-wagyu.com/ | email=
+| address=Tokorono 1541 | lat=36.765103 | long=139.616178 | directions=3-4 minutes taxi from Nikko Station
+| phone=+81 288-53-3232 | tollfree= | fax=
+| hours=11:30-14:00, 17:30-19:30 | price=
+| content=Wagyu (Japanese beef) steak restaurant. Reservation needed. The dress code is not too strict, but no sandals, no running wear.
+}}
+*{{eat
+| name=Sobadokoro Gen-an | alt=そば処 玄庵 | url=http://www5.plala.or.jp/nikkou-genan/index.html | email=
+| address=810-1 Shimohatsuishimachi | lat=36.7508 | long=139.6092 | directions=
+| phone= | tollfree= | fax=
+| hours=W-Su 11:30-15:00 | price=Soba set meal from ¥800
+| lastedit=2024-04-19
+| content=Roughly at the halfway point of the long slog between the shrines and the train stations, Gen-an features homemade soba noodles, hot or cold, with your choice of tofu skin, chicken or tempura shrimp. The other drawcard is the wacky collection of violins and other stringed instruments mounted on every available inch of the walls, including a banjo made from a giant Japanese beer can. English menu.
+}}
+* {{eat
+| name=Cafe Restaurant Bell | alt=カフェレストラン ベル | url=http://www.cafe-bell.com | email=
+| address=6-39 Yasukawachō | lat=36.753109 | long=139.593233 | directions=150m south from the world heritage site entry
+| phone=+81 288-53-2843 | tollfree=
+| hours=10:30-15:00, 17:00-21:00 | price=¥500-2500
+| lastedit=2023-09-19
+| content=Either stop for a quick break with a hot beverage and some of their sweets, or go all in and taste yuba in various forms by ordering the yuba festa ("monk's diet"). Other dishes include ramen, curry, toast and more.
+}}
+* {{eat
+| name=Ramen Bonten | alt=ラーメン梵天 日光店 | url= | email=
+| address=264-1 Matsubaracho | lat=36.748048 | long=139.616895 | directions=follow the main road from Tobu-Nikkō station towards the world heritage site, the store is on the left
+| phone=+81 288-53-6095 | tollfree=
+| hours=11:00-21:00 | price=¥800-1500
+| lastedit=2023-09-19
+| content=If you're searching for dinner in Nikkō, you might very well end up here as it's one of the few places with a lot of space that's open in the evening. The ramen may not be the cheapest, but the bowls are big and they taste good. The spicy char siu ramen have an adequate spice level for westerners, the super spicy only if you're used to it. Expect queues of a few tourists around 19:00 as everyone's desperate to find a place for dinner; waiting time can be passed sitting on the benches in front of the store.
+}}
+
+==Drink==
+There is a small alcohol shop across from the station that is run by an old couple and has an interesting selection of world beers.
+
+==Sleep==
+
+Nikko can be covered in a busy day trip from [[Tokyo]], but it's also a good place to spend the night, especially in a traditional Japanese ''[[Japan#Sleep|ryokan]]'' guesthouse.  The shrines are quite atmospheric early in the morning and at dusk, when the tour buses are not around.
+
+===Budget===
+There are several campsites in Nikko, although only '''Narusawa''' (+81 288-54-3374) and '''Ogurayama''' (+81 288-54-2478) are open year-round; several others run from April to mid-November or July to August.
+
+* {{sleep
+| name=earth hostel Nikko riverhouse | alt= | url=https://earthhostel.com/ | email=nikkojapan@icloud.com
+| address=Minami Okorogawa | lat=36.646454 | long=139.649277 | directions=
+| phone=+81 80-1215-4018 | tollfree=
+| checkin=16:00 | checkout=12:00 | price=&yen;4,000
+| content=A remote hostel, surrounded by nature on the riverside with an ambient chillout lounge overlooking the river. Great Western breakfast.
+}}
+* {{sleep
+| name=Nikko Suginamiki Youth Hostel | alt=日光杉並木ユースホステル | url=http://www.jyh.or.jp/info.php?jyhno=2208 | email=info@nikko-suginamiki.com
+| address=2112-7 Kiwadashima | lat=36.683636 | long=139.753301 | directions=
+| phone=+81 288-26-0951 | tollfree= | fax=+81 288-26-1775
+| checkin=16:00-21:00, 18:00 for those having dinner | checkout=10:00 | price=¥3112 for Hostelling International members, ¥3667 otherwise
+| lastedit=2017-02-07
+| content=
+}}
+* {{sleep
+| name=Nikko Minshuku Narusawa Lodge | alt=鳴沢ロッヂ | url= | email=narusawa.lodge@gmail.com
+| address=1462-22 Tokorono | lat=36.755897 | long=139.618818 | directions=
+| phone=+81 80-6636-0288 | tollfree= | fax=+81 28-333-1038
+| checkin=15:00 | checkout=10:00 | price=&yen;3,675
+| content=A Japanese traditional guest house.
+}}
+* {{sleep
+| name=Nikko Guesthouse Sumica | url=http://nikko-guesthouse.com/index.html | email=sumica@nikko-guesthouse.com
+| address=5-12 Aioi-cho | lat=36.747269 | long=139.620333 | directions=
+| phone= | tollfree= | fax=
+| checkin=16:00 | checkout=11:00 | price=¥2,600-3,800
+| content=A traditional Japanese guest house, located a few minutes from the Tobu and JR stations. Friendly owners.
+}}
+* {{sleep
+| name=Nikko Tokanso | alt=東観荘
+| url=http://www.tokanso.com/en/index.shtml | email=
+| address=Sannai 2335 | lat=36.756783 | long=139.603422 | directions=
+| phone=+81 288-54-0611 | tollfree= | fax=
+| checkin= | checkout= | price=¥3600 per person
+| content=A traditional Japanese guest house walking distance to the UNESCO World Heritage shrines and temples. The staff are helpful and friendly. The rooms are very clean, and the futons are comfortable. They have private half baths (sink and toilet). The main bathtub/onsen is public (shared among hotel guests), but you can reserve the private "family bath" for 50 minutes during your stay for no extra charge &mdash; this is a great way to get a private onsen experience, plus the antechamber to the private onsen has a sink and hair dryer. The dinner (¥3000 per person, served in a common dining room, reserve dinner time at check in on a first-come, first-serve basis &mdash; reservations for dinner can also be made at time of room booking) a great value (many dishes) and cultural experience. Breakfast is available for ¥1000, first service at 07:30. There is free coffee and tea in the lobby, as well as a public use computer with Internet. Information packets (in the guest room) are translated into English, Mandarin Chinese, Korean, and Spanish.
+}}
+
+=== Mid-range ===
+
+* {{sleep
+| name=Annex Turtle Hotori-An | url=http://www.turtle-nikko.com/hotori-an/ | email=info@turtle-nikko.com
+| address=8-28 Takumi-cho | lat=36.750363 | long=139.592312 | directions=
+| phone=+81 288-53-3663 | tollfree= | fax=+81 288-53-3883
+| checkin= | checkout= | price=Japanese-style rooms &yen;6,500 for one person, &yen;12,400 for two, &yen;17,700 for three
+| content=About 15 minutes on foot from Shinkyō Bridge, in a quiet area near the Kanmangafuchi Abyss; includes a hot spring bath and internet access.
+}}
+* {{sleep
+| name=Nikko Park Lodge | alt=日光パークロッジ | url=http://www.nikkoparklodge.com | email=
+| address=2828-5 Tokorono | lat=36.756518 | long=139.615934 | directions=
+| phone=+81 288-53-1201 | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=This laid-back, friendly and unapologetic lodge is about 20 minutes' walk from the town center, although the owner is happy to provide rides to and from the train stations (and to the temple area in the morning). There are twin, double and four-person rooms at &yen;3990 per person. English is spoken. The lounge has comfortable sofas and a warm stove for the winter. Although most of the rooms have showers, there are lovely Japanese-style hot baths on the first floor. Zen yoga classes are offered every morning at 07:00 for &yen;300. A simple breakfast is &yen;395 and the vegan 'zen' dinner (&yen;1800, reservation required) is recommended, but be prepared to spend a couple of hours waiting for your meal after the advertised starting time. Parking is available.
+}}
+* {{sleep
+| name=Turtle Inn Nikko | url=http://www.turtle-nikko.com | email=info@turtle-nikko.com
+| address=216 Takumi-cho | lat=36.751298 | long=139.59604 | directions=
+| phone=+81 288-53-3168 | tollfree= | fax=+81 288-53-3883
+| checkin= | checkout= | price=Japanese and Western-style rooms &yen;4,880 for one person, &yen;9,000 for two, &yen;12,600 for three
+| content=About ten minutes to the temple area; includes a hot spa bath and internet access.
+}}
+*{{sleep
+| name=Logettel St.Bois | alt=ロヂテ サンボア | url=http://www.sunfield.ne.jp/~l-sanboa/eng.html | email=
+| address=1560 Tokorono | lat=36.754569 | long=139.621478 | directions=
+| phone=+81 288-53-0082 | tollfree=
+| checkin=15:00 | checkout=10:00 | price=¥6,500 per night, dinner ¥2,000, breakfast ¥800
+| content=A strangely French name for a pleasant little guesthouse a short walk from Tobu Nikko station. Run by an old Japanese couple who moved here for the quiet life. The guesthouse has small and cosy western style rooms, a communal Japanese bath, and serves excellent breakfasts and dinners. Lifts to and from the station are easily arranged. Adequate English is spoken, credit cards accepted, free LAN internet in the lobby.
+}}
+* {{sleep
+| name=Yumori Kamaya | alt=湯守釜屋 | url=https://www.yumorikamaya.com/ | email=
+| address=2548 Yumoto | lat=36.806237 | long=139.424478 | directions=
+| phone=+81 288-62-2141 | tollfree= | fax=+81 288-62-2143
+| checkin= | checkout= | price=¥6,500～
+| content=Japanese and Western-style rooms.
+}}
+
+===Splurge===
+There are quite a few upmarket hot spring ''[[ryokan]]'' around Nikkō, but many are a considerable distance from town.
+
+* {{sleep
+| name=Senhime Monogatari | alt=千姫物語 | url=http://www.senhime.co.jp/ | email=
+| address=6-48 Yasukawa-cho | lat=36.753138 | long=139.597049 | directions=5-minute taxi ride from JR Nikko Station
+| phone=+81 288-54-1010 | tollfree= | fax=+81 288-54-0557
+| checkin=14:00 | checkout=10:00 | price=&yen;15,000
+| content=Modern ''ryokan'' with both traditional Japanese and Western Japanese rooms. Indoor and outdoor hot springs available 24 hours/day. Impeccable traditional Japanese dinners utilizing a multitude of fresh, local, seasonal ingredients. Choice of Western or Japanese style breakfast. Very personal service, English spoken well. Every room has a beautiful view of the Otani River. About 300 m from Tōshōgū Shrine.
+}}
+* {{sleep
+| name=Okunoin Hotel Tokugawa | alt=奥の院ホテルとく川 | url=https://www.hotel-tokugawa.com/e/ | email=
+| address=2204 Nikko | lat=36.7561 | long=139.5848 | directions=
+| phone= | tollfree=
+| checkin=15:00 | checkout=10:30 | price=From ¥25000/person
+| content=Traditional ryokan tucked away in the hills about 1.5km and a world away from the shrines. All rooms have Western beds but are otherwise fully Japanese in style with tatami mats etc. Gorgeous garden, large public baths with sauna, jacuzzi and indoor and outdoor tubs, and ludicrously lavish dinner service. If you pony up ¥10000/person extra for rooms in the "Aqua" annex, you'll get a personal hot tub as well.
+}}
+* {{sleep | name=Nikko Kanaya Hotel | alt=日光金谷ホテル | url=https://www.kanayahotel.co.jp/en/nkh/ | wikidata=Q11504902
+| address=1300, Kamihatsuishimachi | lat= | long= | directions=
+| phone=+81-288-54-0007 | tollfree= | fax=
+|content=The oldest surviving Western-style hotel in Japan, having opened in 1873.
+}}
+
+==Go next==
+* [[Kirifuri Highlands]] &mdash; waterfalls, hiking and skiing
+* [[Kinugawa]] &mdash; hot springs and the offbeat Tobu World Square/Edo Wonderland theme parks
+* [[Nasushiobara]]
+* [[Yumoto]] &mdash; hot spring resort perched by another lake (yudaki-falls), 30 minutes deeper into the hills.
+* Those with an interest in pottery or steam locomotives may enjoy [[Mashiko]] on the way back to Tokyo.
+* [[Utsunomiya]]
+* [[Kanuma]]
+* [[Tochigi]]
+* [[Minamiaizu]]
+
+{{routebox
+| image1=Tobu Nikko Line (TN) symbol.svg
+| imagesize1=30
+| directionl1=N
+| majorl1=END
+| minorl1=
+| directionr1=S
+| majorr1=[[Tokyo/Sumida|Tokyo Skytree]]
+| minorr1=[[Tochigi]] → [[Kasukabe]] → into [[File:Tobu Skytree Line (TS) symbol.svg|30px]]
+
+| image2=Tobu Nikko Line (TN) symbol.svg
+| imagesize2=30
+| directionl2=N
+| majorl2=[[Aizuwakamatsu|Aizu Wakamatsu]]
+| minorl2= into Yagan Railway ← Shin Fujiwara ← [[Kinugawa]]
+| directionr2=S
+| majorr2=END
+| minorr2=
+
+| image3=Nikko-Utsunomiya Road Route Sign.svg
+| imagesize3=100
+| directionl3=W
+| majorl3=END
+| minorl3=
+| directionr3=E
+| majorr3=[[Utsunomiya]]
+| minorr3=Imaichi
+
+| image4=Japanese National Route Sign 0119.svg
+| imagesize4=30
+| directionl4=W
+| majorl4=END
+| minorl4=
+| directionr4=E
+| majorr4=[[Utsunomiya]]
+| minorr4=Imaichi
+
+| image5=Japanese National Route Sign 0120.svg
+| imagesize5=30
+| directionl5=W
+| majorl5=[[Numata]]
+| minorl5=[[Katashina]]
+| directionr5=E
+| majorr5=END
+| minorr5=
+
+| image6=Japanese National Route Sign 0121.svg
+| imagesize6=30
+| directionl6=N
+| majorl6=[[Yonezawa]]
+| minorl6=[[Aizuwakamatsu|Aizu Wakamatsu]] ← [[Kinugawa]]
+| directionr6=E
+| majorr6=[[Mashiko]]
+| minorr6=[[Utsunomiya]] → [[Mooka]]
+
+| image7=Japanese National Route Sign 0122.svg
+| imagesize7=30
+| directionl7=N
+| majorl7=END
+| minorl7=
+| directionr7=S
+| majorr7=[[Tatebayashi]]
+| minorr7=[[Kiryu]] → [[Ota]]
+
+| image8=Japanese National Route Sign 0461.svg
+| imagesize8=30
+| directionl8=W
+| majorl8=END
+| minorl8=
+| directionr8=E
+| majorr8=[[Hitachi]]
+| minorr8=[[Daigo]] → [[Takahagi]]
+}}
+
+{{usablecity}}
+{{geo|36.7500|139.6000}}
+{{isPartOf|Tochigi (prefecture)}}

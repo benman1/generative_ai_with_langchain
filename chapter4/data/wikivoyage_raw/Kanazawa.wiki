@@ -1,0 +1,803 @@
+{{pagebanner|131109 Kenrokuen Kanazawa Ishikawa pref Japan01s3 (cropped).jpg|dotm=yes|unesco_cc=yes}}
+'''Kanazawa''' (金沢) is a historic city in [[Ishikawa|Ishikawa prefecture]], [[Japan]]. For travelers who want to see one of the best-preserved major Edo-period cities in the country, it's hard to beat.
+
+==Understand==
+[[Image:Higashi_Chayamachi2.JPG|thumb|400px|Teahouses in Higashi-Chayamachi]]
+Kanazawa is one of the long overlooked jewels of Japanese tourism — although not by the Japanese, who visit in droves. Its relatively remote location, on the "wrong" side of the island from the usual Tokyo-Kyoto-Osaka tourist trail, has perhaps unfairly contributed to it attracting so few foreign tourists. Kyoto's offerings of temples and shrines are all very well, but Japanese history and culture is not just about them. The samurai, the merchants, the geisha, and the lords have all left their mark on Kanazawa in a compact, easily navigable central area. Kanazawa is part of the UNESCO Creative Cities Network as a City of Crafts and Folk Art. With the opening of the Hokuriku Shinkansen from Tokyo in 2015, the number of foreign tourists increased significantly. English language ability tends to be much more limited than in the likes of Kyoto and Nara, but visitors can take comfort in the fact that locals will nevertheless go to great lengths to help you out.
+
+Don't leave here without seeing the gold leaf craftsmen at work. Many of them are over 90 years old and still putting in a full day's work!
+
+* {{listing
+| name=Tourist Information Lobby | alt= | url= | email=
+| address= | lat= | long= | directions=Kanazawa Station
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia= | wikidata=
+| lastedit=2019-09-17
+| content=English-speaking staff always present to answer questions. Free maps.
+}}
+
+[https://visitkanazawa.jp/en/ Visit Kanazawa] is the city's official multilingual guide site.
+
+===Climate===
+{{climate chart
+|Kanazawa
+|1.2 |7.1 |256.0
+|1.0 |7.8 |162.6
+|3.4 |11.6 |157.2
+|8.2 |17.3 |143.9
+|13.6 |22.3 |138.0
+|18.4 |25.6 |170.3
+|22.9 |29.5 |233.4
+|24.1 |31.3 |179.3
+|19.9 |27.2 |231.9
+|13.9 |21.8 |177.1
+|8.1 |15.9 |250.8
+|3.5 |10.2 |301.1
+|jansnow=670.0 |febsnow=530.0 |marsnow=130.0 |aprsnow=0.0 |maysnow=0.0 |junsnow=0.0 |julsnow=0.0 |augsnow=0.0 |sepsnow=0.0 |octsnow=0.0 |novsnow=10.0 |decsnow=240.0
+|float=right
+|clear=right
+| description =Source:[[:w:Kanazawa#Climate]]
+}}
+[[File:Early_January_Snow,_Kanazawa_(3).JPG|thumb|Heavy snow in Kanazawa]]
+Kanazawa can get a lot of rain — it's "the Seattle of Japan". A local proverb says "even if you forget your lunchbox, don't forget your umbrella". Although the weather can be beautiful in spring and autumn, it is never a good idea to bank on it being fine in Kanazawa, and winters in particular are cold. Kanazawa is in the [[Hokuriku|Snow Country]], the area along the Japan Sea coast of Honshu where cold Siberian winds dump large amounts of snow in orographic precipitation, and while it does not get as much as more inland areas, half a meter or more is not uncommon. A common and lovely sight during the winter months is the ropes (called ''yukizuri'' in Japanese) hanging down from poles and attached to tree branches to help them support the heavy snow. Most of the main roads have lines of sprinklers down the street to wash the snow away, but the smaller roads often do not.
+
+===Orientation===
+Kanazawa is not a very large city and the main attractions for visitors tend to be concentrated around five neighborhoods.
+* '''Kanazawa Station and Omicho market'''. The area stretching between Kanazawa Station and the Omicho market has many modern hotels and stores, but also a plethora of smaller local traditional eateries and craft shops (which tend to be concentrated around Omicho market).
+* '''Higashi-Chayagai'''. Located north of the Asano river, the area encompasses the famous ''geisha'' district of the same name as well as nice views over the river. The name "Higashi-Chayagai" means "the Eastern tea houses district". There are several nice drinking and eating places, traditional inns and teahouses as well as shops selling local crafts.
+* '''Tera machi'''. Located south of the Sai river, the area (whose name means "temple district") houses many Buddhist temples (including the most famous, the Ninja temple) as well as the other main ''geisha'' district, the Nishi-Chayagai. The name "Nishi-Chayagai" means "the Western tea houses district".
+* '''Castle, Kenroku-en Garden and museums'''. Admittedly a large area, it stretches from the Castle grounds to the north-west to the museum district to the south-east, and has the Kenroku-en Garden in its middle. Most of the city's museums are within this area, including the 21st Century Museum of Contemporary Art, the various prefectural museums, and the D.T. Suzuki Museum.
+* '''Kohrinbo and Katamachi'''. This area is perhaps the liveliest in the evening, as it comprises many shops and many drinking and eating places. The western part of the area houses the Nagamachi Samurai District, with its old houses and lovely local craft shops.
+
+==Get in==
+===By plane===
+The nearest airport serving Kanazawa is in the city of [[Komatsu]] ({{IATA|KMQ}}). JAL offers flights into Komatsu Airport from [[Tokyo]] [[Tokyo Haneda Airport|Haneda Airport]] and [[Okinawa]], while ANA flies from Tokyo Haneda and [[Sapporo]]. IBEX flies regional jets to Komatsu from [[Narita International Airport|Narita Airport]], [[Sendai]] and [[Fukuoka]]. There are also international flights from [[Hong Kong]], [[Seoul]], [[Shanghai]] and [[Taipei]].
+
+From Komatsu airport, buses run directly to Kanazawa (40 min to JR Kanazawa Station, ¥1300; <small>Feb 2023</small>). Frequencies vary depending on the flight timetables; buses usually leave soon after the arrival of every domestic flight. Alternatively you could take a bus to Komatsu Station (12 min, ¥280) and a JR train from there, which is somewhat cheaper and, depending on your luck with connections, not much longer. Taxis are frequent though not cheap, and there are several rental car places in the area.
+
+===By train===
+[[File:Kanazawa-C-3073.jpg|thumb|Wooden Tsuzumi Gate and glass facade of Kanazawa Station]]
+{{marker|type=go|name=Kanazawa Station|wikidata=Q1136378}}, a futuristic marvel that integrates a traditional wooden temple gate with glass and steel, is served by the Hokuriku Shinkansen. The fastest services, called ''Kagayaki'' (かがやき), operate during the morning and evening hours, connecting [[Tokyo]] in about 2½ hours. The more frequent ''Hakutaka'' (はくたか) makes all stops north of [[Nagano]], taking about 3 hours. Without a Japan Rail Pass, these trains cost ¥14,380 each way for a reserved seat. Seat reservations are mandatory for the ''Kagayaki''.
+
+The Hokuriku Shinkansen continues South from Kanazawa to [[Komatsu]], [[Fukui]] and [[Tsuruga]].  Connect at Tsuruga for the ''Thunderbird'' (サンダーバード) limited express services from [[Osaka]]  and [[Kyoto]]. The ''Shirasagi'' (しらさぎ) limited express also runs on this line, but arrives from [[Maibara]], with some trains starting from [[Nagoya]].
+
+All of the above trips are covered by the national Japan Rail Pass. Kanazawa is also covered by the '''JR Hokuriku Arch Pass''' which includes unlimited travel between Tokyo, Kyoto and Osaka via [[Toyama]] and Kanazawa for seven consecutive days using all of the above routes (with the exception of trains between Maibara and Nagoya). The pass costs ¥24,440 if purchased outside of Japan, or ¥25,460 if purchased inside Japan. Unlimited seat reservations in standard cars can be made, but you'll have to pay extra for Green Car and GranClass seat reservations.
+
+JR mainline trains on the Hokuriku line, now duplicated by the Shinkansen, have been transferred to private companies, and the Japan Rail Pass will not be valid unless you travel from Kanazawa to Tsubata Station to connect to the JR Nanao Line.
+
+===By car===
+Kanazawa is served by the Hokuriku Expressway, which runs through the western edge of the city. It has three interchanges: Kanazawa East and Kanazawa West feed into National Route 8, and Kanazawa Morimoto feeds into the Mountainside Loop Road (山側環状線 ''Yamagawa kanjō-sen''). The cost for a normal car from Kyoto-East via Maibara is ¥5,770, and the distance is 245 km (to Kanazawa West). From Suita IC in Osaka, it is ¥6,630 and 282 km. From Niigata (Niigata-Chuo), it is ¥6,740 and 297 km. From Edobashi in the capital city of Tokyo, it is 481 km and ¥11,210 to Kanazawa East via the Kan-etsu and Jōshin-etsu Expressways.
+
+The national Route 8 is also a good option for those on a budget or who wish to take a leisurely trip, stopping off to see various sights along the way. It is four-lane for much of the way, and so passing those slow old farmers in their white mini-trucks is possible. There are other routes into the city, such as via the base of Hakusan, or over the hills from Toyama prefecture.
+
+'''Avoid driving the National Route 157 as much as possible'''. While the Kanazawa side looks okay, it will become much harder to drive when going south, especially in [[Ono]]. It is one of the most dangerous roads in Japan. The road will be closed when the weather is bad enough.
+
+===By bus===
+From [[Tokyo]], JR Bus runs two overnight services from Tokyo Station, with one-way fares starting between ¥3,800 and ¥5,100 for advance purchase depending on the bus. Willer Express runs buses from [[Tokyo/Shinjuku|Shinjuku]] Expressway Bus Terminal above Shinjuku Station, starting from ¥5,200. Nishi-Tokyo Bus and Hokutetsu Bus operate services from [[Tokyo/Shibuya|Shibuya]] and [[Tokyo/Hachioji|Hachioji]] starting from ¥5,700. All of the buses take between 8 hr 30 min and 9 hr to reach Kanazawa.
+
+Several other bus operators run daily trips to Kanazawa from cities including [[Nagoya]] (4 hr, ¥4,500), [[Kyoto]] (4 hr 20 min, from ¥2,800), [[Osaka]] (5 hr, from ¥3,000), [[Niigata]] (4 hr 30 min, ¥5,000) and [[Sendai]] (9 hr, ¥9,670). Highway buses also operate regularly to and from [[Toyama]] (1 hr, ¥930).
+
+==Get around==
+{{mapframe}}
+
+===By bus===
+Kanazawa has a decent bus system to help you get where you need to go.  There are three types of buses: city buses, a tourist bus, and community buses (Furatto-Bus). The '''[http://www.hokutetsu.co.jp/en/en_round tourist bus]{{Dead link|date=March 2025 |bot=InternetArchiveBot }}''' makes a loop around the main sights in 15 minutes and costs ¥200 per trip or ¥500 daily.  There are four community bus routes which make 15-minute loops around different districts of the city and cost ¥100.　Buses are wheelchair accessible.
+
+===By bicycle===
+Bicycles can be hired from Kanazawa Station, and due to the winding streets and plethora of traffic lights and one way systems are often the fastest way to travel around town.
+
+Bicycles can also be hired through the Kanazawa City bicycle share program, [https://www.machi-nori.jp/en/ Machi-Nori.] E-Bikes can be picked up at various points around the city, rented for specific time periods or for full days (or months!), and returned to any compatible port in the city.
+
+Check if your hotel offers bicycle rental as well, as some may offer basic bicycle rental at rates lower than many city rental prices!
+
+===On foot===
+As the central city is fairly compact, one of the best ways to get around (at least when the weather is cooperative) is simply walking, exploring the narrow side streets. From east (Higashiyama) to west (Teramachi) would take about an hour at a leisurely pace, though to see everything between them properly would take days.
+
+===By car===
+Driving in Kanazawa is not for the inexperienced. The old city, in particular, is a labyrinth of narrow twisting streets once you leave the main roads, and you need to be good at judging just how wide your vehicle is at times. Parking in the old city is also at a premium. However, the newer areas on the outskirts are car-friendly, and parking is ample. For those using Kanazawa as a base to explore the [[Chubu]] region, renting a car would be a good idea as public transport between some of the more far-flung areas is far and few between.
+
+==Talk==
+English is not as widely spoken as in larger cities, and many restaurants will only have a Japanese menu. Even hotel reception staff might struggle with English. A big smile and a bit of patience will work wonders in these cases. In many cases, the waitperson might be able to speak some basic English if you give them a chance to get over their nerves.
+
+==See==
+Many of the links below are only available in Japanese. However almost all major tourist sites in Japan have English pamphlets, and Kanazawa is no exception.
+
+[[Image:Kenrokuen_Schoolgirls.JPG|thumb|Exploring Kenrokuen]]
+[[Image:Castle_-_Ishikawa_Gate.JPG|thumb|Ishikawa Gate, Kanazawa Castle]]
+[[Image:Nagamachi Alleys.JPG|thumb|The alleys of Nagamachi's samurai district]]
+
+* {{see
+| name=Kenroku-en Garden | alt=兼六園 | url=http://www.pref.ishikawa.jp/siro-niwa/kenrokuen/e/ | email=
+| address= | lat=36.564 | long=136.662 | directions=
+| phone=+81 762343800 | tollfree= | fax=+81 762345292
+| hours=Daily 07:00-18:00 in summer, 08:00-17:00 in winter (mid-October to end of February) | price=¥320 (free on Culture Day, Nov 3rd), and ¥100 for children age 6-17; ¥500 when combined with a ticket to one of several nearby museums.
+| wikipedia=Kenroku-en
+| lastedit=2023-11-13
+| content=The most famous sight in Kanazawa, the Garden of Six Attributes is considered one of [[Japan's Top 3]] gardens. Once the outer pleasure gardens of the Maeda Lords, it gradually expanded to take over the entire block. While not completed in its final form until the waning years of the Edo Shogunate, it still represents one of the peaks of Japanese strolling garden design. The way in which water is piped from many kilometres upstream to fill its streams and ponds before going on to fill the castle moats is one of the great engineering feats of the Edo period. In part of the grounds, and with a steep separate ¥700 entrance fee, is the Seisonkaku Villa, built by a Maeda lord for his mother. Only part of it remains, but is a rare example of existing daimyo palace architecture. The upper floor, with its bright blues and reds, is in distinct contrast to the muted earth tones of Kyoto style. During cherry blossom season, entry to the park is free and it's open and lit up until 21:00.
+}}
+* {{see
+| name=Kanazawa Castle | alt=金沢城 | url= | email=
+| address= | lat=36.5658 | long=136.6596 | directions=
+| phone= | tollfree=
+| hours= | price=¥320
+| wikidata=Q511412
+| lastedit=2023-11-13
+| content=At the center of Kanazawa is the former site of Kanazawa Castle. It has been vacated by the national university, which took over the site once used by the Ninth Division of the Imperial Army, the castle is public space now for the first time in its more than 400 years of history. The imposing '''Ishikawa Gate''' (石川門), so named as it faced the Ishikawa district, was once a side entrance to the castle grounds, but after several fires and man-made destruction, it is one of the few original buildings left on the site, the other being the '''Sanjikken Nagaya''' (三十間長屋) storehouse near the top. However the long '''Gojikken Nagaya''' (五十間長屋) that once guarded the castle palace has been rebuilt according to traditional methods, and is open to the public.
+}}
+* {{see
+| name=Nagamachi Samurai District | alt=Nagamachi Buke Yashiki or 長町武家屋敷 | url=http://visitkanazawa.jp/mustgoplace/touristspot/area2/1 | email=
+| address= | lat=36.5636549 | long=136.6506522 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia =
+| wikidata =Q11653513
+| lastedit=2017-12-21
+| content=Towards the coast from Oyama Shrine, this is an area of a few streets where considerable effort has been expended in order to recreate the feel of the samurai housing areas. The fact that almost none of the actual samurai houses remain does little to daunt the enthusiasm of the tourists. While historically dubious, it is a pleasant area to stroll, and the one of the best of the remaining samurai districts in Japan. In Nagamachi, the '''Nomura House''' is open to the public (¥500), and boasts a small but exquisite garden. A short walk from there the city has relocated and restored two ''ashigaru'' (足軽: the lowest rank of samurai) houses that are open for free, and provide a lovely place to rest and enjoy the peace of a traditional Japanese house. Towards the Asano River to the north, there are a couple more samurai houses, not preserved or set aside as museum pieces, but actually lived in (and not open to the public).
+}}
+* {{see
+| name=Kazuemachi | alt=主計町 | url= | email=
+| address= | lat=36.5721 | long=136.6636 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia =
+| wikidata =Q11368794
+| lastedit=2015-04-04
+| content=A small but very nice area of geisha houses along the riverbank across from Higashiyama.
+}}
+* {{see
+| name=Higashi-Chayagai | alt=ひがし茶屋街 | url= | email=
+| address= | lat=36.5723 | long=136.6665 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia =
+| wikidata =Q5897562
+| lastedit=2015-04-04
+| content=Across the Asano River, Kanazawa's most famous ''geisha'' district. Many of the tall narrow houses are still used as high-class entertainment, but the '''Shima House''' (¥400) is open for all to see, and is well worth the entry fee for a chance to experience its refined and elegant atmosphere. Quite a few of the buildings have been converted into speciality shops and teahouses (of the non-geisha variety), so poke around freely and don't miss out on a cup of tea and a Japanese sweet (¥500-1000). Behind this area is a temple district, and the roads between the main road and the mountain are a twisting labyrinth of narrow lanes perfect for exploring on foot.
+}}
+* {{see
+| name=Nishi-Chayagai | alt=にし茶屋街 | url= | email=
+| address= | lat=36.5568024 | long=136.6472036 | directions= a short distance from Myoryuji Temple (Ninjadera-Ninja Temple), to the south of the Sai River
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia =
+| wikidata =Q11274768
+| lastedit=2017-12-27
+| content=The "west" to Higashi's "east", this is another district of restored geisha houses. This is considerably smaller (and quieter) than Higashi, with effectively just a single street, and aside from the (free) information center it's not possible to formally visit any of the houses. One can however enter the several shops that dot the street and appreciate the inside of these beautiful houses.
+}}
+* {{see
+| name=Kanazawa Shinise Memorial Hall (Old Merchant House) | alt=金沢市老舗記念館 | url= | email=
+| address= | lat=36.562653 | long=136.650347 | directions=
+| phone=+81 76-220-2524 | tollfree= | fax=
+| hours= | price=
+|lastedit=2023-02-21| content=The Old Merchant House was Kanazawa's leading Chinese medicine shop in Minami-machi during the 18th century. The shop was established in 1759 and provided medicine for the feudal leaders. The merchant's family was given high status by the elders of the town. The shop was instrumental in maintaining the elegance of the tea ceremony, flower arrangement, and haiku during the time period in which it was open. The shop has a bridal exhibit on the second floor with examples of bridal gifts and a large flower arrangement made entirely out of sugar.
+}}
+
+===Temples and shrines===
+[[Image:Teramachi JizoStatues.JPG|thumb|Statues of Jizō, the patron saint of travelers, in Teramachi]]
+
+The river to the south, the Sai River, has on its far bank the main temple district of '''Teramachi''' (寺町). One of the more impressive ones in Japan, both sides of the road are lined with imposing walls and looming black-tiled roofs. Its eastern counterpart is the Higashiyama Temple District. In contrast to Teramachi's straight road, the eastern temples are dotted around the hillside in a maze of narrow streets. The Kodatsuno ridge also has a small temple area, dominated by Tentokuin.
+
+[[File:正久山 妙立寺 (忍者寺) - Myoryuji Temple (Ninjadera-Ninja Temple) (8523559775).jpg|thumb|Myoryuji Temple, also known as Ninjadera or Ninja Temple]]
+
+* {{see
+| name=Ninja Temple | alt=妙立寺 Myōryu-ji | url=http://www.myouryuji.or.jp/ | email=
+| address= | lat=36.5553764 | long=136.6490033 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia =Myōryū-ji
+| wikidata =Q3342007
+| lastedit=2017-12-21
+| content=The tour guides insist there is no connection between the 'Ninja Temple' and actual ninja assassins. But with 23 rooms and 29 staircases, an impressive array of trapdoors and hidden rooms, and a ''sepukku'' (ritual suicide) chamber, it is easy to see why people would make that assumption. Visitors cannot enter the temple except through the tours, so call ahead to book a tour. The tour is conducted in Japanese, but they give travelers a folder with English translations. Local lore has it that there was an underground tunnel from the castle to the temple, to allow the Maeda lords an escape route in case of attack. However, no documentary proof of this has been found, and, like the ninjas, it merely adds to the myths of the place. The staff have a well-deserved reputation (amongst Japanese and foreigners) for being rude and unhelpful. ¥1,200 for adults and ¥700 for primary school pupils, and you're supposed to make a reservation in advance, although they can usually squeeze you in if there's space and you don't mind waiting for your tour to begin. The hour-long tour is well worth the price.
+}}
+* {{see
+| name=Oyama Shrine | alt=尾山神社 | url= | email=
+| address= | lat=36.566073 | long=136.655425 | directions=on the other side of the castle
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia =Oyama Shrine (Ishikawa)
+| wikidata =Q998709
+| content=Built in the early Meiji period to honor the founding father of the Kaga Domain, Maeda Toshiie. It is notable for a unique gate with stained-glass windows that is a fusion of Japanese and Western architecture. The back gate to the shrine is also one of the few remaining parts of the original castle: a gate from the palace compound that escaped destruction when it was moved to the shrine. "Oyama" was the original name for the hill on which Kanazawa Castle was built.
+}}
+* {{see
+| name=Tentoku-in | alt=天徳院 | url= | email=
+| address= | lat=36.551441 | long=136.676962 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia =
+| wikidata =Q11442593
+| lastedit=2018-01-18
+| content=The largest temple in Kanazawa during the Edo period, it stood at the eastern end of the city. It was built to house the spirit of Tama-hime (珠姫: the Princess Tama), the wife of Maeda Toshitsune (the third Maeda lord). She was born in 1599 as the granddaughter of Tokugawa Ieyasu, the founder of the Tokugawa Shogunate, and the daughter of the second Shogun, Hidetada. It was a political marriage: the Tokugawa were worried about a possible attack from the powerful Maeda, historically supporters of the Toyotomi clan. Toshitsune sent his mother to Edo as a hostage, and in return received the Shogun's daughter in marriage. She was three years old at the time (though the actual marriage was carried out when she was 14), and her arrival in Kanazawa is commemorated each year in the Kaga Hyakumangoku Parade. She died at age 24.
+}}
+* {{see
+| name =Daijōji Temple | alt =大乗寺 | url = | email =
+| address = | lat = | long = | directions =
+| phone = | tollfree = | fax =
+| hours = | price =
+| wikipedia =
+| wikidata =Q1157584
+| image =
+| lastedit =
+| content = Daijōji Temple is an old and active Zen Buddhist Temple set away from traffic on a hillside. The temple in its current location dates from 1697. Old trees shade dense moss. There is a large bell hanging under the gate along the path which visitors may ring. Strikingly loud at first, the sound fades to accentuate the tranquillity. There are free early-early-morning pray-with-the-Zen-monks sessions for those so inclined, be prepared to join in with sweeping and cleaning afterwards. The whole place is extremely "wabi-sabi", spiritually mellow.
+}}
+* {{see
+| name=Shinmeiguu Shrine | alt=神明宮 | url= | email=
+| address= | lat=36.558031 | long=136.64892 | directions=a few meters up from the Saigawa ōhashi bridge on the right hand side of the road
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia =
+| wikidata =
+| content=This shrine is famous for the more than 900-year-old Zelkova tree (keyaki) in its grounds. The shrine used to be on the banks of the Sai River, before land was reclaimed, and the tree was used as an anchor point for boats. Iron bars driven into the trunk so that boat hooks could be attached are still visible half-way up the tree. The rest of the grounds are used for parking and you will be kept at a safe distance from the tree by 3 fences: one bamboo, one steel and of course one made of concrete!
+}}
+
+===Museums===
+[[Image:21st_Century_Museum_of_Contemporary_Art,_Kanazawa011.jpg|thumb|21st Century Museum of Contemporary Art]]
+* {{see
+| name=21st Century Museum of Contemporary Art | alt=金沢21世紀美術館 | url=http://www.kanazawa21.jp/en/ | email=
+| address=1-2-1 Hirosaka | lat=36.5609129 | long=136.6581185 | directions=
+| phone=+81 76-220-2800 | tollfree= | fax=
+| hours=Exhibition Zone 10:00 - 18:00, Public Zone 09:00 - 22:00 | price=
+| wikidata=Q3242206| wikipedia=21st_Century_Museum_of_Contemporary_Art%2C_Kanazawa | image=21st_Century_Museum_of_Contemporary_Art,_Kanazawa011.jpg
+| content=Located across from Kenroku-en, this modern marvel offers a fascinating juxtaposition to the traditional splendour of Kanazawa. Even if you don't enter the permanent or temporary exhibitions, the building itself is worth a look and there are usually some free exhibits inside. Some of the permanent collection can be seen for free. These include pieces by Jan Fabvre (an impressive statute on the roof of the building), the famous "swimming pool" by Leandro Erlich in the main courtyard inside the building as well as playful pieces in the garden surrounding the museum. Don't miss the cafe!
+}}
+* {{see
+| name =Kaga Honda Museum | alt =本多の森 ''Honda-no-Mori'' | url =http://honda-museum.jp/english/ | email =
+| address = | lat = | long = | directions =
+| phone =+81 762610500 | tollfree = | fax =
+| hours = | price =
+| wikipedia =
+| wikidata =Q11519973
+| image =
+| lastedit =2021-08-12
+| content =Near Kenrokuen is this pleasant green park-like area which houses the very interesting Prefectural Museum (housed in three long narrow pre-war army storehouses of brick), the Art Gallery, and a few other smaller museums, as well as the Prefectural Noh Hall and the National Defence Shrine (護国神社 ''Gokoku Jinja''), a smaller regional version of the main Yasukuni Shrine in [[Tokyo]]. Just outside the shrine, which is built in the pure Japanese traditional style, is a tall pillar commemorating the dead of the "Great East Asia War" (Dai Tou-A Sensou: 大東亜戦争) that was the subject of considerable controversy when erected for its listing of groups that did not wish to be listed on a right-wing commemoration. It takes its name from the powerful Honda family, whose mansion once occupied this area in the Edo period.
+}}
+* {{see
+| name=Ishikawa Prefectural Museum of Traditional Arts and Crafts | alt=石川県立伝統産業工芸館 | url=http://www.ishikawa-densankan.jp/english/index.html | email=
+| address=1-1 Kenroku-machi | lat=36.561089 | long=136.663966 | directions=
+| phone=+81 76 262-2020 | tollfree=
+| hours=Daily 09:00-17:00 (last entry at 16:30); closed Apr-Nov: 3rd Th of the month; Dec-Mar: Th, Year-end and New Year | price=¥250, ¥200 for seniors, and ¥100 for children under 17. Group rates are available
+| wikipedia=Ishikawa Prefectural Museum of Traditional Arts and Crafts | wikidata=Q11585980
+| content=A craft museum that displays 36 types of traditional arts and crafts cultivated by the people who lived in Ishikawa. The exhibits are grouped by type and well-displayed.
+}}
+* {{see
+| name=Ishikawa Prefectural Museum | alt=石川県立歴史博物館 | url=http://www.pref.ishikawa.jp/muse/rekihaku/ | email=
+| address= | lat=36.560181 | long=136.661169 | directions=
+| phone=+81 76-262-3236 | tollfree= | fax=+81 76-262-1836
+| hours= | price=
+| wikipedia=Ishikawa Prefectural History Museum | wikidata=Q4676340
+| content=Entry ¥250 (more when special exhibitions are held). 09:00-17:00 (last entry at 16:30). Housed in three long brick buildings, restored armouries from the time when the area was used by the Imperial Japanese Army, it features a chronological display of local history in a modern and well-laid-out setting. There is also an area for hands-on history, where you can try on various outfits, including samurai armour. As with most tourist sites in Kanazawa, an English-language pamphlet is available.
+}}
+*{{see
+| name=Ishikawa Museum of Modern Literature | alt=石川近代文学館 | url=https://www.pref.ishikawa.jp/shiko-kinbun/info/m-literature.html | email=
+| address= | lat=36.5625 | long=136.655802 | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=09:30-17:00 (last entry at 16:30). Housed in the Meiji-era brick building of the former Fourth High School (preparatory schools for the Imperial Universities), the fore-runner of Kanazawa University, it houses displays relating to famous local (generally) authors from the Meiji to pre-war period. Probably only of interest to students of Japanese literature rather than casual tourists, as many of the displays are original copies of books or manuscripts, written in Japanese. ¥400.
+}}
+* {{see
+| name=Ishikawa Prefectural Museum of Art | alt=石川県立美術館 | url=http://www.ishibi.pref.ishikawa.jp/e_home/ | email=ishibi@pref.ishikawa.lg.jp
+| address=2-1 Dewa-machi | lat=36.56 | long=136.661389 | directions=
+| phone=+81 76-231-7580 | tollfree= | fax=+81 76-224-9550
+| hours=09:30―18:00 (last admission 17:30) | price=¥360
+| wikipedia=Ishikawa Prefectural Museum of Art | image=Ishikawa Prefectural Museum of Art in winter.jpg | wikidata=Q3297759
+| lastedit=2017-12-27
+| content=This is a pleasant museum showcasing works by local artists hailing from Isihikawa prefecture. There are six galleries showing parts of the collection, which is rotated through the year. Many of the pieces come from the collection of the Maeda lords. The building provides nice views on the surrounding woods.
+}}
+* {{see
+| name=D.T. Suzuki Museum | alt=鈴木大拙館 | url=http://www.kanazawa-museum.jp/daisetz/english/ | email=daisetz@city.kanazawa.ishikawa.jp
+| address=3-4-20 Honda-machi | lat=36.557639 | long=136.660972 | directions=the museum is not very easy to find; it is at the back of the Honda Forest; make sure to review the access instructions on the museum's website when planning your visit
+| phone=+81 76-221-8011 | tollfree= | fax=
+| hours=09:30-17:00 | price=¥300
+| wikipedia=ja:鈴木大拙館 | image=D.T.Suzuki_Museum_08.jpg | wikidata=Q11648713
+| lastedit=2017-12-27
+| content=This small museum commemorates the life and works of Suzuki Daisetz Teitaro, a prominent Buddhist philosopher whose books were instrumental in spreading interest in Zen Buddhism in the West. The museum is organized around three areas: a first room exhibiting the writings and calligraphy of D.T. Suzuki, as well as pictures and explanations about his work and life; a second room where his books can be consulted and more can be learned about his writings. The third area is perhaps the most attractive part of the museum, as it is a contemplative space where visitors are invited to meditate and reflect while admiring the beautiful architecture and the surrounding woods. Even those not attracted to Buddhism or oriental philosophies may find the place worth a visit to enjoy the building's architecture.
+}}
+
+==Do==
+* {{do
+| name=Asanogawa Riverside Garden Party | alt= | url= | email=
+| address= | lat= | long= | directions=Along the Asano River banks. 7 minutes by Hokutetsu bus for Nishiki-Machi from Kanazawa Station's west exit. Get off at Hashiba-Cho bus stop and follow the crowd.
+| phone= | tollfree=
+| hours=2nd Sat and Sun of April | price=
+| wikidata=
+| lastedit=2024-06-06
+| content=A delightful place for a stroll among the blossoming cherry trees. This event always draws a large crowd who come to watch traditional displays on an elevated stage built over the river. There are enchanting, graceful performances of singing and dancing by local geisha and maiko from Higashi Chaya-Machi district. Keep an eye out for the water jugglery "Mizu-gei" performance.
+}}
+* {{do
+| name=Hyakuman-goku Festival | alt=金沢百万石まつり | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours=The first weekend in June | price=
+| wikidata=
+| lastedit=2024-06-06
+| content=This is the big daddy of Ishikawa festivals. The festival celebrates the entry of Lord Maeda Toshiie, founder of the Kaga Domain, into Kanazawa Castle in 1583 and the following 3 centuries of prosperity due to the massive levels of rice production in the area. The annual rice yield was one million bushels (JP: hyakuman-goku; 百万石) or roughly 150,000 tonnes. The festival stretches out over three days and includes a parade on Saturday, a citywide folk dancing competition Saturday night, public tea ceremony at Kenroku-en and a children's lantern parade Friday night. The parade route has been changed and now begins in front of Kanazawa Station where the opening ceremony is performed; arrive early with a blanket to claim your space on the sidewalk. The highlight of the parade is the costumed pageant recreating the entry of Maeda Toshiie, featuring costumed warriors and ladies from the late Warring States period and early Edo Period. The role of Toshiie is usually given to a famous Japanese star.
+}}
+* {{do
+| name=Fireworks displays | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=
+| lastedit=2024-06-06
+| content=Every summer, locals are drawn to the river side to watch impressive fireworks displays (free of charge). Special buses ferry people from the station to the river bank and back. On a nice evening, this is certainly worth the effort. It is also a good opportunity to meet and speak with locals. Dates vary; ask for information at the Kanazawa Tourist Information Lobby in the station.
+}}
+
+==Learn==
+* {{listing
+| name=Kanazawa University | alt=金沢大学 | url=https://www.kanazawa-u.ac.jp/ | email=
+| address= | lat=36.5459109 | long=136.705025 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=
+| lastedit=2024-06-06
+| content=Kanazawa University is composed of 8 faculties. About 8,000 university students study there. There is also a large post-graduate program. The main campus is Kakuma.
+}}
+* {{listing
+| name=Kanazawa Gakuin University | alt=金沢学院大学 | url=https://www.kanazawa-gu.ac.jp/ | email=
+| address= | lat=36.5175046 | long=136.6944677 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=
+| lastedit=2024-06-06
+| content=Kanazawa Gakuin University is composed of 3 faculties.
+}}
+* {{listing
+| name=Hokuriku University | alt=北陸大学 | url=http://www.hokuriku-u.ac.jp | email=
+| address= | lat=36.5253974 | long=136.7064669 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=
+| lastedit=2024-06-06
+| content=Hokuriku University is composed of two faculties: Pharmacy and Future Studies (law, management, and language) with about 3,000 students.
+}}
+* {{listing
+| name=Kinjo University | alt=金城大学 | url=http://www.kinjo.ac.jp/ku/ | email=
+| address= | lat=36.5090415 | long=136.5292699 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=
+| lastedit=2024-06-06
+| content=Kinjo University has faculty of welfare.
+}}
+
+==Work==
+As a large and fairly youthful city, there are plenty of opportunities to [[Teaching English|teach English]].  Do research and be prepared. It would be unwise to turn up and expect to find legal work easily, however, the better your Japanese ability the better the chances. NOVA, ECC and Berlitz have closed operations in Kanazawa. The Ishikawa Foundation for International Exchange and the Ishikawa International Lounge, both located in the Rifare building close to the station, provide free legal, visa, and financial advice to foreigners (set times only).
+
+==Buy==
+[[Image:Higashi GoldenPavilion.JPG|thumb|Gilded tea house at Hakuza]]
+
+Kanazawa is part of the UNESCO Creative Cities Network and any of the over 30 local arts and crafts make lovely souvenirs. Japanese-style confectionery also makes a good souvenir.
+
+The city is famed for '''gold leaf''' production (金箔 ''kinpaku'') and an interesting and reasonable priced gift is a small box of gold leaf fragments, which can be used to decorate cakes and food or for adding sparkle to cups of sake. Within the station are a plethora of shops selling tourist items. Another area specialty is '''lacquerware''' (漆器 ''shikki'') with products available to suit all budgets. [[Wajima]] (in [[Noto Peninsula|Noto]]) and Yamanaka are two main areas of production.
+
+Kenroku-en is ringed by shops catering to the tourist trade. Just as one would expect, the products at such shops are not typically authentic local goods, but they do have the Kanazawa keychains, postcards, and other knickknack collectibles.
+
+Kanazawa is known as a trendy city, and fashion reflects this. The Tatemachi shopping street is full of stores, many of which house good deals if you look hard enough.
+
+* {{buy
+| name=Hakuza | alt=箔座 | url=http://www.hakuza.co.jp/ | email=
+| address=Higashiyama 1-13-18 | lat=36.577563 | long=136.665057 | directions=on Higashi-Chaya main street
+| phone=+81 76 251-8930 | tollfree=
+| hours=09:30-18:00 daily | price=
+| content=A well-known purveyor of all things covered or decorated with gold leaf, this shop is worth a visit just to see the stunning platinum and gold leafed warehouse inside.
+}}
+*{{buy
+| name=Belsel Building | alt= | url=https://belsel.jp/?mode=f1 | email=
+| address=Tatemachi 24 | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=For those interested in Japanese "otaku" culture, the Belsel building is the place to go in Kanazawa. This building houses several stores dedicated to selling products such as anime/manga, figures, and doujin works. In addition, the first floor is full of fashion stores specializing in goth, punk, lolita, and others.
+}}
+*{{buy
+| name=Kohrinbo Tokyu Square | alt=香林坊東急スクエア | url=https://www.korinbo-tokyu-square.com/ | email=
+| address=Kohrinbo 2-1-1 | lat= | long= | directions=across from Daiwa dept. store
+| phone= | tollfree=
+| hours= | price=
+| content=Houses several floors dedicated to showcasing and selling all of the newest trends. There is a floor exclusively for men, and a movie theater on the top floor which shows a number of independent and foreign films.
+}}
+
+==Eat==
+Kanazawa cuisine is famous throughout Japan, particularly its seafood since it lies in the sweet spot of the hot south and cold north currents. The quality of food is so high, that essentially you'll eat good food whatever the price.
+
+A famous local dish is ''jibuni'' (治部煮), made from boiled and seasoned duck and various vegetables. Crab is another local favourite served up during the winter months, common types include the hairless male crab (zuwaigani) or smaller female crabs with eggs still attached. Served cold with a light vinegar or in nabe style hot pots. Sushi made with fish from the neighboring sea is also popular, the sweet shrimps (''amaebi'') are especially good in this region. In Spring the tiny gray river fish ''gori'' is a well known delicacy. Sometimes served deep fried with salt or in miso soup. Eaten whole it is an acquired taste.
+
+===Budget===
+* {{eat
+| name=Dai-Nana Gyōza | alt=第七餃子 | url=http://www.white-gyouza.co.jp/index.html | email=
+| address= | lat= | long= | directions=opposite the Mori-no-Sato Jusco shopping center near the Kakuma Campus of Kanazawa University
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=A restaurant that specialises in gyoza. Counter seating as well as private rooms upstairs that are available for hire. The gyoza, known as "white gyoza", are famous in the region, and very unlike normal gyoza. Part of a small but insanely popular chain of "white gyoza" (named after the founder, a Chinese man named Hak (白), or "white". Ten gyoza are ¥360. Go early to get a seat - it's very popular with students and young salarymen.
+}}
+* {{eat
+| name=Gyoza-no-Ōshō | alt=餃子の王将 | url=http://www.ohsho.co.jp/new/index.html | email=
+| address=Katamachi | lat= | long= | directions=1 minute walk from the Scramble [part of a nationwide chain] and in other locations in Kanazawa
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Serving cheap Chinese food in a brightly-lit and often smoky environment. Chinese dumpling (gyoza) are 6 for ¥180, large rice will set you back ¥200 and mains are in the ¥500-600 range. Look for the gaudy yellow, red and white sign near the bus stop. All Osho restaurants have a bilingual (English-Japanese) menu.
+}}
+*'''8-Ban Ramen''' Hachi-ban ramen, founded in Ishikawa in 1971 has outlets scattered throughout Kanazawa including one near the Saigawa Bridge in Katamachi. Cheap, but not known for the quality of its ramen. In fact Kanazawa as a whole is not the place to go for good ramen.
+[[Image:Omicho Market.JPG|thumb|Ōmichō-ichiba Market]]
+* {{eat
+| name=Ōmichō market | alt=Ōmichō-ichiba or 近江町市場 | url=http://ohmicho-ichiba.com/ | email= info@ohmicho-ichiba.com
+| address=5-0 Kamiomicho | lat=36.5716589 | long=136.655997 | directions=a 15-minute walk from Kanazawa Station (or a one-bus stop ride)
+| phone=+81 76-231-1462 | tollfree= | fax=
+| hours=09:30-17:00 (although some shops have longer hours) | price=
+| content=This is a relatively large covered market housing many shops and stalls selling fish, vegetables, fruits and meat.  According to its website, it has been Kanazawa's largest fresh food market since the Edo Period.  The market also houses many restaurants (both on the ground floor and on the first floor) and small colourful eateries where one can eat fresh local seafood, including specialties such as crab, Noto Peninsula oysters and other shellfish.  There are also several sushi restaurants and one kaiten sushi place (where sushi are presented on a conveyor belt).  There are many tourists, but this remains an active market where locals shop for food and other household items (such as clothing, kitchen utensils and flowers).  There is a large pharmacy in the basement.
+}}
+* {{ eat
+| name=Sakanaya | alt=魚菜屋 | url= | email=
+| address=Hyakumangai | lat= | long= | directions=shopping annex of the JR station
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Counter seating only, this little joint is always packed with locals looking for a quick serve of cheap seafood. Try the ''kaisen tonkomori-don'' (海鮮とんこ盛丼, ¥980), a bowl of rice topped with all sorts of raw seafood goodies.
+}}
+* '''Skylark Family Restaurant''', a few minutes walk from the station between a car dealership and Toyoko Inn Hotel. Cheap and cheerful Western style food as well as Japanese dishes. Ask for the drink bar option to get unlimited access to the buffet style hot/cold soft drinks for only a couple of hundred yen. There are many other "family restaurant" style places in Kanazawa, from Big Boy to Joyful, though most are out in the suburbs.
+* {{eat|name=Choi Nomi Dining Taka|alt=ちょい呑みダイニング貴|url=https://www.choinomi-taka.com/|address=11-40 Yasuecho|lat=36.5732776|long=136.655132|directions=Head towards Kanazawa Station; from Omicho market, take the underground path towards the appropriate exit.|phone=+81 9037682187|hours=Daily 14:00-23:30|price=¥300-1000 |lastedit=2023-02-21|content=An excellent and affordable Izakaya restaurant run and owned by a former sumo wrestler. Enjoy local sakes, along with a range of Japanese dishes, including a specialty dish, "Nodoguro ramen", which features a Blackthroat Seaperch fish, as well as menma (boiled bamboo) pieces, and half an egg. ''English menus are available'', however pricing and the amount of food you get seems to contradict what's on the Japanese menu, with some of the entries; try to fake your way through it, if you want the full experience! 
+}}
+
+===Mid-range===
+Right next to Kanazawa Station is a new shopping complex called '''Forus'''. The 6th floor is dedicated to restaurants and has a very good conveyor style sushi restaurant. No English is spoken but they do have a picture menu and all tables have an electronic menu device. Be aware that if you do not finish all of your food, the Forus restaurants will not give you a box to take your leftovers! Other options include Chinese; Indonesian; Italian and Korean restaurants. Nearly all restaurants have a lunch special in the ¥1000 range.
+
+* {{eat
+| name=Chochinya | alt=鳥珍や | url=https://cho-chinya.jp/ | email=
+| address=2-31-32, Katamachi | lat= | long= | directions=
+| phone=+81 76 223-8422 | tollfree=
+| hours=17:00-02:00 | price=
+| content=Well worth a visit to try the fantastic tebasaki (crispy chicken wings), order at least 3 per person! The young owners speak limited English but have an English menu available. They have over 20 brands of shochu to choose from and a selection of local sake. There is a charge of ¥262 for the small appetizer you will be served when you sit down. Always packed out at the weekends.
+}}
+* {{eat
+| name=The Cottage | alt= | url= | email=
+| address=2-8-16 Katamachi | lat= | long= | directions=
+| phone=+81 76 262-3277 | tollfree=
+| hours= | price=
+| content=Run by the very friendly Tony and Momo. Serving up homestyle cooking with plenty of conversation thrown in. A cozy restaurant popular with resident foreigners and tourists.
+}}
+* {{eat
+| name=Hacchouya | alt=八兆屋 | url=https://www.hacchouya.com/ | email=
+| address=Katamachi | lat= | long= | directions=Its halfway between the "Scramble" and "Kohrinbo", on the left-side of the street as you head from the Scramble towards Kohrinbo, the entry is hard to spot because you have to head down a set of stairs from street level (its underground)
+| phone= | tollfree=
+| hours= | price=
+| content=The best way to describe this place is a "refined" izakaya. The fare here is a modern twist on izakaya food. The quality of the food is unbelievable for the price. It has sunken seating by the open kitchen or private tatami style rooms and very cosy. Not much English is spoken but you manage to get your message across. Be adventurous, point to the menu and you can't go wrong. Staff are very friendly and efficient.
+}}
+* {{eat
+| name=Hirosaka-Tei | alt=ヒロサカ亭 | url= | email=
+| address=2-31-32, Katamachi | lat= | long= | directions=Located a few doors down and across the road from The Spice Box
+| phone=+81 76 223-8422 | tollfree= | fax=
+| hours=17:30-23:30 | price=
+| content=Rustic style izakaya with an open kitchen, there is an emphasis on local seafood so the tempura selection (¥1,300) and sashimi of the day platter (¥1,500) are good choices to begin with. The homemade ginger ale has quite a kick and goes well with the fish dishes. Japanese menu but English is spoken by the owner.
+}}
+* {{eat
+| name=Le Mars | alt=ルマルス | url=https://www.lemars2005.com/ | email=
+| address=Kohrinbo | lat= | long= | directions=
+| phone= | tollfree= | fax=+81 76-262-5343
+| hours=11:30-14:00 & 18:00-22:30, closed W | price=
+| content=Husband and wife team serving up tasty Belgian inspired food in a relaxed atmosphere. Good range of European beers available. Tucked away down a side street near the '''Excel Hotel'''.
+}}
+* {{sleep
+| name=MoriMoriZushi | alt=もりもり寿し | url= | email=
+| address=Forus 6F | lat= | long= | directions=right outside Kanazawa stn
+| phone=+81 76 265-3510 | tollfree= | fax=
+| hours= | price=
+| content=Excellent sushi starting at ¥120 per plate. The salmon is divine and they even do a meat lovers' hamburger nigiri! The house special is the "three-point plate" (三点盛り) which gets you three different seasonal delicacies for ¥598. You can sit at the counter or for more elbow room ask for a table. No smoking throughout. There is a newly opened branch in Omicho market.
+}}
+* {{eat
+| name=Osteria Albero | alt= | url=https://www.instagram.com/osteria__albero/p/CuZRnKYpN4q/?img_index=1 | email=
+| address=Katamachi | lat= | long= | directions=
+| phone=+81 76 236-1580 | tollfree=
+| hours=open 18:00-24:00 | price=
+| content=Serving up great Italian food in a quiet corner of town. The pasta is handmade while you wait (around ¥1500 per dish) and the focaccia is superb and a bargain at ¥250. Menu in Japanese and Italian.
+}}
+* {{sleep
+| name=Pilsen | alt=ぴるぜん | url=https://pilsen.owst.jp/ | email=
+| address=Katamachi | lat= | long= | directions=
+| phone=+81 76 221-0688 | tollfree=
+| hours=Closed Su | checkin= | checkout= | price=
+| content=Opened in 1968, this German beer hall style restaurant is well known in Kanazawa. There is a long counter downstairs and more intimate table seating upstairs. Limited English is spoken but they are used to foreign customers and have an English food menu. Drinks from ¥600 main dishes start around ¥800.
+}}
+* {{eat
+| name=Spice Box | alt= | url=https://spicebox-kanazawa.gorp.jp/ | email=
+| address=2-30-8, Katamachi | lat= | long= | directions=
+| phone=+81 76 234-3313 | tollfree=
+| hours=M-Sa 18:30-03:00, Su 18:00-23:59 | price=
+| content=The only authentic Indian and Sri Lankan restaurant downtown. Based on the tapas concept dishes start at ¥300. Vegetarian options are available along with an English menu. Ask the ever smiling manager if you have special requests. No credit cards accepted.
+}}
+* {{eat
+| name=Sushi Ippei | alt=鮨一平 | url= | email=
+| address=1-5-29, Katamachi | lat= | long= | directions=
+| phone=+81 76 261-8674 | tollfree= | fax=
+| hours=18:00-01:00, closed Su and national holidays | price=
+| content=Tucked down a side street this family run restaurant offers the chance to try authentic sushi without breaking the bank. Prices start at ¥100, expect to pay around ¥3000 for a good feed. English menu and limited English spoken by the beaming kimono-clad okamisan.
+}}
+* {{eat
+| name=Yama-boshi | alt=山ぼうし | url=http://www.yamaboushi-kanazawa.com/ | email=
+| address=Ro 86, Fukuroitayamachi | lat= | long= | directions=Off Route 10, on your way to Yuwaku onset
+| phone=+81 76 229-0644 | tollfree=
+| hours=11:30-14:45, closed W Th | price=¥800 and up
+| content=Stop for soba after a visit to Yuwaku onsen in this traditional Japanese-style house.
+}}
+* {{Eat|name=Coil|alt=金沢手巻き寿司 COIL（コイル）|url=http://coil-japan.jp/|address=1−1 かなざわはこまち ２F|lat=36.5722746|long=136.6563785|directions=On the 2nd floor of Kanazawa Hakomachi. Go to the main entrance facing the Omicho Market 3 way intersection. Go up the escalator, turn immediately right, you'll see large glass windows showing the tea ceremony room.|phone=+81 762565076|hours=Daily 11:00-21:30|price=¥1500-2000|lastedit=2023-02-21|content=Fancy, modernistic temaki (sushi hand roll) restaurant, with a DIY attitude. Pick your desired fillings, follow your own tea making ceremony, and roll your own sushi to your liking! Has vegan/vegetarian friendly options, as well as English menus.}}
+
+===Splurge===
+* {{eat
+| name=Takeshi | alt=たけし | url=https://kappoutakeshi.owst.jp/ | email=
+| address=Saigawa, Katamachi | lat= | long= | directions=
+| phone=+81 76 234-2121 (Japanese only) | tollfree=
+| hours=17:00-23:00, closed Su | price=
+| content=Modern Japanese cuisine in stylish surroundings. The color yellow is a major theme and even the chef's phone is yellow! Courses start at ¥5250 per person for 8 dishes, not including drinks. Reservations essential.
+}}
+* {{eat
+| name=Tsubajin | alt=つば甚 | url=http://tsubajin.co.jp/en | email=
+| address=Teramachi | lat= | long= | directions=
+| phone=+81 76 241-2181 (Japanese only) | tollfree= | fax=
+| hours= | price=
+| content=Open for lunch and dinner, reservations required. Founded in 1752, and the première Japanese dining experience in Kanazawa, Tsubajin has hosted daimyo, members of the Imperial Family, government ministers, and others who can afford the hospitality of this 250-year-old ryotei - dinners start at ¥20,000 and rise into the upper stratosphere. A mere ¥9,000 will allow you to taste their lunch set menu. The current building dates from the early Taisho period (1912-1925), and is designed in the finest Kanazawa style.
+}}
+* {{eat
+| name=Ume No Hana | alt=梅の花 | url=https://umenohana-restaurant.co.jp/shop-list/info.php?id=909 | email=
+| address=1-101 Tomizu-machi | lat= | long= | directions=
+| phone=+81 76 237-4188 (Japanese only) | tollfree=
+| hours=11:00-14:30 & 17:00-21:00 daily | price=
+| content=For a true Japanese dining experience that is hard to beat this place will make even ex-pat lifers in Japan misty eyed. Beautiful landscaped gardens; immaculate tatami rooms with each room having themed pottery; a mind bending array of tofu dishes and phenomenal service. Kaiseki lunches start at ¥1,500 while dinner starts at ¥3,500 per person. Allow plenty of time to savour the experience as dish after dish will be brought to you. A nice discrete touch is that instead of a check you will be given a keyring to handover when you leave. Ensuring only the bill payer sees the total! Reservations essential even at lunch time. Away from the main sights so a taxi is the easiest way to get there. You will never look at tofu in the same way again!
+}}
+* {{eat
+| name=Kinjohro | alt=金城楼 | url=https://www.kinjohro.co.jp/ | email=
+| address=2-23 Hashiba-cho | lat=36.571654 | long=136.664019 | directions=
+| phone=+81 76-221-8188 | tollfree= | fax=+81 76-224-9146
+| hours=11:00-21:00 | price=¥10,000
+| lastedit=2015-11-12
+| content=A good ''ryotei'' which uses seasonal local ingredients, with dining rooms in traditional Japanese architecture. Reservations recommended. Expensive, but cheaper than similar establishments in Tokyo and Kyoto.
+}}
+
+==Drink==
+{{infobox|Houses of tea|In Japan, a teahouse doesn't always serve just tea.
+; ''O-chaya'' (お茶屋) : The name may mean "tea house", but the main selling point is geishas, not tea.
+; ''Ha-jaya'' (葉茶屋) : So a different word is needed for normal shop for tea leaf (''ha'').
+; ''Sabō'' (茶房) : A "tea room" is a tea house that serves traditional Japanese tea and sweets.
+; ''Saryō'' (茶寮) : A "tea pavilion" is where formal tea ceremonies are conducted.
+; ''Chamise'' (茶店) : Usually means a traditional "tea shop" which offer tea and some traditional Japanese sweets.
+; ''Cha-no-ma'' (茶の間) : The "tea space" is what the Japanese call living rooms.
+; ''Kissaten'' (喫茶店) : These days, "tea enjoyment shop" usually means a coffeeshop &mdash; including Starbucks!
+[[Image:Higashi_Shima_Matcha.JPG|center|250px]]}}
+
+While in Kanazawa, don't miss the opportunity to sample tea ceremony tea (抹茶 ''matcha''), served with either an incredibly dry and tasteless sweet (干菓子 ''higashi'') or a rather more appetizing fresh one (生菓子 ''namagashi''). Figure on ¥500-1000 depending on where you try it; the Higashi-Chaya geisha district probably offers the nicest teahouses.
+
+The Katamachi area in central Kanazawa is wall to wall with bars of all shapes and sizes. Some buildings such as the '''Elle Building''' are almost exclusively full of hostess bars (often referred to as lounge bars) which may not always be foreigner friendly. Many bars will hit you for a cover charge anywhere upwards of ¥500 per person stretching into thousands. As the competition is stiff bars without a charge will often advertise it quite clearly. The '''St. Louis Jigger Bar''' run by Suntory is one such cocktail bar on the corner of the Scramble.
+
+* {{drink
+| name=Machrihanish | alt=マクリハニッシュ | url= | email=
+| address=Nishino Bldg 2F, Kiguramachi 2-4 | lat=36.5612849 | long=136.652573 | directions=Next to a bar called '''Cadeau'''. Look for the large white sign.
+| phone=+81 76-233-0072 | tollfree= | fax=
+| hours=M-Sa 18:30-02:00 | price=
+| content=The best selection of single malts in Kanazawa, bar none. The English-speaking owner spent several years working at the Royal and Ancient Golf Club of St. Andrews and has visited ''every'' distillery in Scotland! If whisky is your thing this is the place to visit. Draft Kilkenny is ¥900 a pint, cocktails start at ¥750, and the vast whisky selection kicks off at ¥700. The fish and chips is recommended.
+}}
+* {{drink
+| name=Nyumba | alt= | url= | email=
+| address=JR Station area, 2-19-4 Honmachi | lat= | long= | directions=
+| phone=+81 76-233-7405 | tollfree= | fax=
+| hours=11:30-midnight, closed Su | price=
+| content=A stylish, modern family run cafe/bar near Kanazawa Station. They do lunch specials for around ¥900 (11:30-14:00). Draft beer goes for ¥500 and they have a range of teas and coffees from ¥300. Cocktails are in the ¥600 range.
+}}
+*{{drink
+| name=Pole Pole | url= | email=
+| address=2-31-31 Kata-machi | lat= | long= | directions=Walk to where 157 (main street) meets water and head right on small street. Bar on the left 3 blocks ahead.
+| phone =+81 76 260-1138 | tollfree= | fax=
+| hours=until 05:00, closed Su | price=
+| content=A reggae music bar with a very friendly staff and laid back staff which all can speak English. Great for visitors to meet locals and other travelers. Good Reggae music and plenty of peanuts on the counter, the floor has a heavy layer of them. You can also eat the food from the Indonesian restaurant next door! Perfect for a laid back and fun evening, especially if you don't speak Japanese.
+}}
+
+==Sleep==
+The largest concentration of hotels is around the station area including all the usual suspects: ANA, APA, Nikko etc. Toyoko Hotel and Route Inn hotel are two of the newest. For cheaper options, the Kanawaza Ryokan and Hotel Society runs a '''[https://www.yadotime.jp/en/ Yadotime booking engine, also available in English]'''.
+
+===Budget===
+* {{sleep
+| name=Guest House Pongyi | alt=ゲストハウスポンギー | url=https://pongyi.com/en/ | email=mail@pongyi.com
+| address=2-22 Rokumai-machi | lat=36.573411 | long=136.647401 | directions=
+| phone=+81 76 225-7369 | tollfree=
+| checkin= | checkout= | price=
+| content=Opened in 2009 in a traditional Japanese house, the small guesthouse is adjacent to one of the picturesque canals. The owner is friendly and extremely helpful, and speaks English very well. They also speak some Spanish and Portuguese. Very clean and comfortable rooms with new bedding. Kitchen, fridge and free tea and coffee available for guests. Free internet and computer (Wi-Fi, Desktop PC). Dorm beds (4 beds per dorm, separate male and female) ¥2700. Private room for up to 2 persons ¥6000 per room (¥3000). Private room for 3 persons ¥8,000 (total).
+}}
+* {{sleep
+| name=Kikunoya Ryokan | alt=きくのや旅館 | url=http://kikunoya.ninja-web.net/ | email=kikunoyaryokan@ybb.ne.jp
+| address=1-1-27, Hirosaka | lat=36.571217 | long=136.660738 | directions=
+| phone=+81 76 231-3547 | tollfree=
+| checkin= | checkout= | price=
+| content=Kikunoya Ryokan is a 1960s-style Japanese inn. In a good area for nightlife. 1 person ¥4680, 2 person ¥8960. All rooms tatami mat. TV in room, a/c, refrigerator, towels, Yukata, tea set, Wi-Fi in room. Facilities: Internet-connected PC (a printer, headset, Wi-Fi) all free. Bicycle rental ¥500/day. Cable TV in dining room, Hair Dryer.
+}}
+* {{sleep
+| name=Ryokan Shibaya | alt=旅館しばや | url=http://en.ryokanshibaya.com/ | email=info@ryokanshibaya.com
+| address=2-19-7 Hon-machi | lat= | long= | directions=
+| phone=+81 76 222-3270 | tollfree= | fax=
+| price= | checkin= | checkout=
+| content=The best thing about this traditional Japanese inn is the bath in the basement. A piping hot, onsen sized affair with bubbling jets that guests can reserve for private use. Only a short walk from the station, it has a peaceful atmosphere, free green tea vending machines in the hallways and big bright rooms (western style or tatami available). Unfortunately, you may have to ask your hosts to turn on the hot water system if you fancy a morning shower. The owners are extremely friendly and helpful but their English is limited. From ¥2800-5400/person (Western or tatami), breakfast ¥800 extra.
+}}
+* {{sleep
+| name=Murataya Ryokan | alt=村田屋旅館 | url=http://murataya-ryokan.com/eng/ | email=info@murataya-ryokan.com
+| address=1-5-2, Katamachi | lat=36.5599 | long=136.6532 | directions=around the corner from the Katamachi bus stop
+| phone=+81 76 263-0455 | tollfree= | fax=
+| checkin= | checkout= | price=Rates are from ¥4500-5000 per person, with 1-, 2- and 3-person rooms available. Credit cards are accepted.
+| content=Small traditional inn runs has 11 Japanese style tatami rooms with common toilet and bath facilities. The staff speak good English and are incredibly helpful. Wi-Fi is available, as well as a PC downstairs. Breakfast can be had with a prior reservation.
+}}
+* {{sleep
+| name=Ryokan Yamamuro | alt=旅館 やまむろ | url=https://ryokan-yamamuro.com/ | email=
+| address=1-2-19, Owaricho | lat=36.5706 | long=136.6607 | directions=in center of town on far side of Oumi-Chuo Market; an 18-minute walk there from Kanazawa Station east exit, but is uphill; or taxi or bus (11, 12, 16) to Owaricho stop then 2-minute walk
+| phone=+81 76 263-7121 | tollfree=
+| checkin= | checkout= | price=1 person ¥5,300, 2 persons ¥10,000 3 persons ¥14,500
+| content=Ryokan Yamamuro has been in business since 1897 in the center of Kanazawa. This inn is a modern ferro-concrete structure. Many major tourist and cultural attractions such as Kenrokuen Garden, Kanazawa Castle Park, 21st Century Museum, Omi-cho Market, Higashi Chaya District, Oyama Jinja Shrine are within walking distance. All rooms are Japanese style with shared toilet. Some rooms are up steep stairs. Wi3 Wi-Fi access point on premises, laptop in lobby available for guest use.
+}}
+* {{sleep
+| name=Guesthouse Ochakare | alt=おちゃかれ | url=http://www.ochakare.com/ | email=
+| address=1-8-12 Kitayasue | lat= | long= | directions=
+| phone= | tollfree=
+| checkin= | checkout= | price=
+| content=Nice atmosphere, friendly and helpful staff.
+}}
+* {{sleep
+| name=Shaq Bighouse | alt= | url=https://www.instagram.com/shaqbighouse/ | email=
+| address=Takaokacho 7-30 | lat=36.56985 | long=136.65368 | directions=
+| phone=+81 90-9445-7851 | tollfree=
+| checkin= | checkout= | price=¥2,800 (1 person), ¥6,200 (double room)
+| lastedit=2015-04-04
+| content=A friendly hostel with international guests. Well equipped kitchen and a bar at the ground floor. Rooms with dorm beds, as well as Japanese style double rooms with shared bathroom. Very thin walls!
+}}
+* {{sleep
+| name=Hotel Pacific | alt=ホテルパシフィック金沢 | url=http://www.hotel-pacific.jp/ | email=info@hotel-pacific.jp
+| address=46 Jikkenmachi | lat=36.570470 | long=136.657475 | directions=enter Omicho market from the bus stop area, walk straight through until you exit the other side, take the first right, then right again
+| phone=+81 762643201 | tollfree=
+| checkin=15:00 | checkout=11:00 | price=¥4800-6000/night, single double bed room with bathroom
+| lastedit=2023-02
+| content=Modern, stylish hotel with in-suite bathrooms and on-site laundry machine. Literally next door to the Omicho market area, as well as a short walk to the Kanazawa Castle grounds. Nearby trendy restaurants, Kanazawa M'Za department store, and a 15-20 minute walk from Kanazawa Station. Affordably priced rooms, and very friendly staff (many of whom speak excellent English).
+}}
+
+===Mid-range===
+* {{sleep
+| name=Daiwa Roynet Hotel | alt= | url=http://www.daiwaroynet.jp | email=
+| address=Kanazawa Station area | lat=36.578967 | long=136.650352 | directions=1 minute walk from the East Exit, opposite Forus
+| phone=+81 76 224-7755 | tollfree=
+| checkin= | checkout= | price=
+| content=Brand new, with elegantly designed rooms. Professional staff. Internet in the rooms, and at internet terminals in the lobby.
+}}
+* {{sleep
+| name=Dormy Inn Kanazawa | alt=ドーミーイン金沢 | url=https://dormy-hotels.com/dormyinn/hotels/kanazawa/ | email=
+| address=Kanazawa Station area | lat=36.579203 | long=136.650614 | directions=1 minute walk from the East Exit, opposite Forus
+| phone=+81 76 263-9888 | tollfree=
+| checkin= | checkout= | price=
+| content=Opened in 2006. Singles for ¥8500 and Twin rooms for ¥15,000, with onsen-style bathing on the 14th floor to relax those travel weary muscles. Free internet in the lobby. Special rates available, inquire at the Tourist Information office inside the station.
+}}
+* {{sleep
+| name=Garden Hotel Kanazawa | alt=ガーデンホテル金沢 | url=http://www.gardenhotel-kanazawa.co.jp/ | email=
+| address=2-16-16, Hon-machi, Kanazawa Station area | lat=36.5772293 | long=136.6497499 | directions=2 minutes walk from the East Exit
+| phone=+81 76 263-3333 | tollfree= | fax=
+| price=Single rooms for ¥5000. Twin and Double rooms for ¥10,000 (¥5000 each) Breakfast ¥1050 extra | checkin= | checkout=
+| content=Friendly and helpful staffs. A very convenient hotel for sightseeing and business in Kanazawa. Free PCs in the lobby, as well as wireless LAN available in rooms.
+}}
+* {{sleep
+| name=Toyoko-Inn Hotel Kanazawa Kenrokuen Korinbo | alt=東横INN金沢兼六園香林坊 | url=http://www.toyoko-inn.com/eng/ | email=
+| address=Kohrinbo | lat=36.5643863 | long=136.6531606 | directions=
+| phone=+81 076-232-1045 | tollfree= | fax=
+| price= | checkin= | checkout=
+| content=Business style hotel - free breakfast included. Professional staff. Free internet connection for every room and free Wi-Fi service (at foyer) available. Very convenient and affordable! Clean and neat as a pin.
+}}
+* {{sleep
+| name=Kumu | alt=The Share Hotels Kumu | url=https://www.thesharehotels.com/kumu/ | email=kumu@thesharehotels.com
+| address=2-40 Ueijekicho-cho | lat=36.5681679 | long=136.6539603 | directions=just across the second bus stop from the main Kanazawa Station
+| phone=+81 76 282 9600 | tollfree= | fax=
+| checkin=15:00 | checkout=10:00 | price=¥8,500
+| lastedit=2017-12-27
+| content=Part of a new trendy chain, this is a very comfortable modern hotel that provides well-designed rooms, from "bunks" all the way to apartments. All of the rooms are designed to be shared by more than two people. Prices generally start from ¥8,500 per person per night. Location is also quite convenient: the castle grounds, the Omicho market and the Oyama shrine are all within walking distance. There are bus stops almost in front of the hotel. The hotel also rents bicycles.
+}}
+* {{sleep
+| name=Terume Kanazawa | alt=テルメ金沢 | url=https://www.terume.net/ | email=
+| address=石川県金沢市松島町17番地 | lat=36.569197 | long=136.601187 | directions=Kanazawa-nishi interchange of E8 if by car. Should take their shuttle bus if from Kanazawa station.
+| phone=+81 076 269 2211 | tollfree=
+| checkin=15:00 | checkout=10:00 | price=¥4,500 (a Japanese room for one people)
+| lastedit=2025-10-26
+| content=While far from Kanazawa station, the hotel, with a large parking space, is next to a highway interchange. It is a better choice if you arrive in Kanazawa by driving. Essentially, the hotel offers everything a tourist may need, including onsens (which is one of the largest in Kanazawa), massages, restaurants, gaming centres, and even hair salons. It provides both Japanese and Western rooms.
+}}
+
+===Splurge===
+* {{sleep
+| name=Hotel Nikko Kanazawa | alt=ホテル日航金沢 | url=https://www.hnkanazawa.jp/ | email=
+| address=2-15-1 Hon-machi | lat=36.575965 | long=136.649312 | directions=3 minutes walk from JR Kanazawa Stn E Exit
+| phone=+81 76-234-1111 | tollfree=
+| checkin= | checkout= | price=
+| content=One of Kanazawa's most distinctive landmarks and at 130 m the tallest hotel on the Japan Sea side of the country. Standard singles are ¥16,747 while doubles cost ¥28,875. Deluxe Twin Standard rooms are ¥57,750. The Nikko Floor consists of the 26th and 27th floors and rooms on these levels go for several thousand yen more. At the top end of the price range is the Imperial Suite at a whopping ¥288,750 per night.
+}}
+
+==Stay safe==
+As with most if not all cities in Japan, Kanazawa is a very safe place to visit. The central crossing in Kanazawa's Katamachi area (known locally as the Scramble) can get a bit rowdy on the weekends. The worse that is likely to happen is a snide comment or two. The usual common sense rules apply and single female travelers would be wise to keep their wits about them at night-time.
+
+==Connect==
+There are free Internet terminals in the underground plaza just below the station, although they're usually patronized non-stop by the local homeless community getting their online mahjong fix.
+
+In the street directly opposite the main exit of the station, on the right hand side, is the Rifare Building, where the Ishikawa Foundation for International Exchange (4F) and the Ishikawa International Lounge (2F) are found. There is a small library in the building with free use of computers.
+* {{listing
+| name=Information Office, Kanazawa Tourist Association | alt= | url= | email=
+| address=Kanazawa Station, Hirookamachi | lat= | long= | directions=
+| phone=+81 76 231-6311 | tollfree=
+| hours= | price=
+| wikipedia= | wikidata=
+| lastedit=
+| content=
+}}
+* {{listing
+| name=Kanazawa International Exchange Foundation | alt= | url= | email=
+| address=2-2-43, Nagamachi, Kanazawa | lat= | long= | directions=
+| phone=+81 76 220-2522 | tollfree=
+| hours= | price=
+| wikipedia= | wikidata=
+| lastedit=
+| content=
+}}
+
+==Go next==
+* [[Tsurugi]] small town, 45-min ride away, is a central point in Ishikawa for Shinto-related activities. Remarkable during end of the year.
+* [[Komatsu]] &mdash; the site of Nata-dera Temple, a favourite among Japanese tourists and a hidden gem for those looking to see beautiful gardens without the big crowd.
+* [[Noto Peninsula]]. A rugged and spectacular peninsula jutting out into the Japan Sea.
+*[[Toyama]]
+* [[Hakusan National Park|Mount Haku]] (''Hakusan'') &mdash; One of Japan's three most sacred mountains, the others being [[Mount Fuji]] and [[Tateyama]].
+*'''Shishiku Heights''' Tsurugi Town. Offers freestyle snowboarding during the winter, with a half pipe and selection of jumps and rails. When there is no snow you can rent protective gear and go grassboarding! Another adventurous option is para-gliding.
+:Take the Hokutetsu bus bound for Arimatsu from JR Kanazawa Station's east exit. Get off roughly 20 minutes later at Nomachi bus stop and walk downhill 1 minute to Hokuriku Railway Nomachi Station. Take a train to Kaga-Ichinomiya Station (35 minutes). From here you can take a fairly long walk or catch a taxi to Park Shishiku which is at the base of Shishiku Heights. There is a boarding area for the gondola that will take you up to the mountain top. It is possible to hike down from top during the warmer months. Great views can be had stretching across the Kaga Plain all the way to the Sea of Japan.
+*'''Tedori Kyokoku''' (Tedori Gorge). In [[Hakusan National Park]], an ideal place to relax during the humid summer months. Boasting impressive cliffs rising up to 30 m and a roaring waterfall. In the summer, the gorge offers the chance to go rafting and canoeing along the fast flowing Tedori river.
+:Roughly 1 hour by Hokutetsu bus for Shiramine from Kanazawa Station. Get off at Komonbashi or Furobashi bus stop and walk for several minutes. It is clearly signposted in English and easily accessible by car from Kanazawa.
+*[[Takayama]] is another of the best-preserved major Edo-period cities in the country
+
+{{routebox
+| image1=Hokuriku Shinkansen Icon.png
+| imagesize1=100
+| directionl1=N
+| majorl1=[[Toyama]]
+| minorl1=[[Takaoka|Shin Takaoka]]
+| directionr1=S
+| majorr1=END
+| minorr1=
+
+| image2=JR Hokuriku icon.png
+| imagesize2=100
+| directionl2=N
+| majorl2=[[Toyama]]
+| minorl2=[[Oyabe]]
+| directionr2=S
+| majorr2=[[Fukui]]
+| minorr2=[[Nonoichi]]
+
+| image3=Hokuriku Expwy Route Sign.svg
+| imagesize3=100
+| directionl3=N
+| majorl3=[[Toyama]]
+| minorl3=[[Oyabe]]
+| directionr3=S
+| majorr3=[[Fukui]]
+| minorr3=[[Komatsu]]
+
+| image4=Japanese National Route Sign 0157.svg
+| imagesize4=30
+| directionl4=N
+| majorl4=END
+| minorl4=
+| directionr4=S
+| majorr4=[[Ono]]
+| minorr4=[[Nonoichi]] → Hakusan → [[Katsuyama]]
+
+| image5=Japanese National Route Sign 0159.svg
+| imagesize5=30
+| directionl5=N
+| majorl5=[[Nanao (Japan)|Nanao]]
+| minorl5=[[Hakui]] ← Kahoku
+| directionr5=S
+| majorr5=END
+| minorr5=
+
+| image6=Japanese National Route Sign 0304.svg
+| imagesize6=30
+| directionl6=W
+| majorl6=END
+| minorl6=
+| directionr6=E
+| majorr6=[[Gokayama]] (Part of Nanto)
+| minorr6=Nanto
+}}
+
+{{geo|36.566|136.650}}
+{{isPartOf|Ishikawa}}
+{{Guidecity}}

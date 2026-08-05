@@ -1,0 +1,1096 @@
+{{pagebanner|Neon signs in Kabukichō, Shinjuku, Tokyo WV banner.jpg|caption=entering Kabukicho|pgname=Shinjuku}}
+[[File:Tokyo_Wikivoyage_locator_maps_-_Shinjuku.png|120px|thumb|right|Location of Shinjuku in Tokyo]]
+'''Shinjuku''' ({{lang|ja|新宿}}) is a central ward of [[Tokyo]] known as the metropolis' second center ({{lang|ja|副都心}}, ''fukutoshin''). The area surrounding Shinjuku Station is a huge business, commercial, and entertainment center atop the world's busiest railway station complex. To the north lies '''Takadanobaba''' ({{lang|ja|高田馬場}}), where students from nearby Waseda University cross paths. The residential areas of '''Yotsuya''' ({{lang|ja|四谷}}) and '''Ichigaya''' ({{lang|ja|市谷}} or {{lang|ja|市ヶ谷}}), with their many small restaurants and drinking establishments, lie to the east. '''Kagurazaka''' ({{lang|ja|神楽坂}}), one of Tokyo's last remaining ''hanamachi'' (geisha districts), is also home to some of the city's most authentic French and Italian restaurants. Over 300,000 people &ndash; including nearly 30,000 foreign residents &ndash; call Shinjuku their home, and the city offers a wide variety of options for work or play.
+
+(This article contains some things in the northernmost part of Shibuya ward. In fact, JR Shinjuku station straddles the two wards.)
+
+==Understand==
+[[File:Shinjuku-Kabukicho-Tokyo.jpg|thumb|300px|Kabukichō entertainment district]]
+
+The west side of Shinjuku, a seismically stable area that escaped the last earthquake with nary a scratch, is Tokyo's skyscraper district featuring (among others) the gargantuan '''Tokyo Metropolitan Government Offices''' and the curved form and webbed façade of the '''Mode Gakuen Cocoon Tower'''.
+
+The east side of Shinjuku is devoted to shopping and nightlife, including Tokyo's largest red-light district '''Kabukichō''' ({{lang|ja|歌舞伎町}}) and gay nightlife central '''Shinjuku ni-chōme''' ({{lang|ja|新宿２丁目}}).
+
+Nearby '''Ōkubo''' ({{lang|ja|大久保}}), one stop west of Shinjuku on the Chuo line (also Shin-Ōkubo, on the Yamanote), has many other Asian restaurants and grocery stores — Korean, Chinese, Thai, Arab and more. '''Takadanobaba''' ({{lang|ja|高田馬場}}), the next stop on the Yamanote Line after Shin-Ōkubo, is popular with students from nearby Waseda University.
+===Tourist Information Site===
+Shinjuku Convention and Visitors Bureau has a [https://www.kanko-shinjuku.jp/ Japanese-only guide site] with integrated machine translation.
+
+=== Climate ===
+Shinjuku experiences a humid subtropical climate with four distinct seasons. Winters are generally mild, with January average temperatures ranging from about 1°C (34°F) to 10°C (50°F). Summers are hot and humid, with August being the warmest month, where temperatures often reach up to 31°C (88°F). The rainy season typically occurs from June to early July, bringing frequent showers. September can experience typhoons, leading to heavy rainfall.
+
+==Get in==
+{{Mapframe|35.70|139.71|zoom=13|width=500}}
+{{Mapshape}}
+{{Mapshapes|Q682894}} <!-- Tokyo Metro -->
+{{Mapshapes|Q247782}} <!-- Toei Subway -->
+{{Mapshape|wikidata=Q225095|type=geoline|stroke=#00b48d|stroke-width=4|stroke-opacity=1}} <!-- Rinkai Line -->
+[[File:Nishi-Shinjuku-Skyline.jpg|thumb|350px|Nishi Shinjuku (West) business district]]
+
+===By plane===
+The fastest way to reach Shinjuku from [[Narita International Airport|Narita Airport]] is to take the '''Keisei Skyliner''' train and change at Nippori to the JR Yamanote Line (which can be very crowded at peak hours, making it inconvenient to haul luggage). This takes approximately 65-80 minutes with transfer and costs ¥2780. JR's '''Narita Express''' offers a one-seat ride to Shinjuku, but it takes longer (95 minutes) and costs more (¥3250), although for foreigners the cost can be brought down to ¥2500 each way by purchasing a [https://www.jreast.co.jp/multi/en/pass/nex.html '''N'EX Tokyo Round-Trip Ticket'''.]
+
+Budget travelers can use the '''Keisei Narita Skyaccess - Shinjuku Line''', which has one station transfer between Higashi-Nihombashi Station and Bakuroyokoyama Station (5 minute walk between stations and approx. 105 minutes, ¥1470 total). In the evenings, faster '''Access Tokkyu''' trains from Narita Airport to Nippori shave 20 minutes off the overall travel time against an extra charge of ¥200. The JR Yokosuka-Sōbu Line also has stations at both Narita terminals.
+
+[https://webservice.limousinebus.co.jp/web/en/ Limousine buses] run frequently from Narita Airport to Shinjuku Station's west exit and to area hotels (approx. 2 hours, ¥3600).
+
+Passengers coming from [[Tokyo Haneda Airport|Haneda Airport]] can take trains on the Keikyu and Yamanote lines, changing at Shinagawa (45 minutes, ¥590). Limousine buses also run on this route (50 minutes, ¥1230).
+
+===By train===
+
+Train is the obvious option for arrival, as '''Shinjuku Station''' is on the JR Yamanote, Chuo, Sobu, Saikyo, and Shonan-Shinjuku lines. Subway service is provided by the Tokyo Metro Marunouchi and Fukutoshin lines and the Toei Shinjuku and Ōedo lines.  There are also terminal stations for the Keio, Odakyu and Seibu Shinjuku private railway lines.
+
+Guinness World Records recognises Shinjuku Station as the ''busiest railway station'' in the world: More than 3.8 million passengers pass through each day. If you doubt this, try to board the Marunouchi line towards Tokyo Station at 8:00 on a Monday morning. The station is a sight in itself, effectively forming a giant multi-level warren of department stores, restaurants, commercial buildings, railway facilities and underground shopping malls which radiate out for kilometers under the surrounding area. 
+
+Getting lost in Shinjuku Station is normal for visitors. Helpful locals regularly approach and assist travelers who seem lost.
+
+To navigate the station, remember that the complex houses multiple separate stations operated by different railway companies. When transferring between lines owned by the same company, you can walk directly to your next platform without passing through ticket gates. If you cannot find signs for your next line, exit the current company's ticket gates, stay inside the main building, and then look for signs directing you to your next line. You will then enter your next line's station through ticket gates of a different railway company.
+
+When in doubt, head towards the '''East Exit''' gates. Most things of tourist interest are located to the east of the station.
+
+If it is raining, you can bypass the street level entirely by using the '''Metro Promenade'''. Look for yellow overhead signs pointing to this massive underground walkway running directly east from the station, allowing you to walk completely indoors straight into major department stores. If you arrived with a railway line above ground (such as any of the JR lines), you would have to go below ground to find the promenade. Follow signs to the Marunouchi line, but don't enter its ticket gates.
+
+===By bus===
+
+Bus routes used to stop at various locations around Shinjuku, but most routes, especially highway buses, have been consolidated into the '''[http://shinjuku-busterminal.co.jp/en/ Shinjuku Expressway Bus Terminal]''', abbreviated '''SEBT''' or ''Busta Shinjuku'' ({{lang|ja|バスタ新宿}}), which opened in 2016 above the JR tracks at Shinjuku Station.
+
+Airport limousine buses from Narita (¥3,100, roughly 100 min.) and Haneda (¥1,200, 50 min) stop at the station and at all major hotels in Shinjuku, but are prone to traffic delays.
+
+==See==
+[[File:Shinjuku-Gyoen-Tokyo.jpg|thumb|300px|Shinjuku Gyoen National Garden]]
+[[File:TokyoTocho.jpg|thumb|Tokyo Metropolitan Government Center]]
+
+*{{see
+| name=Fire Museum | alt={{lang|ja|消防博物館}} | url=https://www.tfd.metro.tokyo.lg.jp/hp-hkkan/museum.html | email=
+| address=Yotsuya 4-10 | lat=35.68836 | long=139.7202 | directions=just outside Yotsuya sanchome station
+| phone=+81 3-3353-9119 | tollfree= | fax=+81 3-3353-9925
+| hours=09:30-17:00, closed on Mondays | price=Free
+| wikidata=Q11559505
+| content=Three fire-fighting helicopters, ten trucks, and 3 floors of exhibitions. Very popular with kids, who can wear fire-fighting clothes and ride some of the helicopters and trucks.
+}}
+* {{see
+| name=Hanazono Shrine | alt={{lang|ja|花園神社}} | url=http://hanazono-jinja.or.jp/ | email=
+| address=near the intersection of Meiji-dori and Yasukuni-dori | lat=35.693553 | long=139.705184 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=Hanazono Shrine | image=Hanazono-jinja haiden.jpeg | wikidata=Q3126680
+| content=More remarkable for its location than its appearance, but it's a nice place to take a breather. There's often a flea market in the surrounding park on weekends.
+}}
+* {{see
+| name=Shinjuku Gyoen National Garden | alt={{lang|ja|新宿御苑}} | url=https://www.env.go.jp/garden/shinjukugyoen/english/index.html | email=
+| address= | lat=35.687258 | long=139.713791 | directions=ten-minute walk east from JR Shinjuku station
+| phone= | tollfree=
+| hours=09:00-16:30; open until 18:00 mid-March to June and mid-August to September, until 19:00 July to mid-August. Closed Mondays (with some exceptions) and during the New Year's Holiday | price=¥500, seniors/students ¥250, children under 15 free
+| wikipedia=Shinjuku Gyo-en | image=Shinjuku Gyoen National Garden - sakura 3.JPG | wikidata=Q776863
+| content=A large public garden, and one of the most popular places for viewing cherry blossoms in spring. It has Japanese, English and French gardens, as well as a Taiwanese teahouse and a greenhouse. The entrance fee often makes the park surprisingly uncrowded and peaceful. Admission ends 30 minutes before closing.
+}}
+* {{see
+| name=Shinjuku-sanchōme and related red-light districts to the east of the station | alt= | url= | email=
+| address= | lat=35.69102 | long=139.70594 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| lastedit=2018-07-05
+| content=It is perfectly safe to walk around here during the day and marvel at the photo billboards of various male and female escorts on offer as well as the live gangster-types acting shady. While it probably shouldn't be done with children, for adults the result is far more "cultural interest" than sleaze.
+}}
+* {{see
+| name=Shinjuku Southern Terrace | alt={{lang|ja|新宿サザンテラス}} | url=https://www.southernterrace.jp/ | email=
+| address=across from the South Exit of Shinjuku Station | lat=35.686778 | long=139.700694 | directions=the Southern Terrace exit from JR Shinjuku Station is closest
+| phone= | tollfree=
+| hours= | price=
+| image=Shinjuku station Southern-terrace entrance.jpg
+| content=The promenade next to the Southern Terrace exit offers a magnificent view of the Takashimaya department store and a bridge that offers the best spot for watching trains enter and exit. Starbucks, Shake Shack and other restaurants.
+}}
+* {{see
+| name=Tokyo Metropolitan Government Center | alt={{lang|ja|都庁}} tochō | url=https://www.metro.tokyo.lg.jp/english/offices/observat.html | email=
+| address=2-8-1 Nishi-Shinjuku | lat=35.68951 | long=139.69171 | directions=Metro Tochōmae E-28
+| phone= | tollfree=
+| hours= | price=Free
+| wikipedia=Tokyo Metropolitan Government Building | image=TokyoMetropolitanGovernmentOffice.jpg | wikidata=Q111973
+| content=The two enormous buildings of this giant hive of bureaucracy are an Orwellian architectural masterpiece designed by noted architect Kenzo Tange. The main reasons to come here, though, are the twin '''observatories'''. At a height of 202 m on the 45th floor, they have some of the best views of Tokyo. The North Observatory is open daily from 09:30 to 23:00 (closed second and fourth Mondays of each month), while the South Observatory is open daily from 09:30 to 17:30 (until 23:00 on the days the North Observatory is closed; closed on the first and third Tuesdays of each month). Last entry is 30 minutes before closing.
+}}
+* Adjacent to the government buildings is a semi-skyscraper, '''NS Building''', which hides a wonder in its full-height atrium: '''the largest pendulum clock in the world''', Guinness-certified. Also has cafes and fast food outlets on the ground level and some restaurants on the 29th floor.
+* {{see
+| name=Tokyo Opera City | alt={{lang|ja|東京オペラシティ}} | url=https://www.tokyooperacity.co.jp/ | email=
+| address= | lat=35.68309 | long=139.68707 | directions=take the Keio New Line subway to Hatsudai station
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=Tokyo Opera City Tower | image=Tokyo Opera City-2.jpg | wikidata=Q1201889
+| lastedit=2023-12-02
+| content=A building complex with a skyscraper. Housing the New National Theatre Tokyo, concert halls, two art museums (one specialized in multimedia art), many shops and restaurants.
+}}
+*{{see
+| name=Tokyo Toy Museum | alt={{lang|ja|東京おもちゃ美術館}} Tokyo omocha bijutsukan | url=http://goodtoy.org/ttm/ | email=
+| address=Yotsuya 4-20 | lat=35.689646 | long=139.718064 | directions=3 minutes walk from Yotsuya sanchome station
+| phone= | tollfree=
+| hours=10:00-16:00, closed on Thursdays | price=¥500 per child, ¥700 per adult
+| content=An old school filled with toys and fun small houses. Accompanying adults won't get bored, thanks to the variety of toys.
+}}
+* For people-watching, the place to be is the large square in front of the station's Kabukichō entrance.
+* {{see
+| name=Suga Shrine | alt={{lang|ja|東京四谷総鎮守 須賀神社}} | url=https://sugajinjya.or.jp/ | email=
+| address=5-6 Sugacho | lat=35.685468 | long=139.722457 | directions=
+| phone=+81 3-3351-7023 | tollfree=
+| hours=10:00 ~ 17:00 | price=free
+| lastedit=2025-10-26
+| content=It is a shrine located around Shinjuku. It is a small shrine, but the stairs in front of it are famous as the background in the animated movie Your Name.
+}}
+
+==Do==
+* {{do
+| name=Japan National Stadium | alt={{lang|ja|国立競技場}} | url=https://www.jpnsport.go.jp/kokuritu/ | email=
+| address=10-1 Kasumigaoka | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q14862239
+| lastedit=2024-03-28
+| content=Completed in 2019 as the main stadium for the Summer Games Tokyo 2020.
+}}
+
+* {{do
+| name=Meiji Jingu Stadium | alt={{lang|ja|明治神宮野球場}} | url=http://www.jingu-stadium.com/english/ | email=
+| address=3-1 Kasumigaoka | lat=35.674572 | long=139.717136 | directions=take the Sobu Line to Sendagaya station
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=Meiji Jingu Stadium | image=Meiji Jingu Stadium.jpg | wikidata=Q944559
+| content=Known as '''Jingu Stadium'''. Can see university and professional baseball games. It is also famous for being a stadium for the Tokyo qualifying round of the National High School Baseball Tournament.
+}}
+*{{do
+| name=Karaokekan | alt={{lang|ja|カラオケ館}} | url=http://www.karaokekan.jp/ | email=
+| address=Various locations | lat= | long= | directions=one minute walk from Seibushinjuku Line, Seibushinjuku station. Or a 5 minute walk from JR Shinjuku Station
+| phone=+81 3-5285-7007 | tollfree= | fax=+81 3-5285-7008
+| hours= | price=
+| content=Karaokekan is a large chain of karaoke shops. They have rooms available from one person up to a large party. All you can drink set menus are available.
+}}
+===Spas===
+*{{do
+| name=Club on the Park Spa | alt= | url=https://www.hyatt.com/en-US/spas/Club-On-The-Park/home | email=reservation.phtokyo@hyattintl.com
+| address=Park Hyatt Tokyo Hotel, 3-7-1-2 Nishi Shinjuku | lat= | long= | directions=
+| phone=+81 3-5322-1234 | tollfree=
+| hours= | price=
+| content=
+}}
+
+===Movies===
+
+*{{do
+| name=Shinjuku Piccadilly | alt={{lang|ja|新宿ピカデリー}} | url=https://www.smt-cinema.com/site/shinjuku/ | email=
+| address=Shinjuku 3-15-5 | lat=35.69272 | long=139.70379 | directions=north of exits B7 and B8 of the Tokyo Metro Underground walkway
+| phone= | tollfree=
+| hours= | price=¥1800
+| content=The newest movie theater in Shinjuku. It features stadium seating and "platinum" seating. Platinum seating ranges from a semi-private room, including a private lounge (¥5000 per person) to a private room, including a relaxation room (¥30,000 for 2 people).
+}}
+*{{do
+| name=Wald 9 | alt={{lang|ja|バルト９}} baruto nain | url=https://tjoy.jp/shinjuku_wald9 | email=
+| address=Shinjuku 3-1-26 | lat=35.6901 | long=139.706142 | directions=in Marui's largest building next to Shinjuku Gyoen
+| phone=+81 3-5369-4955 | tollfree=
+| hours= | price=¥1800
+| content=Part of the new generation of movie theaters in Tokyo. It features stadium seating, a small gift shop, and clean theaters.
+}}
+* {{do
+| name=Cinem@rt Shinjuku | alt={{lang|ja|シネマート新宿}} | url=http://www.cinemart.co.jp/theater/shinjuku/ | email=
+| address=Shinjuku 3-13-3, Shinjuku Building 6,7F | lat=35.691912 | long=139.705793 | directions=one minute walk from Shinjuku 3 chome station of Tokyo Metro Marunochi line, Fukutoshin line, and the Toei Shinjuku line
+| phone=+81 3-5369-2831 | tollfree=
+| hours= | price=
+| content=335 seats total. Mondays are Men's Days, when men can watch movies for ¥1000. Wednesdays are Ladies' Days, when ladies can watch movies for only ¥1000.
+}}
+
+==Buy==
+
+===Department stores and Shopping complexes===
+
+*{{buy
+| name=Isetan | alt={{lang|ja|伊勢丹}} | url=http://isetan.mistore.jp/store/shinjuku/index.html | email=
+| address=Shinjuku 3-14-1 | lat=35.691381 | long=139.70412 | directions=Exit B3, B4, & B5 from Shinjuku Sanchome Station
+| phone=+81 3-3352-1111 | tollfree=
+| hours= | price=
+| image=Isetan Shinjuku Ⅱ.JPG
+| content=Isetan is the most prestigious department store in Shinjuku and boasts the highest sales figures in Japan. It caters to a broad adult age group. It has a beautiful depachika (basement floor selling food and gifts) that is a little more expensive than other department stores in Shinjuku.
+}}
+*{{buy
+| name=Keio | alt={{lang|ja|京王}} | url=http://info.keionet.com/shinjuku/index.html | email=
+| address=Nishi-shinjuku 1-1-4 | lat= | long= | directions=West Exit and Central West Exit from the JR Shinjuku Station
+| phone=+81 3-3342-2111 | tollfree=
+| hours= | price=
+| image=Shinjuku Keio Department Store 2012.JPG
+| content=Keio is similar to the Odakyu department store in terms of goods and services. The depachika is smaller and more cramped than other department stores.
+}}
+*{{buy
+| name=Lumine | alt={{lang|ja|ルミネ}} | url=http://www.lumine.ne.jp/shinjuku/ | email=
+| address=Nishi-shinjuku 1-1-5 | lat=35.6914461 | long=139.7010967 | directions=JR Shinjuku Station
+| image = The Lumuine department store and JR Shinjuku rail station. (14103495045).jpg
+| phone=+81 3-3348-5211 | tollfree= | fax=
+| hours= | price=
+| content=Lumine has 3 buildings around the JR Shinjuku Station. '''Lumine 1 and 2''' cater to all ages with average priced goods. Both buildings are at the South Exit. '''Lumine Est''' ({{lang|ja|ルミネエスト}}) is at the East Exit and Central East Exit. Lumine Est focuses more on haute fashion for younger women and famous restaurants.
+}}
+*{{buy
+| name=Marui | alt={{lang|ja|丸井}}, OIOI | url=http://www.0101.co.jp/index.html | email=
+| address=Shinjuku 3-1-26 | lat= | long= | directions=various locations near Shinjuku Sanchome Station
+| phone=+81 3-3354-0101 | tollfree= | fax=
+| hours= | price=
+| content=Marui is well known department store known for focusing on the 16-32 year age group. Spread out around Shinjuku Sanchome, the main building is next to Shinjuku Gyoen. The men's building is north of the main building and Marui Young is west of Isetan.
+}}
+* {{buy
+| name=Mylord | alt=ミロード mirōdo | url=http://www.shinjuku-mylord.com/ | email=
+| address= | lat= | long= | directions=Shinjuku Station
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2015-05-17
+| content=Cloths department store run by Odakyu, targeted at younger age group.
+}}
+*{{buy
+| name=Odakyu | alt={{lang|ja|小田急百貨店}} | url=http://www.odakyu-dept.co.jp/shinjuku/index.html | email=
+| address=Nishi-shinjuku 1-5-1 | lat=35.691718 | long=139.69955 | directions=West Exit of the JR Shinjuku Station
+| phone=+81 570-025-888 | tollfree=
+| hours= | price=
+| image=Odakyu-Halc-02.jpg
+| lastedit=2021-07-24
+| content=Odakyu was closed in 2022 for re-development of the area and moved to the smaller Halc building, north of the West Bus Loop, which also houses the electronics store Bic Camera.
+}}
+*{{buy
+| name=Takashimaya | alt={{lang|ja|タカシマヤ新宿店}} | url=http://www.takashimaya.co.jp/shinjuku/index.html | email=
+| address=Sendagaya 5-24-2 | lat=35.687915 | long=139.702136 | directions=New South Exit and the Southern Terrace Exit from the JR Shinjuku Station; the southern-most department store near the station
+| phone=+81 3-5361-1111 | tollfree=
+| hours= | price=
+| image=Takashimaya Times Square.jpg
+| content=This department store caters towards the mid-20s and up, along with families. The depachika is comparable to Isetan, but not as famous. Look for Hands and Books Kinokuniya at the Southern end of the department store.
+}}
+** {{buy
+| name=Hands | alt={{lang|ja|ハンズ新宿店}} | url=https://shinjuku.hands.net/ | email=
+| address=Sendagaya 5-24-2 | lat=35.687129 | long=139.702287 | directions=within Takashimaya near the JR Shinjuku New South Exit
+| phone=+81 3-5361-3111 | tollfree=
+| hours= | price=
+| image=Takashimaya-Times-Square-01.jpg
+| content=This is a large variety goods shop, and if "large" doesn't impress you, you have probably never faced the dilemma which kind of sand to use for your model railway. Because here, you can choose from a dozen kinds of sand alone - from yellow Sahara sand to reddish Nullarbor sand, everything in handy plastic packets. This shop is the best proof that in a rich mega city, there is a clientele for anything. You can buy almost anything you want. Also a good travel luggage section, and if you need a pen or pencil you will be overwhelmed with the choice.
+}}
+
+===Books===
+
+*{{buy
+| name=Bookoff | alt={{lang|ja|ブックオフ}} | url=https://www.bookoff.co.jp/shop/shop20472.html | email=
+| address=3-6F 110 Building, 1-10-2 Nishi-shinjuku | lat= | long= | directions=
+| phone= | tollfree=
+| hours=10:00-22:00 | price=
+| content=Bookoff is a well-known second-hand book store. They also offer various albums, games, and movies.
+}}
+*{{buy
+| name=Books Kinokuniya | alt={{lang|ja|紀伊國屋書店}} | url=http://bookweb.kinokuniya.co.jp/ | email=
+| address= | lat= | long= | directions=the Main Branch is between Shinjuku Sanchome and Shinjuku Stations; the South Branch is south of Takashimaya close to Yoyogi Station
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2020-08-16
+| content=Books Kinokuniya is the best book store for foreign language books. The Main Branch is the older of the two, however, the Southern Branch has a greater selection of foreign language books.
+}}
+* {{buy
+| name=Book 1st | alt= | url= | email=
+| address=1-7-3 Nishi-shinjuku | lat= | long= | directions=B1 and B2 of Cocoon Tower
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2024-03-20
+| content=The largest bookstore on the west side is hidden underground. Navigation inside may be a pain for its unusual layout. English books are in the C3 area.
+}}
+
+===Electronics===
+
+Major discount '''camera stores''' are concentrated on both sides of Shinjuku station, although there is a particularly large cluster just outside the West Exit. The undisputed king '''Yodobashi''' has branches on practically every block; note that the branches specialize, so you may have to look for the right branch to find what interests you (digital cameras, video cameras, medium-format photography, etc.). The other major name is '''Bic camera'''. This store have been transformed by computers and the Internet, and their '''computer''' departments match [[Tokyo/Akihabara#Buy|Akihabara]] in volume, price, and selection.
+
+*{{buy
+| name=Bic Camera | url=https://www.biccamera.co.jp/ | email=
+| address=Nishi-shinjuku 1-5-1 | lat=35.6920218 | long=139.7018258 | directions=inside Odakyu Halc just outside the JR Shinjuku West Exit
+| phone=+81 3-5326-1111 | tollfree= | fax=
+| hours=10:00-21:00 | price=
+| content=Second-largest electronics shop in Shinjuku. While not as big as Yodobashi Camera, prices and product range is roughly the same. The East side shop, next to Books Kinokuniya, is bigger than Yodobashi's East side shop, but still smaller than the West side location.
+}}
+*{{buy
+| name=Yodobashi Camera | alt={{lang|ja|ヨドバシカメラ}} | url=https://www.yodobashi.com/ | email=
+| address=Nishi-shinjuku 1-11-1 | lat=35.689587 | long=139.697964 | directions=2 minutes West of the JR Shinjuku West Exit; look south-west at the bus stop.
+| phone=+81 3-3346-1010 | tollfree=
+| hours=09:30-22:00 | price=
+| content=Yodobashi is the largest electronics retailer in Shinjuku. The main building is their multimedia centre. They also have a dedicated building each for Games, Camera, Travel, Watch and Mobile/smartphone (with a liquor section in the basement). Yodobashi also has a branch on the east side of Shinjuku, across from Lumine EST.
+}}
+
+===Variety goods===
+
+* {{buy
+| name=Don Quijote Kabukicho store | alt={{lang|ja|ドン・キホーテ}} don kihōte | url=https://www.donki.com/ | email=
+| address=1-16-5 Kabukichō | lat= | long= | directions=on Yasukuni-Dori
+| phone= | tollfree=
+| hours=24 Hours | price=
+| image=Don Quijote Shinjuku.JPG
+| content=A hectic 24-hour discount store that sells just about everything that you would never imagine needing at 03:00 but might just pick up anyway, such as clothing, bicycles, electronics, jewelry, and gag gifts.
+}}
+* {{buy
+| name=Don Quijote Southeast Exit store| url=https://www.donki.com/ | email=
+| address=3-36-16 Shinjuku | lat= | long= | directions=Facing the Southeast Exit square
+| image = Don Quijote Shinjuku.JPG
+| phone= | tollfree= | fax=
+| hours=24 hours | price=
+| content=Newer branch near the station.
+}}
+
+===Music===
+
+*{{buy
+| name=Disk Union | alt= | url=http://diskunion.net/ | email=
+| address=Shinjuku 3-34-1 | lat= | long= | directions=Main Branch is near Shinjuku Sanchome Station
+| phone=+81 3-3352-2697 | tollfree=
+| hours= | price=
+| content=You can get music, movies, and music books. Another branch at Shinjuku 3-17-5 specialize in specific genres or used goods. Great for music enthusiasts.
+}}
+*{{buy
+| name=HMV | alt= | url=https://www.hmv.co.jp/index.asp?lang=en | email=
+| address= | lat= | long= | directions=Basement floor of Lumine Est
+| phone=+81 3-5269-2571 | tollfree=
+| hours= | price=
+| lastedit=2023-12-29
+| content=HMV is one of the bigger record stores in Japan with a good selection of music and movies. Another store at Shinjuku Alta 6F.
+}}
+*{{buy
+| name=Tower Records | alt= | url=https://tower.jp/store/Shinjuku | email=
+| address=Shinjuku 3-37-1 | lat= | long= | directions=Southeast Exit of the JR Shinjuku Station, 9-10F of Flags building
+| phone=+81 3-5360-7811 | tollfree=
+| hours= | price=
+| content=Tower Records is one of the biggest record stores in Japan. They have any CD or DVD you can imagine, and if not, you can probably order or reserve it.
+}}
+* {{buy
+| name=Nishi-Shinjuku 7-chome | url= | email=
+| address= | lat= | long= | directions=northwest of JR Shinjuku station
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Packed with music shops specializing in various genres such as punk and heavy metal. Many sell nothing but bootlegs and collectibles.
+}}
+
+===Other===
+
+* {{buy
+| name=West Exit Square Event Space | alt={{lang|ja|西口広場イベントスペース}} | url= | email=
+| address= | lat= | long= | directions=Between the underground entrance to the Keio department store and the taxi rotary
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2024-03-16
+| content=An area hosting a rotating series of stalls or exhibits. These have included various local foods from around Japan, furniture, art prints and information about various government projects around Tokyo. The underground area around it is a great place to find takeaway food and fast food outlets - named Keio Mall, Odakyu Ace and Shinjuku Delish Park (temporary location for Odakyu's depachika).
+}}
+
+==Eat==
+A great way to get by in Tokyo on a budget is to make lunch your main meal. Many restaurants cater to the business lunch crowd and offer an excellent two or three course meal for between ¥800-1300 or lunch buffet for ¥1000-2000. Going to the same places for dinner would be up to three times more expensive.
+
+Shinjuku has more than 5,000 eateries, the most among the 23 special wards of Tokyo.
+
+===Budget===
+
+* The '''Lumine''' and '''Mylord''' shopping complexes atop the south side of the JR station both have inexpensive restaurant arcades on their upper floors.
+** {{eat
+| name=Pasutakan | alt={{lang|ja|ぱすたかん}} | url=http://www.shinjuku-mylord.com/shop/pasutakan/ | email=
+| address= | lat=35.689434 | long=139.69963 | directions=8th floor of Mylord
+| phone= | tollfree=
+| hours=11:00-22:00 | price=¥1200
+| lastedit=2023-12-24
+| content=Okonomiyaki cooked at your table.
+}}
+** {{eat
+| name=Khao San | alt={{lang|ja|カオサン}} | url=https://spiceroad.co.jp/Shop_KhaoSan.html | email=
+| address=Lumine 1, B2F | lat=35.68897 | long=139.6992 | directions=
+| phone= | tollfree=
+| hours=10:00-22:00 | price=
+| image=Khao San Shinjuku.jpeg
+| content=A good place for Thai street-stall style food. It's always packed and hectic for lunch, with attendants hollering to attract customers.
+}}
+* {{eat
+| name=Blumare | alt={{lang|ja|ブルマーレ}} | url=https://www.ginzalion.jp/shop/brand/blumare/shop90.html | email=
+| address=Shinjuku 3-28-9, Shinjuku Lion Kaikan 3F | lat=35.69115 | long=139.702486 | directions=
+| phone=+81 3-3352-6606 | tollfree=
+| hours= | price=Lunch ¥1300
+| content=Pizza and pasta restaurant. The building is full of restaurants all run by Sapporo Beer.
+}}
+* {{eat
+| name=Suzuya | alt={{lang|ja|すずや}} | url=http://www.toncya-suzuya.co.jp | email=
+| address=1-23-15 Kabukichō, 2F | lat=35.693918 | long=139.700963 | directions=across the street from Seven-Eleven at the south entrance to Kabukichō nearest Shinjuku Station.
+| phone=+81 3-3209-4480 | tollfree= | fax=
+| hours= | price=&yen;1000-2000
+| content=This tonkatsu restaurant is famous for its green tea tonkatsu, which is salty and filling. It also serves other types of tonkatsu and katsudon.
+}}
+* {{eat
+| name=Martiniburger | alt={{lang|ja|マティーニバーガー}} | url=http://martini-burger.com/en | email=eliot@martini-burger.com
+| address=Nakazatocho 31 | lat=35.705602 | long=139.731146 | directions=From Kagurazaka, head west 200m and take the main street north 100m. The restaurant is on the east side of the street.
+| phone=+81 3-6280-8920 | tollfree= | fax=
+| hours=Tu-Sa 11:00-22:00 | price=&yen;1000-2000
+| content=This restaurant serves hamburgers and martinis. The large juicy hamburgers are made with high quality ground beef, which is very hard to find anywhere in Japan. Though uncommon, the combination of hamburgers and martinis is surprisingly nice.
+}}
+* {{eat
+| name=Acacia Shinjuku | alt={{lang|ja|アカシア新宿本店}} | url=https://www.restaurant-acacia.com/honten/ | email=
+| address=Shinjuku 3-22-10 | lat=35.693096 | long=139.701569 | directions=East Exit of the JR Shinjuku Station
+| phone=+81 3-3354-7511 | tollfree=
+| hours=11:00-20:00 | price=&yen;980-1800
+| lastedit=2023-01-03
+| content=Specialises in cabbage rolls. Also has a set menu with hashed rice and pork sauté. Has a branch at Haneda Airport.
+}}
+
+===Mid-range===
+*{{eat
+| name=Botejyu | alt={{lang|ja|ぼてぢゅう}} | url=http://www.botejyu.co.jp | email=
+| address=Tokyo, Shinjuku-ku, Kabukichō 1, Subnade B1 | lat= | long= | directions=
+| phone=+81 3-3348-5322 | tollfree=
+| hours=11:00-22:30 (last order 22:00) | price=
+| content=Botejyu is an okonomiyaki shop that sells a variety of okonomiyaki. They also have various yaki-soba dishes. Beware that at times, this restaurant can be busy with wait times of up to 30 min.
+}}
+* {{eat
+| name=Juttoku | alt={{lang|ja|十徳}} | url=http://www.juttoku.com/ | email=
+| address=New Central Bldg B1F, 1-5-12 Nishi-Shinjuku | lat= | long= | directions=
+| phone=+81 3-3342-0339 | tollfree=
+| hours=M-Sa 16:00-midnight, Su 16:00-00:00 | price=
+| content=This izakaya has an excellent selection of sake.
+}}
+* {{eat
+| name=Kappō Nakajima | alt={{lang|ja|割烹 中島}} | url=http://www.shinjyuku-nakajima.com/ | email=
+| address=Shinjuku 3-32-5 basement | lat= | long= | directions=
+| phone= | tollfree=
+| hours=Closed Sundays | price=
+| content=Specializes in sardine dishes. ''Yanagawa teishoku'' is deep-fried sardines with scrambled eggs on rice (it tastes better than it sounds).
+}}
+* {{eat
+| name=Hokkaido | alt={{lang|ja|北海道}} | url=https://www.hokkaido-aji.com/ | email=
+| address=53rd floor of Tokyo Opera City (see above) | lat= | long= | directions=
+| phone=+81 3-5353-7111 | tollfree=
+| hours= | price=
+| content=Enjoy the view while dining on seafood and other specialties of [[Hokkaido]]. Got another branch near Shinjuku station (9F 110 Building).
+}}
+* {{eat
+| name=Yanbaru | alt={{lang|ja|やんばる}} | url=https://www.yambaru1988.com/ | email=
+| address=Shinjuku 3-22-2 | lat= | long= | directions=north of Kabukichō exit
+| phone=+81 50-5590-8411 | tollfree=
+| hours= | price=¥500~, Soki soba (Okinawan ramen) \930
+| content=Now occupying the whole of a three-story building, there's nothing pretentious about this restaurant specializing in [[Okinawa]]n food, which emphasizes pork and vegetables that are unusual even to Honshu Japanese. Recommend is ''beni imo korokke'' (&yen;480), tempura-style sweet potato; and ''hechima misoni'' (&yen;620), an eggplant-like vegetable served in a strongly fermented miso sauce. A picture menu is available.
+}}
+* {{eat
+| name=Bosphorus Hasan | alt={{lang|ja|ボスボラスハサン}} | url=https://www.bosphorushasan.com/english.html | email=
+| address=Shinjuku 2-7-2 1F | lat=35.69135 | long=139.705981 | directions=
+| phone=+81 50-5869-2700 | tollfree=
+| hours=11:30-15:00, 17:00-23:30; Closed Mon | price=
+| lastedit=2023-12-29
+| content=Authentic Turkish food. HALAL food.
+}}
+* {{eat
+| name=Din Tai Fung | alt={{lang|zh-Hant|鼎泰豐}} | url=http://d.rt-c.co.jp/shinjuku/ | email=
+| address=Sendagaya 5-24-2, Takashimaya 12F | lat= | long= | directions=
+| phone=+81 3-5361-1381 | tollfree=
+| hours=10:00-22:00, closed We | price=
+| content=Tokyo branch of the renowned Taiwan dim sum restaurant; speciality is the ''xiǎolóngbāo'' ({{lang|zh-Hant|小籠包}}) soup-in dumplings.
+}}
+* {{eat
+| name=Nabezo | alt={{lang|ja|鍋ぞう}} | url=https://nabe-zo.com/en | email=
+| address=8F Takano Daini Bldg, 3-30-11 Shinjuku | lat=35.691161 | long=139.703643 | directions=
+| phone=+81 3-5363-4629 | tollfree=
+| hours= | price=
+| lastedit=2017-10-21
+| content=An all-you-can-eat Shabu Shabu restaurant with another branch in Shinjuku and many other places. \3850 gets one person 100 minutes, including unlimited meat, veggies, and ice cream. Drinks cost extra, but water and Gobo cha are free. If 100 minutes isn't enough, extend 30 minutes for additional \550.
+}}
+* {{eat
+| name=Onegiya Shinjuku ten | alt={{lang|ja|おねぎや新宿店}} | url=https://onegiya-shinjyuku.owst.jp/en/ | email=
+| address=3-10-5 Shinjuku | lat=35.691325 | long=139.706122 | directions=
+| phone=+81 3-5368-5225 | tollfree=
+| hours= | price=
+| lastedit=2024-01-06
+| content=Excellent traditional but modern Japanese restaurant. Plenty of dishes to order but you need to like leeks.
+}}
+* {{eat
+| name=Zauo | alt={{lang|ja|ざうお}} | url=https://shinjyuku-whsr.com/shop/zauo/ | email=
+| address=1F Washington Hotel, 3-2-9 Nishi-shinjuku | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2024-03-20
+| content=Indoor fishing and restaurant combined at dinner time...(click the link and see photos). No fishing on weekday lunch time.
+}}
+
+===Splurge===
+
+* {{eat
+| name=Torafugu-Tei | alt={{lang|ja|とらふぐ亭}} | url=https://www.torafugu.co.jp/en/shinjuku_honten/ | email=
+| address=Kabukichō 2-11-7 Metro Bldg. B1F | lat=35.696384 | long=139.704814 | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=Specializing in the infamous ''fugu'' (blowfish), it's one of the huge number of seafood restaurants in Kabukichō (see below). Set dinners go for around &yen;5000, featuring fugu prepared five or six ways, fresh from the tank. Has another branch nearby (at 1-3-15 Kabukicho).
+}}
+
+==Drink==
+[[File:Kabukicho-Sinjyuku-Tokyo.JPG|thumb|250px|The gate to Kabukichō at night]]
+
+The '''Kabukichō''' ({{lang|ja|歌舞伎町}}) district, to the northeast of JR Shinjuku station, is Tokyo's most notorious red-light district - although during the daytime you might not even notice, especially if you can't decode the elaborate Japanese codewords on the billboards. At night it's a different story though, as sharkskin-suited junior ''yakuza'' gangsters hustle and girls in miniskirts beckon customers amid the adults-only vending machines. Night or day, it's always packed with people, and quite a bit of gangland violence used to take place in the vicinity (though at any rate outsiders are generally not involved).
+
+To the south of Kabukichō is '''Shinjuku Ni-chome''' ({{lang|ja|新宿２丁目}}), Tokyo's largest '''gay''' district.
+
+{{anchor|Golden Gai}}{{marker|name=Golden Gai|type=drink|wikidata=Q5363705}} ([http://golden-gai.tokyo/en/ {{lang|ja|ゴールデン街}}]) is the name given to a few narrow alleys in a block on the east edge of Kabukichō. It's packed with tiny aging "hole-in-the-wall" bars and started as a red light district some decades ago; morphing into some sort of a subversive hangout; and finally now into an odd assortment of tiny bars (some up very steep steps.) The irony of the place is that while it has become somewhat of a tourist attraction, many of the bars rely on regulars, so strangers wandering in may receive either a frosty reception, cover charge or both. If the door is open and you get a smile go in, it's an experience not to be had anywhere else. Many of the bars have karaoke and ancient mama-sans, while one has an old man who speaks Spanish and plays flamenco videos on a tiny black and white TV, and who occasionally plays guitar; another has a great collection of jazz music. Some places charge extra for karaoke with coin machines or a surcharge added to the bill while others, such as '''Bar K''', have it available for free. Be aware that commercial photography in some parts of the Golden Gai is prohibited without permission.
+
+* {{drink
+| name=Araku | alt= | url=https://www.facebook.com/bar.araku | email=
+| address=Golden Gai St #2 2FL | lat= | long= | directions=
+| phone=+81 3-5272-1651 | tollfree= | fax=
+| hours= | price=
+| content=Australian-run, considerably larger and can be less intimidating than many other Golden Gai establishments.
+}}
+* {{drink
+| name=Bar K | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=¥1000 mini long neck
+| content=Always welcoming of foreigners with beers.
+}}
+* {{drink
+| name=Hair of The Dogs | alt= | url=http://hod118.com/?lang=en | email=fb@hod118.com
+| address=1-1-8 Kabukichō | lat= | long= | directions=
+| phone=+81 3-5285-1989 | tollfree= | fax=
+| hours=F-W 19:00-04:00, Th 19:00-00:00 | price=¥800 to sit at the bar
+| content=Punk rock with a dash of Mexican Luchadors. Good cocktails and beer at an average of ¥700 a drink. The owner, Tohru, is very welcoming to anyone who loves to rock. Cover charge lets you sit at the bar and choose music from a menu split into various Punk Rock styles (UK, USA, Japan, Hardcore, Goth, Oi, Mod, Post Punk, 70s, 80s etc). Movies like Taxi Driver and Sid & Nancy are played from a cheap projector to the wall behind the bar. Action figures of Sid Vicious, Iggy Pop and Luchadors guard you from all corners.
+}}
+* {{drink
+| name=Bar Albatross-G | url=http://www.alba-s.com | email=
+| address=#2F 5th Ave | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=¥300 cover
+| content=Casual cocktail bar with Burgundy painted walls, chandeliers and no-frills mixology. Cover charge includes a small snack of either noodles, miso or whatever's brewing. Most drinks are around ¥700. Space includes a second floor "attic" accessible by a thin staircase with more fixtures and local artists' creations. Also visit the original Albatross bar in Shinjuku Omoide-Yokocho.
+}}
+* {{drink
+| name=Rock Bar: Mother | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Has an extensive collection of Punk and Metal CDs for those looking for some alternative rock.
+}}
+* {{drink
+| name=Godz Bar | url=http://www.metal-godz.com/ | email=
+| address=Ebisu-Kaikan B1F 1-10-5, Kabukichō | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours=Daily 19:00-05:00 | price=
+| content=Heavy metal/hard rock bar.
+}}
+* {{drink
+| name=Champion | alt=One Coin Bar | url= | email=
+| address=Just before the Golden Gai entrance and slightly west as you head back towards Kabukichō | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=Drinks &yen;500
+| content=Staffed mostly by Filipinas who speak excellent English.
+}}
+
+On the west side of the Yamanote tracks, '''Omoide Yokochō''' ({{lang|ja|思い出横丁}}, "Memory Lane") is a small alley filled with ''yakitori'' joints. Omoide Yokochō is also sometimes referred to as ''gokiburi yokochō'' (cockroach alley) or ''shomben yokochō'' (piss alley - no prizes for guessing why).
+
+Once you get beyond Omoide Yokochō into the skyscrapers of West Shinjuku, the nightlife pretty much dies out, with the solitary exception of what is probably Tokyo's best-known bar among foreigners:
+
+* {{drink
+| name=New York Bar & Grill | alt= | url=https://restaurants.tokyo.park.hyatt.co.jp/en/newyorkgrill/ | email=
+| address=Nishi-Shinjuku 3-7-1 | lat= | long= | directions=Park Hyatt Tokyo
+| phone=+81 3-5323-3458 | tollfree=
+| hours=Daily 17:00-00:00 | price=Cover charge ¥3,300 after 18:30
+| lastedit=2026-04-13
+| content=One of the main sets for ''Lost in Translation'', this slick joint on the 52nd floor has dark decor and floor-to-ceiling windows with jaw-dropping vistas, with live jazz nightly. Eating a steak here would cost you well north of &yen;20,000 per head, but you can nurse a beer for a mere &yen;1000 or, "for relaxing times", try out Bill Murray's Suntory Hibiki for &yen;3,500.
+}}
+
+===Clubs===
+Oddly, there are few nightclubs left in Shinjuku, perhaps due to the price of real estate.
+* {{drink
+| name=Casablanca | alt= | url=https://en.casablancashinjuku.jp/ | email=
+| address=J2 Bldg, 1-7-1 Kabukichō | lat=35.69426 | long=139.702813 | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=A two level nightclub and lounge with a large dance floor and darts. The DJ normally spins hip-hop, R&B, reggae, and house, and there are live house performances periodically through the night.
+}}
+* {{drink
+| name=Loft/Plus One | alt={{lang|ja|ロフトプラスワン}} | url=http://www.loft-prj.co.jp/PLUSONE/ | email=
+| address=Hiyashi Bldg B2F, Kabukichō 1-14-7 | lat=35.694668 | long=139.702261 | directions=Off Chuo-dori opposite Koma Theatre
+| phone= | tollfree= | fax=
+| hours=Shows at 14:00, 19:30, and 00:00 | price=Tickets &yen;1000-6000 (discounts for advance purchase)
+| content=Performance art space meets bar run with a simple concept: different people and groups rent a block of time and do whatever they want to. The end result runs from stand-up comedy and lectures to porn star photo shoots and incredibly violent live S&M. Erotic shows 18+ only (ID required).
+}}
+
+* {{drink
+| name=Tokyo Loose | url=http://www.tokyoloose.com/ | email=
+| address=Marumoto Bldg B1, 2-37-3 Kabukichō | lat=35.696073 | long=139.701909 | directions=
+| phone=+81 3-3207-5677 | tollfree= | fax=
+| hours= | price=
+| content=Small bar full of men. It's not easy to find, so call for directions.
+}}
+
+===Ni-chōme===
+East of Shinjuku station, Ni-chōme is the most popular LGBT+ district in Tokyo with more than 600 bars packed in a few blocks. The gay bars of '''Ni-chōme''' (or '''Nichō''' for short) tend to be rather strictly segregated by scene (''sen'', short for ''senmon'', "specialty, area of expertise"), charging higher covers or even disallowing entry to anyone who doesn't fit the bar's desired type. A lot of gay bars are strictly men-only or women-only, while some allow for mixed groups. Bars for ''gari-sen'' (twinks) and ''kuma-sen'' (bears) are unsurprising, but there are many more categories like ''fuke-sen'' (older men) and ''debu-sen'' (chubs), though less common. While quite a few of the bars are small ones primarily filled with Japanese regulars, there is certainly no shortage of ''gai-sen'' bars that allow or welcome foreigners. Additionally, a lot of Japanese-style gay bars also include a public karaoke.
+* {{drink
+| name=Adezakura | alt= | url=http://www.adezakura.tokyo/ | email=
+| address=Shinjuku 2-15-11 | lat=35.69094 | long=139.70882 | directions=
+| phone=+81 3-3351-4833 | tollfree=
+| hours=M-Sa 21:00-06:00, Su 20:00-05:00 | price=
+| content=Lesbian bar.
+}}
+* {{drink
+| name=AiiRO Cafe | alt=formerly Advocates | url=http://aliving.net/aiirocafe | email=
+| address=Shinjuku 2-18-1, 7th Tenka Bldg 1F | lat=35.69078 | long=139.70836 | directions=
+| phone=+81 3-6273-0740 | tollfree=
+| hours=M-Th 18:00-02:00, F Sa 18:00-05:00, Su 18:00-00:00h | price=Drinks ¥500-700
+| content=Cruisy open-air bar with a ''torii'' gate at the entrance. Crowd spilling onto the street makes it feel like a block party.
+}}
+* {{drink
+| name=The Annex | alt= | url= | email=
+| address= | lat=35.69086 | long=139.70890 | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=
+}}
+* {{drink
+| name=Arty Farty | alt= | url=http://www.arty-farty.net/ | email=
+| address=Shinjuku 2-11-7 Kyutei Bldg 2F #33 | lat=35.6904 | long=139.7073 | directions=
+| phone=+81 3-5362-9720 | tollfree=
+| hours=Su-Th 20:00-04:00, F Sa 20:00-05:00 | price=
+| content=Among Nichō's most well-known pubs, with a thumping dance floor. A hand stamp upon entry will also get you into sister bar '''The Annex'''.
+}}
+* {{drink
+| name=Boiler Room Underwear Lounge | alt= | url= | email=
+| address= | lat=35.6895 | long=139.7082 | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=
+}}
+* {{drink
+| name=Campy! Bar | alt=キャンピーバー | url=https://campybar.wixsite.com/website-1/campy | email=
+| address= | lat=35.6904 | long=139.7083 | directions=
+| phone= | tollfree=
+| hours= | price=
+| content="Mix bar". Has another branch at Shibuya PARCO.
+}}
+* {{drink
+| name=Dragon Men | alt= | url=https://www.instagram.com/dragon.men/ | email=
+| address=Shinjuku 2-11-4 | lat=35.690263 | long=139.704694 | directions=
+| phone=+81 11-551-1950 | tollfree=
+| hours=Su-Th 18:00-03:00, F Sa 18:00-06:00 | price=
+| content=Masculine gay pub with a dance floor. Rebuilt after a fire, the place is popular among male and female foreigners, and with Japanese men.
+}}
+* {{drink
+| name=GB | alt= | url=https://gb-tokyo.com/ | email=
+| address=Shinjuku 2-12-1 3B | lat=35.69057 | long=139.70762 | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=Relaxed basement bar with somewhat more mature crowds.
+}}
+* {{drink
+| name=Gold Finger | alt= | url=http://www.goldfingerparty.com/bar/ | email=
+| address=Shinjuku 2-12-11 1F | lat=35.69062 | long=139.70765 | directions=
+| phone=+81 3-6383-4649 | tollfree=
+| hours=Su-Th 18:00-02:00, F Sa 18:00-05:00 | price=Glass ¥700-800
+| content=Primarily lesbian bar with all-female staff, and karaoke for the multinational patrons. Interior themed like a 1970s motel. Saturday is strictly women-only; Monday is FtM night.
+}}
+* {{drink
+| name=New Sazae | alt= | url=https://twitter.com/NEWSAZAE1966 | email=
+| address=Shinjuku 2−18−5 2F|lat = 35.690977 |long = 139.708038 |directions=
+| content = Bar with dancefloor known for attracting bisexual crowds.
+}}
+* {{drink
+| name=Vox | alt= | url=https://vox-tokyo.com/ | email=
+| address=Shinjuku 2-12-2 1st SS Bldg 1F | lat=35.6904 | long=139.7077 | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=Another mix bar.
+}}
+
+===Cafes===
+* {{drink
+| name=Akha Ama | alt= | url=https://akhaama.jp/ | email=
+| address=1-25 Akagi Motomachi | lat=35.704539 | long=139.737249 | directions=
+| phone=+81 3-6280-8755 | tollfree=
+| hours=08:00-19:00 | price=
+| wikidata=
+| lastedit=2022-11-09
+| content=Specialty coffee from northern Thailand.
+}}
+* {{drink
+| name=Doutor | alt= | url=http://www.doutor.co.jp/dcs/ | email=
+| address=Various locations | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=Drinks ¥250-500
+| content=Doutor is a relatively "salary man" coffee shop. You will see lots of business men within this shop. Non-smoking, with some shops equipped with smoking booths.
+}}
+* {{drink
+| name=Excelsior Caffe | alt= | url=http://www.doutor.co.jp/exc/ | email=
+| address=Various locations | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=Drinks ¥380-600
+| content=Excelsior Caffe and Doutor are run by the same company, however Excelsior Caffe caters to a younger, more feminine crowd and one-notch upscale. Generally non-smoking, with bigger shops have separate smoking rooms.
+}}
+* {{drink
+| name=Pronto/Di Punto | alt= | url=https://www.pronto.co.jp/global/ | email=
+| address=12 locations in Shinjuku ward | lat= | long= | directions=
+| phone= | tollfree=
+| hours=Cafe style opens in the morning and closes around 17:30. Then bar opens within minutes | price=Soft drinks ¥320-500
+| content=Pronto is a very relaxed cafe/bar that is a cafe during the day. They offer premium style drinks.
+}}
+* {{drink
+| name=Segafredo Zanetti Espresso | alt= | url=http://www.segafredo.jp/ | email=
+| address=3 locations near Shinjuku Station and another in Tokyo Opera City | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=Drinks ¥280-500
+| content=Segafredo is a somewhat upscale Italian style cafe that has various locations near Shinjuku. Segafredo tends to have a darker atmosphere akin to Pronto and offers many kinds of alcoholic drinks too.
+}}
+* {{drink
+| name=Starbucks Coffee | url=http://www.starbucks.co.jp/en/ | email=
+| address=Shinjuku has 22 Starbucks Coffee shops | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+** {{drink
+| name= | url= | email=
+| address=Shinjuku Dianne Bldg 3-36-6 | lat= | long= | directions=one minute from Shinjuku station by walk, 8 minutes from Seibu-shinjuku station by walk; between OIOIcity and Flags
+| phone=+81 3-3353-4775 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+** {{drink
+| name= | url= | email=
+| address=Shinjuku Green Tower, Nishi-shinjuku 6-14-1 | lat= | long= | directions=4 minutes from Nishi-shinjuku station by walk, 6 minutes from Tochomae station by walk, 10 minutes from Shinjuku station by walk; near the Hilton Hotel
+| phone=+81 3-3342-7737 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+* {{drink
+| name=Canal Cafe | url=http://www.canalcafe.jp/ | email=
+| address=1-9 Kagurazaka | lat= | long= | directions=Iidabashi station, JR west exit or subway exit B2A
+| phone=+81 3-3260-8068 | tollfree= | fax=+81 3-3260-8052
+| hours=Tu-F 11:30-21:30, Sa Su 11:30-23:00 | price=
+| content=In the far east of Shinjuku City in the Kagurazaka district. With views remarkable for Tokyo, Canal Cafe consists of a separate restaurant and cafe situated alongside a canal. The open-air cafe has great ambiance. At the restaurant figure &yen;6000-9000 for dinner, but at the café, which is a long patio-like dock, drinks and snacks are purchased at the bar and can be quite reasonable.
+}}
+* {{drink
+| name=Tajimaya Coffee house | alt={{lang|ja|但馬屋珈琲店}} | url=https://tajimaya-coffeeten.com/ | email=
+| address=1-2-6 Nishi-Shinjuku | lat=35.69269 | long=139.69972 | directions=On the corner of Omoide Yokocho, nearest to the station.
+| phone=+81 3-3342-0881 | tollfree=
+| hours=10:00-23:00 | price=
+| content=Truely classic ''kissaten'' (full-service coffee shop).
+}}
+* {{drink
+| name=Tokiya | alt={{lang|ja|時屋}} | url=https://www.odakyu-sc.com/odakyu-halc/shop/list/?id=848 | email=
+| address=Odakyu HALC 1F 1-5-1 Nishi-Shinjuku | lat=35.69239 | long=139.69848 | directions=
+| phone=+81 3-3342-2610 | tollfree=
+| hours= | price=
+| content=Japanese sweets and drinks. Famous for ''dorayaki'', drum-shaped cake with red-bean paste inside.
+}}
+
+===Pubs and taverns===
+* {{drink
+| name=HUB | alt= | url=http://www.pub-hub.com | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=Popular chain of cash-on-delivery English pubs. Have some fish and chips with your pint at one of four Shinjuku locations. "82 Ale House" pubs are run by the same company with wider selection of whiskeys.
+}}
+** {{drink
+| name= | url= | email=
+| address=1-6-1 Kabukichō, Shirou Building B1 | lat= | long= | directions=
+| phone=+81 3-5155-2622 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+** {{drink
+| name= | url= | email=
+| address=1-22-8 Kabukichō, Kojimaya Building B1 | lat= | long= | directions=
+| phone=+81 3-3208-1462 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+** {{drink
+| name= | url= | email=
+| address=1-3-17 Nishi-Shinjuku, Aoi Building B1 | lat= | long= | directions=
+| phone=+81 3-3345-5310 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+** {{drink
+| name= | url= | email=
+| address=3-36-15 Shinjuku, Uchino building B1 & 6F | lat= | long= | directions=
+| phone=+81 3-5379-1949 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+* {{drink
+| name=Marone | alt=マローネ | url=https://www.facebook.com/pages/Marone/137962712914950 | email=
+| address=Fukumoto Building 2F, 3-28-2 Shinjuku | lat=35.690738 | long=139.703050 | directions=the address (in English) is incredibly difficult to find, but luckily it's only a few doors down from the famous restaurant Tsunahachi (east of the station): look for their chalkboard outside a non-descript building and then go up to 2F
+| phone=+81 3-3352-7751 | tollfree= | fax=
+| hours=Tu-Su 11:00-01:00 | price=
+| content=Tucked away in this tiny cubbyhole of a space is one of the most interesting small bars in Tokyo. A country western theme with Chet Baker and Nat King Cole pouring from the stereo. The food is cheap and superbly done (think chili nachos and the like); beer and spirits are also available. The place is tiny but it attracts a great mix of young groups of friends and office workers. Some nights Marone puts on live music and cover charges are upwards of ¥4000! The older couple who run the bar are terrifically friendly but their English is minimal.
+}}
+* {{drink
+| name=Vagabond | alt=ばがぼんど | url=https://www.vagabond-shinjuku.com/ | email=
+| address=1-4-20 Nishi Shinjuku | lat= | long= | directions=In west Shinjuku, in the 2nd alley behind (north of) Odakyu Halc, Shinjuku
+| phone=+81 3-3348-9109 | tollfree=
+| hours= | price=
+| content=A great little pub with two floors. The first floor is a little more private while the top floor is a very cozy jazz bar with live music and a good selection of finger foods cooked right at the bar for you. Caution to taller travelers: it's a little cramped at the bar. Cover charge and drinks are ¥500-700. The pub usually closes around 23:00 to 23:30 leaving you with plenty of time to get the last train.
+}}
+
+==Sleep==
+
+===Budget===
+
+* {{sleep
+| name=Sakura Hotel Hatagaya | alt={{lang|ja|サクラホテル幡ヶ谷}} | url=https://www.sakura-hotel.co.jp/jp/hatagaya/ | email=
+| address=32-3 Hatagaya Shibuya-ku | lat= | long= | directions=
+| phone=+81 3-3469-5211 | tollfree= | fax=+81 3-3468-4307
+| checkin= | checkout= | price=Single rooms ¥6930, double rooms ¥9000, twin & triple room with breakfast
+| content=Affordable hotel with a round-the-clock cafe offering a variety of Asian ethnic dishes. Staff can speak English.
+}}
+* {{sleep
+| name=Tama Ryokan | alt={{lang|ja|多摩旅館}} | url=http://www.tamaryokan.com | email=
+| address=1-25-33 Takadanobaba | lat= | long= | directions=
+| phone=+81 3-3209-8062 | tollfree= | fax=+81 3-3209-8068
+| checkin= | checkout= | price=Prices for one person no higher than &yen;4,500, and the prices drop if more than 1 person stays per room
+| content=There is a lounge for relaxing and internet access.
+}}
+*{{sleep
+| name=Manboo Internet & Comic Cafe | alt=マンボー | url=https://manboo.co.jp/index.html | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| checkin= | checkout= | price=¥1,800
+| content=Internet cafe that has small, private rooms to crash out in. Rooms have a comfortable reclining chair (or a "flat seat" option), internet, TV, and headphones. Free soft drinks and coffee are provided and there's also a shower room/toilet and toiletries on sale. Three locations near the station.
+}}
+*{{sleep
+| name=Ace Inn Shinjuku | alt={{lang|ja|エースイン新宿}} | url=http://ace-inn.jp/en/ | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| checkin= | checkout= | price=Rooms from &yen;3150, long term discount starting from 1 week
+| content=Capsule Hotel. On the ninth floor there is a common space with vending machines and TV, where you can meet with the other guests from all over the world. Internet connection via WiFi in the whole building or PC on the ground level is free. English speaking staff.
+}}
+
+===Mid-range===
+
+* {{sleep
+| name=Hotel Sunroute Plaza Shinjuku | alt={{lang|ja|ホテルサンルートプラザ新宿}} | url=https://sotetsu-hotels.com/sunroute/plazashinjuku/ | email=
+| address=2-3-1 Yoyogi, Shibuya-ku | lat= | long= | directions=
+| phone=+81 3-3375-3211 | tollfree=
+| checkin= | checkout= | price=Prices range ¥14,000 and up
+| content=Includes a restaurant, a bar, and massage parlor. Recommended for taller guests. (Better rates are often available by the usual Western online booking agents.).
+}}
+* {{sleep
+| name=Shinjuku Prince Hotel | alt={{lang|ja|新宿プリンスホテル}} | url=http://www.princehotels.co.jp/shinjuku/index.html | email=
+| address=Kabuki-cho 1-30-1 | lat= | long= | directions=
+| phone=+81 3-3205-1111 | tollfree=
+| checkin= | checkout= | price=
+| content=Includes restaurants, a bakery, and salon.
+}}
+* {{sleep
+| name=Hotel Sunlite Shinjuku | alt={{lang|ja|ホテルサンライト新宿}} | url=https://www.pearlhotels.jp/shinjuku/ | email=
+| address= | lat= | long= | directions=
+| phone=+81 3-3356-0391 | tollfree= | fax=+81 3-3356-1223
+| checkin= | checkout= | price=Singles start at &yen;8,715; doubles at &yen;12,075 per night. Discounts are offered if you refer to their web page
+| content=
+}}
+* {{sleep
+| name=Tokyu Stay Yotsuya |alt={{lang|ja|東急ステイ四谷}} |url=http://www.tokyustay.co.jp/e/hotel/YOT/index.html | email=
+| address=2-1 Yotsuya | lat= | long= | directions=
+| phone=+81 3-3354-0109 | tollfree= | fax=+81 3-3354-0191
+| checkin= | checkout= | price=Singles start at &yen;9,450; doubles at &yen;17,850 per night. Slight discounts are offered for extended stays
+| content=Part of the Tokyu Stay chain, these hotels are popular with business travelers. The small kitchenettes, washer/dryers, and free LAN access in all rooms makes these a good value.
+}}
+
+===Splurge===
+[[File:Shinjuku at night.JPG|250px|right|View from New York Bar at Park Hyatt Tokyo]]
+
+The western side of Shinjuku has a notable concentration of luxury hotels and great views over the city. Most hotels cater for business travellers and their needs.
+
+* {{sleep
+| name=Hyatt Regency Tokyo | alt={{lang|ja|ハイアットリージェンシー東京}} | url=https://tokyo.regency.hyatt.com/ | email=tokyo.regency@hyatt.com
+| address=2-7-2 Nishi-Shinjuku | lat=35.6908 | long=139.691 | directions=close to Shinjuku Station
+| phone=+81 3-3348-1234 | tollfree=
+| checkin= | checkout= | price=
+| wikidata=Q3143638
+| content=744 rooms and suites with views of Mt Fuji and Shinjuku Central Park. Regency Club lounge for free continental breakfast, tea service and evening cocktails. Hosts a roof-top pool and healh spa.
+}}
+* {{sleep
+| name=Keio Plaza Hotel | alt={{lang|ja|京王プラザホテル}} | url=https://www.keioplaza.com/ | email=
+| address=2-2-1 Nishi-Shinjuku | lat=35.689583 | long=139.694466 | directions=
+| phone=+81 3-3344-0111 | tollfree=
+| checkin= | checkout= | price=
+| content=You can see the city view of Tokyo, and the rooms are spacious. Free Wi-Fi and bicycle sharing services exist.
+}}
+[[File:Club on the Park.JPG|thumb|Night view Club on the Park on 47th floor of Park Hyatt Tokyo]]
+* {{sleep
+| name=Hotel Century Southern Tower | alt={{lang|ja|小田急ホテルセンチュリーサザンタワー}} | url=http://en.southerntower.co.jp/ | email=
+| address=2-2-1 Yoyogi, Shibuya-ku | lat=35.686482 | long=139.700393 | directions=
+| phone=+81 3-5354-0111 | tollfree=
+| checkin= | checkout= | price=
+| lastedit=2015-05-14
+| content=Well furnished rooms with enough space to get around it. Very good breakfast buffet. Excellent views of the surrounding area from rooms and lobby, which is on the 20th floor.
+}}
+* {{sleep
+| name=Park Hyatt Tokyo | alt={{lang|ja|パークハイアット東京}} | url=https://tokyo.park.hyatt.com/ | email=tokyo.park@hyatt.com
+| address=3-7-1 Nishi-Shinjuku | lat=35.686056 | long=139.690389 | directions=
+| phone=+81 3-5322-1234 | tollfree=
+| checkin= | checkout= | price=Singles starting at &yen;200,000
+| wikidata=Q11329793
+| lastedit=2026-04-13
+| content=Towering above the rest literally and figuratively, this hotel is best known for featuring prominently in the movie ''Lost in Translation''. Surprisingly intimate in feel, one of the standout features is the 47th-floor "Club on the Park" pool with floor-to-ceiling views of Shinjuku at night. The New York Bar on the 51st floor also offers superior views at night. Service and amenities are superlative, but rates are astronomical even by Japanese standards.
+}}
+* {{sleep
+| name=Hilton Tokyo | alt={{lang|ja|ヒルトン東京}} | url=https://www.hilton.com/en/hotels/tyohitw-hilton-tokyo/ | email=tokyo@hilton.com
+| address=6-6-2 Nishi-Shinjuku | lat=35.692571 | long=139.691233 | directions=
+| phone=+81 3-3344-5111 | tollfree=
+| checkin= | checkout= | price=
+| wikidata=Q17226268
+| content=It has rooms that face the Shinjuku Metropolitan Government office. Has a nice underground shopping arcade named [https://www.hiltopia.com/ Hiltopia], which includes a Tourist Information center, a foreign bookstore, some restaurants and others.
+}}
+* {{sleep
+| name=Kimpton Shinjuku Tokyo | alt={{lang|ja|キンプトン新宿東京}} | url=https://www.kimptonshinjuku.com/ | email=
+| address= | lat= | long= | directions=On the Koshu Kaido, adjacent to Park Hyatt with the expressway in-between
+| phone= | tollfree=
+| checkin= | checkout= | price=
+| lastedit=2024-03-18
+| content=Luxury hotel featuring casual modern interior. Opened in 2020.
+}}
+
+===Rentals===
+
+* {{sleep
+| name=Sakura House | url=http://www.sakura-house.com/ | email=info@sakura-house.com
+| address=Nishi-Shinjuku K-1 Bldg 2F, 7-2-6 | lat= | long= | directions=
+| phone=+81 3-5330-5250 | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=If you plan on staying in [[Tokyo]] for a month or more you might want to check this place out.
+}}
+
+==Stay safe==
+To the untrained eye the flashy neon signage of the red light district of Kabukichō looks little different from any other eating and drinking district.
+
+Beware of touts on the street. Do not follow them even if they appear friendly or persistent. They will lure you to bars where you are charged an exorbitant cover charged and grossly inflated prices for drinks. Some travellers even reported that those bars placed drugs in their drinks to leave you in vulnerable state while the staff takes your wallet and charge thousands of dollars on your debit and credit cards. If a Japanese tout approaches you, just respond with ''Daijōbu desu.'' ({{lang|ja|大丈夫です。}}) and they will usually leave you alone after that. The Nigerian touts specifically target foreigners and are usually a lot more persistent than the Japanese touts; if they start following you, make a beeline for the railway or metro station, and they should stop following you once you're inside.
+
+''Do not film videos while walking around Kabukichō.'' The Nigerian touts hired by the scam bars are particularly sensitive to being filmed, and people have been assaulted by them while filming random street scenes. Police are generally reluctant to act even if you have video footage of the assault as they consider filming in a red light district to be provocative behavior.
+
+==Connect==
+* {{listing
+| name=Tokyo Tourist Information Center | alt= | url=https://tokyotouristinfo.com/en/detail/J0006 | email=
+| address= | lat= | long= | directions=on the 1st floor of the Tokyo Metropolitan Government Building 1
+| phone= | tollfree=
+| hours=09:30-18:00 daily | price=
+| content=A good source of information on not just Tokyo but all of Japan. This office is geared for foreign visitors, so all materials are in languages other than Japanese and all staff speak English.
+}}
+** {{listing
+| name=Shinjuku Expwy. Bus Terminal Branch | alt= | url=https://tokyotouristinfo.com/en/detail/J0005 | email=
+| address= | lat=35.688330 | long=139.700510 | directions=
+| phone= | tollfree=
+| hours=06:30-23:00 | price=
+| content=
+}}
+
+== Cope ==
+=== Embassies ===
+{|
+|-
+| style="vertical-align:top;width:50%;" |
+<!--M-->
+* {{flag|Marshall Islands}} {{listing
+| name=Marshall| url=| email=
+| address=Meijiparkheights 101 9-9 Minamimotomachi | lat= | long= | directions=
+| phone=+81 3-5379-1701 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+<!--P-->
+* {{flag|Palau}} {{listing
+| name=Palau | url=http://palauembassy.or.jp/en/| email=
+| address=Pare Crystal 2F 1-1 Katamachi | lat= | long= | directions=
+| phone=+81 3-3354-5500 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+|}
+
+==Go next==
+
+*'''[[Tokyo/Shibuya|Shibuya]]''' is 3 stations south of Shinjuku on the Yamanote Line.
+*'''[[Tokyo/Ikebukuro|Ikebukuro]]''' is 3 stations north of Shinjuku on the Yamanote Line.
+*'''[[Mitaka]]''' is west along the Chuo Line.  It is the home of the Ghibli Museum.
+*'''[[Hachioji]]''' is a suburban city of Tokyo west of Shinjuku along the Keio Line and Chuo Line, with access to '''[[Hachioji#Do|Takao-san]]''', a popular mountain for hiking or just escaping the urban sprawl for a day.
+*'''[[Hakone]]''' is a popular area for onsens and easily accessible by the Odakyu Line.
+*'''[[Enoshima]]'''
+
+{{routebox
+| image1=JR Chuo icon.png
+| imagesize1=100
+| directionl1=W
+| majorl1=[[Nagoya]]
+| minorl1=[[Tokyo/Nakano]]
+| directionr1=E
+| majorr1=END
+| minorr1=
+
+| image2=JR Sobu icon.png
+| imagesize2=100
+| directionl2=W
+| majorl2=[[Tokyo/Suginami]]
+| minorl2=[[Tokyo/Nakano]]
+| directionr2=E
+| majorr2=[[Tokyo/Chiyoda]]
+| minorr2=[[Tokyo/Shibuya]]
+
+| image3=Seibu Shinjuku icon.png
+| imagesize3=100
+| directionl3=W
+| majorl3=[[Kawagoe|Hon-Kawagoe]]
+| minorl3=[[Tokorozawa]] ← [[Nishitokyo|Tanashi]]
+| directionr3=E
+| majorr3=END
+| minorr3=
+
+| image4=Subway TokyoMarunouchi.png
+| imagesize4=30
+| directionl4=W
+| majorl4=[[Tokyo/Suginami|Ogikubo]]
+| minorl4=[[Tokyo/Nakano|Nakano-Sakaue]]
+| directionr4=E
+| majorr4=[[Tokyo/Ginza|Ginza]]
+| minorr4=[[Tokyo/Akasaka|Akasaka Mitsuke]]
+
+| image5=Subway TokyoTozai.png
+| imagesize5=30
+| directionl5=W
+| majorl5=[[Tokyo/Nakano|Nakano]]
+| minorl5=
+| directionr5=E
+| majorr5=[[Tokyo/Chuo|Nihonbashi]]
+| minorr5=[[Tokyo/Chiyoda|Kudanshita]]
+
+| image6=Subway TokyoFukutoshin.png
+| imagesize6=30
+| directionl6=N
+| majorl6=[[Ikebukuro]]
+| minorl6=
+| directionr6=S
+| majorr6=[[Tokyo/Shibuya|Shibuya]]
+| minorr6=[[Tokyo/Harajuku|Meijijingumae]]
+
+| image7=Subway TokyoShinjuku.png
+| imagesize7=30
+| directionl7=W
+| majorl7=[[Hashimoto]]
+| minorl7=[[Tama|Tama center]] ← into [[File:Number prefix Keiō.PNG|30px]] ←[[Tokyo/Shibuya|Sasazuka]]
+| directionr7=E
+| majorr7=[[Tokyo/East|Sumiyoshi]]
+| minorr7=[[Tokyo/Chiyoda|Jinbocho]] →  [[Tokyo/Akihabara|Iwamotocho]]
+
+| image8=Subway TokyoOedo.png
+| imagesize8=30
+| directionl8=W
+| majorl8=[[Tokyo/North|Toshimaen]]
+| minorl8=[[Tokyo/North|Nerima]] ←[[Tokyo/Nakano|Higashi Nakano]]
+| directionr8=E
+| majorr8=[[Tokyo/Chuo|Tsukiji Market]]
+| minorr8=[[Tokyo/Roppongi|Roppongi]] → [[Tokyo/Shiodome|Shiodome]]
+
+| image9=Subway TokyoOedo.png
+| imagesize9=30
+| directionl9=W
+| directionr9=E
+| majorl9=↑
+| majorr9=[[Tokyo/Sumida|Ryogoku]]
+| minorr9=[[Tokyo/Bunkyo|Kasuga]] → [[Tokyo/Ueno|Ueno-Okachimachi]]
+
+| image10=Shuto Urban Expwy Sign 0004.svg
+| imagesize10=30
+| directionl10=W
+| majorl10=[[Hachioji]]
+| minorl10=[[Chofu]] ← into [[File:Chuo Expwy Route Sign.svg|80px]] ← [[Tokyo/Suginami|Takaido]]
+| directionr10=E
+| majorr10=[[Tokyo/Shibuya|Yoyogi]]
+| minorr10=
+}}
+
+{{geo|35.693839|139.703550}}
+{{usabledistrict}}
+{{IsPartOf|Tokyo}}

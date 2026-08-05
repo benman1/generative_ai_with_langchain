@@ -1,0 +1,408 @@
+{{pagebanner|Mena-asia_default_banner.jpg}}
+[[File:Tokyo_Wikivoyage_locator_maps_-_Shinagawa.png|120px|thumb|right|Location of Shinagawa in Tokyo]]
+'''Shinagawa''' (品川) is one of the 23 wards of central [[Tokyo]], and is also a major railway station in south-central Tokyo. Historically, parts of this ward were known as Shimazuyama. Many feudal lords (''daimyo'') maintained estates in this area during the Tokugawa Shogunate. This area is the birthplace and former home of Sony.
+
+Today, Shinagawa is an important train hub for Tokyo, connecting the Yamanote Line and the Tokaido Line/Shinkansen as the start of the [[Golden Route]] in Japan.  It is also a center of "European" style businesses and tourism, so you will see more English than Japanese on signs, and more Italian and American restaurants than Japanese ones.
+
+[[Oimachi]] (大井町) and [[Gotanda]] (五反田) areas in the ward have their own articles.
+
+==Understand==
+[[File:1 shinagawa station tokyo 2011.JPG|thumb|Outside Shinagawa station]]
+
+Although Shinagawa is a ward of Tokyo, Shinagawa Station is actually in the ward of [[Tokyo/Minato|Minato]]: Shinagawa Ward is located to the southwest of Shinagawa Station, in the area surrounding [[Tokyo/Gotanda|Gotanda]] and Osaki on the Yamanote Line, surrounding [[Tokyo/Ōimachi|Ōimachi]] on the Keihin-Tohoku Line.
+
+Shinagawa is not a particular destination, rather a waystation, particularly when traveling to or from western Tokyo, or a place to live or stay, due to the excellent transport connections. However, it has a large number of services, and a few tourist attractions. It is a good place to stay, or to stop for a meal or drink at the start or end of a journey, but otherwise there’s little reason to come here.
+
+The two sides of Shinagawa Station are quite different: the west or "Takanawa" (高輪) side is mainly residential, with the exception of a sizeable hotel zoning immediately around the station. The east side or "Konan" (港南) side ranges from commercial to industrial, although many new modern residential apartments have been developed near the station and along its many water canals. Because of the many railway lines passing through, it is difficult to get from one side of the station to the other without walking through the station, so be sure to exit the station on the correct side for your destination.
+
+===Tourist information ===
+The local tourist association has a [https://shinagawa-kanko.or.jp/ Japanese-only guide site].
+
+==Get in==
+===By train===
+{{Mapframe|35.61281|139.73068|zoom=13}}
+{{Mapshape}}
+{{Mapshapes|Q682894}} <!-- Tokyo Metro -->
+{{Mapshapes|Q247782}} <!-- Toei Subway -->
+{{mapshape|wikidata=Q225095|type=geoline|stroke=#00b48d|stroke-width=4|stroke-opacity=1}} <!-- Rinkai Line -->
+{{mapshapes|Q1322206}} <!-- Keikyu -->
+
+{{marker|type=go|name=Shinagawa Station|lat=35.62858|long=139.73967}} is served by Japan Railways (JR) and Keikyu Railway. JR runs trains to Shinagawa on the Yamanote, Keihin-Tohoku, Yokosuka, and Tokaido lines.  Most Narita Expresses from [[Narita Airport]] travel directly to Shinagawa (75 min, ¥3,110).  Shinagawa Station is also served by the Tokaido Shinkansen, making this a convenient jumping-off point for trips to Kyoto, Osaka and other cities along the line.
+
+On the Yamanote line, Ōsaki and Gotanda stations are also in the area.
+
+On the Keihin-Tōhoku line, Tokyu Ōimachi line and Rinkai line, Ōimachi stations are also in the area.
+
+Keikyu Railways trains run south to Haneda Airport, Yokohama and points beyond. Keikyu also has through service with the Asakusa subway line and operates trains going as far north as Narita, making this a cheap, but much slower, alternative to the Narita Express. The trip between Shinagawa and Haneda Airport takes as few as 17 minutes and costs ¥400.
+
+===By bus===
+Several hotels in Shinagawa, as well as Shinagawa Station, are connected to Narita Airport via the "Airport Limousine" bus (85 min, ¥3,000)
+
+:'''Shinagawa Bus Terminal''' ''(5 minutes walk from JR Shinagawa Station Takanawa Exit)''
+::Ticket office windows: 09:00-18:00
+:*'''Keikyu Bus'''[http://www.keikyu-bus.co.jp/ (Japanese Website)]
+::Tohoku - [[Hirosaki]], Gosyogawara, [[Morioka]], [[Miyako (Iwate)|Miyako]]
+::Kansai - [[Fukuchiyama]], Ayabe, [[Maizuru]]
+::Chugoku - [[Tsuyama]], [[Okayama]], [[Kurashiki]], [[Tottori]], [[Kurayoshi]], [[Yonago]]
+::Shikoku - [[Tokushima]], Anan, Yoshinogawa, [[Niihama]], [[Saijo]], [[Imabari]]
+
+:*'''JR Bus Tohoku'''[http://www.jrbustohoku.co.jp/ (Japanese Website)]
+::Tohoku - [[Sendai]]
+
+:*'''Hankyu Bus'''[http://bus.hankyu.co.jp/ (Japanese Website)]{{Dead link|date=April 2026 |bot=InternetArchiveBot }}
+::Kansai - [[Kyoto]], [[Osaka]][[Osaka/Kita|(Umeda]],[[Osaka/Minami|Namba)]]
+
+:*'''Mie Kotsu'''[http://www.sanco.co.jp/ (Japanese Website)]
+::Chubu - [[Nabari]], [[Iga]], [[Seki]], [[Yokkaichi]]
+
+==See==
+[[File:Sengakuji temple entrance.jpg|thumb|Sengakuji temple]]
+* {{see
+| name=Hara Museum of Contemporary Art | alt=原美術館, hara-bijutsukan | url=http://www.haramuseum.or.jp | email=
+| address=4-7-25 Kitashinagawa | lat=35.621028 | long=139.736056 | directions=15 minutes walk from JR Shinagawa Station, near La Foret Hotel
+| phone=+81 3-3445-0651 | tollfree= | fax=+81 3-3473-0104
+| hours=Closed M; Tu Th-Su 11:00-17:00, W 11:00-20:00 | price=¥1000 adults, ¥700 students
+| image=Hara Museum of Contemporary Art 2010.jpg | wikidata=Q3736155
+| content=This small museum hosts a variety of interesting exhibitions in a 1930s house which is a great example of modern architecture in pre-war Japan. There is a very nice indoor/outdoor cafe. (2026: closed/moved to Gunma prefecture, see Wikipedia)
+}}
+* {{see
+| name=Shinagawa Aquarium | alt=しながわ水族館, Shinagawa Suizokukan | url=http://www.aquarium.gr.jp/en/index.html | email= | wikidata=Q11254393
+| address=3-2-1 Katsushima | lat=35.5886 | long=139.7374 | directions=5 minutes walk from Keiyu Ōmori-Kaigan Station.
+| image = Sinagawa Aquarium.jpg
+| phone=+81 3-3762-3433 | tollfree= | fax=+81 3-3762-3436
+| hours=Closed Th; Tu 11:00-17:00, W 10:00-17:00 | price=¥1350 adults, ¥600 students, children ¥300
+| content=
+}}
+* {{see
+| name=Showa Neon Takamura Kanban Museum | alt=昭和ネオン高村看板ミュージアム | url=http://www.showaneon.co.jp/museumu.html | email=
+| address=1-7-17 Minami-Shinagawa | lat=35.615 | long=139.7445 | directions=
+| phone= | tollfree=
+| hours=M-F 10:00-16:00 | price=Free
+| lastedit=2023-12-16
+| content=The sign company Showa Neon has a museum with shop signs from the Edo and early Meiji periods. Reportedly all descriptions in this museum are in Japanese. Closed in June 2023 for renovation; reopen due in March 2025.
+}}
+
+==Do==
+*{{do
+| name=Aqua Park Shinagawa | alt=アクアパーク品川 | url=https://www.aqua-park.jp/en/aqua/ | email=
+| address=Minato-ku, Takanawa 4-10-30 | lat=35.628284 | long=139.732664 | directions=Behind Takanawa Wing West just past the Prince Hotel Executive Tower
+| phone=+81 3-3440-1111 | tollfree=
+| hours=M-F 12:00-22:00; Sa 10:00-22:00; Su and holidays 10:00-21:00 | price=Adults ¥1,800; Elementary and middle school students ¥1,000; Kids over 4 years old ¥600
+| content=Aquarium with dolphin and seal shows and hundreds of species of fish. There is also a carousel ride.
+}}
+*{{do
+| name=Takanawa Catholic Church | url=http://www.catakanawa.com/ | email=
+| address=Minato-ku, Takanawa 4-7-1 | lat= | long= | directions=a few minutes up Zakurozaka street past the Outback restaurant on the left
+| phone=+81 3-3441-5556 | tollfree= | fax=
+| hours= | price=
+| content=This modern church rebuilt on a historic site is handicapped-accessible and has Sunday Mass in English on the fourth Sunday of each month at 13:00.
+}}
+*{{do
+| name=Ōi Horse Race Course | alt=大井競馬場, Tokyo City Keiba | url=http://www.tokyocitykeiba.com/en/ | email=
+| address=2-1-2 Katsushima Shinagawa | lat=35.5918 | long=139.743 | directions=Take Tokyo Monorail to Ōi Keibajo-mae station
+| phone=+81 3-3763-2151 | tollfree=
+| hours= | price=Adults ¥100
+| content=The best racecourse affiliated to National Association of Racing, the umbrella organization for local horseracing operators. Tokyo Dai-Shoten race in December is rated as international Grade I. Many restaurants and food stands. Night races from March to December are decorated with beautiful illuminations.
+}}
+
+==Buy==
+*{{buy
+| name=Coffee Roast Sai | alt= | url=https://coffeeroastsai.com/ | email=
+| address=Takanawa 1-21-3 | lat= | long= | directions=15 min walk up from Shinagawa
+| phone=+81 3-3449-7007 | tollfree=
+| hours=Th-M 11:00-18:00, closed Tu W | price=
+| content=Roasts beans while you wait (30-60 min), usually with a wonderful free cup of coffee. For true connoisseurs.
+}}
+*{{buy
+| name=Sanrio Gift gate | alt=サンリオ ギフトゲート | url=https://stores.sanrio.co.jp/5560100/ | email=
+| address=1-6-5 Ōsaki | lat=35.6202 | long=139.7291 | directions=near Ōsaki station, and Sanrio head office.
+| phone=+81 3-3449-7007 | tollfree=
+| hours= | price=
+| content=A shop of the brand behind the famous Hello Kitty.
+}}
+
+==Eat==
+Shinagawa ward has many ''yakitori'' (skewered chicken) and ''yakiton'' (skewered pork) joints because it has the largest wholesale meat market in Japan just east of the station.
+
+===Budget===
+You don't even have to leave the station to treat yourself to a wide range of affordable restaurants. Inside the ticket barrier you can find:
+*{{eat
+| name=eCute Shinagawa | alt=エキュート品川 | url=https://www.ecute.jp/shinagawa | email=
+| address= | lat= | long= | directions=
+| phone=+81 3-3444-8910 | tollfree=
+| hours=08:00-22:00 for most shops, some open earlier | price=
+| lastedit=2023-12-13
+| content=A small food court and take out restaurants featuring a couple of dozen food stands and bakery or sweet shops on the first level. This is also a very comfortably air-conditioned place to wait for a train connection. There are some full-service restaurants on the upper level. A few examples of shops include:.
+}}
+** {{eat
+| name=Andersen | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours=07:00-22:00 | price=
+| content=If you are making an early departure for Kamakura or points south pick up sandwiches to go
+}}
+** {{eat
+| name=Kongariya | url= | email=
+| address= | lat= | long= | directions=
+| phone=+81 3-5421-0431 | tollfree= | fax=
+| hours= | price=From ¥150
+| content=Select from a wide range of onigiri with interesting fillings like squid and kimchee, miso or shoyu grilled riceballs, or even ones wrapped in Indian naan and baked.
+}}
+** {{eat
+| name=Paul | url= | email=
+| address= | lat= | long= | directions=
+| phone=+81 3-3440-5021 | tollfree= | fax=
+| hours= | price=
+| content=Sandwiches on real baguettes.
+}}
+
+Near the West or Takanawa Exit
+* {{eat
+| name=Yoshinoya | url= | email=
+| address= | lat= | long= | directions=one block to right from Takanawa exit of the JR station
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Fast food chain with Japanese style food.
+}}
+
+Near the East or Konan Exit adjacent to the Shinkansen ticket gates
+
+===Mid-range===
+* {{eat
+| name=Atre Shinagawa | alt=アトレ品川 | url=https://www.atre.co.jp/shinagawa/ | email=
+| address= | lat= | long= | directions=Shinagawa Station Konan Exit
+| phone= | tollfree=
+| hours= | price=
+| content=A collection of restaurants grouped around a Queens Isetan grocery. Dean & Deluca, on the second floor, has a take-out sandwich and coffee bar which is convenient for supplies to get you through a long Shinkansen ride. The fourth floor has the ''Lounge Foodium'' restaurant complex including Grand Central Oyster Bar.
+}}
+* {{eat
+| name=Devi Corner | url= | email=
+| address=3-24-21 Takanawa | lat= | long= | directions=5 min north of Shinagawa station
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Excellent Indian cuisine.
+}}
+* {{eat
+| name=Royal Host | alt= | url= | email=
+| address= | lat= | long= | directions=first floor of the Keikyu EX Hotel Takanawa
+| phone= | tollfree=
+| hours= | price=
+| content=Popular "family restaurant" chain with surprisingly good coffee but little else that stands out.
+}}
+* {{eat
+| name=Tsubame Grill (Shinagawa-ekimae) | alt=つばめグリル 品川駅前店 | url=http://www.tsubame-grill.co.jp | email=
+| address=4-10-26 Takanawa, Minato | lat= | long= | directions=across the street, next to the bus entrance of Shinagawa Prince Hotel
+| phone= | tollfree=
+| hours= | price=
+| content=Tsubame Grill chain is famous for its "hamburg" dish. Contrary to belief, lunch special only costs ¥1150 — a bargain for the excellent quality of food. The "hamburg" dish comes piping hot covered completely in an aluminum foil.
+}}
+* {{eat
+| name=Tikka & Biryani | url= | email=
+| address= | lat= | long= | directions=take Prince Hotel Exit of Shinagawa station, take your left after crossing the road; it's about 7 minutes walk on the highways, take the lane next to Riken Kiki Co. building
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Has excellent Indian Mughal Biryani.
+}}
+
+===Splurge===
+
+==Drink==
+* {{drink
+| name=82 Ale House | alt= | url= | email=
+| address= | lat= | long= | directions=leaving Shinagawa station via the Konan exit, go down the escalator and walk down the street directly in front. Its near the end on the right hand side
+| phone= | tollfree=
+| hours=Last orders are at 22:45 on Saturdays and Sundays | price=
+| content=Very convincing Victorian style British pub run by the same company as another popular pub chain, HUB. Largish drinks menu which includes single malt whiskeys, real ale and Guinness on tap for ¥900 a pint.
+}}
+
+==Sleep==
+With the new Shinkansen service to Shinagawa, the area hotels have become much more convenient (and crowded). Rooms at the hotels near the station sell out very quickly. Try Gotanda Station, 2 stops away on the Yamanote Line, for cheaper business hotels or capsules.
+
+===Budget===
+* {{sleep
+| name=Guesthouse Shinagawa-shuku | alt= | url=http://bp-shinagawashuku.com/en/ | email=reservation@bp-shinagawashuku.com
+| address=1-22-16 Kita-Shinagawa | lat= | long= | directions=JR Kita Shinagawa Station
+| phone=+81 3-6712-9440 | tollfree= | fax=+81 3-6712-9443
+| checkin= | checkout= | price=dormitory &yen;3,000; single &yen;3,500
+| content=Small, friendly guesthouse "for backpackers" in a very 'local' feeling location.
+}}
+* {{sleep
+| name=Toyoko Inn Shinagawa Aomono-yokocho-eki | alt= | url=http://www.toyoko-inn.com/e_hotel/00049/index.html | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| checkin= | checkout= | price=Rack rates from ¥6,720
+| content=An alternative Toyoko Inn, five minutes south of Shinagawa by Keikyu local train. Availability is generally better here than the other Toyoko Inn, and the hotel is directly connected to the Keikyu line.
+}}
+* {{sleep
+| name=Toyoko Inn Shinagawa-eki Takanawa-guchi | alt= | url=http://www.toyoko-inn.com/e_hotel/00029/ | email=
+| address= | lat= | long= | directions=Takanawa exit
+| phone= | tollfree=
+| checkin= | checkout= | price=Rack rates from ¥6,720
+| content=A bit cheaper than the rest, and it can sell out quickly.
+}}
+* {{sleep
+| name=Keikyu EX Inn Shinagawa-Ekimae | url=http://www.shinagawa.keikyu-exinn.co.jp/en/index.html | email=
+| address= | lat= | long= | directions=Takanawa exit
+| phone= | tollfree= | fax=
+| hours= | price=
+| checkin= | checkout=
+| content=Formerly known as the Meridien Pacific, but since renovated and converted to a Keikyu EX Inn.
+}}
+
+===Mid-range===
+*Prince Hotels has three towering premises on the Takanawa side.
+** {{sleep
+| name=Grand Prince Hotel Takanawa | url=http://www.princehotels.com/en/takanawa/ | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| checkin= | checkout=
+| content= Though priced similarly per-night to other hotels in the area, rooms are available at an incredible discount if staying more than 3 nights through the week.
+}}
+** {{sleep
+| name=Grand Prince Hotel Shin-Takanawa | alt= | url=http://www.princehotels.com/en/newtakanawa/ | email=
+| address= | lat= | long= | directions=near the Takanawa exit
+| phone= | tollfree=
+| checkin= | checkout= | price=Rack rates from ¥15,500
+| content=
+}}
+** {{sleep
+| name=Shinagawa Prince Hotel | url=http://www.princehotels.com/en/shinagawa/ | email=
+| address= | lat= | long= | directions=near the Takanawa exit
+| phone= | tollfree= | fax=
+| hours= | price=Rack rates from ¥15,500
+| checkin= | checkout=
+| content=
+}}
+* {{sleep
+| name=Keikyu EX Hotel Takanawa | alt= | url=https://www.keikyu-exhotel.jp/hotel/takanawa/languages/en.html | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| checkin= | checkout= | price=Rack rates from ¥11,900
+| content=A more economical alternative to the more expensive high-service hotels, while still being good for business travelers who need the room primarily for sleeping and internet.
+}}
+
+===Splurge===
+*{{sleep
+| name=Hotel La Foret | alt= | url=http://www.laforethotels.com/tokyo/ | email=
+| address=品川区北品川4-7-36 Kita Shinagawa 4-7-36 | lat= | long= | directions=3-min walk from Keikyu Kita Shinagawa, 5 min by bus from JR Shinagawa Takanawa Exit, 10-min walk from JR Gotanda Station
+| phone=+81 3 5488-3939 | tollfree=
+| checkin=14:00 | checkout=12:00 | price=¥30,000
+| content=This high end hotel is in the deluxe Gotenyama Hills complex.
+}}
+* {{sleep
+| name=The Strings Hotel | url=http://www.stringshotel.com/english/ | email=
+| address= | lat= | long= | directions=Konan exit
+| phone= | tollfree= | fax=
+| hours= | price=Rack rates from ¥31,000
+| checkin= | checkout=
+| content=A top-notch hotel near Shinagawa Station which is worth visiting for a drink or a meal to get the view of the bay and Rainbow Bridge. Part of the Intercontinental chain.
+}}
+
+==Connect==
+* {{listing
+| name=Shinagawa Prince Executive Tower's North and South Annex | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=2nd floor wireless hot-spot. Must purchase a ¥500 card at the front desk, which will give you one day access. Must have your own computer. Power plugs along the window side. No eating or drinking allowed at the tables.
+}}
+
+==Go next==
+* [[Ōimachi]] — At the station next to Keihin Tohoku Line from Shinagawa, there are more shops, hotels and izakaya. It is also close to [[Odaiba]].
+* [[Ōsaki]] — At the station next to Yamanote Line from Shinagawa, there are high-speed buses and Tokyu buses connecting other cities, [[Narita]] Airport.
+
+{{routebox
+| image1=Tokaido Shinkansen icon.png
+| imagesize1=100
+| directionl1=W
+| majorl1=[[Nagoya]]
+| minorl1=[[Yokohama|Shin-Yokohama]]
+| directionr1=E
+| majorr1=END
+| minorr1='''[[Tokyo/Chiyoda|Tokyo (station)]]'''
+
+| image2=JR Tokaido icon.png
+| imagesize2=100
+| directionl2=W
+| majorl2=[[Yokohama]]
+| minorl2=[[Kawasaki]]
+| directionr2=E
+| majorr2=[[Tokyo/Chiyoda|Tokyo]]
+| minorr2=[[Shinbashi]]
+
+| image3=JR JO line symbol.svg
+| imagesize3=30
+| directionl3=N
+| majorl3=[[Chiba]]
+| minorl3=[[Tokyo/Sumida|Kinshicho]] ← [[Tokyo/Chiyoda|Tokyo]]
+| directionr3=S
+| majorr3=[[Yokohama]]
+| minorr3=[[Kawasaki|Musashi Kosugi]]
+
+| image4=JR JY line symbol.svg
+| imagesize4=30
+| directionl4=W
+| majorl4=[[Shibuya]]
+| minorl4=[[Tokyo/Ebisu|Ebisu]] ← [[Tokyo/Gotanda|Gotanda]]
+| directionr4=E
+| majorr4=[[Tokyo/Chiyoda|Tokyo]]
+| minorr4=[[Tokyo/Minato|Hamamatsucho]] → [[Tokyo/Shinbashi|Shinbashi]]
+
+| image5=JR JK line symbol.svg
+| imagesize5=30
+| directionl5=N
+| majorl5=[[Tokyo/Ueno|Ueno]]
+| minorl5=[[Tokyo/Chiyoda|Tokyo]] ← [[Tokyo/Shinbashi|Shinbashi]]
+| directionr5=S
+| majorr5=[[Yokohama|Tsurumi]]
+| minorr5=[[Oimachi]] → [[Tokyo/Ota|Kamata]] → [[Kawasaki]]
+
+| image6=Number prefix Keikyū.PNG
+| imagesize6=30
+| directionl6=N
+| majorl6=[[Tokyo/Minato|Sengakuji]]
+| minorl6=
+| directionr6=S
+| majorr6=[[Miura|Misakiguchi]]
+| minorr6=[[Yokohama]] → [[Zushi]]
+
+| image7=Tokyu OM line symbol.svg
+| imagesize7=30
+| directionl7=N
+| majorl7=[[Tokyo/Setagaya|Futako Tamagawa]]
+| minorl7=[[Tokyo/Meguro|Jiyūgaoka]] → [[Oimachi]]
+| directionr7=S
+| majorr7=END
+
+| image8=Tokyo Monorail Line symbol.svg
+| imagesize8=30
+| directionl8=N
+| majorl8=[[Tokyo/Minato|Hamamatsucho]]
+| minorl8=
+| directionr8=S
+| majorr8=[[Tokyo Haneda Airport|Haneda Airport]]
+| minorr8=
+
+| image9=Shuto Urban Expwy Sign C2.svg
+| imagesize9=30
+| directionl9=N
+| majorl9=[[Tokyo/Toshima|Nishi-Ikebukuro]]
+| minorl9=[[Tokyo/Shibuya|Hatsudai-Minami]]
+| directionr9=S
+| majorr9=END
+| minorr9=
+
+| image10=Shuto Urban Expwy Sign B.svg
+| imagesize10=30
+| directionl10=W
+| majorl10=[[Yokohama|Honmoku Wharf]]
+| minorl10=[[Tokyo Haneda Airport|Haneda Airport]]
+| directionr10=E
+| majorr10=[[Chiba]]
+| minorr10=[[Tokyo/Odaiba|Rinkai Fukutoshin]] → [[Tokyo Disney Resort|Urayasu]]
+}}
+
+{{usabledistrict}}
+{{geo|35.6000|139.7333}}
+{{IsPartOf|Tokyo}}

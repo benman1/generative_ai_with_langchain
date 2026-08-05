@@ -1,0 +1,522 @@
+{{pagebanner|Kyoto North banner Kinkaku.jpg|caption=Kinkaku-ji (Golden Temple)|unesco=yes}}
+[[Image:Shimogamo Shrine, Kyoto.jpg|thumb|300px|Shimogamo Shrine]]
+
+'''Northern Kyoto''' ({{lang|ja|北山}}) is graced with scores of centuries-old shrines and temples, including several [[UNESCO World Heritage List|World Heritage Sites]]. One of [[Kyoto]]'s most famous attractions - the magnificent golden pavilion of '''Kinkaku-ji''' - can be found here.
+
+==Get in==
+
+===By train===
+Keihan Railways connects North Kyoto with [[Kyoto/Higashiyama|Eastern Kyoto]] at Demachiyanagi Station, the final stop on the line.
+
+On the Western side, the Keifuku Railroad (Randen) streetcar provides easy access to the area from [[Kyoto/Arashiyama|Arashiyama]], with stops for Ninnaji, Ryoanji, Kinkakuji, and Kitano Tenmangu (Kitano Hakubaicho Station). Fare is a flat ¥220, ¥110 for children 6–12 (Nov 2018).
+
+===By subway===
+
+'''Kitaōji Station''' on the municipal subway system's '''Karasuma Line''' gives travellers easy access to a key bus terminal that serves parts of northern Kyoto.  The Karasuma Line continues north all the way to '''Kokusaikaikan Station''', near the Kyoto International Conference Center.
+
+===By bus===
+{{Mapframe|35.048|135.737|zoom=12}}
+Northern Kyoto covers a large area, so many buses travel through the region. The #8 North (北８) bus makes a loop around the entire northern area. In the northwest, #59 passes most of the major attractions. In the northeast bus #4 and #5 each travel around popular touring spots.
+
+The #8 is the only bus that will take you to and from the Takao area. The #17 bus will take you to the Ohara area. Both of these areas are located outside of the boundary of the ¥500 All-Day Bus pass, so do not purchase the pass if you are travelling to either of these areas.
+
+==See==
+
+===North-western Kyoto===
+
+Visiting the vast temple complexes of north-western Kyoto can take the better part of a day. A suggested itinerary is to take the subway (Karasuma line) to Kitaoji station, and walk west along Kitaoji-dōri. Daitoku-ji, Kinkaku-ji, Ryōan-ji and Ninna-ji Temples are all on Kitaoji-dōri, and about 15-30 minutes' walk apart. However if it is summer time and sweltering hot it is easy to take the bus from temple to temple as well, just read the route map at the stops. En route, you will see the giant "dai" (大) symbol burned on Mt. Daimon-ji, which can be climbed in an hour or so - look for the entrance near Kinkaku-ji (see below). If you're in Kyoto at night on '''August 16th''', look up - you'll see the (大) aflame. Hirano Shrine is a short walk south along Nishioji-dōri from Kinkaku-ji. If you still have time left at the end of the day, take the pleasant electric railway (Keifuku Kitano line) from Omuro to Katabiranotsuji, then take the JR Sagano line from nearby Uzumasa station back to central Kyoto.
+
+[[File:Kinkaku-Snow-8.jpg|thumb|300px|Kinkaku-ji in winter]]
+*{{see
+| name=Kinkaku-ji Temple | alt=金閣寺 | url=http://www.shokoku-ji.jp/ | email=
+| address=1 Kinkakuji-cho, Kita-ku | lat=35.0395 | long=135.7285 | directions=nearest bus stops: Kinkakuji-michi (routes 12, 59, 101, 102, 204, 205) or Kinkakuji-mae (12 and 59)
+| phone= | tollfree= | fax=
+| hours=Daily 09:00-17:00 | price=Admission fee is ¥500 for adults and ¥200 for children
+| wikipedia=Kinkaku-ji | image=Kinkaku-ji Gold Pavilion close-up.jpg | wikidata=Q270983
+|lastedit=2025-03-01| content=The '''Temple of the Golden Pavilion''', formally known as '''Rokuonji''' (鹿苑寺), is the most popular tourist attraction in Kyoto. The pavilion was built as a retirement villa for Shogun Ashikaga Yoshimitsu in the late 14th century, and converted into a temple by his son. However, the pavilion was burnt down in 1950, by a young monk who had become obsessed with it. (The story became the basis for Yukio Mishima's novel ''The Temple of the Golden Pavilion''.) The beautiful landscaping and the reflection of the temple on the face of the water make for a striking sight, but keeping the mobs of visitors out of your photos will be a stern test for your framing abilities. Get there early if you can to beat the school groups. Visitors follow a path through the moss garden surrounding the pavilion, before emerging into a square crowded with gift shops. It's only a short walk from '''Ryōan-ji''' (below), making for an easy pairing (and study in contrasts).
+}}
+*{{see
+| name=Ryōan-ji | alt=龍安寺 | url=http://www.ryoanji.jp/ | email=
+| address= | lat=35.034444 | long=135.718333 | directions=nearest bus stop: Ryōanji-mae, route 59; nearest Randen tram stop, Ryoanji-michi
+| phone=+81 75-463-2216 | tollfree=
+| hours=Mar-Nov: daily 08:00-17:00; Dec-Feb: 08:30-16:30 | price=¥600
+| wikipedia=Ryōan-ji | image=Ryoan-ji Zen tuin.JPG | wikidata=Q587371
+| lastedit=2024-03-01
+| content=Famous for its Zen garden, which is considered to be one of the most notable examples of the "dry-landscape" style. Surrounded by low walls, an austere arrangement of fifteen rocks sits on a bed of white gravel. That's it: no trees, no hills, no ponds, and no trickling water. Behind the simple temple that overlooks the rock garden is a stone washbasin called Tsukubai said to have been contributed by Tokugawa Mitsukuni in the 17th century. It bears a simple but profound four-character inscription: "I learn only to be contented". There is a fantastic boiled tofu (湯豆腐 yudōfu) restaurant on the grounds, which you should be able to find by following the route away from the rock garden and towards the exit. It is slightly expensive, but serves delicious, traditional tofu dishes. There is also a small cafe, serving food including vegetarian yudōfu dishes, from 11am to 3pm. The rest of the grounds are worth a look too - particularly the large pond.
+}}
+
+*{{see
+| name=Ninnaji Temple | alt=仁和寺 | url=https://ninnaji.jp/en/ | email=
+| address= | lat=35.031111 | long=135.713889 | directions=nearest bus stop: Omuro Ninnaji, routes 10, 26, 59
+| phone=+81 75-461-1155 | tollfree=
+| hours=Daily 09:00-16:30 | price=Walking around the temple grounds is free, except during cherry blossom season when there is a fee of ¥500 for adults. Entrance to the former palace building and its gardens costs ¥800 for adults
+| wikipedia=Ninna-ji | image=Ninnaji Kyoto07n4500.jpg | wikidata=Q1202871
+| lastedit=2024-03-01
+| content=Another large temple complex which is often overlooked by tourists. Admission to the grounds is free, except during cherry blossom season, allowing visitors to view the 17th century five-story pagoda, and the plantation of dwarf cherry trees (which are always the last to bloom in Kyoto, in early-mid April). Inside the former palace building (which admission is charged to enter) some beautifully painted screen walls are featured, along with a walled garden. In the hills behind the temple, there is a delightful miniature version of the renowned [[88 Temple Pilgrimage]] in Shikoku, which takes an hour or two (rather than a month or two). This can provide a delightful end to a day of looking at tourist attractions.
+}}
+*{{see
+| name=Daitokuji Temple | alt=大徳寺 | url= | email=
+| address=53 Murasakino | lat=35.043891 | long=135.74603 | directions=nearest bus stop: Daitokuji-mae, routes 28 and 91
+| phone=+81 75-491-0019 | tollfree= | fax=
+| hours= | price=
+| wikipedia=Daitoku-ji | image=090228 Daitoku-ji Kyoto Japan03s5.jpg | wikidata=Q901256
+| content=A large temple complex, boasting many smaller sub-temples within its grounds. Daitokuji is the quietest of the temples in north-western Kyoto, and if you visit it at the start of the day, you could virtually have it to yourself. 8 of the 24 sub-temples are open to the public (most days 09:00-17:00), and each charges an admission fee (around ¥400). The most popular sub-temples are '''Daisen-in''' (大仙院), located on the northern side of the temple complex, which has a beautiful Zen garden, along with delicious cinammon sweets that only this temple has rights to sell and produce (you can sample one if you get the tea or buy a pack for ¥700), '''Kōtō-in''' (高桐院) particularly noted for its maple trees, which are beautiful in autumn, if you don't mind the crowds, and '''Hōshun-in''' (芳春院) which features the same architectural style as Kinkakuji and Ginkakuji Temples as a backdrop to the elegant bridge over a pond.
+}}
+*{{see
+| name=Imamiya Shrine | alt=今宮神社, Imamiya-jinja | url=http://www.imamiyajinja.org | email=
+| address=21 Imamiya-cho Murasakino Kita-ku | lat=35.046008 | long=135.742039 | directions=Just outside of the Daitokuji complex
+| phone=+81 75-491-0082 | tollfree= | fax=
+| hours= | price=Free
+| wikipedia=Imamiya Shrine | image=Imamiya Shrine gate.JPG | wikidata=Q500955
+| content=Although the current structure dates back to 1902, the original was built during the Heian Period. At the time, the city was being plagued by illness and disease, so Imamiya Shrine was built to appease the gods. Even today, many visitors come to pray for good health and to ward off illness.
+}}
+*{{see
+| name=Tōji-in | alt=等持院 | url= | email=
+| address= | lat= | long= | directions=Nearest bus stop: Tojiin-machi, routes 10 and 26; nearest Randen tram stop, Toji-in
+| phone=+81 75-691-3325 | tollfree= | fax=
+| hours=Daily 08:00-16::30 | price=¥500
+| wikipedia=Tōji-in | image=Toji-in Temple Japanese garden140512NI2.JPG | wikidata=Q3138637
+| content=Dedicated to the Ashikaga family, the statues inside represent each Ashikaga ruler. The temple also features a lovely garden.
+}}
+*{{see
+| name=Hirano Shrine | alt=平野神社 | url=http://www.geocities.jp/daa01397/ | email=
+| address=Hirano Miyamoto-cho, Kita-ku | lat= | long= | directions=nearest bus stop: Waratenjin-mae, routes 50, 102, 204, 205
+| phone= | tollfree= | fax=
+| hours=Daily 06:00-17:00 | price=Free
+| wikipedia=Hirano Shrine | image=Hirano-jinja shurine.JPG | wikidata=Q738971
+| content=A small shrine, which is an especially popular destination during the cherry blossom season, setting up amusement and food stalls. A small park of cherry trees next to the shrine is hung with lanterns and drawings by local schoolchildren.
+}}
+[[File:Kitano Tenman-gū Shrine and Plum Blossom.jpg|thumb|300px|Kitano Tenman-gū Shrine and its featured plum blossoms]]
+*{{see
+| name=Kitano Tenman-gū | alt=北野天満宮 | url=http://www.kitanotenmangu.or.jp/top_en.php | email=
+| address= | lat= | long= | directions=nearest bus stop: Kitano Tenmagūmae, routes 10 and 50; just east of Kitano Hakubai-Cho, additional routes 101, 102, 204, 205
+| phone=+81 75-461-0005 | tollfree= | fax=
+| hours=Normal hours: 09:00-17:00, on the 25th of every month 07:00-21:00 | price=The shrine is free to enter, the treasure house costs a separate &yen;300
+| wikipedia=Kitano Tenmangū | image=Kitano-tenmangu Kyoto Japan41s3s4592.jpg | wikidata=Q662176
+| content=Kitano Tenmangū Shrine was built to appease the soul of Michizane Sugawara, who was a respected member of the Heian Court until he was exiled to [[Kyushu]] after falling into disfavor with the Emperor. He died while in exile, and soon after his death, a series of natural disasters mysteriously began plaguing Kyoto. Many suspected that it was the soul of Michizane seeking vengeance, so in order to console his spirit, he was made the God of Learning, and Kitano Tenmangū was built to honor him. Many plum trees were planted within and around the grounds of the shrine, because they were Michizane's favorite flowers, so this shrine is especially beautiful during the plum blossom season from mid-February to mid-March.
+}}
+*{{see
+| name=Myōshin-ji Temple | alt= | url=http://www.myoshinji.or.jp/english/index.html | email=
+| address=64 Hanazono Myōshin-chō, Ukyō-ku | lat= | long= | directions=nearest bus stop: Myōshin Kitamon-mae, routes 10 and 26; nearest Randen tram station: Myōshinji
+| phone=+81 75-461-5226 | tollfree= | fax=
+| hours= | price=¥500
+| wikipedia=Myōshin-ji | image=MyoshinjiTaizoin1.jpg | wikidata=Q376288
+| content=A large Zen temple complex famous for its large collection of famous artwork. To enter the main hall of Myōshin-ji, you must pay for a tour (tours typically operate every 20 minutes). Inside the main hall you'll find the temple's large dragon painting on the ceiling and the bell. Myōshinji's bell was made in 698, making it one of the oldest in Japan. As one of the head Zen temples, there are many sub-temples on the temple grounds, each with its own sites and separate fees. Some of the sub-temples are even available for overnight stays and meditation (see "Sleep" section).
+}}
+
+===Takao area===
+While the Takao area offers a modest number of sightseeing opportunities, it is one of Kyoto's most famous places to view the fall leaves. Throughout the autumnal season, the place is quite lively with vendors selling fresh treats and lanterns along the river at night. On the off-season, the area is very quiet, with few tourists. You can see the area in a half-day trip if you wish or stay a little longer to revel in the area's natural beauty (see Momijiya in "Sleep" section for accommodation in the area).
+
+*{{see
+| name=Jingo-ji | alt=神護寺 | url= | email=
+| address= | lat= | long= | directions=In front of Kyoto Station, take JR Bus bound for Takao/Keihoku and get off at Yamashiro Takao Station (free with JR Pass), walk down a flight of winding stairs, cross a small bridge, and walk up for about ten minutes.
+| phone= | tollfree= | fax=
+| hours=Daily 09:00-16:00  | price= ¥500
+| wikipedia=Jingo-ji | image=Jingoji Kyoto Kyoto15s3s4500.jpg | wikidata=Q1075034
+| content=An overlooked gem among Kyoto temples, it is an ideal place to visit for those wanting to escape the tourist hordes. It is located in Mt. Takao in the north-western corner of Kyoto. Jingoji Temple was established by Priest Kukai as the head of the Shingon Sect during the Heian Period. Make sure you walk all the way to the back of the temple ground to a commanding view of the Kiyotaki River below wedged between two hills; here you can buy clay disks, which you throw down the mountain after making a wish. The temple is especially lovely in the fall, when the leaves all turn colors.
+}}
+*{{see
+| name=Saimyōji Temple | alt=西明寺 | url= | email=
+| address= | lat=35.057214 | long=135.674969 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=Free
+| image=Saimyoji Kyoto Kyoto16n4592.jpg | wikidata=Q11628431
+| content=A former sub-temple of Jingoji. While it is not worth making a special trip to see this temple, those touring the Takao area might as well visit, as it is located on the path connecting Jingo-ji to Kōzan-ji. The bridge leading to the temple and the lanterns outside the entrance are quite nice.
+}}
+*{{see
+| name=Kōzan-ji | alt=高山寺 | url=http://www.kosanji.com | email=
+| address= | lat=35.060138 | long=135.678561 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=Temple grounds are free, entrance to the temple is ¥600
+| wikipedia=Kōzan-ji | image=Kozanji Kyoto Kyoto11s5s4592.jpg | wikidata=Q986750
+| content=Registered as one of Kyoto's 17 [[UNESCO World Heritage Sites]], Kōzan-ji is a small temple dating all the way back to the Kamakura period. Inside the temple you'll find a famous painting of rabbits and monkeys acting as humans, considered to be the '''world's first manga'''.
+}}
+
+===North-eastern Kyoto===
+
+*{{see
+| name=Shimogamo Shrine | alt= | url=http://www.shimogamo-jinja.or.jp/english/ | email=
+| address=59 Izumigawa-cho, Shimogamo | lat=35.038759 | long=135.773419 | directions=From Keihan Demachiyanagi Station, cross the bridge and turn left. Takes about 10 minutes
+| phone=+81 75-781-0010 | tollfree= | fax=
+| hours= | price=Free
+| wikipedia=Shimogamo Shrine | image=Shimogamo 01.jpg | wikidata=Q701620
+| content=It was built prior to Kyoto becoming Japan's capital. Shimogamo is one of the first shrines built in Kyoto. Together with Kamigamo Shrine, they are known as the Kamo Shrines. These shrines were one of the most revered shrines by the Imperial Court, who made often made offerings here. The forest surrounding the shrine, known as Tadasu no Mori, is believed to be a natural forest, and legend has it that the secrets of those who enter the forest will be revealed. Shimogamo is also a great place to experience Japanese festivals, as many special events are held here, including the Aoi Matsuri, one of Kyoto's top three festivals.
+}}
+
+[[Image:Kyoto Kamigamo Shrine.jpg|thumb|300px|Stairs, Kamigamo Shrine]]
+*{{see
+| name=Kamigamo Shrine | url=http://www.kamigamojinja.jp/english/index.html | email=
+| address=3-3-9 Motoyama | lat=35.059281 | long=135.75253 | directions=
+| phone = +81 75-781-0011 | tollfree= | fax=
+| hours= | price=Free
+| content=Collectively, Kamigamo Shrine and Shimogamo Shrine are known as the Kamo Shrines, and they were highly favored by the Imperial Court during the Heian Period. The shrine is most famous for the ''tatesuna'', the two large sand cones. Their origins and original purpose are unknown, but it has been speculated that they represent nearby mountains. Kamigamo Shrine is one of Kyoto's [[UNESCO World Heritage|World Heritage Sites]].
+}}
+*{{see
+| name=Kyoto Botanical Garden | alt=京都府立植物園 | url=https://www.kyotobotanicalgardens.jp/ | email=
+| address= | lat=35.048255 | long=135.761074 | directions=
+| phone= | tollfree=
+| hours= | price=¥200 to see the outdoor flowers and gardens and an additional ¥200 to see the indoor botanical garden
+| content=Japan's first botanical garden since 1924, the Kyoto Prefectural Botanical Garden is quite large and houses a wide variety of plants. It is a popular place for plum blossom viewing in February and early March and cherry blossoms, which typically bloom in early April. The indoor garden has a wide variety of tropical plants, desert cactuses, and other plants. The entrance fee only covers the outside gardens, but the additional fee to see the garden is quite nominal, so it is well worth it.
+}}
+*{{see
+| name=Shūgakuin Imperial Villa | alt=修学院離宮, Shūgakuin Rikyū | url=http://sankan.kunaicho.go.jp/english/guide/shugakuin.html | email=
+| address=Sakyō-ku, Shūgaku-in, Yabuso | lat=35.053929 | long=135.80365 | directions=
+| phone=+81 75-211-1215 | tollfree=
+| hours= | price=Free
+| content=A beautiful villa commissioned by Emperor Gomizuno-o in 1655 and completed four years later. The area is separated into three separate villas. In the lower villa, you'll find a lovely garden with a stream running through it and the Jugetsukan, where the emperor relaxed before making his way to the upper villa. The middle villa is home to the Rakushi-ken, princess Akinomiya's home, and the Kyaku-den, which was also given to Akinomiya when the consort that it was built for died prior to its completion. These buildings contain some particularly beautiful artwork, and an interesting flat pine tree. After seeing all of that, you will finally be escorted to the upper villa. Upon entering the villa, you will ascend the stairs to discover a gorgeous view of the garden and Yokuryū Pond. The tour ends with a stroll along the outer edges of a pond, past a waterfall and the bridges. Princess Diana was once a guest here, a fact the tour guides love to share with visitors. The best time to visit is said to be the autumn when the leaves are changing. If you plan to visit, make your reservation 3 months in advance for the best chances. One-hour tours (in Japanese) start at 09:00, 10,00, 11:00, 13:30, 15;00.
+}}
+*{{see
+| name=Entsū-ji | alt=円通寺 | url= | email=
+| address= | lat=35.0645 | long=135.768944 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| image=Entsuji Kyoto02s5.jpg | wikidata=Q10927539
+| content=A temple famous for its gardens. A particularly unique feature of this garden is incorporation of [[Mount Hiei]], of which there is a great view from the temple, into the layout of the garden.
+}}
+*{{see
+| name=Myoman-ji | alt=妙満寺 | url=http://www.myomanji.jp/ | email=
+| address=91 Hataedacho Iwakura | lat=35.067333 | long=135.774972 | directions=
+| phone=+81 75-791-7171 | tollfree= | fax=
+| hours= | price=Temple grounds are free, entrance to the main hall and garden ¥300
+| image=Myomanji Temple140524NI4.JPG | wikidata=Q10943057
+| content=For anyone looking to see something slightly different from the standard Japanese temple, Myōman-ji offers a replica of [[Bodh Gaya]]'s Mahabodhi Temple, where the Buddha obtained Enlightenment. The rest of the complex is quite Japanese, but still very beautiful, with artwork and a garden.
+}}
+*{{see
+| name=Shisen-dō | alt=詩仙堂 | url= | email=
+| address=27 Monguchi-machi | lat=35.043744 | long=135.796241 | directions=
+| phone=+81 75-781-2954 | tollfree= | fax=
+| hours= | price=¥500
+| wikipedia=Shisen-dō | image=Shisendo DSC0480.jpg | wikidata=Q3028486
+| content=Built in 1641, this temple once housed the poet Jōzan Ishikawa. Inside the temple there are portraits of 36 influential Chinese poets. Outside there is a garden filled with many azaleas.
+}}
+
+===Kurama and Kibune===
+The small, quiet village of Kurama (鞍馬) lies at the terminus of the Eizan Railway Line, 40 min from Demachiyanagi. The Kurama Onsen hot spring (see "Do") is one of the area's major draws, along with the Kinone-michi (木の根道) hiking course connecting Kurama Temple and Kibune Shrine. The hike is about 4 km and takes 60-90 min depending on your pace; wear closed shoes, since the exposed tree roots it's named after are a bit of trip hazard. Most people start from the higher Kurama side so it's mostly downhill, but doing it on the other direction lets you reward yourself with a hot spring dip afterwards. The hike and onsen can all easily be enjoyed as a daytrip from central Kyoto.
+* {{see
+| name=Kurama-dera Temple | alt= 鞍馬寺 | url=https://www.kuramadera.or.jp/ | email=
+| address= | lat=35.118061 | long=135.770742 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=Entrance ¥500
+| wikipedia=Kurama-dera | image=Kurama-dera sanmon.jpg | wikidata=Q608668
+| content=A Buddhist temple overlooking the valley from the hills. There is a short cable car from the village to the hills (¥200/100 adult/child), but in order to see all the temples you have to walk either up or down. If you have been doing temple-hopping in Kyoto, Kurama-dera will be a pleasant surprise - even during the peak season, it doesn't get crowded here.
+}}
+* {{see
+| name=Kifune Shrine | alt=貴船神社| url=https://kifunejinja.jp/ | email=
+| address= | lat=35.121667 | long=135.762778 | directions=Bus from Eizan Kibuneguchi stn
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=Kifune Shrine | image=貴船神社 Kibune Jinja (KYOTO-JAPAN) (4951368080).jpg | wikidata=Q276779
+| content=Small shrine in the quiet village of Kibune. Draws crowds of influencers around dusk for its picturesque lantern-lit stairway.
+}}
+
+===Ohara area===
+[[Image:Kyoto sanzen-in.jpg|thumb|200px|Sanzen-in Temple]]
+*{{see
+| name=Jakko-in | alt=寂光院 | url=http://www.jakkoin.com/ | email=
+| address= | lat=35.1241 | long=135.821042 | directions=
+| phone=+81 75-744-2545 | tollfree= | fax=
+| hours=Daily 09:00-17:00 | price=¥500
+| image=JyakkouinHondo.jpg | wikidata=Q911985
+| content=Built in honor of Prince Shōtoku's father, the temple's Jizo contains 6000 tiny Buddha statues inside. The temple is also significant as the final resting place of Empress Kenreimonin, the only member of the Taira clan to survive in the Tales of Heike.
+}}
+*{{see
+| name=Sanzen-in | alt=三千院 | url=http://www.sanzenin.or.jp/ | email=
+| address= | lat=35.119722 | long=135.834444 | directions=
+| phone= | tollfree=
+| hours=Daily 08:00-17:00 | price=¥700
+| wikipedia=Sanzen-in | image=Sanzen'in 01.JPG | wikidata=Q1072538
+| content=As the top attraction in the Ohara area, this temple is well worth the visit. Housed within the temple are three ancient Buddha statues. Outside, there is a lovely moss garden and a variety of Buddhist statues ranging from the typical spiritual statues to adorable, animated statues.
+}}
+*{{see
+| name=Raigō-in | alt=来迎院 | url= | email=
+| address=537 Raigo-in-cho, Ohara | lat=35.118639 | long=135.837639 | directions=
+| phone=+81 75-744-2161 | tollfree= | fax=
+| hours=Daily 09:00-17:00 | price=¥300
+| wikidata=Q11523758
+| content=A temple famous for its Buddhist chants, visitors can hear these chants for free on Sundays at 13:00. Sutra copying is also offered for ¥1000.
+}}
+*{{see
+| name=Amida-ji | url= | email=
+| address= | lat=35.1382 | long=135.827942 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=A temple where followers are trained to recite the Nyoho Nenbutsu chants. The statue kept within the shrine was originally adorned with the hair of the temple's founding priest.
+}}
+*{{see
+| name=Shorin-in | alt=勝林院 | url= | email=
+| address=187 Shorinin-machi | lat=35.121222 | long=135.834528 | directions=
+| phone=+81 75-744-2409 | tollfree= | fax=
+| hours=Daily 09:00-17:00 | price= ¥300
+| image=Shorinin.jpg | wikidata=Q11400358
+| content=The priest Hōnen's famous question-and-answer session was held in the temple's hondō (main hall). At the session, he is said to have shined the temple's principal Buddhist sculpture using only his prayers.
+}}
+* {{see
+| name=Hōsen-in | alt= | url=http://www.hosenin.net/ | email=
+| address=187 Shorinin-machi, Ohara | lat=35.121347 | long=135.834006 | directions=
+| phone=+81 75-744-2409 | tollfree= | fax=
+| hours=Daily 09:00-17:00 | price= ¥600
+| wikipedia=Hōsen-in | wikidata=Q11452598
+| content=Like Yogen-in in [[Kyoto/Higashiyama|Higashiyama]], the ceiling of Hosen-in was built using the floorboards of Fushimi Castle, where a bloody historic battle took place. As a result, you'll notice blood stains on the ceiling. Outside, there is a charming garden containing a famous 700-year-old pine tree.
+}}
+
+===Ukyo-ku===
+* {{see
+| name=Neon Art Museum | alt= | url=http://bico-neon.com | email=
+| address=33-1 Nakasujiura, Keihokutocho, Ukyo-ku | lat=35.179 | long=135.6598 | directions=[[Kyoto (prefecture)|Kyoto prefecture]]
+| phone=+81 90-8938-4031 | tollfree=
+| hours=open by appointment | price=¥2000
+| lastedit=2024-09-14
+| content=
+}}
+
+==Do==
+* {{do
+| name=Zen Meditation at Shunkō-in | alt=春光院 | url=http://www.shunkoin.com | email=rev.taka.kawakami@gmail.com
+| address=42 Myōshiji-chō, Hanazono, Ukyō-ku | lat= | long= | directions=
+| phone=+81 75 462 5488 | tollfree= | fax=
+| hours=09:00-10:30, 10:40-12:10, 13:30-15:00 daily | price=Accommodations: &yen;4000-5000; Tour: &yen;2000, including ''matcha'' green tea and sweet
+| content=The temple's American-educated vice abbot, Rev. Taka Kawakami, offers a detailed English tour of temple and leads Zen meditation lessons. The temple hosts many important artistic and cultural properties related to Zen Buddhism and also connected to Shinto and Christianity, and also offers accommodation for &yen;5000/night.
+}}
+*{{do
+| name=Zen Meditation at Taizō-in | alt=退蔵院 | url=http://www.taizoin.com/en/index.php | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours=Session occurs from 09:00 to 13:00 only one day per week | price=¥7500
+| content=Much more than simply a Zen meditation session, after one hour of meditation, participants will also get to experience a brief tea ceremony, calligraphy lessons, and an English tour of the temple's garden. It is a rare opportunity for tourists, but be aware that you will need to devote half of a day for the entire session. Reservations are required, but you can make your reservation in English at the website. All participants must be at least 15 years of age.
+}}
+*{{do
+| name=Kurama Onsen  | alt=鞍馬温泉 | url=https://kurama-spa.com/ | email=
+| address= | lat= | long=
+| price=Day entry ¥1400-2700 depending on chosen plan and date
+| directions=near Eizan Railways Kurama stn
+| phone= | tollfree= | fax=
+| hours=Daily 10:00-22:00
+| content=Well known hot spring in the small village of Kurama (see [[#See]]). There are both inside and outside baths, but if the weather permits do take the outside bath (''rotenburo''). Lying in the hot water, while admiring the green and hilly scenery is wonderfully relaxing. There are separate pools for men and women. There's also a free shuttle bus going every now and then, but you're recommended to take the walk (at least on the way back, which is downhill) and see some Japanese countryside.
+}}
+*'''Fire Festival''' This festival is held every year in October. It's a fascinating festival that few would have likely have seen in their home countries. The date tends to be around the 20th but might change from year to year. Find out when it is and go early for the area gets very congested the closer to dusk it gets. A tip for the return home is to walk down the road to the next station. It's a bit easier to get on the train there and is a nice walk downhill.
+
+==Buy==
+*{{buy
+| name=Kitano Tenmangu Shrine Flea Market | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=On the 25th of each month Kitano Tenmangu hosts a flea market, with vendors lining both sides of the pathway leading up to the honden and then extends around each side.  Pottery, porcelain, traditional dolls, and clothing are among the items sold, along with food. If you can manage to get here on the 25th, it's a great place to find unique souvenirs for great prices.
+}}
+
+==Eat==
+
+===Budget===
+* {{eat
+| name=Kurazushi | url=http://www.kura-corpo.co.jp/index.php | email=
+| address=4 Hiranomiyajiki-cho | lat= | long= | directions=Between Ryoan-ji and Kinkaku-ji, across from the Inshodomoto Museum of Fine Arts
+| phone = +81 75-466-6101 | tollfree= | fax=
+| hours=Daily 11:00-23:00  | price=¥100 per dish
+| content=A cheap and fun way to dine. For every five plates you finish, put the down the shoot to play a game on the screen above the sushi. Each game is different, but you'll typically be asked to choose one of three options and then watch the animation to see if you win. If you win, you get a prize. It's entertaining, and the sushi tastes good.
+}}
+
+===Mid-range===
+*{{eat
+| name=Falafel Garden | url=http://www.falafelgarden.com/ | email=
+| address=3-16 Shimoyanagi-cho | lat= | long= | directions=
+| phone = +81 75-712-1856 | tollfree= | fax=
+| hours= 11:30-21:30, closed W in April and May | price=Medium-sized falafels range in price from ¥860-1100, large sizes available
+| content=An Israeli restaurant serving a variety of falafel pockets, as well as meal sets.
+}}
+
+===Splurge===
+
+*{{eat
+| name=Bistro Cerisier | alt=ビストロ スリージェ bisutoro suriije | url= | email=
+| address= | lat= | long= | directions=a 4-minute walk from Demachiyanagi Station
+| phone = +81 75-723-5564 | tollfree= | fax=
+| hours=Lunch 11:30-14:30, dinner 18:00-21:30 (closed W) | price=Expect to pay ¥1,000-3,000
+| content=A French restaurant decorated with a variety of French posters. They claim to have the approval of the French themselves.
+}}
+
+==Drink==
+Most of the drinking options in the Northern area are located in the Eastern section, within walking distance of Keihan and Eizan Railway stations.
+
+* {{drink
+| name=Bar Moonwalk | url=http://www.barmoonwalk.jp/ | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=Drinks sell for about ¥200 each, though expect smaller quantities of alcohol than the average bar.
+| content=Offers a large selection of drinks at a great cost. Finger food is also available.
+}}
+*{{drink
+| name=Ringo | url=http://web.kyoto-inet.or.jp/people/hiroring/ | email=
+| address=23 Tanakamonzen-cho B1 | lat= | long= | directions=
+| phone = +81 75-721-3195 | tollfree= | fax=
+| hours=Daily 17:00-03:00, closed Mondays | price=Cocktails cost ¥400, handmade pizza ¥730
+| content=A bar dedicated to the Beatles' singer Ringo Star, with Beatles memorabilia decorating the walls and even a cover band that plays here live. The fresh pizza is quite good.
+}}
+*{{drink
+| name=The Flying Keg | alt=World Beer Bar | url=http://keg.boo.jp/ | email=
+| address=6 Tanakasatonomae-cho, Sakyo-ku | lat= | long= | directions=Near Mototanaka Station on the Eizan Line
+| phone = +81 75-701-0245 | tollfree= | fax=
+| hours=Daily 19:00 to 00:30 (01:00 on weekends) | price=Most drinks sell for ¥600-900, wines for ¥2000-3000
+| content=A great place for anyone wanting to sample beers from around the world or missing beer from home, The Flying Keg offers beers from the U.S., Kenya, Germany, Ireland, Israel, China, Mexico, Australia, India, Brazil, Indonesia, Thailand, Belgium, New Zealand, the Caribbean, Italy, and the UK.
+}}
+*{{drink
+| name=Kyoto Kamigamo Mankawa | url=http://www.mankawa.jp/ | email=
+| address=56-3 Kamigamo Shoubuen-cho, Kita-ku | lat= | long= | directions=
+| phone = +81 75-781-6551 | tollfree= | fax=
+| hours=Open from 5PM to midnight. Closed Tuesdays and holidays | price=Original cocktails sell for ¥730-840, umeshu ¥630, detox drinks from ¥630-730
+| content=A cocktail bar along with a restaurant serving various health food dishes.
+}}
+
+==Sleep==
+
+Budget-minded travelers and those escaping the bustle of the urban core may prefer this area. To reach the central city easily, look for connections to the Kitaōji subway station (K04 on the Karasuma line) and bus terminal, the [[Kyoto#Get around|transportation hub]] of northern Kyoto.
+
+===Budget===
+
+====Temple lodgings====
+
+* {{sleep
+| name=Myōren-ji Temple | alt=妙蓮寺 | url= | email=
+| address=Teranouchi Omiya Higashi-iru, Horikawa, Kamigyo-ku | lat= | long= | directions=Three minutes by foot from Horikawa Teranouchi Stop on Bus #9 and 12 - the former leaves from Kyoto Station, the latter from Shijo Karasuma subway station
+| phone =+81 75-451-3527 | tollfree= | fax=
+| hours= | price=¥3800 per person (including entrance fee to public bath)
+| checkin=6PM | checkout=7AM
+| content=Facilities: in-room air-conditioner; no bath but a public bath is nearby; guests should bring their own bath towel and shampoo as the public bath only lends out mini-towels and soap.
+}}
+* {{sleep
+| name=Myōshin-ji Daishin-in | alt=妙心寺大心院 | url= | email=
+| address=57 Myoshinji-cho, Hanazono, Ukyo-ku | lat= | long= | directions=10 minutes by foot from Hanazono Station on JR Sagano Line or 7 minutes by foot from Myoshin-ji Mae Stop on buses #8, #10, and #26
+| phone =+81 75-461-5714 | tollfree= | fax=+81 75-461-5714
+| hours= | price=¥4700 with breakfast
+| checkin= | checkout=
+| content=10 rooms with a maximum capacity of 50; in-room air-conditioner, kotatsu heating table in winter, shared bath and toilet. Lights out at 10pm.
+}}
+* {{sleep
+| name=Myōshin-ji Shunko-in Temple | alt=妙心寺春光院 | url=http://www.shunkoin.com/ | email=rev.taka.kawakami@gmail.com
+| address=42 Myoshinji-cho, Hanazono, Ukyo-Ku | lat= | long= | directions=Five minutes by foot from the JR Hanazono station, 12-15 minutes away from the JR Kyoto station by JR Sagano Line
+| phone =+81 75-462-5488 | tollfree= | fax=
+| hours= | price=&yen;5,000 per person (including a tour of temple and rental bicycle). Zen meditation & tour: &yen;2000 (including a bowl of maccha green tea and Japanese sweet).
+| checkin=15:00-19:00 | checkout=12:00
+| content=The only English available temple accommodation in Kyoto. The guest house has two rooms. A room has a private shower room, toilet, and AC (or a heater). Next to the guest house, there is a fully equipped shared kitchen. The temple hosts many important artistic and cultural properties related to Zen Buddhism, Shinto, and Christianity. One of the properties is the Bell of Nanbanji, which is designated as a national cultural important properties. Call or e-mail for reservation.
+}}
+* {{sleep
+| name=Myōshin-ji Tōrin-in | url= | email=
+| address=59 Myoshinji-cho, Hanazono, Ukyo-ku | lat= | long= | directions=10 minutes by foot from Hanazono Station on JR Sagano Line or 7 minutes by foot from Myoshin-ji Mae Stop on buses #8, #10, and #26
+| phone =+81 75-463-1334 | tollfree= | fax=
+| hours= | price=¥4700 with breakfast; ¥6000 with breakfast and dinner; Shojin meal (Buddhist vegetarian) ¥3,000−8,000; Shojin cooking class ¥3000
+| checkin= | checkout=
+| content=Only accept reservations from foreigners if they are with a Japanese person. 10 rooms with a maximum capacity of 40; shared bath. Curfew at 21:00. Lights out at 23':00.
+}}
+
+====Hostels====
+
+* {{sleep
+| name=Utano Youth Hostel | alt=宇多野ユースホステル | url=http://www.yh-kyoto.or.jp/utano/ | email=utano@yh-kyoto.or.jp
+| address=9 Nakayama-cho, Uzumasa, Ukyo-ku | lat=35.02702 | long=135.69961 | directions=off Kitaoji-dōri
+| phone=+81 75-462-2288 | tollfree=
+| checkin=15:00−23:30 | checkout=before 10:00 | price=Dorm room ¥3450, ensuite twin ¥4190/person
+| lastedit=2022-01-24
+| content=Near Ryoanji and Kinkakuji in northwestern Kyoto. There are three bus lines that go out there (26 from Kyoto Station, 10 and 59 from Sanjo-Keihan station) and the stop is right in front of the hostel (Utano Youth Hostel Mae). Bicycle rentals are available and guests are welcome to use the kitchen, bath and laundry facilities.
+}}
+
+====Hotels and minshuku====
+* {{sleep
+| name=Duo Condo Kyoto | alt=デュオ・コンド京都 | url=https://duocondokyoto.com/ | email=
+| address=3F, 1039-31 Kamiyagawa-cho, Nishi-iru, Onmae, Imakoji-dōri, Kamigyo-ku | lat=35.02826 | long=135.73337 | directions=about 50 min from Kyoto Station via #50 bus, or 15-min walk north from JR Enmachi Station
+| phone=+81 75-465-8800 | tollfree= | fax=+81 75-464-1110
+| checkin= | checkout= | price=Singles &yen;6300, doubles &yen;8400−10,500, triples &yen;12,600, 2-4 person Japanese-style room &yen;14,700
+| content=Apartment hotel. Fairly far out in northwest Kyoto but the prices are reasonable. Prices are significantly lower for stays of 7 or more nights. Payment by cash only. No daily cleaning and no bath towels provided. Bus journey from Kyoto Station takes about 50 minutes.
+}}
+* {{sleep
+| name=GuestHouse Bon | alt=ゲストハウス『凡』 | url=http://guesthousebon.com/ | email=guesthousebon@gmail.com
+| address=63-2 Kamimonzen-cho Murasakino, Kita-ku | lat=35.04533 | long=135.74734 | directions=8 min west of Kitaōji subway station K04, north exit
+| phone=+81 75-493-2337 | tollfree= | fax=
+| checkin=15:00-22:00 | checkout=11:00 | price=Singles &yen;3800−4500, doubles &yen;4500−6000, triples &yen;7500
+| content=Located in northwest Kyoto, immediately east of Daitokuji. Inexpensive bicycle rentals. The guest house owner has lived in Western countries before and can speak fluent English and a pinch of Spanish. All Japanese-style rooms, but can be converted to dorm style upon request for larger parties.
+}}
+
+===Mid-range===
+
+* {{sleep
+| name=Momiji-ya | alt=もみぢ家 | url=http://www.momijiya.jp/en/ | email=info@momijiya.jp
+| address=Takao Umegahata, Ukyo-ku | lat= | long= | directions=
+| phone=+81 75-871-1005 | tollfree=
+| checkin= | checkout= | price=All rooms are designed for at least 2 people. Prices start from ¥14700
+| content=Although this hotel operates year round, it is extremely popular in the autumn ("momiji" is the Japanese term for the changing of leaves). It is located in the quiet, far northeastern area of Takao near the foot of the stairway leading to Jingo-ji. It makes for a nice retreat, and you can opt to stay in a room with an open-air bath to relax while you enjoy the natural surroundings.
+}}
+
+===Splurge===
+* {{sleep
+| name=Grand Prince Hotel Kyoto | alt= | url=http://www.princehotels.com/en/kyoto/ | email=
+| address=1092-2 Iwakura-Hataeda-cho, Sakyo-ku | lat=35.06289 | long=135.78115 | directions=Nearest station: Kokusai Kaikan on the Subway Karasuma Line. Takagaraike Park is adjacent to the hotel
+| phone=+81 75-712-1111 | tollfree= | fax=
+| checkin=13:00 | checkout=12:00 | price=Prices vary greatly from ¥11000-45000, depending on the room
+| content=
+}}
+
+==Connect==
+
+==Go next==
+*[[Kyoto/Central|Central Kyoto]]
+*[[Kyoto/Arashiyama|Arashiyama]] (Western Kyoto)
+*[[Kyoto/Higashiyama|Higashiyama]] (Eastern Kyoto)
+*[[Kyoto/South|South Kyoto]]
+
+{{routebox
+| image1=Number prefix Keihan lines.svg
+| imagesize1=35
+| directionl1=N
+| majorl1=END
+| minorl1=
+| directionr1=S
+| majorr1=[[Osaka/Osaka castle|Kyobashi]]
+| minorr1=[[Kyoto/Higashiyama|Sanjo]] → [[Hirakata|Hirakatashi]]
+
+| image2=Number prefix Randen Kitano line.svg
+| imagesize2=30
+| directionl2=W
+| majorl2=[[Kyoto/Arashiyama|Arashiyama]]
+| minorl2=into [[File:Number prefix Randen Arashiyama mainline.svg|30px]] ← [[Kyoto/Arashiyama|Katabiranotsuji]]
+| directionr2=E
+| majorr2=END
+| minorr2=
+
+| image3=Subway KyotoKarasuma.png
+| imagesize3=30
+| directionl3=N
+| majorl3=END
+| minorl3=
+| directionr3=S
+| majorr3=[[Kyoto/Central|Kyoto]]
+| minorr3=[[Kyoto/Central|Shijo]]
+
+| image4=Japanese National Route Sign 0162.svg
+| imagesize4=30
+| directionl4=N
+| majorl4=[[Tsuruga]]
+| minorl4=[[Obama]]
+| directionr4=S
+| majorr4=[[Kyoto/Central|Nishioji Gojo]]
+| minorr4=
+
+| image5=Japanese National Route Sign 0367.svg
+| imagesize5=30
+| directionl5=N
+| majorl5=[[Wakasa]]
+| minorl5=[[Otsu]]
+| directionr5=S
+| majorr5=[[Kyoto/Central|Karasuma Gojo]]
+| minorr5=
+
+| image6=Japanese National Route Sign 0477.svg
+| imagesize6=30
+| directionl6=W
+| majorl6=[[Ikeda (Osaka)|Ikeda]]
+| minorl6=Kameoka
+| directionr6=E
+| majorr6=[[Omihachiman]]
+| minorr6=[[Otsu]]
+}}
+
+{{usabledistrict}}
+{{geo|35.040|135.748|zoom=13}}
+{{IsPartOf|Kyoto}}

@@ -1,0 +1,418 @@
+{{pagebanner|Tokyo Imperial Palace East Gardens Lake Wikivoyage banner.jpg|caption=Imperial Palace East Garden|pgname=Chiyoda}}
+[[File:Tokyo_Wikivoyage_locator_maps_-_Chiyoda.png|120px|thumb|right|Location of Chiyoda in Tokyo]]
+'''Chiyoda''' ({{lang|ja|千代田}}) Ward is the center of [[Tokyo]] and in many ways the center of all [[Japan]].
+
+==Understand==
+With a mere 12 km², Chiyoda houses the '''Imperial Palace''' (皇居, ''kōkyo''), the '''Diet''', the ministries of '''Kasumigaseki''' (霞ヶ関), the corporate headquarters of '''Marunouchi''' (丸の内), the controversial '''Yasukuni Shrine''', and still has room left over for the shopping districts of [[Tokyo/Akihabara|Akihabara]] (秋葉原, separate article) and '''Kanda''' (神田) which includes the book town '''Jinbōchō''' (神保町).
+
+===Tourist Information Site===
+
+[https://visit-chiyoda.tokyo/ Visit Chiyoda] is the local tourism association's multilingual guide site.
+
+==Get in==
+{{Mapframe|35.68767|139.75571|zoom=14|height=540|width=520}}
+{{Mapshape|type=page|wikicommons=Akihabara_for_Wikivoyage.map}}
+{{Mapshape}}
+{{Mapshapes|Q682894}} <!-- Tokyo Metro -->
+{{Mapshapes|Q247782}} <!-- Toei Subway -->
+{{Mapshape|wikidata=Q225095|type=geoline|stroke=#00b48d|stroke-width=4|stroke-opacity=1}} <!-- Rinkai Line -->
+[[File:Kokyo0057.jpg|thumb|300px|Seimon Ishibashi, in front of the Imperial Palace]]
+
+===By train===
+* {{go
+| name=Tokyo Station | alt=東京駅 ''Tōkyō-eki'' | url= | email=
+| address= | lat=35.680833 | long=139.766944 | directions=to the east side of Chiyoda
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q283196
+| lastedit=2023-11-13
+| content=The hub for all Shinkansen trains. Note that the Shinkansen exits are on the Yaesu side in [[Tokyo/Chuo | Chuo]] Ward; to get to the Marunouchi side in Chiyoda Ward, you want to cross over to the west exit. The west side of the station is something of a sight in itself as it reflects the station's original World War I-era architecture.
+}}
+
+The '''JR Yamanote line''' (light green) passes through Tokyo Station in a loop around the center of the city, and the '''JR Chuo line''' (orange) and '''Sobu line''' (yellow) bisect the loop horizontally. Yurakucho, Akihabara, Kanda (on the Yamanote) and Ochanomizu, Yotsuya (on the Chuo) are among the train stations located within the ward. '''Narita Express trains''' from '''[[Narita Airport]]''' stop at Tokyo (¥2,940, 53 min) on the Sobu platforms. The '''JR Keiyo Line''' services Tokyo station, and it transports passengers to destinations such as Kasai Rinkai Park, Tokyo Disney Resort, the Makuhari Messe, and destinations on the Boso peninsula via through services. Trains also frequently run through onto the '''Musashino Line''' to Saitama and western Tokyo, although some of these areas are reached faster via other lines. However, the platforms are located south of the main station complex. It was built for a new Shinkansen line, which is why it was built at an equal distance between Tokyo and Yurakucho stations. It can be a long walk to reach the rest of the train lines (even farther than transferring to the '''Tozai Line''' at Otemachi!), therefore in some cases it may be easier to walk to Yurakucho station.
+
+* {{go
+| name=Otemachi Station | alt=大手町駅 ''Ōtemachi-eki'' | url= | email=
+| address= | lat=35.684697 | long=139.765964 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q1326767
+| lastedit=2023-11-13
+| content=It is shared by five subway lines, is by far the largest subway station in Tokyo and sprawls under multiple city blocks underneath the Marunouchi district between Tokyo Station and the Imperial Palace. Transferring from, say, the '''Hanzomon Line''' to the '''Toei Mita Line''' here involves navigating a gauntlet of escalators and walking well over a kilometer. Tokyo and Otemachi station are connected to each other via underground passageways. ''Nijubashimae Station'' on the '''Chiyoda Line''' is also connected to Tokyo station, and is much closer to it than the line's own Otemachi station, although passengers riding the ''Romancecar'' service will still need to use Otemachi.
+}}
+
+Many subway lines crisscross the district. These include the '''Marunouchi Line''' (red) (to [[Tokyo/Shinjuku|Shinjuku]]), the '''Hanzomon Line''' (purple) (to [[Tokyo/Shibuya|Shibuya]]), the '''Hibiya Line''' (gray) (to [[Tokyo/Roppongi|Roppongi]]), the '''Tozai Line''' (blue) (to [[Tokyo/Nakano|Nakano]]), and the '''Chiyoda Line''' (green) (to [[Tokyo/Harajuku|Harajuku]]). The nearby Toei '''Asakusa Line''' (pink) stops slightly to the east at Kyobashi and Nihonbashi, on which Keikyu Line trains run through to '''[[Haneda Airport]]''' (¥650, about 35 minutes).
+
+===By bus===
+Airport Limousine buses run from Narita to Tokyo Station every 10–20 minutes via the Tokyo City Air Terminal (1½-2 HR depending on traffic, ¥3,000), and less frequently to area hotels. From Haneda, buses run every 30–40 minutes (about 45 minutes in duration, depending on traffic, ¥900).
+
+==See==
+Japan's administrative center, located around Kasumigaseki and Nagatachō in the southwestern corner of Chiyoda, is full of very un-picturesque buildings. One exception is the '''Ministry of Justice''' (exit 5 from Sakuradamon, Yurakuchō Line), a beautiful 1800s-vintage building that would make any European capital proud. The '''National Diet Building''' (Kokkai-gijidō-mae, Marunouchi Line) may also be worth a photo, although its architecture is rather uninspiring compared to other national assemblies' -- even the Tokyo Metropolitan Government has cooler-looking accommodation in [[Tokyo/Shinjuku|Shinjuku]].
+
+* {{see
+| name=Tokyo International Forum | alt=東京国際フォーラム, Tōkyō Kokusai Fōramu | url=http://www.t-i-forum.co.jp/en/ | email=
+| address=located in front of Yurakuchō station | lat=35.676925 | long=139.7642 | directions=
+| phone=+81 3-5221-9000 | tollfree= | fax=
+| hours= | price=
+| wikipedia=Tokyo International Forum | image=Tokyo International Forum 1.JPG | wikidata=Q1359892
+| content=A massive, modern exhibition centre used for concerts, conventions and the like. On weekdays there are usually several food wagons selling boxed lunches, but aside from this there may not be much of interest to the casual tourist — except, of course, the impressive design. The atrium may be the most well-known symbol of the building, and one is able to stroll up the long, spiral walkway that runs along its glass-and-steel walls. The Tokyo Tourist Info Center, which used to be here, has been relocated to [[Tokyo/Shinjuku|Shinjuku]].
+}}
+* {{see
+| name=mAAch ecute Kanda Manseibashi | alt=マーチエキュート神田万世橋 | url=https://www.ecute.jp/maach | email=
+| address=Kanda-Sudachō 1-25-4 | lat=35.6972 | long=139.7703 | directions=
+| phone=+81 3-3257-8910 | tollfree=
+| hours= | price=
+| content=A historic train station that's been converted into a shopping mall. Besides interesting shops and cafes, there's also a library and history exhibits about the station, including a large diorama showing the area around the station as it was in 1912 when it opened.
+}}
+[[File:National Diet.jpg|thumb|National Diet]]
+* {{see
+| name=National Diet Building | alt=国会議事堂 | url=https://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/guide/tours.htm | email=
+| address= | lat=35.676107 | long=139.744587 | directions=
+| phone= | tollfree=
+| hours= | price=
+| image=Diet of Japan Kokkai 2009.jpg | wikidata=Q1338856
+| lastedit=2024-10-05
+| content=Housing Japan's bicameral legislature, it was built in the 1920s. The most recognizable symbol of the Japanese government, it was built from Japanese building materials, features a pyramidal roof and is surrounded with green areas. The nearby free '''Kensei Kinenkan''' (between the Diet and the water) has a nice view on it, and tons of political artefacts to satisfy those interested in Japanese politics. English tours are available on weekdays by reservation only, but the tour focuses almost exclusively on the architecture of the Diet Building such as the origin of building materials or the dimensions of rooms, with little consideration for political procedure or historicity.
+}}
+
+===Imperial Palace area===
+[[File:Fujimi-yagura 1 by Don Ramey Logan.jpg|thumb|240px|Fujimi-yagura, a relic of Edo Castle on the Imperial Palace grounds]]
+* {{see
+| name=Imperial Palace | alt=皇居 Kōkyo | url=http://sankan.kunaicho.go.jp/english/guide/koukyo.html | email=
+| address= | lat=35.6825 | long=139.7521 | directions=
+| phone=+81 3-3213-1111 | tollfree= | fax=
+| hours= | price=
+| wikipedia=Tokyo Imperial Palace | image=Kokyo0057.jpg | wikidata=Q500681
+|lastedit=2020-01-13| content=Surrounded by a series of moats and high walls, the site of the former Edo Castle has been the official residence of the Japanese imperial family since 1868. Reputedly the most expensive square kilometre in the world, which during the height of Japan's bubble was estimated to be worth slightly more than [[California]]. The inner palace gardens and buildings are closed to the general public except on the second day of the New Year (January 2) and the Emperor's birthday (February 23), when the imperial family makes a public appearance, and the emperor gives a speech to his assembled subjects. However, foreigners can also [http://sankan.kunaicho.go.jp/english/index.html apply online] to join a free guided tour (M-F at 10:00 and 13:30). If you're feeling lucky, you can also try just showing up at the Imperial Household Agency office located in the northwest corner of the Imperial Palace Park, which is open 09:00-12:00, 13:00-14:00; if there's space, you can join a tour on the same day. Tours are conducted only in Japanese, but electronic audio guides (in English) will be lent to foreign visitors free of charge. At the end of the tour, visitors wishing to enter the East Gardens (see next entry) will be given entrance cards and allowed through to the gardens via a private gate, allowing them to bypass the lines at the main Ōte-mon entrance; pay attention to the announcement in Japanese and queue up as directed.
+}}
+[[File:Imperial Palace East Garden.jpg|thumb|Imperial Palace East Garden]]
+* {{see
+| name=Imperial Palace East Garden | alt= | url= | email=
+| address= | lat=35.68703 | long=139.75729 | directions=
+| phone= | tollfree=
+| hours=Open daily except Mondays and Fridays | price=
+| wikipedia=Tokyo_Imperial_Palace#East_Garden | image=Imperial Palace East Garden.jpg
+| content=Kept in impeccable shape, the gardens of the Imperial Palace are particularly beautiful during the March and April plum and cherry blossom seasons. During the Edo period, this was the heart of the Shogun's castle, and you can see the ''tenshudai'', the raised platform where the ''tenshukaku'' (main keep) was once located, and an open field that was once the site of the ''honmaru goten'', the Shogun's main residential palace. Entrance is free through a number of gates; you will be given a plastic entrance card at the gate, which you are obliged to return upon leaving; most visitors use the Ōte-mon (大手門) gate near the Ōtemachi subway station (exit C10). Also an easy walking distance from Tokyo station. 
+}}
+
+[[File:Kitanomaru_Lake.JPG|thumb|240px|Lake in Kitanomaru Park]]
+* {{see
+| name=Kitanomaru Park | alt=北の丸公園, kita-no-maru kōen | url= | email=
+| address= | lat=35.691528 | long=139.751059 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=Kitanomaru Park | image=Kitanomaru Park 01.jpg | wikidata=Q1075966
+| content=Connected to the East Gardens on the north side is this park. Offering much of the same, it is a convenient way to get to Yasukuni Shrine. The park also houses the '''Nippon Budōkan''' (日本武道館), which regularly stages martial arts competitions and live concerts, as well as the [https://www.jsf.or.jp/en/ '''Kagaku Gijyutsukan'''] (科学技術館, Science museum).
+}}
+
+[[File:千鳥ヶ淵の夜桜_(Night_Cherry_Blossoms_at_Chidorigafuchi)_26_Mar,_2013_-_panoramio.jpg|thumb|Night Cherry Blossoms at Chidorigafuchi]]
+* {{see
+| name=Chidoriga-fuchi Moat | alt=千鳥ヶ淵 | url= | email=
+| address=on the northwest side of the Imperial gardens grounds | lat=35.69421 | long=139.74794 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=ja:千鳥ヶ淵 | image=Chidorigafuchi sakura.JPG | wikidata=Q4204321
+| content=One of, if not ''the'' most prominent cherry blossom site in Tokyo, and attracts throngs of people in its March-to-April peak season. It is located just across the street from Yasukuni-shrine. Rowboats are also available for one to row along a limited portion of the moat at ¥500 for 30 minutes, ¥1000 for an hour and at a slightly more expensive rate during cherry blossom periods.
+}}
+
+* {{see
+| name=Yūshūkan War Memorial Museum | alt=遊就館 | url=http://www.yasukuni.jp/~yusyukan/ | email=
+| address= | lat=35.69513 | long=139.74333 | directions=adjacent to Yasukuni Shrine
+| phone= | tollfree=
+| hours=Daily 09:00-16:30 | price=Adult ¥1000, post-secondary student ¥500, high school student ¥300, child free
+| wikipedia=Yūshūkan | image=Yasukuni Yusyukan 2.jpg | wikidata=Q2855971
+| lastedit=2020-08-21
+| content=An odd collection of military paraphernalia (including human torpedoes and letters from ''kamikaze'' pilots) and one-sided (allegedly revisionist according to the Chinese, Koreans and other Asian countries except Taiwan) descriptions of Imperial Japan and World War II, but it can be pretty confronting at times. The museum includes a small military history book and model shop.
+}}
+
+===Shrines and churches===
+* {{see
+| name=Holy Resurrection Cathedral | alt=ニコライ堂 Nikorai-do | url= | email=
+| address= | lat=35.698036 | long=139.765533 | directions=
+| phone=+81 3-3291-1885 | tollfree= | fax=
+| hours= | price=
+| wikipedia=Holy Resurrection Cathedral | image=Nikolai-do.jpg | wikidata=Q2660430
+| content=A beautifully-restored 1800s-vintage Russian Orthodox cathedral located near Ochanomizu Station on the Chuo Line. Use the Hijiribashi exit. The Hijiribashi bridge by the exit is one of the better looking bridges in Tokyo and looks moderately attractive when lit-up at night.
+}}
+* {{see
+| name=Kanda Shrine | alt=神田明神 Kanda-myojin | url=http://www.kandamyoujin.or.jp | email=
+| address=A block north across the river from Ochanomizu station | lat=35.701944 | long=139.767778 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Kanda Shrine | image=KandaMyojinGate8837.jpg | wikidata=Q717682
+| content=This shrine has a history dating back to the 8th century and had been highly regarded under the Edo shogunate. The current red-pillared structure has been rebuilt after being completely destroyed in the 1923 Great Kanto Earthquake. The Kanda Matsuri festival, which takes place in mid-May every other year is one of the largest in Tokyo and is a sight to behold. Arrive before noon or the shrine gets packed with spectators.
+}}
+* {{see
+| name=Hie Shrine | alt=日枝神社, Hie Jinja | wikidata=Q702042 | url= | email=
+| address= | lat=35.674722 | long=139.739583 | directions=on the opposite side of the Imperial garden; a five-minute walk from Kokkai-gijidō-mae station on the Metro Chiyoda line
+| phone=+81 3-3581-2471 | tollfree= | fax=
+| hours= | price=
+| content=Another prominent shrine in Tokyo. Located atop a little hill at the edge of the area. Reached by a steep flight of stairs under a veritable tunnel of orange ''torii'', the shrine grounds are an oasis of tranquility in the middle of Tokyo and, in good weather, a popular place for a lunchtime picnic. The '''Sanno Matsuri''' (山王祭) festival it hosts in June is counted among the 3 Great festival of Tokyo, featuring the usual panoply of music, dancing, yatai stalls and sake.
+}}
+[[File:Yasukuni_Prayer.JPG|thumb|Worshipping at the Yasukuni Shrine]]
+* {{see
+| name=Yasukuni Shrine | alt=靖國神社 Yasukuni-jinja | url=http://www.yasukuni.or.jp/english/ | email=
+| address=3-1-1 Kudan-kita | lat=35.694167 | long=139.743056 | directions=
+| phone=+81 3-3261-8326 | tollfree= | fax=
+| hours= | price=
+| wikipedia=Yasukuni Shrine | image=Yasukuni Jinja 7 032.jpg | wikidata=Q242803
+| content=A controversial shrine to Japan's war dead, housing the souls of some 2.5 million people killed in Japan's wars &mdash; including convicted war criminals executed by the Allies. A favorite haunt of right-wing groups in black loudspeaker-equipped trucks, and often visited by Japanese and Taiwanese politicians, drawing sharp criticisms from neighbors China and South Korea in the process. '''Consider keeping your visit to the shrine secret if you have Chinese or Korean friends or relatives.''' Open daily and free entrance adjacent to Metro Hanzomon line Kudanshita station, or cross the bridge north from Kitanomaru Park. Festivals take place most notably in mid-July and mid-October, which can attract as many people and vendors as it does on New Year's Day when the Japanese come to pray for a prosperous year. It can also get quite crowded during cherry blossom season.
+}}
+
+===Museums===
+* {{see
+| name=Tokyo National Museum of Modern Art | alt=東京国立近代美術館, Tōkyō Kokuritsu Kindai Bijutsukan | url=http://www.momat.go.jp/english/map_info.html | email=
+| address=3-1 Kitanomaru-kōen | lat=35.690553 | long=139.754642 | directions=Closest to Takebashi station on the Tōzai subway line
+| phone=+81 3-5777-8600 | tollfree= | fax=
+| hours=Tu-Th Sa-Su 10:30-17:00, F 10:30-20:00, closed M | price=&yen;420 for adults, &yen;130 for students and children under 15 free. Admission is also free on May 18, November 3 and the first Sunday of every month. Special exhibits extra
+| wikipedia=National Museum of Modern Art, Tokyo | image=National Museum of Modern Art, Tokyo (2006.05).jpg | wikidata=Q1359908
+| content=With a modest permanent collection on display and regularly changing exhibitions, MOMAT is a nice place to kill a couple of hours after you've seen the Imperial Palace across the road. Entry to the nearby Crafts Gallery is included in the price.
+}}
+* {{see
+| name=Idemitsu Museum of Arts | alt=出光美術館, Idemitsu Bijutsukan | url=http://idemitsu-museum.or.jp/en/ | email=
+| address=On the 9th floor of the Imperial Theatre building | lat=35.676372 | long=139.760908 | directions=on the East side of the Imperial gardens
+| phone=+81 35777 8600 | tollfree= | fax=
+| hours=Daily 10:00-17:00 (until 19:00 on Fridays) | price=¥1000 for adults
+| wikipedia=Idemitsu Museum of Arts | image=Imperial Garden Theater, Tokyo.jpg | wikidata=Q3076590
+| lastedit=2018-06-30
+| content=Has a noteworthy collection centering on Japanese traditional arts.
+}}
+
+==Do==
+
+* {{see
+| name=National Theatre of Japan | alt=国立劇場, Kokuritsu Gekijō | wikidata=Q1369225 | url=http://www.ntj.jac.go.jp/english/index.html | email=
+| address= | lat=35.681389 | long=139.743056 | directions=walking distance from either Hanzomon or Nagatacho stations of the Metro Hanzomon lines et. al.
+| phone=+81 3-3265-7411 | tollfree= | fax=
+| hours= | price=
+| content=For those interested in theatre arts, the Kokuritsu Gekijyo holds performances in traditional arts ranging from Kabuki, Noh drama, Bunraku puppet theatre, etc. You may want to check the schedule and make a reservation beforehand.
+}}
+
+* '''Shrines''' – Visit one of the three major shrines (Kanda Myojin, Hie Jinja or Yasukuni Shrine) during the New Year holiday if you happen to be visiting, or immerse yourself in one of the major festivals which takes place during the year. There are no restrictions on entry regardless of religious belief or background.
+
+* '''Cherry blossoms''' – As mentioned under [[#See]], they can be viewed in various places around the Imperial Palace gardens. Also, many people take advantage of the fact that no public roads enter the palace grounds (and thus, no red lights for pedestrians) for a little jogging around the garden's outer ring (which may take roughly an hour to walk around). However, since most of central Chiyoda Ward is office buildings, it is virtually lifeless after sundown as most of the population leaves for the suburbs.
+
+==Buy==
+[[File:Books along a walkway in the Kanda-Jimbocho area of Tokyo.JPG|thumb|250px|Second hand books being sold along the walls of a laneway in the Kanda-Jimbocho area]]
+Central Chiyoda doesn't offer much in the way of shopping, but the eastern side has three areas of interest:
+
+* [[Tokyo/Akihabara| Akihabara]] for '''electronics''' and '''anime'''-related goods of all kinds, covered in a separate article.
+* '''Jimbōchō''' (神保町), Metro Hanzomon/Tōei Shinjuku/Tōei Mita Jimbōchō station. A district specializing in new and used '''books''' &mdash; mostly in Japanese, but some in English and other languages. Scores of used book or antique book shops line the main streets of '''Hakusan Dōri''' (白山通り), '''Yasukuni Dōri''' (靖国通り), and '''Kanda Suzuran Dōri''' (神田すずらん通り), as well the numerous back alleys. Some stores specialize in subjects such as religion, architecture, or screenplays, while others handle a general range of subjects. Some shops specialize in various erotic material, including used pornography.
+* '''Kanda''' (神田) and '''Ochanomizu''' (お茶の水) Stations. For '''musical instruments''' and '''sports equipment'''. These districts tend to have their largest stores along major streets. The area close to Ochanomizu stations is full of music shops, at least 30 of them with shiny instruments and music blaring throughout the day.
+
+Some other shopping areas include:
+
+* The Marunouchi business district has some high-end boutiques such as Tiffany's, Gaultier, Sergio Rossi etc. lining the street from the Marunouchi building to Yurakuchō, but there is a feeling that it's not quite "there" yet, compared to the repertoires of the [[Tokyo/Ginza|Ginza]] or Omotesando shopping districts.
+* {{buy
+| name=Bic Camera | alt= | url= | email=
+| address= | lat=35.675524 | long=139.762916 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| lastedit=2015-10-02
+| content=A huge, six-floor electronics store in front of '''JR Yurakucho Station''', selling everything from household appliances to contact lenses. There is even a small movie theater on the 7th and 8th floors showing lesser-known Japanese and foreign films. Perhaps a good place for a one-stop shop if you are not able to spend time exploring the streets of Akihabara.
+}}
+* {{buy
+| name=Maruzen bookshop | alt=丸善 丸の内本店 | url= | email=
+| address= | lat=35.683888 | long=139.766401 | directions=1-4F Oazo building in front of Tokyo Station
+| phone=+81 3 5288 8881 | tollfree=
+| hours=09:00-21:00 | price=
+| lastedit=2015-10-02
+| content=It may be your best bet to look for English books in Tokyo, including a "Books on Japan" section. If you don't find what you are looking for here, you probably won't have much luck looking elsewhere.
+}}
+* {{buy
+| name=KITTE | alt=JP Tower | url=https://marunouchi.jp-kitte.jp/ | email=
+| address=2-7-2 Marunouchi | lat=35.679734 | long=139.765046 | directions=
+| phone= | tollfree=
+| hours=11:00-23:00 | price=
+| lastedit=2015-05-11
+| content=The former Japan Post headquarters have been renovated into a trendy building with many shops and restaurants. The top roof is an open garden giving an amazing view on Tokyo Station, perfect for watching bullet trains come and go.
+}}
+
+==Eat and drink==
+
+* Among the expensive clubs and restaurants spilling over from the Ginza, an offbeat dining option is the '''yakitori stalls''' under the train tracks to the south of JR Yurakucho station. A throwback to old Tokyo, this is where businessmen unwind with ''yakitori'' (grilled chicken) on skewers and a couple of ''nama biiru'' (draft beers) after a hard day. At least ¥2000 for a few beers and a half dozen skewers. Nearly all the shops are closed on Sundays.
+* As the '''Jimbocho''' and '''Ochanomizu''' areas house dozens of major colleges and universities, the area is filled with cheap restaurants, fast food joints and cafes of all kinds. There is also a high density of curry restaurants.
+* The '''[https://www.marunouchi.com/building/marubiru/ Marunouchi Building]''' (''Marubiru'') and '''[https://www.marunouchi.com/building/shinmaru/ Shin-Marunouchi Building]''' in front of Tokyo station are your best bet for a decent meal in the Marunouchi area, especially on the weekend when most other buildings are closed. Various restaurants from Italian to Hawaiian to Sushi are situated inside, but the bill may be a bit pricy for a casual lunch.
+*'''Tokyo station''' itself has many restaurants in underground shopping areas on both sides of its ticket barriers.
+* {{eat
+| name=Peter | alt= | url=https://www.peninsula.com/en/tokyo/hotel-fine-dining/peter-bar-grill | email=
+| address=24th Floor, The Peninsula Tokyo hotel | lat=35.67471 | long=139.76063 | directions=Private lift from hotel lobby
+| phone=+81 3-6270 2763 | tollfree=
+| hours= | price=Lunch from &yen;4900
+| content=Restaurant with amazing views of Imperial Palace and excellent service. Lunch seems the best value. Kobe beef from ¥23,500. Dress code: casual.
+}}
+* {{eat
+| name=Yamaya | alt=やまや | url=https://restaurant-yamaya.com/brand/motsu/restaurant/marunouchi | email=
+| address=1-4-1 Marunouchi, Chiyoda-ku | lat=35.684271 | long=139.764873 | directions=
+| phone= | tollfree=
+| hours= | price=¥1000 lunch, ¥3000 dinner
+| lastedit=2015-09-17
+| content=For lunch you should get a bowl of rice with ''mentaiko'' (semi-spicy red fish eggs). Their specialty for dinner is ''motsunabe'' (tripe hotpot).
+}}
+* {{eat
+| name=Kanda Yabu soba | alt=神田やぶそば | url=https://www.norenkai.net/en/portfolio-item/kanda-yabu-soba/ | email=
+| address=2-10 Kanda Awajicho | lat=35.697028 | long=139.768694 | directions=
+| phone=+81 3 3251 0287 | tollfree=
+| hours=11:30-21:00 | price=\1000 lunch/dinner
+| wikipedia=ja:かんだやぶそば | image=Kanda_Yabusoba6.JPG | wikidata=Q11264550
+| lastedit=2022-06-17
+| content=Yabu Soba opened its doors for business in 1880.
+}}
+* {{eat
+| name=RyuGin | alt=龍吟 | url=http://www.nihonryori-ryugin.com | email=
+| address=7F Tokyo Midtown Hibiya, 1-1-2 Yurakucho | lat= | long= | directions=
+| phone=+81 3 3423-8006 | tollfree=
+| hours= | price=From ¥27,000 per person
+| image=RyuGin.jpg
+| content=Moved from Roppongi in 2018. Combining a deep respect for the Japanese culinary heritage with a will to pushing boundaries has made Nihonryori RyuGin to regarded as one of the world's best restaurants. Serves a daily-changing fix menu based on what's available at the market.
+}}
+
+==Sleep==
+
+===Budget===
+* {{sleep
+| name=Tokyo Central Youth Hostel | alt= | url=http://www.jyh.gr.jp/tcyh/e/top.html | email=tcyh@jyh.gr.jp
+| address=1-1 Kagurakashi, Shinjuku-ku | lat= | long= | directions=in the far east end of Shinjuku, far from its station, and just in the north of Chiyoda, 800 m away from the Imperial Palace area
+| phone=+81 3-3235-1107 | tollfree= | fax=+81 3-3267-4000
+| checkin= | checkout= | price=¥4050
+| content=Located on the 18th and 19th floors of a high-rise, with great views over the city (including a hot tub and baths overlooking the lights and skyscrapers of Shinjuku) and comfortable rooms. Formerly known as Tokyo International Hostel.
+}}
+
+===Mid-range===
+
+===Splurge===
+* {{sleep
+| name=Imperial Hotel Tokyo | alt=帝国ホテル Teikoku Hoteru | url=http://www.imperialhotel.co.jp/ | email=
+| address=Uchisaiwaicho 1-1-1 | lat= | long= | directions=
+| phone=+81 3 3504-1251 | tollfree= | fax=
+| hours= | price=&yen;43,000 and higher
+| checkin= | checkout=
+| wikidata=Q712476
+| content=Never mind upstarts like the Park Hyatt, this is the grand old dame of Tokyo's hotels with over 115 years of history behind it and legendary service fit for an Emperor. Standard rooms are musty, but the refurbished Imperial Floor rooms are nice. The hotel overlooks Hibiya Park and is only a short walk from the Imperial Palace and the [[Tokyo/Ginza|Ginza]].
+}}
+* {{sleep
+| name=The New Otani | alt= | url=http://www.newotani.co.jp/en/tokyo/ | email=
+| address=Kioicho 4-1 | lat=35.681008 | long=139.734127 | directions=
+| phone=+81 3 3265-1111 | tollfree=
+| checkin= | checkout= | price=&yen;36,000 and up
+| content=The flagship of the international New Otani chain, and one of the largest hotels in Tokyo, with a variety of shops and restaurants under its roof. While the main building is a 1960s concrete monolith, the extensive gardens were once part of a prince's residence and date back to the 1600s.  Convenient for business travellers, as it is located within an easy walk of Akasaka, Nagatacho, and other international business districts; less convenient for tourists, although somewhat close to Roppongi, Shinjuku, and other play areas.
+}}
+* {{sleep
+| name=Ascott Marunouchi Tokyo | alt= | url=https://www.the-ascott.com/en/japan/tokyo/ascott-marunouchi-tokyo.html | email=enquiry.marunouchi@the-ascott.com
+| address=1-1-1 Otemachi | lat= | long= | directions=
+| phone=+81 3 5208-2001 | tollfree=
+| checkin= | checkout= | price=
+| content=A range of apartments with access to the swimming pool, rooftop terrace, gym, reading lounge, business centre and meeting rooms.
+}}
+* {{sleep
+| name=Tokyo Station Hotel | alt= | url=https://www.thetokyostationhotel.jp/ | email=
+| address=Marunouchi 1-chome 9-1 | lat=35.681253 | long=139.765997 | directions=
+| phone=+81 3-3231-2511 | tollfree=
+| checkin= | checkout= | price=From &yen;89,000. 10% discount with an active Japan Rail Pass or JR East Rail Pass
+| wikidata=Q11524193
+| content=If you ever wanted to sleep in a train station, then this might be the place to do it. A part of Hyatt's Small Luxury Hotel collection, the Tokyo Station Hotel makes up a part of the 1914 red-brick building that is the terminal station of all but one of the country's Shinkansen lines. It is within easy walking distance of the Imperial Palace, and you can simply walk out of the lobby and make a U-turn to catch a train like the Yamanote line.
+}}
+
+==Stay safe==
+On occasion, menacing black vans with fluttering "Rising Sun" flags and Imperial chrysanthemum logos may screech militaristic propaganda around the Yasukuni Shrine and near the Nagatacho/Kasumigaseki areas. With xenophobic right-wing attitudes financed by the ''yakuza'' (Japan's mafia) and tacit police cooperation, foreigners may get baleful looks from the sunglassed toughs running the show, but they are not a real danger unless actively provoked.
+
+Smoking on the major streets and sidewalks is prohibited by law in Chiyoda Ward. Although generally not strictly enforced, if you get unlucky, a ¥2,000 fine is imposed (the theoretical limit in the ordinance is ¥20,000). There are ''smokers' gardens'' at the end of some main streets and behind some of the skyscrapers where you can light up legally.
+
+==Go next==
+The glitzy stores of the [[Tokyo/Ginza|Ginza]] and the business district of [[Tokyo/Akasaka|Akasaka]] (not a bad choice for lunch) are within easy walking distance from southern Chiyoda.
+
+{{routebox
+| image1=Tokaido Shinkansen icon.png
+| imagesize1=100
+| directionl1=W
+| majorl1=[[Yokohama]]
+| minorl1=[[Tokyo/Shinagawa|Shinagawa]]
+| directionr1=E
+| majorr1=END
+| minorr1=
+
+| image2=Hokuriku Shinkansen Icon.png
+| imagesize2=100
+| directionl2=N
+| majorl2=[[Nagano]]
+| minorl2=[[Takasaki]] ← Kumagaya
+| directionr2=S
+| majorr2=END
+| minorr2=
+
+| image3=Joetsu Shinkansen icon.png
+| imagesize3=100
+| directionl3=N
+| majorl3=[[Niigata]]
+| minorl3=[[Takasaki]] ← Kumagaya
+| directionr3=S
+| majorr3=END
+| minorr3=
+
+| image4=Tohoku Shinkansen icon.png
+| imagesize4=100
+| directionl4=N
+| majorl4=[[Sendai]]
+| minorl4=[[Nasushiobara|Nasu Shiobara]] ← [[Utsunomiya]]
+| directionr4=S
+| majorr4=END
+| minorr4=
+
+| image5=JR Sobu icon.png
+| imagesize5=100
+| directionl5=W
+| majorl5=[[Tokyo/Shinjuku|Shinjuku]]
+| minorl5=into [[File:JR JB line symbol.svg|30px]]
+| directionr5=E
+| majorr5=[[Chiba]]
+| minorr5=[[Tokyo/Sumida|Kinshicho]] → [[Tokyo/East|Shin Koiwa]]
+
+| image6=JR Tokaido icon.png
+| imagesize6=100
+| directionl6=W
+| majorl6=[[Yokohama]]
+| minorl6=[[Tokyo/Shimbashi|Shimbashi]]
+| directionr6=E
+| majorr6=END
+| minorr6=
+
+| image7=JR Chuo icon.png
+| imagesize7=100
+| directionl7=W
+| majorl7=[[Kofu]]
+| minorl7=[[Hachioji]] ← [[Tokyo/Nakano|Nakano]]
+| directionr7=E
+| majorr7=END
+| minorr7=
+
+| image8=JR Tohoku icon.png
+| imagesize8=100
+| directionl8=N
+| majorl8=[[Saitama|Ōmiya]]
+| minorl8=[[Tokyo/North|Akabane]] ← [[Tokyo/Ueno|Ueno]]
+| directionr8=S
+| majorr8=END
+| minorr8=
+
+| image9=JR JO line symbol.svg
+| imagesize9=30
+| directionl9=W
+| majorl9=[[Zushi]]
+| minorl9=[[Kamakura]] ← [[Yokohama]]
+| directionr9=E
+| majorr9=into [[File:JR Sobu icon.png|88px]]
+| minorr9=
+
+| image10=JR JY line symbol.svg
+| imagesize10=30
+| directionl10=N
+| majorl10=[[Tokyo/Toshima|Ikebukuro]]
+| minorl10=[[Tokyo/Ueno|Ueno]] ← [[Tokyo/Akihabara|Akihabara]]
+| directionr10=E
+| majorr10=[[Tokyo/Shinagawa|Shinagawa]]
+| minorr10=[[Tokyo/Minato|Hamamatsucho]] → [[Tokyo/Shinbashi|Shinbashi]]
+}}
+
+{{geo|35.694003|139.753594}}
+{{usabledistrict}}
+{{IsPartOf|Tokyo}}

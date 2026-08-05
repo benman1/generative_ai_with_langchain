@@ -1,0 +1,591 @@
+{{pagebanner | Osaka Banner.jpg | caption=Neon signs over Dotombori}}
+{{printDistricts}}
+'''Ōsaka''' (大阪) is the beating heart of [[Japan]]'s [[Kansai]] region and the largest of the Osaka-[[Kobe]]-[[Kyoto]] trio of cities, with a population of over 17 million people in the greater metropolitan area.  With fantastic food and nightlife, great connectivity and accommodation options in every price bracket, it makes a great base for exploring the entire region.
+
+==Districts==
+{{mapframe|zoom=11}}
+"Osaka" can mean either the larger [[Osaka prefecture]] (大阪府 ''Ōsaka-fu''), covered in a separate guide, or central Osaka city (大阪市 ''Ōsaka-shi''), the topic of this article.  The city is administratively divided into 24 wards (区 ''ku''), but in common usage the following divisions are more useful.
+{{Regionlist
+| regionmap=<!--  Osaka City Map.png -->
+| regionmaptext=Osaka's districts
+| regionmapsize=400px
+| regionInteractiveMap=map1
+
+| region1name=[[Osaka/Kita|Kita]]
+| region1color=#b5d29f
+| region1items=キタ
+| region1description=The newer center of the city, including the Kita ward (北区). '''Umeda Station''' (梅田駅) is the main railway terminal. Department stores, theaters and boutiques are clustered around JR Osaka Station and Umeda Station, which serves several city and private railways.
+
+| region2name=[[Osaka/Minami|Minami]]
+| region2color=#d09440
+| region2items=ミナミ
+| region2description=The traditional commercial and cultural center, composed of the Chuo (中央区) and Naniwa (浪速区) wards. Namba (なんば, 難波) is the main railway station, and the surrounding area has the department store and showy shopping. Shinsaibashi (心斎橋) and Horie (堀江) is the fashion area. Dōtonbori (道頓堀) is the best place to go for a bite to eat. Semba (船場) straddles the line between Kita and Minami, and contains the business districts of Yodoyabashi (淀屋橋), Doujima (堂島) and Hommachi (本町); and the financial district of Kitahama (北浜).
+
+| region3name=[[Osaka/Tennoji|Tennoji]]
+| region3color=#d5dc76
+| region3items=天王寺
+| region3description=Generally means the area around JR Tennōji Station, Abeno and Tennoji subway stations and Kintetsu rail lines at the south end of Tennōji ward. The ward was named after the historical Shitennoji temple. Tennōji Park and Zoo are in the area. To the west of Tennōji is '''Shinsekai''' (新世界), a once seedy amusement area that has been oddly reincarnated as a tourist trap.
+
+| region4name=[[Osaka/Osaka castle|Osaka Castle]]
+| region4color=#4f93c0
+| region4items=
+| region4description=Osaka Castle (大阪城) is one of the most visited tourist attractions in Japan. Kyōbashi (京橋) is northeast of Osaka Castle, home to '''Osaka Business Park'''.
+
+| region5name=[[Osaka/North|North]]
+| region5color=#d56d76
+| region5items=
+| region5description=Covering the area north of Osaka. Includes bullet train hub '''Shin-Osaka''' (新大阪) and red light district '''Jūsō''' (十三).
+
+| region6name=[[Osaka/East|East]]
+| region6color=#ac5c91
+| region6items=
+| region6description=The eastern suburbs of Osaka hosts a spacious {{convert|122|ha}} park that sees international cosplayers’ gathering annually.
+
+| region7name=[[Osaka/South|South]]
+| region7color=#71b37b
+| region7items=
+| region7description=The gritty southern suburbs of Osaka, with cheap accommodation and the Sumiyoshi-Taisha Grand Shrine. Home to '''Tsuruhashi''' (鶴橋) with its large Zainichi Korean community and many Korean restaurants, Japan's second largest red-light district '''Tobita Shinchi''' (飛田新地) and Japan's largest slum in the '''Kamagasaki/Airin''' (釜ヶ崎/あいりん) area.
+
+| region8name=[[Osaka/Bay Area|Bay Area]]
+| region8color=#b383b3
+| region8items=
+| region8description=Huge amusement area with many gigantic facilities, including '''[[Universal Studios Japan]]''' and the Kaiyukan aquarium.
+
+| region9name=[[Osaka/Hirano|Hirano]]
+| region9color=#f5673b
+| region9items=
+| region9description=Hirano was originally independent, moated, and commercial city from Osaka and nationally known as Cotton City. Today, the '''Hirano Old City''' (平野旧市街), also called as '''Hirano-gō''' (平野郷) area is known as one of the oldest urban areas in Osaka, and preserved old townscape.
+}}
+{{Mapshape|type=geoshape|title=[[Osaka/Kita|Kita]]|wikidata=Q985728,Q1207746|fill=#b5d29f}}
+{{Mapshape|type=geoshape|title=[[Osaka/Minami|Minami]]|wikidata=Q861618,Q275123|fill=#d09440}}
+{{Mapshape|type=geoshape|title=[[Osaka/Tennoji|Tennoji]]|wikidata=Q490592|fill=#d5dc76}}
+{{Mapshape|type=geoshape|title=[[Osaka/Osaka castle|Osaka Castle]]|wikidata=Q876485|fill=#4f93c0}}
+{{Mapshape|type=geoshape|title=[[Osaka/North|North]]|wikidata=Q490514,Q985765,Q490594|fill=#d56d76}}
+{{Mapshape|type=geoshape|title=[[Osaka/East|East]]|wikidata=Q861271,Q985701,Q490508,Q490581,Q490526|fill=#ac5c91}}
+{{Mapshape|type=geoshape|title=[[Osaka/South|South]]|wikidata=Q489009,Q861264,Q490520,Q985695,Q985702|fill=#71b37b}}
+{{Mapshape|type=geoshape|title=[[Osaka/Bay Area|Bay Area]]|wikidata=Q960258,Q1365114,Q985711,Q570027|fill=#b383b3}}
+{{Mapshape|type=geoshape|title=[[Osaka/Hirano|Hirano]]|wikidata=Q861256|fill=#f54739}}
+<!--{{Mapshapes|Q303026}}  Osaka Subway -->
+
+==Understand==
+
+{{infobox|Osaka and the "808 Bridges" (八百八橋)
+|Many districts in Osaka derive their names from the Tokugawa-era bridges that were built during the city's reign as transportation hub for the country. Today, Yodoyabashi (淀屋橋) and Kyobashi (京橋) still retain their crossings, while the bridges in Yotsubashi (四ツ橋), Nagahoribashi (長堀橋) and Shinsaibashi (心斎橋) are long gone.
+
+橋 (''hashi'', often pronounced ''-bashi'', when affixed to a preceding name) is the kanji character meaning 'bridge'.}}
+{{climate chart
+|Osaka
+|3.0 |9.7 |47.0
+|3.2 |10.5 |60.5
+|6.0 |14.2 |103.1
+|10.9 |19.9 |101.9
+|16.0 |24.9 |136.5
+|20.3 |28.0 |185.1
+|24.6 |31.8 |174.4
+|25.8 |33.7 |113.0
+|21.9 |29.5 |152.8
+|16.0 |23.7 |136.0
+|10.2 |17.8 |72.5
+|5.3 |12.3 |55.5
+|jansnow=0.0 |febsnow=10.0 |marsnow=0.0 |aprsnow=0.0 |maysnow=0.0 |junsnow=0.0 |julsnow=0.0 |augsnow=0.0 |sepsnow=0.0 |octsnow=0.0 |novsnow=0.0 |decsnow=0.0
+|float=right
+|clear=right
+|description=
+|source = Japan Meteorological Agency<ref name= JMA >{{cite web| url = http://www.data.jma.go.jp/obd/stats/etrn/view/nml_sfc_ym.php?prec_no=62&block_no=47772&year=&month=&day=&view=| title = 平年値（年・月ごとの値）| publisher = [[Japan Meteorological Agency]]| accessdate = December 23, 2016}}</ref>
+}}
+If [[Tokyo]] is Japan's capital, one might call Osaka its anti-capital.  Ask a local, and they'll proudly tell you that while Tokyoites are reserved, polite and boring, Osakans are warm, friendly and colorful, in speech, clothing and spirit.  The Osakan rallying cry is ''kuidaore'' (食い倒れ), bringing yourself to ruin through extravagance in food, drink and more &ndash; a far cry from the austere Zen discipline often associated with Japan. 
+
+Osaka dates back to the [[Asuka]] and [[Nara]] period. Under the name '''Naniwa''' (難波), it was the capital of Japan from 683 to 745, long before the upstarts at [[Kyoto]] took over. Even after the capital was moved elsewhere, Osaka continued to play an important role as a hub for land, sea and river-canal transportation. (See "808 Bridges" infobox.) 
+
+[[Osaka/Hirano|Hirano]], located southeast of present-day Osaka city center, was a "free city" during the Sengoku period, with numerous shrines, temples, and roads converging there. It formed an alliance with Sakai, another free city, to resist the power of the daimyo. During the Edo period, merchants from Hirano played a major role in the construction of Osaka. Afterwards, it prospered as a "cotton city," and like Osaka, its townspeople built a lavish culture.
+
+During the Tokugawa era, while Edo (now Tokyo) served as the austere seat of military power and Kyoto was the home of the Imperial court and its effete courtiers, Osaka served as "the Nation's Kitchen" (天下の台所 ''tenka-no-daidokoro''), the collection and distribution point for rice, the most important measure of wealth.  Hence it was also the city where merchants made and lost fortunes and cheerfully ignored repeated warnings from the shogunate to reduce their conspicuous consumption.
+
+During Meiji era, Osaka's fearless entrepreneurs took the lead in industrial development, making it the equivalent of [[Manchester]] in the U.K.  A thorough drubbing in World War II left little evidence of this glorious past – even the castle is a ferroconcrete reconstruction – but to this day, while unappealing and gruff on the surface, Osaka remains '''Japan's best place to eat, drink and party''', and in legend (if not in practice) Osakans still greet each other with ''mōkarimakka?'', "are you making money?"
+
+===Orientation===
+Think of Osaka as a magnet, with businessy, posh, uptown '''Umeda''' (梅田) as the north pole ([[Osaka/Kita|Kita]]) and the proletarian shop-eat-drink downtown of '''Namba''' (なんば) at the south end ([[Osaka/Minami|Minami]]). The tree-lined '''Midōsuji''' (御堂筋) boulevard, fancifully called Osaka's Champs-Elysees, connects the two and so does the subway line of the same name. Draw a circle around the two&mdash;the JR Osaka Loop Line&mdash;and that's Osaka in a nutshell.
+
+===Tourist information===
+[https://osaka-info.jp/en/ Osaka Info] is the official multilingual guide site, jointly run by the city and the prefecture.
+
+==Get in==
+[[Image:Osaka Castle 2.jpg|thumb|300px|Osaka Castle]]
+
+===By plane===
+{{seealso|Kansai International Airport}}
+
+'''[[Kansai International Airport]]''' ({{IATA|KIX}}) is the main international gateway to Osaka ([[Metropolitan area airport codes]]: {{IATA|OSA}}).
+
+Also, '''[[UKB|Kobe Airport]]''' ({{IATA|UKB}}) is nearby and easily reachable [[KIX#By_boat|by boat]] from Kansai Airport.
+
+====Itami Airport====
+* {{go
+| name=Osaka International Airport | alt=also known as '''Itami Airport''', {{IATA|ITM}} | url=http://osaka-airport.co.jp/en/ | email=
+| address= | lat=34.785528 | long=135.438222 | directions=
+| phone= | tollfree=
+| hours= | price=
+| image=Osaka Airport01.jpg | wikidata=Q1046748
+| content=This was Osaka's main airport before the opening of Kansai, where most domestic flights arrive. Despite its name, it no longer serves international flights. The name is surely confusing; Itami is a city in adjacent Hyogo Prefecture. Only the airport's South Terminal is in Osaka.
+}}
+
+Getting there and away:
+* By monorail – The [https://www.osaka-monorail.co.jp/language/en/ Osaka Monorail] serves the airport, but it doesn't connect to the city center at all, instead tracing an arc around the northern suburbs. To get to Umeda, the fastest option is to take the monorail a single stop to Hotarugaike, then transfer to the Hankyu Takarazuka Line (¥420 total). For destinations on the Midosuji subway line, including Shin-Osaka for Shinkansen services, transfer at Senri-Chuo.
+* By bus – A more convenient option for most are the [https://www.hankyu-kankobus.co.jp/limousine/busstop/itm/ Airport Limousine Buses], which run frequently from Itami to various locations within Osaka and elsewhere in the region (including Kansai Airport), with fares starting around ¥500-600.
+* By taxi – A taxi from Itami airport to Osaka castle area costs ¥4,000 plus ¥700 for toll road.
+
+===By train===
+Tokaido and Sanyo Shinkansen (新幹線)  trains arrive at '''Shin-Osaka''' station, to the north of the city center. From Shin-Osaka, you can connect to the city center by using the Midosuji subway line, or connect to the local JR network for other destinations. If you are on a JR Pass, Osaka Station in the city centre is connected to Shin-Osaka via the JR Kyoto Line.
+
+*From [[Tokyo]], ''Nozomi'' (のぞみ) trains cover the one way ride in about 2 hr 15 min (¥14,720); ''Hikari'' (ひかり) trains take 3 hours and all-stopping ''Kodama'' (こだま) trains take 4 hours (both ¥14,400). With the Japan Rail Pass, ''Hikari'' or ''Kodama'' services can be used without any extra charge, while ''Nozomi'' services require a supplement.
+*From [[Chugoku|points west of Osaka]], ''Nozomi'' trains run from [[Okayama]] (¥6,660, 45 min), [[Hiroshima]] (¥11,150, 80 min) and Hakata station in [[Fukuoka]] (¥16,220, 2 2 hr 15 min). Japan Rail Pass holders can use the ''Sakura'' (さくら) or ''Hikari'' service, which runs at a comparable speed to the ''Nozomi'' and makes a few more stops, or pay a supplement for the ''Mizuho'' (みずほ) . Slower ''Kodama'' trains connect the rest of the stations on the route.
+*''Sakura'' trains start in Kyushu, with service to Osaka available from [[Kumamoto]] (¥19,080, 3 hr 15 min) and [[Kagoshima]] (¥22,510, 4 hours). ''Mizuho'' trains are slightly faster and slightly more expensive.
+
+Tickets can be purchased in advance through Japan Railways' official '''[https://smart-ex.jp/en/ SmartEX App]''', available in English and other languages, with a ¥200 discount. Look for '''''hayatoku''''' fares, which can offer big savings on trips purchased at least three days in advance. For example, two passengers from Tokyo could travel for ¥12570 each in ordinary class on the ''Nozomi'' or for ¥11410 each in the Green Car (first class) if willing to take the all-stations ''Kodama'' service.
+
+If travelling from the east without a rail pass, you can take advantage of the '''[https://www.jrtours.co.jp/kodama/ Puratto (Platt) Kodama Ticket] (now in Japanese only)''', which offers a discount for Kodama services if you purchase at least one day in advance. You get a reserved seat and a coupon for a free drink (including beer) which can be redeemed at a "Kiosk" convenience counter inside the station. With this ticket a trip from Tokyo to Shin-Osaka costs ¥11,100. There is only one Kodama service per hour from Tokyo, and a few early-morning Kodama trains cannot be used with this ticket. Travel from Nagoya with this ticket costs ¥4300.
+
+During travel periods when the [[Seishun 18 Ticket]] is valid, you can go from Tokyo to Osaka during the day in about nine hours using all-local trains.
+
+Those travelling from the [[Hokuriku]] region can use ''Thunderbird'' (サンダーバード) limited express trains from [[Tsuruga]], the present terminal of the Hokuriku Shinkansen. If you are coming from [[Kanazawa]], you will need to take the Hokuriku Shinkansen to Tsuruga and transfer to the Thunderbird.
+
+There are many regional railway lines connecting Osaka to nearby cities:
+[[File:Hanku 8300 series 8333 car 2016-10-16.jpg|thumb|A Hankyu Railways train set at Hankyu Umeda station]]
+*From [[Kyoto]], JR offers fast, but slightly more expensive, ''shin-kaisoku'' (special rapid) trains to Osaka Station. The cheaper but slower alternative is the Hankyu Railway's limited express service. Both lines terminate in the Umeda area of Osaka. Keihan Railway offers Kyoto-Osaka trains. The Yodoyabashi terminal in Osaka does not connect directly with JR, but it is possible to transfer to the JR Osaka Loop Line at Kyobashi. In Kyoto, Keihan and Hankyu trains do not connect with JR Kyoto Station but both travel to stations which are more convenient for reaching the centre of the city. 30–45 minutes.
+* From [[Kobe]], JR again offers slightly faster and slightly more expensive service than Hankyu. The third choice is Hanshin Railway, which is identical to Hankyu in terms of cost and similar in time, useful for getting to Koshien Stadium to see Hanshin Tigers games. All three lines go to Osaka/Umeda. about 20 minutes.
+* From [[Nara]], JR offers trains to Tennōji and Osaka Stations, and Kintetsu offers trains to Namba. Kintetsu station in Nara is closer to Tōdaiji and Nara Park. 35–50 minutes for ¥580 to ¥820.
+* From [[Nagoya]], an alternative to the Shinkansen is Kintetsu's premium limited express service, the ''Urban Liner'' (アーバンライナー) which goes directly to Namba. Trip times are as little as two hours each way, with departures at 0 and 30 minutes past the hour at a cost of ¥4150. In comparison, the shinkansen takes just under an hour for ¥5670.
+
+Stations with the same name but belonging to different railway companies are sometimes in different locations. For example, the ''Nakatsu'' stations on the Hankyu and subway networks are about a 10-minute walk from each other. Allow up to half an hour for walking between the various ''Umeda'' stations and about the same for the various ''Namba'' stations, especially if you are a first time visitor.
+
+In Kobe the ''Sannomiya'' stations belonging to JR and Hankyu are connected but Hanshin Sannomiya is across a street.
+
+====Hokuriku Arch Pass====
+The [https://www.westjr.co.jp/travel-information/en/tickets-passes/other/hokuriku-arch-pass/ '''Hokuriku Arch Pass'''] allows unlimited travel between Tokyo and the Kansai area via the Hokuriku region, using the Hokuriku Shinkansen from Tokyo to Kanazawa and the ''Thunderbird'' from Kanazawa to Kyoto and Osaka. At a cost of ¥30,000 for seven consecutive days of travel (¥35,000 starting on March 14, 2026), the Arch Pass is a little more than half the cost of the national Japan Rail Pass. On the other hand, a trip from Tokyo to Shin-Osaka is over twice as long via Kanazawa (5 hr 15 min) compared to the more popular Tokaido Shinkansen (2 hr 30 min).
+
+====Overnight travel====
+Overnight trains used to be one of the prides of the national railway network, but aging rail equipment combined with competition between buses and the shinkansen has resulted in the elimination of almost all services to/from Osaka.
+
+Only one daily train remains: The ''Sunrise Izumo/Sunrise Seto'', which passes through Osaka en route to the Chugoku and Shikoku regions. Unfortunately, it may only be useful as a means to travel to and from Tokyo. The daily eastbound service picks up passengers in Osaka at 00:34, arriving in Yokohama at 06:44 and Tokyo at 07:08. The daily westbound service from Tokyo (22:00) and Yokohama (22:23), on the other hand, don't stop in Osaka at all - the first morning stop is in [[Himeji]] at 05:25. From Himeji, you will have to backtrack to Osaka on a commuter service or the shinkansen on a separate ticket.
+
+If you have a Japan Rail Pass, you can book a carpeted floor space on the above service at no charge. Otherwise you can travel in a compartment or room by paying the applicable room fee and surcharges. From Himeji you'll be able to backtrack to Osaka in a commuter train, or in a non-reserved seat on the first ''Kodama'' shinkansen service of the day, simply by showing your pass.
+
+Failing this, overnight travel can be done with a stopover in another city along the way, which is easy to do with a Japan Rail Pass or a basic long-distance ticket that is valid over a period of several days.
+
+===By bus===
+[[Image:D654-02507 kanto 744-1978 Nishinihon MU612TX Dream.jpg|250px|thumb|JR Highway Buses are among many companies that make daily bus runs between Tokyo and Osaka.]]
+As Osaka is a major city, there are many day and overnight buses which run between Osaka and other locations throughout Japan, which can be a cheaper alternative than shinkansen fares.
+
+Buses in Osaka drop off and pick up at one or more different locations spread throughout the city, so be sure to check the details before booking a trip. Some of the main stops where buses congregate include the '''JR Highway Bus Terminal''' in Osaka Station for JR buses, the '''Willer Bus Terminal''' at the Umeda Sky Building, and the '''Osaka City Air Terminal (OCAT)''' at Namba Station. Some also serve '''Shin-Osaka Station''' for the bullet trains, and [[Universal Studios Japan]].
+
+====From Tokyo====
+The run between Tokyo and the Kansai region is the busiest in Japan. Buses use the Tomei or Chuo Expressway from Tokyo to Nagoya, then the Meishin Expressway to Osaka. Trips take between 8 and 9 hours depending on the route and stops.
+
+Fierce competition between operators has led to buses offering better amenities and lower prices. Part of this strategy is the adoption of dynamic pricing on many bus routes. This generally means that daytime trips, weekday trips, tickets bought in advance and buses carrying more passengers are cheaper, while night trips, weekend/holiday trips, walk-up fares and buses with fewer (and more comfortable) seats will be more expensive.
+
+As a rule of thumb, fares for a weekday trip between Tokyo and Osaka go for around ¥4000-6000 per person during the daytime, and around ¥5000-8000 per person for overnight trips. Children usually pay half the adult fare.
+
+Two of the major bus operators between Tokyo and Osaka are '''Willer Express''' and '''JR Bus'''. Tickets for all carriers can generally be purchased at major departure points, and can also be purchased (with some Japanese language help) at kiosks inside convenience stores.
+
+'''[http://travel.willer.co.jp/en/ Willer Express]''' runs daytime and overnight trips with a variety of seating options ranging from standard seats to luxurious shell seats. Bus journeys can be booked online in English, and Willer's '''Japan Bus Pass''' is valid on all of their routes with some exceptions. Willer's buses in Tokyo leave from the '''Shinjuku Highway Bus Terminal''' (''Busta Shinjuku''), above the JR tracks at Shinjuku Station, which is served by many of Japan's highway bus operators. Willer also sells tickets for other bus operators on their website, but these trips are not valid with Willer's Japan Bus Pass.
+
+'''JR Bus''' reservations can be made in English through their '''[https://www.kousokubus.net/JpnBus/en Kousoku Bus Net]''' web site. You can also make reservations in train stations at the same "Midori-no-Madoguchi" ticket windows used to reserve seats on trains. Buses depart from '''Tokyo Station''' - Yaesu Exit (八重洲口) and from ''Busta Shinjuku''.
+
+At a much higher price point, Kanto Bus and Ryobi Bus operate the ''Dream Sleeper''. The bus carries only 11 passengers, each assigned to a reclining seat in individual cabins with sliding privacy doors. Fares start at ¥18000 each way and tickets can be booked online in English. Advance purchase fares of ¥15000 are offered, but those can only be purchased online in Japanese. In Osaka, the bus stops at both OCAT in Namba and Osaka Station (in front of ALBi Osaka). In Tokyo, it stops at Ikebukuro Station West Exit and Shinjuku Station West Exit (not at ''Busta Shinjuku'').
+
+====From Yamaguchi Prefecture====
+Bocho bus offers a nighttime bus from the cities of [[Hagi]], [[Yamaguchi]], [[Hofu]], [[Shunan|Tokuyama]], and [[Iwakuni]] to Kobe and Osaka.
+It costs between ¥6300 and ¥9480 for a one-way ticket, depending on where you get on and where you get off. The bus departs Hagi Bus Center at 19:55 nightly, and arrives at Osaka station at 07:15 daily. The bus makes a return trip from Osaka station at 22:05 nightly, and arrives at Hagi bus center at 09:25 daily. Full details including round trip fares are on their [http://www.bochobus.co.jp/publics/index/35/ website]. It is a good deal if you have time to spare.
+
+====From elsewhere====
+There are a variety of nightbus options from [[Yamagata]], [[Sendai]], [[Koriyama]], [[Fukushima]], [[Maebashi]], [[Mito]], [[Iwaki]], [[Ashikaga]], [[Saitama]] (Omiya), [[Tokyo]], [[Kawasaki]], [[Yokohama]], [[Kofu]], [[Karuizawa]], [[Yamanouchi]] (Yamanaka), [[Niigata]], [[Shizuoka]], [[Mishima]], [[Kurashiki]], [[Hiroshima]], [[Kurayoshi]], [[Yonago]], [[Izumo]], [[Tsuwano]], [[Imabari]], [[Matsuyama]], [[Kochi (Shikoku)|Kochi]], [[Sukumo]], [[Susaki]], [[Fukuoka]], [[Kurume]], [[Oita]], [[Kumamoto]], [[Miyazaki]] (Miyako City), and [[Kagoshima]].
+
+Same-day arrivals depart from [[Tokyo]], [[Kawasaki]], [[Kofu]], [[Nagano]], [[Matsumoto]], [[Minowa]], [[Toyama]], [[Kanazawa]], [[Fukui]], [[Obama]], [[Hamamatsu]], [[Nagoya]], [[Takayama]], [[Yokkaichi]], [[Maizuru]], [[Fukuchiyama]], [[Kyoto]], [[Shirahama]] (Adventure World), [[Shinonsen]], [[Toyooka|Kinosaki Onsen]], [[Kobe|Arima Onsen]], [[Okayama]], [[Kurashiki]], [[Tsuyama]], [[Maniwa]], [[Niimi]], [[Shobara]], [[Miyoshi (Hiroshima)|Miyoshi]], [[Hiroshima]], [[Tottori]], [[Kurayoshi]], [[Yonago]], [[Izumo]], [[Tokushima]], [[Naruto (Tokushima)|Naruto]], [[Takamatsu]], [[Marugame]], [[Imabari]], [[Matsuyama]], [[Kochi (Shikoku)|Kochi]], [[Muroto]], and [[Susaki]].
+
+===By boat===
+
+'''[http://www.city.osaka.lg.jp/contents/wdu020/port/information/facilities_05.html Osaka International Ferry Terminal]{{Dead link|date=July 2026 |bot=InternetArchiveBot }}''' is in ''Nankō'' (南港) in the Osaka Bay Area. There are no banks, post office, shops, or restaurants in the terminal. The nearest subway station is Cosmosquare Station (C11), which is about a 15-minute walk from the terminal. A free shuttle bus is available at the station. Taxis are also available at the station.
+
+====Getting to the Ferry Terminal====
+* {{listing
+| name=From Suminoe-koen Station | url= | email=
+| address= | lat= | long= | directions=Take the New Tram to Nankōguchi (南港口)
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+* {{listing
+| name=From JR Shin-Osaka Station (Shinkansen Line) | url= | email=
+| address= | lat= | long= | directions=JR Shin-Osaka Station →transfer to Subway Midosuji Line (Red Line) at Shin-Osaka Station (M13) → Hommachi Station (M18) → transfer to Subway Chuo Line (Green Line) → Cosmosquare station (C10)
+| phone= | tollfree= | fax=
+| hours=Travel time: at least 40 minutes to Cosmosquare Station | price=¥310
+| content=
+}}
+* {{listing
+| name=From Namba | url= | email=
+| address= | lat= | long= | directions=Subway Midosuji Line (Red Line) at Namba Station (M20) → Hommachi Station (M18) → transfer to Subway Chuo Line (Green Line) → Cosmosquare Station (C10)
+| phone= | tollfree= | fax=
+| hours=Travel time: at least 30 minutes to Cosmosquare Station | price=¥270
+| content=
+}}
+* {{listing
+| name=From Tennoji | url= | email=
+| address= | lat= | long= | directions=Subway Midosuji Line (Red Line) at Tennoji Station (M23) → Hommachi Station (M18) → transfer to Subway Chuo Line (Green Line) → Cosmosquare Station (C10)
+| phone= | tollfree= | fax=
+| hours=Travel time: at least 40 minutes to Cosmosquare Station | price=¥310
+| content=
+}}
+* {{listing
+| name=By taxi | url= | email=
+| address= | lat= | long= | directions=Instruct the taxi driver to take you to the Osaka Port International Ferry Terminal (Nanko) &mdash; otherwise, you may be taken to the domestic ferry terminal.
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+* {{listing
+| name=By car | url= | email=
+| address= | lat= | long= | directions=from Hanshin Expressway Tenpozan exit to Port of Osaka and after passing through Osakako-Sakishima Tunnel, turn left at the first crossing, and follow the road.
+| phone= | tollfree= | fax=
+| hours= | price=¥200 per car for the toll road
+| content=
+}}
+
+====Osaka-Busan====
+The [http://panstarline.com PanStar Line]{{Dead link|date=February 2026 |bot=InternetArchiveBot }} operates a ferry between Osaka and [[Busan]]. The ferry leaves Monday, Wednesday, and Thursday, at 15:10 from both Osaka and Busan and arrives the following day at 10:00. In Busan, the luggage check-in time is prior to the passenger check-in time: for the Busan-Osaka run, luggage check in is 12:40-14:00 and the passenger check in time is 14:15–14:45; for the Osaka-Busan run, luggage check in is 13:00-14:00 and the passenger check in time is 13:00-14:30.
+
+Many different room options are available, including family rooms.  Fares start at ¥17,000 and range through seven different room/suite classes culminating in a Presidential Suite, which is ¥250,000 per night. Tickets can be purchased online, but much of the website content is only available in Japanese and [[Korean phrasebook|Korean]], and may be difficult to navigate for English speakers.  Tickets are easily obtainable through agents specializing in Korean or Japanese travel. The ferry holds live musical performances, magic shows, and other entertainment on the run. Schedule varies.
+
+You can take your car on the ferry, but there are documentation requirements. The cost for a single basic room and a car is ₩690,000. Room upgrades are available. Temporary insurance must be purchased at the port upon arrival in Osaka.
+
+====Osaka-Shanghai====
+* {{go
+| name=Japan-China International Ferry Co | alt= | url=http://www.shinganjin.com | email=
+| address= | lat= | long= | directions=
+| phone=+81-06-6262-6541, +81-06-6613-5755 | tollfree=
+| hours= | price=Per-person one-way fares range from ¥25,000 (1,250 [[China#Money|Chinese yuan]]) in open tatami cabins to ¥100,000 (5,000 yuan) in a 2-person cabin, or ¥150,000 (7,500 yuan) for a Royal Cabin. 10% discount for students and people with disabilities; return fares are 70% higher
+| wikipedia= | wikidata=
+| lastedit=2026-01-15
+| content=A weekly ferry from [[Shanghai]], [[China]] that takes 45 hours. Passenger service is indefinitely suspended due to the current diplomatic rift between China and Japan. The ferry alternates each week between Osaka and nearby [[Kobe]], providing service every other week to each port. Call +86-21-6326-4357 in China.
+}}
+
+==Get around==
+If you are planning to travel beyond city limits you might consider using the tickets from [[Kansai#Get around|'''Surutto Kansai''']]. For use in Osaka and other cities in the west of Japan, there are some other useful tickets.
+
+* {{listing
+| name=ICOCA smart card | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=¥2000, including a refundable ¥500 deposit and ¥1500 travel credit
+| content=These rechargeable smart cards are available at vending machines at all transport hubs, and can be used on virtually all rail, subway and bus networks in [[Kansai]] area. If you're coming from Tokyo and already have a Suica or Pasmo card, they can be used in and around Osaka as is, so there's no need to buy an ICOCA. Similarly, an ICOCA card can be used interchangeably with Suica and Pasmo cards in Tokyo.
+}}
+* {{listing
+| name=Unlimited Kintetsu Rail Pass | alt= | url=https://www.kintetsu.co.jp/foreign/english/ticket/index.html | email=
+| address= | lat= | long= | directions=Purchase at the Kansai Airport Agency Travel Desk in Kansai International Airport.
+| phone= | tollfree=
+| hours= | price=¥1800/3000/4700 for 1/2/5 days
+| content=This pass is good for unlimited travel within the Kansai region for up to 5 consecutive days. The Kansai region covers Kyoto, Nara, Nagoya, Mie, and more.
+}}
+* {{listing
+| name=Subway and bus one-day Passes | alt= | url=https://osaka-info.jp/information/ticket/travel-passes/index.html | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=The "Enjoy Eco Card" (adults ¥820) offers unlimited one-day travel on all subways and buses, and includes about 30 discounts around town. "Osaka Rakuyu Pass" (大阪楽遊パス, ¥2400/\3000 for 1/2 days) allows entrance to more than 25 tourist spots.
+}}
+
+===By subway===
+[[Image:Wide-Area Map of Osaka City Subway.png|thumb|300px|Osaka Subway Map]]
+
+The '''[https://subway.osakametro.co.jp/en/ Osaka Subway]''' is Japan's second-most extensive subway network after [[Tokyo]], which makes the underground the natural way to get around. The '''Midosuji Line''' is Osaka's main artery, linking up the massive train stations and shopping complexes of ''Shin-Osaka'', ''Umeda'', ''Shinsaibashi'', ''Namba'' and ''Tennoji''.
+
+The signage, ticketing and operation of the Osaka subway is identical to its larger counterpart in Tokyo, and Tokyo's Pasmo/Suica smartcards are accepted as well. You can use the subway with a contactless payment card (credit, debit, prepaid) or a smartphone linked to an eligible card. Fares ¥200-350, depending on distance. Station arrivals are displayed and announced in Japanese and English. Keep your ticket when you enter the train &mdash; it is required when you exit.
+
+When using escalators, '''stand to the right''' to allow people in a hurry to pass you on the left.
+
+===By train===
+True to its name, the '''JR Osaka Loop Line''' (環状線 ''Kanjō-sen'') runs in a loop around Osaka. It's not quite as convenient or heavily-used as Tokyo's Yamanote Line (JR Yamanote Line in Tokyo=Metro Midosuji Line in Osaka), but it stops in Umeda and Tennoji, and by Osaka Castle. Namba and Universal Studios Japan are connected to the Loop Line by short spurs. Fares ¥120-250, depending on distance.
+
+===By bicycle===
+Many residents get around by bicycle, as the city is mostly flat and easily navigable by bike. Riding on the sidewalks is permitted and some sidewalks even have bike lanes marked. If nothing is marked, try to stay to the left where possible (but often you simply need to find the best path through the pedestrians).
+
+Rental bikes are available, but if you are staying longer than a few weeks, purchasing a used bike can be a good deal. Finding a used bike can be a bit tricky, however, particularly if you don't speak Japanese. Craigslist and websites such as Gaijinpot.com have classified listings, and there are a few used bike shops around. [http://www.cycle-renge.com/ Renge], near Osaka Castle, sells a range of used bikes starting at around ¥5500.
+
+You are required to register your bicycle with the police. Bikes registered under a name other than the rider may be considered stolen, and bicycle theft is not uncommon. Bike shops can help with the simple registration process.
+
+===By car===
+It is generally a bad idea to use an automobile to visit Osaka. Many streets do not have names, signs are usually only in Japanese, and parking fees are astronomical. In addition, an international driver's license is required.
+
+==Talk==
+{{see also|Kansai#Talk}}
+{{infobox|Making money?|Reflecting Osaka's mercantile history, the canonical Osakan greeting is ''Mōkarimakka?'' ("Making money?"), to which the typical reply is ''Bochi-bochi denna'' ("Well, so-so"). Trying this out on a friend or acquaintance is guaranteed to produce a surprised smile, and make you look like a ''omoroi'' (funny) guy.}}
+
+Osaka has a distinctive dialect of Japanese, which is favoured by many comedians in Japanese popular culture. The Osaka dialect is traditionally associated with the merchant class and gangsters, and as such is regarded by many Japanese as rather rough-sounding compared to standard Japanese. While generally not a problem for advanced Japanese speakers, it may be difficult to understand if you have just started learning Japanese. All non-elderly locals are able to speak and understand standard Japanese though, so if you don't understand, politely ask them to repeat themselves in standard Japanese (''hyōjungo'' 標準語) and they will usually oblige.
+
+As with most other major Japanese cities, English is spoken in major tourist attractions and large international hotels, but is otherwise not widely spoken.
+
+==See==
+
+[[Image:SkyBuilding ViewUpClose.jpg|thumb|240px|Umeda Sky Building in Shin-Umeda City, Kita.]]
+
+* Osaka's best known sight is the '''[[Osaka/Osaka castle|Osaka Castle]]'''. While it is a reconstruction, it is pretty and has a nice castle park. The reconstruction is basically only skin deep. The interior is a generic late 20th century building, with some display cases containing artifacts related to the original structure. To learn more about the history of Osaka, you can head to the nearby '''Osaka Museum of History'''.
+* '''Hirano Old CIty (平野旧市街)''' in [[Osaka/Hirano|Hirano]] is a well-saved historical city which was originally independent from Osaka. There are many temples and shrines in the city.
+* '''Osaka Science Museum (大阪市立科学館)''' on [[Osaka/Kita|Nakanoshima]] is an interactive activity center with planetarium and cinema.
+* The '''Umeda Sky Building''' is a weirdly shaped building with an observation deck and an escalator suspended between two buildings mid-air. It is near the [[Osaka/Kita|Osaka station]].
+* The '''Sumiyoshi Shrine''' is [[Osaka/South|south]] of the city center. It is one of Japan's oldest Shinto shrines and has a very unusual architecture. It is also famous for a bridge arching over a pond.
+* '''Japan Mint''' is in Osaka and is especially famous for the nearby [[Japan's Top 100 Cherry Blossoms Spots|cherry blossom tunnel road]], a prime spot to see the annual cherry blossom.
+[[Image:Tsutenkaku Tower.JPG|thumb|right|Tsūtenkaku]]
+* The '''Tsūtenkaku''' landmark tower in the [[Osaka/Tennoji|Shinsekai]] area with an observation platform at 91 meters. 
+* The '''Shitennōji temple''' is near the [[Osaka/Tennoji|Tennōji]] station. It is regarded as maybe the first Buddhist temple in Japan dating back to the 6th century. The building of today's temple however, are a reconstruction.
+* In Ryokuchi Park is the '''Open Air Museum of Old Farmhouses''', a collection of Edo period farmhouses. This gives a good insight in the lives of the common people during this period. It is [[Osaka/North|north]] of the city center.
+* The '''Kamigata Ukiyoe Museum'''  in [[Osaka/Minami|Namba]] is dedicated to ''ukiyoe'', Japanese woodblock prints.
+* '''Tobita Shinchi''' in the [[Osaka/South|South]] is Japan's largest red-light district that can easily compete with Amsterdam's one. It is well worth a visit, even though not everyone's taste.
+
+==Do==
+[[Image:Skyline in Osaka.JPG|thumb|400px|Skyline of downtown Umeda, City-Centre Osaka]]
+* '''[[Osaka/Bay Area#Q1191885|Osaka Aquarium Kaiyukan]]''' is one of the world's largest aquariums, with 11,000 tons of water and plenty of sharks (including a whale shark), dolphins, otters, seals, and other sea creatures. Nearby are the '''Tenpozan Ferris Wheel''', the '''Suntory Museum''', a mall, and the ferry to Universal Studios across the water.
+* '''Sumo Spring Grand Tournament''' of Japan's national sport, sumo wrestling, is usually held mid-March at [[Osaka/Minami#Do|Osaka Prefectural Gymnasium]]. 
+[[File:Universal Studios in Japan.jpg|thumb|291x291px|Universal Studios Japan]]
+*  '''Universal Studios Japan''' in the [[Osaka/Bay Area#Do|Osaka/Bay Area]] is Japan's second-largest theme park. 
+* '''Spa World''' in [[Osaka/Tennoji#Do|Tennoji]] offers gender-separated European and Asian-themed spas and saunas, and a pool for the family with slides and fun. Outdoor ''onsen'',   bar, gym, massages and body scrubs.
+* '''National Bunraku Theater''', near the [[Osaka/Osaka castle#Do|Osaka Castle]], is one of the last places in the world where ''bunraku'', a form of intricate puppet theater from the Edo period, can be seen live. The large puppets, which require three operators each, are accompanied by traditional music and narration, and act out great Japanese plays of the 1600s and 1700s. 
+* '''Osaka Shiki Musical Theater''' in [[Osaka/Kita#Do|Kita]], is the home of the Shiki Theatre Company, proposing plays and musicals. Kita ward is also the place to head to see jazz at '''Billboard Live Osaka''' or pop shows at '''Zepp Namda'''. 
+* '''The festival hall''' in Nakanoshima, near Umeda, and '''the symphony hall''' in Umeda host modern and classical recitals, while '''Umeda Koma''' in Umeda, and '''Shin-Kabukiza''' in Uehommachi host ''Enka'' performances. For more independent or underground music, try '''Banana Hall''' in Umeda or ''Big Cat'' in Amerika-mura.
+* '''ROR Comedy''' is an English-language stand-up comedy playhouse in [[Osaka/Minami#Do|Minami]].
+* Touring the Ecomuseum of Hirano, called '''Hirano Machigurumi Museum (平野町ぐるみ博物館)''' is a good way to feel city history and ''ninjo'' (人情) of [[Hirano]] Old City.
+
+==Learn==
+Osaka is home to '''[https://www.osaka-u.ac.jp/en Osaka University]''' (大阪大学), also known by the shortened form 阪大 (''Handai''), one of the elite National Seven Universities in Japan. 
+
+==Work==
+
+The occupation of most resident Americans, Europeans and Australians is [[teaching English]] (as is the case in most of Japan). There are also many international students and staff at various universities in Osaka. The economy in the Osaka region has been relatively stagnant compared to Tokyo's: although there are jobs in law, finance, accounting, engineering and other professional fields in Osaka, demand for foreign professionals tends to be higher in Tokyo (as is pay). Osaka does have several educational publishers that employ foreign workers, but these jobs require fluent Japanese language ability. Temporary work in a variety of industries is available.
+
+==Buy==
+
+* Osaka's most famous shopping district is '''Shinsaibashi''' (心斎橋), which offers a mix of huge department stores, high-end Western designer stores, and independent boutiques ranging from very cheap to very expensive. Within Shinsaibashi, the '''Amerika-mura''' (アメリカ村, often shortened to "Amemura") or "American Village" area is particularly popular among young people, and is often said to be the source of most youth fashion trends in Japan. Just west of Amerika-mura, '''Horie''' (堀江) is a shopping area with fashionable Japanese boutiques, centered around Tachibana-dori (which is often translated as Orange Street).
+* The many shops in Umeda are also popular among trendy locals, particularly in the '''Hep Five''' and '''Hep Navio''' buildings adjacent to Hankyu Umeda Station, although these shops tend to be too expensive to captivate most tourists' interest. For example, the “E-ma” buildings next to Hanshin department store, and “Nu-Chayamachi” (Nu 茶屋町) near Hankyu Umeda station.
+* For electronics, the '''Nipponbashi''' (日本橋) area southeast of Namba, and particularly the "[https://www.nippombashi.jp/ Den-Den Town]" shopping street, was once regarded as the [[Tokyo/Akihabara|Akihabara]] of western Japan; nowadays, more people would rather shop at the new, enormous '''Yodobashi Camera''' (ヨドバシカメラ) in Umeda or '''BicCamera''' (ビックカメラ) and '''LABI1''' in Namba, although Nippombashi still offers good deals on many gadgets, PC components and used/new industrial electronics.
+* For Japanese and foreign books, try '''Kinokuniya''' in Hankyu Umeda Station, or '''Junkudo''' south of Osaka Station.[[Image:Osaka night.JPG|300px|right|Tenjinbashi-suji]]
+* The Official '''Hanshin Tigers''' (baseball team) Shop is on the 8th floor of Hanshin Department Store at Umeda.
+* '''Tenjinbashi-suji''' Shopping Street (天神橋筋商店街 ''Tenjinbashi-suji Shōtengai'') is said to be the longest straight and covered shopping arcade in Japan at approx. 2.6&nbsp;km length.  The arcade is running north–south along Tenjinbashi-suji street, and is accessible from multiple subway and/or JR stations, e.g. Tenma, Minami-Morimachi, and Tenjinbashi-suji 6-chome.  Nothing meant for sightseeing, the arcade is a live exhibition of Osaka's daily life, open since Edo period.
+
+==Eat==
+
+{{SeeDistricts}}
+
+{{quote|京都の着倒れ、大阪の食い倒れ<br/>You will go bankrupt for buying [[Purchasing a kimono|dresses]] in [[Kyoto]], or eating in Osaka.|author=Japanese proverb }}
+
+{{infobox|Okonomiyaki - The DIY Food|Okonomiyaki Osaka style is usually do-it-yourself food at smaller, independent specialized restaurants.  Tables are equipped with embedded hot plates and you'll receive a bowl of ingredients, which you are expected to cook on your own.  However, in larger franchised chains the staff can often cook for you — and even in smaller places staff will usually gladly help if asked.
+
+Should you decide to try your luck on your own, you might want to dress for the occasion: pork slices, the most common topping, are usually very fatty and tend to splatter grease all over the place. Also try ''modanyaki'' which is okonomiyaki with rāmen noodles on top, or put a fried egg on top of the pancake.
+|image=Okonomiyaki by S e i in Osaka.jpg
+|caption=''Okonomiyaki'' cooking on a ''teppan'' grill
+}}
+
+The widest selection of restaurants is in Osaka's main entertainment districts, with the highest concentration of all in the [[Osaka/Kita|Umeda]] and [[Osaka/Minami|Dotombori]] areas.
+
+Even in a nation of obsessive gourmands Osaka is known as an excellent place to eat, exemplified by the Osakan maxim ''kuidaore'', "eat yourself into ruin".  The best place for trying out ''kuidaore'' is probably '''Dōtonbori''' (道頓堀) and neighboring '''Hōzenji-yokochō''' (法善寺横町) or '''Soemon-cho''' (宗右衛門町), the whole area containing nearly nothing but one restaurant after another.
+
+Some typically Osakan foods worth trying include:
+
+* ''Battera'' (バッテラ), is a block type sushi, with mackerel put on rice and squeezed very hard in a wooden box, cut into pieces when served. ''Battera'' sushi is a variant and direct descendant of primitive sushi, this one from Osaka is unique for its squarelike shape.  Available not only in sushi restaurants but also as take-away in department stores and train stations.
+* ''Okonomiyaki'' (お好み焼き), fried cabbage cakes that resemble a cross between a pancake, pizza, and omelette.
+* ''Takoyaki'' (たこ焼き), bits of octopus inside fried eggy dumplings.  The quintessential Osakan street food snack.
+* ''Kushikatsu'' (串かつ), battered and deep-fried skewers of various sorts of food (meat, vegetables, cheese, etc), dipped in a runny black sauce and washed down with beer. Osaka's working class answer to fancy tempura.
+* ''Doteyaki'' (どて焼き), bits of beef tendon stewed in miso broth until they fall apart. Fatty, gelatinous and a common accompaniment to ''kushikatsu''.
+
+<gallery mode="packed">
+File:Mackerel_sushi_(sabazushi).jpg|''Battera'' sushi
+File:Takoyaki @ LaFesta 2013.JPG|A serving of ''takoyaki''
+File:KushikatsuDaruma01.jpg|''Kushikatsu''
+File:Doteyaki 001.jpg|''Doteyaki''
+</gallery>
+
+Okonomiyaki is best eaten in hole-in-the-wall restaurants, while takoyaki is best eaten from street vendors' carts, which can be found all over the major districts around nightfall. The best place to find kushikatsu (串カツ) is in [[Osaka/Tennoji|Shinsekai]], between Dobutsuen-mae and Ebisucho stations on the Sakaisuji subway line.
+
+==Drink==
+{{SeeDistricts}}
+
+There are many nightlife districts in Osaka. Nightlife in Osaka is very popular.
+
+*'''Kitashinchi''' (北新地)
+This area, south of JR Osaka station, is the most famous nightclub and entertainment district of contemporary Osaka. It's just like Tokyo's Ginza, filled with many hundreds of high-class bars, clubs and small restaurants where Japanese businessmen entertain their clients.
+*'''Dotonbori''' (道頓堀)
+This area is the centre of nightlife.
+*'''Hozenji-Yokocho''' (法善寺横丁)
+
+Unlike Tokyo's Kabukicho, Osaka's main red-light district Tobita Shinchi does not have much in the way of nightlife if you are looking to keep your pants on.
+
+==Sleep==
+
+{{SeeDistricts}}
+
+Osaka has a vast range of accommodation, including some of the best hotels in the world. Most of the city's moderate and expensive hotels can be found in Umeda, Namba, Shin-Osaka and Kyobashi, though they also have their share of budget options.
+
+Backpackers have begun to use budget hotels around the JR '''Shin-Imamiya''' (新今宮) and subway Midosuji Line '''Dōbutsuen-mae''' (動物園前) stations, in [[Osaka/Tennoji|Tennoji]] area.  Room quality varies widely and prices vary from ¥800-3000, but there are many options. The area is rather poor and there are many homeless that wander about during the day, but generally they are harmless and safety is not an issue. One benefit of the district being so poor is that prices at the supermarkets and such are generally very low. However, as always use common sense when traveling in unfamiliar areas.
+
+==Connect==
+
+* '''Opti Café''' is a surprisingly cheap internet café in Umeda. ¥100/30min. Yodobashi Camera department store's groundfloor, next to Excelsior Café. You are requested to register for membership but it doesn't cost anything.
+* '''Y-net Cafe''', Labi 1 Namba GF, Nambanaka 2-11-35, Naniwa-ku.  First hour of use is free and no registration needed.
+
+==Cope==
+
+{{listing
+| name=English-speaking doctor | alt=| url=http://miyoshi-clinic.com/ | email=
+| address=See the website http://miyoshi-clinic.com/ for the address and Google Maps. | lat= | long= | directions=near Uehommachi Station
+| phone= | tollfree= | fax=
+| hours= | price=
+| content= Dr Miyoshi speaks good English and is a general doctor and a specialist in gynecology.
+}}
+
+===Consulates===
+* {{flag|Australia}} {{listing
+| name=Australia | url= | email=
+| address=MID Tower Twin 21 29F, 2-1-61, Shiromi, Chuo-ku | lat= | long= | directions=
+| phone = +81 66-941-9271 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+* {{flag|China}} {{listing
+| name=China | url= | email=
+| address=3-9-2, Utsubohommachi, Nishi-ku | lat= | long= | directions=
+| phone = +81 66-445-9481 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+* {{flag|France}} {{listing
+| name=France | url=http://ambafrance-us.org/ | email=
+| address=Crystal Tower 10F, 1-2-27, Shiromi, Chuo-ku | lat= | long= | directions=
+| phone = +81 64-790-1500 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+* {{flag|Germany}} {{listing
+| name=Germany | url=http://germany-info.org/relaunch/index.html | email=
+| address=Umeda Sky Bldg, Tower East, 35F, 1-1-88-3501, Oyodonaka, Kita-ku | lat= | long= | directions=
+| phone = +81 66-440-5070 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+* {{flag|Indonesia}} {{listing
+| name=Indonesia | url=https://www.kemlu.go.id/osaka/en/default.aspx | email=kjri-osaka@indonesia-osaka.org
+| address=Nakanoshima Intes Building 22 F, 6-2-40 Nakanoshima, Kita-ku | lat= | long= | directions=
+| phone = +81 66 6449-9898 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+* {{flag|South Korea}} {{listing
+| name=Republic of Korea | alt= | url=http://overseas.mofa.go.kr/jp-osaka-ja/index.do | email=
+| address=Korean Center Bldg, 2-3-4, Nishi Shinsaibashi, Chuo-ku | lat= | long= | directions=
+| phone=+81 66-211-4092 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+* {{flag|the Netherlands}} {{listing
+| name=Netherlands | url=http://netherlands-embassy.org/dutchmissions.asp | email=
+| address=Twin 21 MID Tower 33F, 2-1-61, Shiromi, Chuo-ku | lat= | long= | directions=
+| phone = +81 66-944-7272 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+* {{flag|the Philippines}} {{listing
+| name=Philippines | url=http://philippineembassy-usa.org/ | email=
+| address=101 Uchiawajicho Advan City, 2-3-7, Uchiawaji-cho, Chuo-ku | lat= | long= | directions=
+| phone = +81 66-910-8962 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+* {{flag|Russia}} {{listing
+| name=Russia | url= | email=
+| address=1-2-2, Nishimidorigaoka, Toyonaka City | lat= | long= | directions=
+| phone = +81 66-848-3451 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+* {{flag|Thailand}} {{listing
+| name=Thailand | url=http://thaiembdc.org/ | email=
+| address=Konoike East Bldg 4F, 3-6-9, Kitakyuhoji-machi, Chuo-ku | lat= | long= | directions=
+| phone = +81 66-243-5563 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+* {{flag|United Kingdom}} {{listing
+| name=United Kingdom | url=http://britainusa.com/consular/embassy/ | email=
+| address=Seiko Osaka Bldg 19F, 3-5-1, Bakuromachi, Chuo-ku | lat= | long= | directions=
+| phone = +81 66-281-1616 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+* {{flag|United States}} {{listing
+| name=United States | alt= | url=https://jp.usembassy.gov/embassy-consulates/osaka/ | email=aok@state.gov
+| address=2-11-5, Nishitemma, Kita-ku | lat= | long= | directions=
+| phone=+81 66-315-5900, +81 3-3224-5000 (After hours emergency) | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+
+==Stay safe==
+===Crime===
+Osaka has a reputation among the Japanese for being crime-ridden, but it is still '''remarkably safe''' compared to any Western city of similar size. However, some areas in the southern suburbs, particularly Shinsekai and Tobita Shinchi, may be a little dodgy at night and the Airin/Kamagasaki area — Japan's largest slum, home to a lot of jobless and/or homeless people — south of Shin-Imamiya is best avoided after dark.
+
+Incidentally, despite the movie stereotype of gangsters speaking in Osakan dialect, the actual base of Japan's biggest ''yakuza'' families is neighboring [[Kobe]] — and the most gang violence occurs in [[Tokyo]].  Unless you're dealing drugs or engaging in prostitution, you're unlikely to get involved with the local mafia.
+
+===Bicycles===
+Osaka is a city where people use bicycles heavily, so much and chaotic that even traffic police regular does "raids" along bicycle ways to check whether cyclist adhere to the rules.
+
+As a pedestrian it can become quite nerve-wrecking to have cyclist speeding on the sidewalk while you are trying to enjoy your travels.
+
+It's better to pay a little more attention in Osaka when changing route or sidewalks. And always try to walk at one side of the sidewalk and not in the middle, so cyclists don't run you over.
+
+==Go next==
+* Its location makes Osaka a '''perfect base''' for doing one-day trips to nearby cities like [[Kyoto]] (30 minutes), [[Kobe]] (20 minutes), [[Nara]] (40 minutes) or [[Himeji]] (1 hour). (Typical times shown on JR Trains available without extra express charges starting from Osaka Station.)
+* The '''Expo Park''' in [[Suita]], the huge commemorial park of the Japan World Expo '70, with its interesting Japanese Garden and Museum of National Ethnology. It's a very large park, and a good place for a picnic.
+* [[Hirakata]] - Home to the child-friendly Hirakata Park and Kansai Gaidai University.
+* '''Church of Light''' (茨木春日丘教会 Ibaraki Kasuga-oka Kyoukai) ([[Ibaraki (Osaka)|Ibaraki]]), one of the masterpiece architecture by Tadao Ando.
+* [[Minō]], a popular maple watching spot in autumn and nature escape all year round. From Hankyu Umeda station take the train to Minō station. It is a pleasant walk to the waterfall (~30 minutes one way) through shady forest, with wild monkeys and deer . Try the local Minoh beer or maple leaves in sweet tempura batter.
+* The temples and lush greenery of [[Mount Koya]], 90 minutes away by train, are an entirely different world and the perfect getaway when all the concrete starts to get to you.
+* [[Akashi Kaikyo Bridge]], the world's longest single-span suspension bridge is near Kobe, about 40 minutes away by train.
+* '''Tokimeki Beach''' is a good get away if you want to spend the day at the seaside. Take the Nankai line from Namba station to Tannowa Station. The trip costs around ¥720 and takes about 45 minutes. The bag and shower service closes at 5PM.
+
+{{routebox
+| image1=Sanyo Shinkansen icon.png
+| imagesize1=100
+| directionl1=W
+| majorl1=[[Hiroshima]]
+| minorl1='''[[Kobe|Shin-Kōbe]]'''
+| directionr1=E
+| majorr1=connects to Tōkaidō line
+| minorr1=END
+
+| image2=Tokaido Shinkansen icon.png
+| imagesize2=100
+| directionl2=W
+| majorl2=connects to Sanyō line
+| minorl2=END
+| directionr2=E
+| majorr2=[[Nagoya]]
+| minorr2='''[[Kyoto]]'''
+
+| image3=JR Kansai icon.png
+| imagesize3=100
+| directionl3=W
+| majorl3=END
+| minorl3=
+| directionr3=E
+| majorr3=[[Nagoya]]
+| minorr3=[[Nara]]
+
+| image4=JR Tokaido icon.png
+| imagesize4=100
+| directionl4=W
+| majorl4=connects to Sanyo Main Line
+| minorl4=[[Kobe]]
+| directionr4=E
+| majorr4=[[Nagoya]]
+| minorr4=[[Kyoto]]
+}}
+
+{{geo|34.693889|135.502222|zoom=11}}
+{{isPartOf|Osaka (prefecture)}}
+{{usablecity}}

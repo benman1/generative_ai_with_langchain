@@ -1,0 +1,138 @@
+{{pagebanner|Mena-asia_default_banner.jpg|pgname=Shiodome}}
+[[File:Shiodome_Layers.JPG|thumb|240px|The hypermodern streets of Shiodome]]
+
+'''Shiodome''' (汐留) is a district of the [[Tokyo/Minato|Minato]] ward of central [[Tokyo]], [[Japan]].
+
+==Understand==
+One of the newest quarters of the city, almost entirely built after 2000, Shiodome has been transformed from a derelict railway cargo terminal to a miniature city of skyscrapers.  Parts of the area still remain under construction but most is now open.
+
+The name "Shiodome" is pronounced /ʃí:.ə.dò.meɪ/ in English & spelt "しおどめ" in [[Hiragana]]. It means keeping out the tide in Japanese, and does not refer to a dome.
+
+==Get in==
+{{Mapframe|35.66123|139.76045|zoom=16|height=650|width=300}}
+{{Mapshapes|Q682894}} <!-- Tokyo Metro -->
+{{Mapshapes|Q247782}} <!-- Toei Subway -->
+{{Mapmask |35.6666,139.7626 |35.6665,139.7617 |35.6665,139.7611 |35.6667,139.7605 |35.6657,139.7597 |35.6644,139.7585 |35.6631,139.7587 |35.6617,139.7587 |35.6609,139.7586 |35.6565,139.7576 |35.6560,139.7602 |35.6574,139.7601 |35.6577,139.7601 |35.6581,139.7600 |35.6587,139.7596 |35.6590,139.7595 |35.6591,139.7595 |35.6594,139.7596 |35.6596,139.7597 |35.6619,139.7615 |35.6628,139.7623 |35.6636,139.7629 |35.6640,139.7632 |35.6644,139.7633 |35.6648,139.7633 |35.6652,139.7632 |35.6655,139.7631 |35.6661,139.7628 |35.6666,139.7626}}
+
+Shiodome is directly accessible via Shiodome station on the
+Yurikamome new transit and Toei O-Edo subway lines.  The bigger train hub of [[Tokyo/Shinbashi|Shinbashi]], on the JR Yamanote line, is also within easy walking distance.  All buildings are connected together by an underground concourse and a web of walkways.
+
+==See==
+* {{see
+| name=Advertising Museum Tokyo | alt=広告とマーケティングの資料館, kōkoku to māketingu no shiryōkan | url=http://www.admt.jp/ | email=
+| address=B1F Caretta Shiodome, Higashi-Shinbashi 1-8-2 | lat=35.66469 | long=139.76217 | directions=
+| phone= | tollfree=
+| hours=Tu-Sa 11:00-18:30 | price=Free
+| content=A small modern museum of the history of advertising in Japan, run by Japan's biggest ad company Dentsu. Probably the most interesting section is war-time propaganda, with posters exhorting the populace to grow pumpkins and apply for permits before listening to the radio. Most exhibits annotated in English.
+}}
+* {{see
+| name=Old Shinbashi Railway Station | alt=旧新橋停車場, Kyū-shinbashi Teishajō | url=https://www.ejrcf.or.jp/shinbashi/ | email=
+| address= | lat=35.6658 | long=139.7614 | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=This faithful reconstruction of the Tokyo terminus of Japan's first railway is built on the site of the original and even showcases the few remaining bits. The inside, however, is now given over to several expensive restaurants and cafés.
+}}
+* {{see
+| name=Panasonic Shiodome Museum of Art | alt=パナソニック汐留美術館 | url=https://panasonic.co.jp/ew/museum/en/ | email=
+| address=4F National Center | lat=35.66582 | long=139.76195 | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=This small museum has only a tiny permanent collection, but houses changing exhibitions.
+}}
+* {{see
+| name=Dentsu Shiki Theater Umi | alt=電通四季劇場 [海], Dentsū shiki gekijō Umi | url=https://www.shiki.jp/theatres/0905/ | email=
+| address= | lat=35.665028 | long=139.762333 | directions=
+| phone= | tollfree=
+| hours= | price=
+| image=Caretta Shiodome and Shiodome Annex.jpg | wikidata=Q11660645
+| content=A theater in the Caretta Shiodome complex where musicals play.
+}}
+
+==Do==
+
+==Buy==
+The largest shopping complex in Shiodome is '''[http://www.caretta.jp Caretta Shiodome]''' (カレッタ汐留) with about 50 shops and restaurants.
+
+* {{buy
+| name=Nittele Shop | alt=日テレ屋 | url=https://www.nitteleya.jp/shiodome | email=
+| address=B2F Nippon Television Tower | lat=35.664419 | long=139.759911 | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=Stocks a vast variety of TV-related goods; much will be unfamiliar to the non-resident, but there's a pretty good selection of Studio Ghibli items too.
+}}
+* {{buy
+| name=Shiodome City Center | alt= | url=https://www.shiodome-cc.com/en/ | email=
+| address= | lat=35.66534 | long=139.76113 | directions=between Shimbashi and Shiodome stations
+| phone= | tollfree=
+| hours= | price=
+| content=Glass tower full of trendy restaurants and shops.
+}}
+
+==Eat==
+Caretta Shiodome has two sections dedicated to eating: '''Canyon Terrace''' (1-3F), for lighter café-style eats, and '''Sky Restaurants''' (46-47F), for gourmet dining with views of Tokyo Bay. If these aren't enough there's another dozen restaurants in the main mall's B2F.
+
+===Mid-range===
+
+==Drink==
+
+==Sleep==
+===Mid-range===
+* {{sleep
+| name=Villa Fontaine Grand Tokyo Shiodome | alt=ヴィラフォンテーヌ グランド東京汐留 | url=https://www.hvf.jp/shiodome/ | email=
+| address=1-9-2 Higashi Shinbashi | lat= | long= | directions=
+| phone=+81 3-3569222 | tollfree=
+| checkin=15:00 | checkout=11:00 | price=¥10,000 for a single
+| content=Giant four-star hotel. All rooms equipped with internet.
+}}
+
+===Splurge ===
+* {{sleep
+| name=Conrad Tokyo | alt=コンラッド東京 | url=https://conradhotels3.hilton.com/en/hotels/japan/conrad-tokyo-TYOCICI/index.html | email=
+| address=1-9-1 Higashi-Shinbashi | lat=35.662925 | long=139.761301 | directions=
+| phone=+81 3-6388-8000 | tollfree=
+| checkin= | checkout= | price=Rooms start from a whopping &yen;52,000
+| image=Conrad Tokyo.jpg | wikidata=Q26237391
+| content=The latest contestant for the heavily competed title of most expensive hotel in Tokyo.
+}}
+* {{sleep
+| name=Park Hotel Tokyo | alt=パークホテル東京 | url=http://www.parkhoteltokyo.com/ | email=info@parkhoteltokyo.com
+| address=Shiodome Media Tower, 1-7-1, Higashi Shimbashi | lat=35.663346 | long=139.759628 | directions=
+| phone=+81 3-6252-1111 | tollfree= | fax=+81 3-6252-1001
+| checkin= | checkout= | price=Rooms start from &yen;19,500 single
+| image=Shiodome Media Tower.jpg | wikidata=Q11329798
+| content=If the Park were any more minimalist, it wouldn't be here at all. This sky-high establishment boasts a light and airy foyer, with inviting lounge and restaurant adjoining.
+}}
+
+==Go next==
+{{routebox
+| image1=Subway TokyoOedo.png
+| imagesize1=30
+| directionl1=W
+| majorl1=[[Tokyo/North|Toshimaen]]
+| minorl1=[[Tokyo/Shinjuku|Shinjuku]] ← [[Tokyo/Roppongi|Roppongi]]
+| directionr1=E
+| majorr1=[[Tokyo/Sumida|Ryogoku]]
+| minorr1=[[Tokyo/Chuo|Tsukiji market]] → [[Tokyo/East|Kiyosumi-Shirakawa]]
+
+| image2=Yurikamome line symbol.svg
+| imagesize2=30
+| directionl2=N
+| majorl2=[[Tokyo/Shinbashi|Shinbashi]]
+| minorl2=
+| directionr2=E
+| majorr2=[[Tokyo/East|Toyosu]]
+| minorr2=[[Tokyo/Odaiba|Daiba]]
+
+| image9=Shuto Urban Expwy Sign C1.svg
+| imagesize9=30
+| directionl9=W
+| majorl9=[[Tokyo/Chiyoda|Kasumigaseki]]
+| minorl9=[[Tokyo/Minato|Shiba park]]
+| directionr9=E
+| majorr9=[[Tokyo/Ginza|Ginza]]
+| minorr9=
+}}
+
+{{geo|35.662778|139.759847}}
+{{usabledistrict}}
+{{IsPartOf|Tokyo/Minato}}

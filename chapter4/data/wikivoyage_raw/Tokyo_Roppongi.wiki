@@ -1,0 +1,453 @@
+{{pagebanner|pgname=Roppongi}}
+
+[[File:Mori tower.jpg|200px|thumb|Roppongi Hills Mori Tower]]
+'''Roppongi''' (六本木) is an expensive section of [[Tokyo]]'s [[Tokyo/Minato|Minato]] ward famous for its nightlife, much of which is geared towards foreigners. It is also a major daytime attraction, with two massive shopping and dining complexes, and various museums.
+
+The area around Roppongi to the south and west is known as '''Azabu''' (麻布). Largely residential and home to many diplomats and wealthy locals, Azabu is generally quieter than Roppongi but has also absorbed some of its vibrant commercial activity and nightlife.
+
+== Understand ==
+
+"Roppongi" literally means "six trees", as six very old and large trees used to mark the area centuries ago. Nothing remains from this period, as the area was first destroyed by the great 1923 earthquake, and then again by World War II bombings.
+
+Driven by the presence of the Japanese (and then American) military, nightlife has been thriving since the 19th century. Since 1960, the disco scene has attracted all party-goers, Japanese and foreigners alike. Even though "Roppongi" is still synonym of "clubbing", the area has become the trendy place for large corporations to have their headquarters: Google, Apple, Yahoo, Goldman Sachs, and even The Pokemon Company. To accommodate this growth, three office/entertainment skyscrapers have been built in the last decade.
+
+Roppongi is the most cosmopolitan place in Japan, with the highest concentration of embassies, consulates and foreign residents, making it a must-see multicultural melting-pot like nowhere else in the country. Roppongi is also a modern art hub. Despite the frenzy, Roppongi has many peaceful green areas, and still is home to many local residents, so don't hesitate to explore the back alleys, you will find small parks, temples, and local life going on.
+
+===Tourist information site===
+The local DMO (Destination Management Organization) has a [https://www.dmo-roppongi.jp/en/index.html bilingual guide site].
+
+==Get in==
+
+<!-- How to update the POI map: Click on it to open the dynamic map, zoom in one time, take a screenshot in fullscreen, crop to the interesting zone (cannot get all POIs though), then save to Wikipedia Commons as a new version of the file, for instance by using this URL: http://commons.wikimedia.org/w/index.php?title=Special:Upload&wpDestFile=POI-Roppongi.png&wpForReUpload=1
+Please note that these directions are NOT for updating the dynamic map. The dynamic map is updated automatically each time you update old lat and long or give decimal lat and long co-ordinates for the first time in our listings template... -->
+<!-- {{Mapframe|35.66271|139.73364|zoom=15|height=540|width=520|staticmap=POI-Roppongi.png}} staticmap was broken by switching to the new maps -->
+
+{{Mapframe|35.66231|139.73356|zoom=15|height=400|width=500}}
+{{Mapshape}}
+{{Mapshapes|Q682894}} <!-- Tokyo Metro -->
+{{Mapshapes|Q247782}} <!-- Toei Subway -->
+
+===By train===
+The '''Tokyo Metro Hibiya Line''' (grey, H04) spans from South-West Tokyo to the North-East, via Ebisu, Ginza, Akihabara and Ueno.
+
+The '''Toei Ōedo Line''' (purple, E23) makes a large "6" shape around Tokyo, it is the best way to come from [[Tokyo/Shinjuku|Shinjuku]] or Yoyogi.
+
+===By bus===
+Until about 21:00, you can catch an eastbound Toei public bus (T01/都01) anywhere along Roppongi-dori (which runs beneath an easy to spot elevated highway), starting at Shibuya station. Mention to the driver you'd like to get off at Roppongi just in case. The other end of the bus route is [[Shinbashi]] station.
+
+===On foot===
+From [[Tokyo/Shibuya|Shibuya]], you can walk east to Roppongi in about 40 minutes via Roppongi-dori. The road runs under an elevated highway, which means you're unlikely to get lost, but there's very little in the way of scenery. In the daytime, you can jump on one of the frequent buses that travel along this road.
+
+Perhaps more interesting is the walk west from the Imperial Palace, which takes about twice as long, but features a view of the Diet Building, some nice parks and other interesting architecture.
+
+Alternatively, take a 10-15 minute walk from Tameike-Sannō ('''Tokyo Metro Ginza Line''', orange, G06), Roppongi-Itchōme ('''Tokyo Metro Namboku Line''', blue-green, N05), or Nogizaka ('''Tokyo Metro Chiyoda Line''', green, N05). As these stations are all located in different areas, best to check a map before setting out.
+
+A nice idea could be to get off at Azabu-jūban ('''Namboku Line''' or '''Ōedo Line'''), enjoy tea or dinner in the main shopping area (exit 4, Azabu-jūban station), before walking north to Roppongi at night (10 minutes).
+
+==See==
+[[File:The National Art Center, Tokyo (cropped).jpg|thumb|The National Art Center]]
+
+*{{see
+| name=Roppongi Crossing | url= | email=
+| address= | lat=35.66330 | long=139.73230 | directions=
+| phone= | tollfree= | fax= | image=Roppongi_night.jpg
+| hours= | price=
+| content=The heart of Roppongi is this big intersection of '''Roppongi-dōri''' (六本木通り), under the elevated highway, and '''Gaien-higashi-dōri''' (外苑東通り). If meeting someone in Roppongi, outside hot pink '''Cafe Almond''' (カフェアマンド) is the place to be.}}
+*{{see
+| name=National Art Center | alt=国立新美術館 | url=http://www.nact.jp/ | email=
+| address=7-22-2 Roppongi | lat=35.66528 | long=139.72634 | directions=Nogizaka stn, exit 6
+| phone= | tollfree=
+| hours=W–M 10:00–18:00 | price=Entry fees vary by exhibition, some are free
+| image={{#property:P18|from=Q1362638}} | wikidata=Q1362638
+| content=Tokyo's latest and greatest art museum, housed in an undulating wave-shaped building designed by Kisho Kurokawa and devoted entirely to changing exhibitions.
+}}
+* {{see
+| name=Sumitomo Collection | alt=泉屋博古館, Sen-oku Hakuko kan | url=http://www.sen-oku.or.jp/english/english-tokyo.html | email=t-info@sen-oku.or.jp
+| address=1-5-1 Roppongi | lat=35.665058 | long=139.741072 | directions=
+| phone=+81-3-5777-8600 | tollfree=
+| hours=Tu-Su 10:00-17:00, closed on Mondays | price=¥520, ¥310 for students, free for children under 15
+| lastedit=2015-10-01
+| content=Since the 19th century, the Sumitomo family has collected art objects, such as bronzes, ustensils and paintings, mostly from Japan and China.
+}}
+
+===Roppongi Hills===
+*{{see
+| name=Roppongi Hills | alt=六本木ヒルズ | wikidata=Q1071084 | url=http://www.roppongihills.com/en/ | email=
+| address=6-10-1 Roppongi | lat=35.66090 | long=139.72942 | directions=Hibiya line, Roppongi station, exit 1C; Oedo line, Roppongi station, exit 3
+| phone=+81 3 6406-6000 | tollfree= | fax= | image=Mori_tower.jpg
+| hours=Daily 07:00–03:00 next day | price=Free
+| content=Roppongi Hills is an expansive shopping and entertainment complex, sleek and modern. It opened with much fanfare and remains popular. It has a number of attractions centered around the 53-story Mori Tower.
+}}
+** {{see
+| name=Mohri Garden | alt=毛利庭園 | url=http://www.roppongihills.com/green/#flg-3 | email=
+| address= | lat=35.66035435360661 | long=139.73067842423916 | directions=Roppongi Hills, Hillside
+| phone= | tollfree= | fax= |image=Mohri Garden.jpg
+| hours=Daily 07:00–23:00 | price=Free
+| content=In 2003, thousands of small Japanese killifish were liberated into this small park's pond after living in [[Space|outer space]] as part as an experiment, they were the first animals to breed in space. You might also see duck families in Spring.
+}}
+**{{see
+| name=Mori Art Museum | alt=森美術館 | wikidata=Q4410434 | url=http://www.mori.art.museum | email=
+| address=Mori Tower, 53F | lat=35.660901 | long=139.729424 | directions=At the left of the Mori Tower building, climb the spiral stairs and walk through the elevated hallway
+| phone=+81 3 5777-8600 | tollfree= | fax= |image=Mori_Art_Museum_entrance.jpg
+| hours=W–M 10:00–22:00, Tu 10:00–17:00 | price=Around ¥1500 depending on the exhibition
+| content=This impressive art gallery hosts special exhibitions. The museum ticket includes admission to Tokyo City View. The '''[http://www.roppongihills.com/museum/ Mori Arts Center Gallery]''' adjacent to the Mori Art Museum requires separate admission (prices vary), not included with the Tokyo City View / Mori Art Museum ticket.}}
+** {{see
+| name=Tokyo City View | url=http://www.tokyocityview.com | email=
+| address=Mori Tower, 52F | lat=35.660901 | long=139.729424 | directions=
+| phone=+81 3 6406-6652 | tollfree= | fax= | image=View of Tokyo Roppongi Hills downtown from Mori Tower.jpg
+| hours=Daily 09:00–24:00 | price=
+| content=This viewing deck gives you a 360º view of the city from 250 meters above sea level. Ticket includes admission to the Mori Art Museum.
+}}
+:* {{see
+| name=Tokyo city model | alt= | url=https://www.thepolisblog.org/2011/09/photo-realistic-model-of-tokyo-braces.html | email=
+| address= | lat= | long= | directions=in the Mori Tower
+| phone= | tollfree=
+| hours= | price=
+| wikipedia= | wikidata=
+| content=A photo-realistic model of downtown Tokyo, with every real-life building photographed and its photo glued onto its 1:1000 scale model. Can be seen by appointment.
+}}
+
+==Do==
+[[File:Mori Garden and TV Asahi.JPG|thumbnail|Have a break at Mohri Garden, in front of TV Asahi]]
+<!-- Building is being demolished right now. Reconstruction? * {{do
+| name=Amuse Musical Theater | alt= | url=http://amuse-musical-theatre.jp | email=ticket@amuse-musical-theatre.jp
+| address=Roppongi 5-11-12 | lat=35.65942 | long=139.73317 | directions=
+| phone=+81 3 5770-7064 | tollfree= | fax=
+| hours= | price=
+| image=Amuse Musical Theater.jpg | wikidata=Q18457443
+| content=Musicals in the theater where Blue Man Group did 1400 performances.
+}}-->
+* {{do
+| name=Karaoke-kan | alt=カラオケ館 | url=http://www.karaokekan.jp/areapopup/index.php?id=114 | email=
+| address=Roppongi 5-1-6 | lat=35.66268 | long=139.73316 | directions=
+| phone=+81 3 5786-9400 | tollfree= | fax= | image=Karaoke-kan Roppongi.jpg
+| hours=Su–Th 12:00–06:00, F Sa 12:00–08:00 | price=¥640 for half an hour, ¥133 before 19:00
+| content=
+}}
+* {{do
+| name=Nagomi Spa and Fitness | url=https://tokyo.grand.hyatt.com/hyatt/pure/spas/ | email=reservation@tyogh.com
+| address=Grand Hyatt Tokyo Hotel, 6-10-3 Roppongi | lat=35.65982 | long=139.72835 | directions=
+| phone=+81 3 4333-1234 | tollfree= | fax=
+| hours=08:00–10:00 daily | price=
+| content=
+}}
+* {{do
+| name=TV Asahi | wikidata=Q908436 | alt=テレビ朝日 | url= | email=
+| address=Roppongi 6-9-1 | lat=35.65985 | long=139.73033 | directions=In Roppongi Hills, on the Azabujuuban side
+| phone= | tollfree= | fax= | image=Aeroflot Manchester United Trophy Tour in Tokyo (13049304225).jpg
+| hours=10:00–18:00 | price=free
+| content=Headquarters of the television network that created Doraemon. Visit the mini-museum, complete with full-size models of the Doraemon world and of other popular Japanese TV shows.
+}}
+* {{do
+| name=Toho Cinemas | alt=TOHOシネマズ 六本木ヒルズ | url=http://hlo.tohotheater.jp/net/schedule/009/TNPI2000J01.do | email=
+| address=Roppongi Hills Keyakizaka | lat=35.65985 | long=139.72963 | directions=Posters can be seen at the back exit of Mori Tower
+| phone=+81 3 5775-6090 | tollfree=
+| hours=09:00–01:00 daily | price=
+| image=Toho_Cinema_Roppongi.jpg
+| content=If you are going to put down the going rate of nearly ¥1800 for a movie in Tokyo, this is the place to do it. Only ¥1000 every 1st and 14th of the month for normal screens. The nine-screen cinema has futuristic decor, THX and reserved seating. On Fridays and Saturdays this theater is open all night, so you can catch a movie if you are staying out late and are planning to catch the morning train.
+}}
+
+===Events and festivals===
+* {{do
+| name=Roppongi Art Night | alt=六本木アートナイト | url=http://www.roppongiartnight.com | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax= |image=Roppongi Art Night 2014.jpg
+| hours=Every year on a Saturday at the end of March, 17:00-05:00 | price=Free
+| content=Modern art invades the whole area from afternoon to the next morning. Many interactive exhibits, fun for kids too.
+}}
+* {{do
+| name=Roppongi Hills Bon Odori & Azabujuban Noryo Festival | alt= | url= | email=
+| address= | lat=35.659677 | long=139.730069 | directions=
+| phone=+81 3-6406-6000 | tollfree= | fax= |image=Yakisoba yatai (Fried noodle stall).jpg
+| hours=Every year at the end of August 17:00-21:00 on Friday, Saturday, Sunday | price=Free
+| content=Locals dance around drums in Japanese yukata dress in the Arena part of Roppongi Hills, expect Doraemon to make a surprise appearance to the delight of the kids. Continue your walk to the adjacent Azabujuban main street where all of the usually expensive restaurants set up a great variety of stalls and sell delicious food at reasonable prices.
+}}
+
+==Buy==
+[[File:RoppongiHills_Mall.JPG|200px|thumb|Shopping in Roppongi Hills]]
+
+Roppongi's top shopping destination is {{marker |type=buy | name=Roppongi Hills | lat=35.66027 | long=139.72910 | url=https://www.roppongihills.com/}}, directly attached to the Mori Tower, featuring lots of upscale fashion boutiques and restaurants targeted towards the shoppers that frequent them. The other shopping mall in the area is '''Tokyo Midtown''', a few blocks north of the Roppongi crossing and covered in the [[Tokyo/Akasaka|Akasaka]] article.
+*{{buy
+| name=Don Quixote | alt=ドン・キホーテ | url=http://www.donki.com/search/shop_detail.php?st_store_id=31 | email=
+| address=Roppongi 3-14-10 | lat=35.66240 | long=139.73469 | directions=
+| phone=+81 3 3479-0479 | tollfree= | fax= |image=Don Quichote Roppongi.jpg
+| hours=24 hours daily | price=
+| content=Discount store, 5 floors of everything you can think of and some things you probably can't, including clothing, electronics, sex toys, costumes and Japanese souvenirs. Second floor sells drinks and food, with a large selection of snacks. One of the cheapest places in town to buy alcohol, including sake and Japanese whiskey.
+}}
+
+==Eat==
+Not surprisingly, Roppongi has a plethora of international restaurants, and generally some of the best restaurants in Tokyo (though some research is needed to find them.)
+
+Below budget? Lunch boxes can be found in any of the many convenience stores for around ¥400, and there are several supermarkets in the area:
+
+===Budget===
+Turkish {{marker |type=eat|name=doner kebab shops|lat=35.66277|long=139.73353|image=Kebab shops in Roppongi.jpg}} and other fast-foods are popular for people getting out of clubs, but there are numerous healthier yet affordable options. Unlike more expensive restaurants, these usually have the same prices for lunch and dinner.
+
+* {{eat
+| name=Fujisoba | alt=富士そば | url=http://fujisoba.co.jp/shop/ | email=
+| address=Roppongi 7-14-10 | lat=35.66325 | long=139.73183 | directions=corner of the Roppongi crossing
+| phone= | tollfree= | fax=
+| hours=24 hours daily | price=¥600 for a good meal
+| content=Small buckwheat noodle place. Healthy and popular with budget-conscious office workers.
+}}
+* {{eat
+| name=Ippudo | alt=一風堂 | url=http://www.ippudo.com/store/tokyo/roppongi.html | email=
+| address= | lat=35.66387 | long=139.73237 | directions=
+| phone= | tollfree=
+| hours= | price=¥1000
+| content=A chain, but one of the best ramens in the area.
+}}
+* {{eat
+| name=TETSU | url=http://www.tetsu102.com/shop | email=
+| address=Roppongi Hills, Metro Hat B2F | lat=35.66151 | long=139.72963 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=¥1000
+| content=Dip cold noodles into tasty thick hot soup, this is ''tsukemen''! Free soup refill. If your soup gets cold, ask for the spectacular ''soup heating iron''.
+}}
+* Numerous fast-food chains are available, including Subway, McDonald's, and SoupStock.
+* {{eat
+| name=Go!Go!Curry | alt=ゴーゴーカレー | url=http://www.gogocurry.com/shop_1018.html | email=
+| address= | lat=35.66361 | long=139.73258 | directions=Corner of the Roppongi crossing, on the right of the Softbank store, downstairs
+| phone= | tollfree= | fax=
+| hours= | price=¥800
+| content=Japanese-style curry rice.
+}}
+
+===Mid-range===
+Around '''Roppongi Crossing''':
+* {{eat
+| name=Tsurutontan | alt=つるとんたん | url=http://www.tsurutontan.co.jp/shop/roppongi-udon/ | email=
+| address=Roppongi 3-14-12 | lat=35.66241 | long=139.73431 | directions=
+| phone=+81 3 5786-2626 | tollfree= | fax= | image=Tsurutontan Roppongi.jpg
+| hours=11:00–08:00 | price=¥1500
+| content=Huge delicious ''udon'' noodles. If you are very hungry, ask for twice or triple serving, it is free! Great udon, comfy atmosphere, but expect to wait 20 minutes before getting a seat.
+}}
+* {{eat
+| name=Bangkok | url= | email=
+| address=3-8-8, Woo Bldg, 2F | lat=35.66340 | long=139.73473 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=A lunchtime legend. Pad thai special on Thursdays (¥980) is divine.
+}}
+* {{eat
+| name=yelo | alt= | url=http://yelo.jp | email=
+| address=Roppongi 5-2-11 | lat=35.662304 | long=139.733337 | directions=
+| phone=+81 3-3423-2121 | tollfree= | fax=
+| hours=10:00 to 05:00 the next day | price=¥1000
+| lastedit=2015-07-17
+| content=Not really hungry? Go for shaved ice with toppings like you've never seen before. Try the tiramisu, watermelon or organic carrot mascarpone.
+}}
+
+===Splurge===
+
+* {{eat
+| name=Atelier de Joel Robuchon | alt= | url=http://www.robuchon.jp/latelier-en | email=
+| address=Roppongi Hills Hillside 2F, 6-10-1 Roppongi | lat=35.660197 | long=139.728804 | directions=
+| phone=+81 3 5772-7500 | tollfree= | fax=
+| hours=11:00–22:00 daily | price=
+| content=The first overseas venture of the eponymous [[Paris]]-based Michelin-starred chef. Each dish is a work of art almost as breathtaking as the price tag, as courses cost ¥2900–12,800 &mdash; still a steal by Tokyo gourmet standards. Reservations by telephone only.
+}}
+* {{eat
+| name=Fukuzushi | alt=福鮨 | url=http://www.roppongifukuzushi.com | email=
+| address=5-7-8, Roppongi | lat=35.661237 | long=139.734111 | directions=behind Hard Rock Cafe
+| phone=+81 3 3402-4116 | tollfree= | fax=
+| hours=11:30–14:00, 17:30–23:00 daily | price=¥10000
+| content=Sushi place. Set menus are available, and their ¥3000 lunch set is excellent. Dress code: No sleeveless for men.
+}}
+
+* {{eat
+| name=Roku Roku | alt=六禄 | url=http://restaurants.tokyo.grand.hyatt.com/roku-roku-restaurant/ | email=
+| address=Grand Hyatt 6F, Roppongi Hills | lat=35.65988 | long=139.72833 | directions=
+| phone=+81 3 4333-8788 | tollfree= | fax=
+| hours=11:30–14:30, 18:00–21:30 daily | price=
+| content=This complex of six restaurants on the sixth floor is a good choice if price is not an issue. You can choose between sushi, steak, Japanese and Chinese, and will be looking at upwards of ¥5000 per head on the bill.
+}}
+* {{eat
+| name=Sushi Saito | alt=鮨さいとう | url= | email=
+| address= | lat=35.665371 | long=139.739589 | directions=In first floor of ARK Hills South Tower
+| phone=+81 3-3589-4412 | tollfree= | fax=
+| hours= | price=
+| lastedit=2016-12-29
+| content=Described as somewhat of a hidden gem, this three Michelin star restaurant run by renowned "sushi maestro" Takashi Saito. With just eight seats, reservations should be made early.
+}}
+
+==Drink==
+[[File:Propaganda_Inside.JPG|thumb|240px|Party time in Propaganda]]
+
+Roppongi is the place to be (late) at night, although you might expect to encounter some non-Japanese street promoters, urging you to just take a free look in their strip clubs, and occasionally trying to shake your hand. The scene continues late into the night, and many bars, clubs, and discos are open until 04:00-05:00 when the first trains run in the morning.
+
+There are innumerable watering holes, and generally speaking, first floor and ground floor establishments cater to young adults and foreigners while higher stories feature more exclusive clubs aimed at slightly older Japanese males. An ID is required by many clubs, so bring along your passport. Note that many of the clubs are ''very'' small, and leaving and re-entering without paying the entry charge again is often not possible.
+
+Beware of touts inviting you into clip joints, some of which will go so far as to spike your drinks to wring you dry. Avoid going to a bar you've never heard of with someone that you didn't know before your journey. Leave your credit cards at home, since in a bid to combat fraud an increasing number of '''bars accept only cash''' anyway.
+
+===Bars for drinking===
+
+These bars are perfect for those who came to enjoy the taste of beer rather than for dancing.
+
+* {{drink
+| name=Abbott's Choice | url=http://authenticbar.com/abbots-choice | email=
+| address=Kato Building, 2F, 5-1-5 Gaien-Higashi | lat=35.66276 | long=139.73305 | directions=
+| phone=+81 3 3475-0353 | tollfree= | fax= | image=Abbot's Choice Roppongi.jpg
+| hours=M–Sa 17:00–08:00, Su 18:00–06:00 | price=Free entrance, ¥700 drinks
+| content=Small, decent bar with NYC pop radio. Attracts a nice mix of tourists, expats and locals. A really welcome respite from the overpriced and overrated bars in the surrounding area.
+}}
+* {{drink
+| name=BrewDog | alt= | url=https://www.brewdog.jp/bar/ | email=roppongi@brewdogbar.jp
+| address=5-3-2 Roppongi | lat=35.662143 | long=139.733423 | directions=
+| phone=+81 3-6447-4160 | tollfree=
+| hours=M-F 17:00-00:00, Sa Su 15:00-00:00 | price=About ¥750 per beer
+| image=Brewdog Roppongi.jpg
+| lastedit=2015-04-09
+| content=The only Japanese antenna of the Scottish franchise, this bar has twenty different European and Japanese craft beers on tap.
+}}
+
+===Bars for partying===
+
+These bars are open all night, and dancing is the norm. Usually entrance is free but drinks can be more expensive than in real clubs.
+
+* {{drink
+| name=Bar Quest Roppongi |alt=| url=http://www.barquest.tokyo/ | email=
+| address=3F Rene No.2 Bldg, 5-3-1 | lat=35.66215 | long=139.73346 | directions=
+| phone=+81 3 5414-2225 | tollfree= | fax=
+| hours=Su–Th 19:00–07:00, F Sa 19:00–10:00 | price=¥500 per drink
+|lastedit=2018-02-17| content=Serves a selection of Aussie lagers including VB, Crown Lager and Coopers, cocktails and meat pies. A big-screen TV and a wide range of music played by DJs provide ongoing entertain­ment. You can also kick back Australian-style along the U-shaped bar.
+}}
+* {{drink
+| name=Motown | url=http://www.motownhouse.com | email=motownhouse1@motownhouse.com
+| address=Roppongi 3-11-5 | lat=35.66293 | long=139.73319 | directions=
+| phone=+81 3 5474-4605 | tollfree= | fax=
+| hours=18:00–05:00 daily | price=
+| content=Up a flight of stairs to the left of TGI Friday's. No cover except for special events, drinks are reasonable and the staff is English friendly. Popular among expats for its smaller size and music selection, you can often find groups or solo western businessmen (and women) on expense accounts into the wee hours of the morning. Does get crowded at times, so go early if you actually want enough space to dance.
+}}
+* {{drink
+| name=Shot Bar Propaganda | alt= | url=http://propaganda6.tokyo/ | email=
+| address=Yua Roppongi Building 2F, 3-14-9 Roppongi | lat=35.66223 | long=139.73487 | directions=
+| phone=+81 3 3423-0988 | tollfree=
+| hours=18:00–05:00 daily | price=Drinks ¥800–1000 (half price before 21:00), no cover charge
+| image=Propaganda Roppongi.jpg
+| content=An appropriately grubby joint decorated with propaganda posters and booming bass, playing mostly recent hits. While best known for its shots (check out the leaderboards!), their other drinks are pretty decent too and they have quite a selection of American whiskeys. The friendly staff parties as hard as the customers.
+}}
+
+===Clubs===
+[[File:Roppongi night.jpg|200px|thumb|Gaien Higashi street]]
+
+Most of the clubs are in the Gaien Higashi street, at the right of subway exit 3.
+
+* {{drink
+| name=1AOK | alt= | url=http://www.1oaktokyo.com | email=info@color-tokyo.com
+| address=Roppongi 5-10-25 | lat=35.65934 | long=139.73246 | directions=
+| phone=+81 3 6447 2002 | tollfree= | fax= | image=1AOK first night.jpg
+| hours= | price=
+| content=Dance music, plays the top hits of the moment.
+}}
+* {{drink
+| name=IBEX | url=http://ibex-tokyo.net | email=info@ibex-tokyo.net
+| address=Aries Bldg. 4F, 3-15-24 Roppongi | lat=35.66253 | long=139.73534 | directions=
+| phone=+81 3 3746-1075 | tollfree= | fax=
+| hours= | price=Cover ¥1500 with 1 drinks
+| content=Hip-hop, R&B, and reggae club.
+}}
+* {{drink
+| name=Odeon Club | alt= | url=http://www.odeon-bar.com | email=info@odeon-bar.com
+| address=HanaTsubaki Bldg. 3F, 3-15-23 Roppongi | lat=35.66238 | long=139.73514 | directions=
+| phone=+81 3 3478-4555 | tollfree= | fax=
+| hours=20:00-05:00 daily | price=Cover ¥1000 with 1 drink
+| lastedit=2017-11-09
+| content=Mix of hip-hop and techno. one of the most popular after hours nightclubs open from 22:00 until 12:00 the next day
+}}
+<!-- Replaced by another bar. Must check if same under a new name, or totally different? * {{drink
+| name=Soul Sonic Boogie | url=http://www.soulsonicboogie.com | email=
+| address=5-18-2 Roppongi | lat=35.66126 | long=139.73736 | directions=at the end of the strip towards Tokyo Tower
+| phone=+81 3 3584-7890 | tollfree= | fax= | image=Soul Sonic Boogie.jpg
+| hours= | price=
+| content=Specializing in old-school funk/soul/disco. Put on your platform soles, comb your 'fro, and boogie on back to 1979.
+}}-->
+
+==Sleep==
+Sleeping is probably the last thing on your mind when here. There are plenty of places to hang out between the last train and the first one in the morning, but not surprisingly, very few of them are inexpensive.
+
+Note that if you are a foreigner, then all hotels will require your actual passport in order to make a photocopy. These are all legitimate hotels, not love hotels. So if you find yourself needing a love hotel, your best bet is to take a cab to Shibuya.
+
+<!-- ===Budget===-->
+
+===Mid-range===
+* {{sleep
+| name=Hotel Villa Fontaine Roppongi | url=http://www.hvf.jp/roppongi/ | email=
+| address=Roppongi 1-6-2 Izumi Garden | lat=35.66418 | long=139.73954 | directions=direct connection to Roppongi Itchome station (Namboku line)
+| phone=+81 3 3560-1110 | tollfree= | fax=+81 3 3560-1388
+| hours= | price=From ¥10,000 per night (with great weekend specials from ¥6300)
+| checkin=15:00 | checkout=11:00
+| content=Nice and spacious rooms targeting business travelers.
+}}
+* {{sleep
+| name=the b | url=http://www.ishinhotels.com/theb-roppongi/en/index.html | email=
+| address=3-9-8 Roppongi | lat=35.66414 | long=139.73450 | directions=
+| phone=+81 3 5412-0451 | tollfree= | fax=+81 3 5412-9353
+| hours= | price=From ¥9000, with regular special discount offers when booking via the homepage (special offers available in Japanese only)
+| checkin=15:00 | checkout=11:00
+| content=Super centrally located at Roppongi Crossing (center of night life area), 2 minutes to subway Hibiya and Oedo line, renovated in spring 2006, nice but small rooms.
+}}
+* {{sleep
+| name=Candeo Roppongi | alt=カンデオホテルズ東京六本木 | url=https://www.candeohotels.com/en/tokyo-roppongi/ | email=
+| address= | lat=35.66227 | long=139.73255 | directions=
+| phone=+81 3 54136950 | tollfree=
+| checkin= | checkout= | price=Double from &yen;10,000
+| lastedit=2021-11-02
+| content=A flashy upgrade on Japanese business hotels, rooms here are compact but everything else is a distinct step up. The free 16th floor ''rotenburo'' (open-air hot spring) with views of the city is a particular treat, especially on a cold winter night. Pick a rate that includes breakfast, which spans both Western and Japanese selections.
+}}
+
+===Splurge===
+* {{sleep
+| name=Grand Hyatt Tokyo | url=https://tokyo.grand.hyatt.com/ | email=
+| address=6-10-3 Roppongi | lat=35.65968 | long=139.72814 | directions=In Roppongi Hills
+| phone=+81 3 4333-1234 | tollfree= | fax=+81 3 4333-8123 |image=Grand Hyatt Tokyo.JPG
+| hours= | price=Rack rates marginally cheaper than the Park Hyatt at ¥37,000 and up
+| checkin=15:00 | checkout=12:00
+| content=A part of Roppongi Hills, and not to be confused with the more famous Park Hyatt of ''Lost in Translation'' fame, which is in [[Tokyo/Shinjuku#Sleep|Shinjuku]]. Sleek and minimalistic, all black, gray and brown, with expensive design that never hesitates to sacrifice function for form, but the superlative service makes up for it.
+}}
+
+==Stay safe==
+[[File:Typical Roppongi night scene.jpg|thumbnail|Touts see you coming]]
+Roppongi has, by Japanese standards, a slightly dangerous reputation and even makes it onto the US Department of State's Consular Information Sheet, probably mostly for lack of anything else to warn about. The main hazard is '''drunken fights''', which should be steered clear of, as standard operating procedure for the police is to grab everybody in the vicinity and lock them up until things are sorted out, which may take some time. Some petty theft also occurs in crowded bars and clubs. In case of problem or for lost/stolen items, a police station can be found easily at the Roppongi Crossing.
+
+While that is the general perception of Roppongi, it is far less dangerous than the other major areas that cater to foreigners in Asia. It is not even the most dangerous place in Tokyo in terms of clubs hustling customers: that distinction goes to [[Tokyo/Shinjuku|Kabukichō]] and its Yakuza-owned hostess bars. Remember that, even if Roppongi is slightly dangerous by Japanese standards, Japanese crime standards are very different than those in much of the world. Roppongi is very safe, as long as you are not there during an earthquake. Many young women walk on the street alone late at night in complete comfort. The main danger is to your wallet.
+
+Be wary of '''hustlers on the streets''', who will often try to talk foreigners into going to hideously overpriced gentleman's bars or clubs – the extent of the overpricing may not even be apparent until you get the bill at 05:00. They can be quite persistent, especially if they think you might be in the military, but don't get angry or even speak with them: they will leave you alone after 10 seconds if you just keep walking and ignore them completely. Some clip joints send foreign female confederates into other bars to pick up clueless-looking targets, and some have been known to '''spike your drink''' and then ravage your credit card while you're out cold. If you want to escape Roppongi with your wallet intact, stick to places with a sizable crowd, and don't bring your credit card, as many places don't accept them anyway. Never go to a gentleman's bar suggested by someone you just met, and as usual, don't leave your drinks unattended.
+
+==Go next==
+* Walk 15 minutes to Tokyo Tower and the Zojoji temple, described in the [[Tokyo/Minato|Minato]] article.
+* Complete a night of decadent debauchery with a sushi breakfast at [[Tokyo/Tsukiji|Tsukiji]], a few stops down the Oedo Line.
+* [[Tokyo/Shibuya|Shibuya]] (3km) and [[Tokyo/Aoyama|Aoyama]] (2 km) are within walking distance. (Or, if it's daytime, take a ¥210 bus.)
+
+{{routebox
+| image1=Logo of Tokyo Metro Hibiya Line.svg
+| imagesize1=30
+| directionl1=W
+| majorl1=[[Tokyo/Meguro|Nakameguro]]
+| minorl1=[[Tokyo/Ebisu|Ebisu]]
+| directionr1=E
+| majorr1=[[Tokyo/Akihabara|Akihabara]]
+| minorr1=[[Tokyo/Ginza|Ginza]] → [[Tokyo/Chuo|Tsukiji]]
+
+| image2=Subway TokyoOedo.png
+| imagesize2=30
+| directionl2=N
+| majorl2=[[Tokyo/North|Toshimaen]]
+| minorl2=[[Tokyo/North|Nerima]] ←[[Tokyo/Shinjuku|Shinjuku]]
+| directionr2=E
+| majorr2=[[Tokyo/East|Kiyosumi-Shirakawa]]
+| minorr2=[[Tokyo/Shiodome|Shiodome]] → [[Tokyo/Chuo|Tsukiji market]]
+
+| image10=Shuto Urban Expwy Sign 0003.svg
+| imagesize10=30
+| directionl10=W
+| majorl10=[[Yokohama]]-[[Machida]]
+| minorl10=into [[File:Tomei Expwy Route Sign.svg|80px]] ← [[Tokyo/Setagaya|Yoga]]
+| directionr10=E
+| majorr10=[[Tokyo/Ginza|Ginza]]
+| minorr10=[[Tokyo/Minato|Takagicho]] → into [[File:Shuto Urban Expwy Sign C1.svg|30px]]
+}}
+
+{{guidedistrict}}
+{{geo|35.66314|139.73242|zoom=15}}
+{{IsPartOf|Tokyo/Minato}}

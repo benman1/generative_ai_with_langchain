@@ -1,0 +1,441 @@
+{{pagebanner|Tokyo banner Shibuya crossing.png|caption=Pedestrians on Shibuya Crossing}}
+[[File:Tokyo_Wikivoyage_locator_maps_-_Shibuya.png|120px|thumb|right|Location of Shibuya in Tokyo]]
+'''Shibuya''' (渋谷) is a shopping and eating district of [[Tokyo]] popular with a lot of young Tokyoites. It deserves a prize for having more two-story televisions than any other area in the world.
+
+[[Harajuku]] and [[Tokyo/Ebisu|Ebisu]] areas in the ward have separate articles.
+
+(For listings directly connected to Shinjuku station, see [[Shinjuku]] article.)
+
+==Understand==
+[[File:Shibuya-Crossing-Evening-01.jpg|thumb|350px|Shibuya Crossing at night]]
+Most of the action is in the hectic blocks northwest of Shibuya railway station. The best place to get oriented is the '''Hachikō''' (ハチ公) exit, which opens onto Shibuya Crossing, the famous five-way pedestrian scramble crossing under the giant video screen.  From left to right at the edges of the square are:
+
+# Keio Inokashira line station
+# '''Dōgenzaka''' (道玄坂) slope
+# 109 building
+# '''Bunkamura-dōri''' (文化村通り) street
+# '''Center-gai''' (センター街 ''Sentaa-gai'') street
+# Q-FRONT building featuring a monstrous video screen
+# '''Kōen-dōri''' (公園通り) street
+## '''Inokashira-dōri''' (井の頭通り), branching to the left after the Seibu Department Store
+# MAGNET building
+# JR line tracks to [[Tokyo/Harajuku|Harajuku]].
+
+The area to the south of the station is bounded by a highway, so there's not much more than bus terminals (on both sides) and the Tōkyū Plaza department store. Past the highway, some redevelopment is going on, including [https://shibuyastream.jp/ Shibuya Stream] building and [https://www.shibuya-sakura-stage.com/ Sakura Stage] complex (due open 2024). The two major roads heading east from the station continue to [[Tokyo/Aoyama|Aoyama]] and [[Tokyo/Roppongi|Roppongi]].
+
+Two large shopping districts in Shibuya have their own articles.
+* [[Tokyo/Harajuku|Harajuku]] with Omotesando street, Yoyogi Park and the Meiji Jingu shrine
+* The nightlife district of [[Tokyo/Ebisu|Ebisu]] in the south of Shibuya
+
+===Tourist information site===
+The local tourist association has a Japanese-only guide site, [https://play-shibuya.com/ Play! Diversity Shibuya], with integrated machine translation.
+
+==Get in==
+{{Mapframe|35.66651|139.69464|zoom=13|name=Shibuya (with [[Tokyo/Harajuku|Harajuku]] shaded green and [[Tokyo/Ebisu|Ebisu]] shaded blue)}}
+{{Mapshape}}
+{{Mapshape|type=page|wikicommons=Harajuku_for_Wikivoyage.map}}
+{{Mapshape|type=geoshape|wikidata=Q1203521|fill=#0033cc|title=[[Tokyo/Ebisu|Ebisu]]}}
+{{Mapshapes|Q682894}} <!-- Tokyo Metro -->
+{{Mapshapes|Q247782}} <!-- Toei Subway -->
+{{mapshape|wikidata=Q225095|type=geoline|stroke=#00b48d|stroke-width=4|stroke-opacity=1}} <!-- Rinkai Line -->
+
+===By plane===
+One-seat train service is available from [[Tokyo Narita Airport|Narita Airport]] to Shibuya on the '''Narita Express'''. Trains run every 30-60 minutes and make the run to Shibuya in 70 minutes at a cost of ¥3190. Alternatively you can take the '''Keisei Skyliner''' to Nippori station and change to the JR Yamanote Line (approx. 75 minutes, ¥2670).
+
+Budget travelers can take a regular Keisei limited express from Narita Airport to Nippori and change to the Yamanote Line (approx. 110 minutes, ¥1230). In the evenings, faster '''Access Tokkyu''' trains from Narita Airport to Nippori shave 20 minutes off the overall travel time against an extra charge of ¥210.
+
+'''Airport limousine buses''' run from Narita to the Shibuya Excel Hotel Tokyu and the Cerulean Tower Tokyu Hotel (90-120 min, ¥3100). Discount bus tickets for foreigners are available to the Tokyo City Air Terminal, or T-CAT (1 hour, ¥1900); from there, the Tokyo Metro Hanzomon Subway can bring you to Shibuya Station (20 min, ¥200).
+
+From Haneda Airport, Shibuya can be reached by taking the Keikyu Airport Line to [[Tokyo/Shinagawa|Shinagawa]] and changing to the JR Yamanote Line (approx. 35 minutes, ¥580). Limousine buses also run from Haneda to the hotels listed above (1 hour, ¥1030).
+
+===By train===
+[[File:Shibuya_District_at_Night_2015_(17810219251).jpg|thumbnail|Shibuya Station]]
+Shibuya's station is a notoriously convoluted web of passageways. Follow the signage and you should find your way out (or in).
+
+* '''JR''' Yamanote Line, Saikyo Line, Shonan-Shinjuku Line
+* '''Tokyu''' Tōyoko Line, Den-en-toshi Line
+* '''Keio''' Inokashira Line
+* '''Tokyo Metro''' Ginza Line [[File:Subway TokyoGinza.png|20px]](G01), Hanzomon Line [[File:Subway TokyoHanzomon.png|20px]] (Z01), Fukutoshin Line [[File:Subway TokyoFukutoshin.png|20px]] (F16)
+
+You can also walk to [[Tokyo/Ebisu|Ebisu]] and [[Tokyo/Harajuku|Harajuku]] (where you could catch JR Yamanote Line trains), and Omotesando (where you could catch Tokyo Metro Lines).
+
+The Tōkyū Tōyoko line is the cheapest and most convenient way to visit [[Yokohama]]. It is several stories underground where services continue on to the Tokyo Metro Fukutoshin Line for points north.
+
+==See==
+
+{{infobox|A symbol of loyalty|Hachikō, an Akita dog, was born in 1923 and taken as a pet by Hidesaburō Ueno, a Tokyo University professor in his 50s, who loved Hachiko very much and doted on him constantly, taking him for long walks, always brushing him, and even taking baths with him inside the home. He treated Hachiko as truly one of the family.
+
+For a year, Hachiko always walked to the train station with Ueno in the mornings, going home by himself. He would then return every day exactly when the train was due, to wait outside the station for to Ueno come home. Locals and train station staff recognized the pair and knew that they had a special bond.
+
+On May 21, 1925, Ueno died suddenly while he was teaching at the university. Hachiko went to pick up Ueno from the station as usual, but he never came. However, Hachiko never stopped waiting. Although taken in by Ueno's former gardener, for almost 10 more years Hachiko returned to the station exactly when the train was due, to wait for Ueno. The story was picked up and popularized by Japanese newspapers, and "Faithful Dog Hachiko" (忠犬ハチ公 ''chūken Hachikō'') became a minor celebrity while he lived, attending the inauguration of his own statue in 1934. He passed away the next year, but his story lives on &ndash; and you can still pay him a visit in the collections of the National Science Museum in [[Tokyo/Ueno|Ueno]] ward, or see a statue of him reunited with Ueno at the University of Tokyo campus in [[Tokyo/Bunkyo|Bunkyo]]. You can also visit Hachiko's hometown of [[Odate]], or see a statue of the pair in Ueno's hometown of Hisai in [[Tsu]], Mie prefecture. You can pay your respects at the graves of Ueno and his unmarried partner of 10 years Yaeko Sakano, whom Hachiko also loved, in Aoyama Cemetery in [[Tokyo/Minato|Minato]].}}
+* {{see
+| name=Shibuya Crossing | alt= | url= | email=
+| address= | lat=35.659503 | long=139.700544 | directions=
+| phone= | tollfree=
+| hours= | price=
+| image=1 shibuya crossing 2012.jpg | wikidata=Q21083961
+| lastedit=2023-12-30
+| content=The famous crossing sees people crossing in every direction en masse. The second floor of the Starbucks has been a great spot to take photos of the crazy pedestrian crossing. The coffee shop closed in 2023 for renovation of the building and is due to reopen late April 2024 with a larger cafe/lounge.
+}}
+* {{see
+| name=Hachikō | alt=ハチ公 | url= | email=
+| address= | lat=35.659048 | long=139.700579 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Hachikō | image=Faithful_Dog_Hachiko_Photo.png | wikidata=Q186486
+| content=A diminutive statue of a dog tucked away in one corner of the big plaza outside the station, best known as a meeting place and for the story (see box). It is also the name of one of the many exits from Shibuya Station and the prime meeting place before a night out. Just hanging out near Hachiko for a while will give you some great people-watching.
+}}
+* {{see
+| name=Center Gai | alt=センター街 Sentaa-gai | url= | email=
+| address= | lat=35.659835 | long=139.700104 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=The narrow street leading away from the station to the left of the giant video screen, it's famous as the birthplace of many of Japan's youth fashion trends. Center Gai is jam-packed with clothing stores, music stores, and video game arcades. This is a great place to stroll and feel the Shibuya vibe.
+}}
+* {{see
+| name=Moyai statues | alt=モヤイ像 | url= | email=
+| address= | lat=35.65731 | long=139.69993 | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=Another popular meeting spot, this time on the south side of the station, the two Moyai statues here are a spin on [[Easter Island]]'s famous ''moai'', made from volcanic pumice on [[Niijima]] in the [[Izu Islands]] far south of Tokyo. This, not the originals, was the inspiration for the 🗿 emoji.
+}}
+* {{see
+| name=Bunkamura | alt= | url=https://www.bunkamura.co.jp/english/ | email=
+| address= | lat=35.660232 | long=139.695571 | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=Bunkamura-dori. A complex featuring an excellent art museum, in addition to theaters for film and stage plays. On the basement floor there's an art and design bookstore as well as a branch of [[Paris]]' famous '''Les Deux Magots''' caf&eacute;.
+}}
+* {{see
+| name=Hikarie | alt=渋谷ヒカリエ | url= | email=
+| address= | lat=35.658846 | long=139.703049 | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=Hikarie is a massive building on the east side of Shibuya Station with many restaurants, galleries, and theaters. Opened in 2012.
+}}
+* {{see
+| name=Myth of Tomorrow | alt=明日の神話, Ashita no shinwa | url= | email=
+| address= | lat=35.658445 | long=139.699227 | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=A huge mural by famous artist Tarō Okamoto, it commemorates the Hiroshima atomic bombing. A human figure in it burns and others appear to run from flames. The mural is at the entrance of the Inokashira line, 100 m from Hachikō. It was built in Mexico, found there in 2004 and brought to Japan in 2005. '''Under repair from Oct 2023.'''
+}}
+* {{see
+| name=Yamatane Museum of Art | alt=山種美術館, Yamatane bijutsukan | url=http://www.yamatane-museum.jp/english/index.html | email=
+| address= | lat=35.653174 | long=139.713641 | directions=a short walk from Ebisu station
+| phone=+81 3-3239-5911 | tollfree= | fax=
+| hours=Daily 10:00-17:00 | price=&yen;600 per adult
+| wikipedia=Yamatane Museum | image=Yamatane Museum Tokyo.jpg | wikidata=Q3329572
+| content=Specializes in modern Japanese-style paintings and has a notable collection, though only a handful are on display at one time due to preservation issues.
+}}
+* {{see
+| name=NTT DoCoMo Building | alt=sometimes called DoCoMo Tower | url= | email=
+| address= | lat=35.684361 | long=139.70325 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=NTT Docomo Yoyogi Building | image=NTT DoCoMo Yoyogi Building 2009 cropped.jpg | wikidata=Q2090752
+| content=This gigantic tower resembling a granite Empire State Building, south of the Shinjuku Station, is owned by NTT DoCoMo, Japan's largest cell-phone carrier. The upper part of the building is a mobile communications tower.
+}}
+
+==Do==
+There are movie theaters and electronics stores nearby.
+* {{see
+| name=Tokyo Anime Center | alt=東京アニメセンター | url=https://tokyoanimecenter.jp/ | email=
+| address=2F Shibuya MODI, Jinnan 1-21-3, Shibuya-ku | lat= | long= | directions=go north from JR station, past Seibu department stores
+| phone= | tollfree=
+| hours=11:00-20:00 | price=Free, except for special exhibitions
+| wikipedia=Tokyo Anime Center | image=Tokyo Anime Center 20160211(2).JPG | wikidata=Q6128676
+| content=Offers information, showings, demonstrations, and events centered around animation and gaming. In the recording studio, visitors can experience a post-recording on certain days.
+}}
+
+==Buy==
+[[File:Keiobus-higashi D21042 Hachiko-Bus.jpg|thumb|right|The iconic 109 Building and ''Hachiko'' minibus]]
+
+Shibuya has lots and lots of interesting shopping opportunities. It's the home of the huge '''Tokyu''' conglomerate (railways, department stores, hotels, housing developments), and thus practically every major store in the area has Tokyu in its name (or Seibu the brave challenger). Tokyu department store closed in January 2023 for re-development of the area, though.
+
+===Anime & manga===
+* {{buy
+| name=Mandarake | alt= | url=http://www.mandarake.co.jp/ | email=
+| address=BEAM B2F, Udagawa 31-2 | lat=35.66132 | long=139.69750 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Massive shop devoted to manga, anime, hentai, dojinshi, figurines and collectible offshoots.
+}}
+
+===Fashion===
+Shibuya is the center of Japanese youth culture and it shows.
+* {{buy
+| name=0101 | alt=Marui | url=http://www.0101.co.jp/ | email=
+| address= | lat=35.66153 | long=139.70052 | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=Department store with all of the usual high-end brands. '''Closed in 2022 for re-building, reopen due 2026.'''
+}}
+* {{buy
+| name=109 Building | alt=Ichi-maru-kyu | url=http://www.shibuya109.jp/ | email=
+| address= | lat=35.65957 | long=139.69883 | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=Teenage fashion. Worth an escalator trip. The name is a wordplay on Tokyu, its owner company: 10 is ''toh'' and 9 is ''kyu'' in Japanese.
+}}
+
+===Music===
+Shibuya has copious music shopping opportunities, but expect some sticker shock as Japanese CDs often clock in at ¥3000+; imports are usually cheaper! In addition to the superstores below, also check out the miniature '''alternative ghetto''' (Jinnan 11 and nearby, just past Hands), full of tiny specialist record shops.
+
+* {{buy
+| name=Disk Union | url=http://diskunion.net/st/shop/shibuya_club.html | email=
+| address=Antenna 21, Udagawa 30-7 | lat= | long= | directions=Center-gai
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Used and new record dealer with floors each specializing in punk, rock, jazz and dance music.
+}}
+* {{buy
+| name=RECOfan | alt= | url=http://www.recofan.co.jp/map/beam.html | email=
+| address=Magnet 6F | lat= | long= | directions=north of JR station
+| phone= | tollfree=
+| hours=10:00-21:00 | price=
+| content=Good shopping for second-hand music in this cavernous hall: all records are categorized and alphabetized for quick browsing, and prices start at ¥100.
+}}
+* {{buy
+| name=Tower Records | url=http://towershibuya.jp/ | email=
+| address=Jinnan 1-22-14 | lat= | long= | directions=Koen-dori
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=For a while the largest record store in the world, now merely mind-bogglingly huge. Good selection of English books and magazines on the top floor, in addition to 6 other floors of J-pop, Western rock, jazz, classical and DVDs.
+}}
+* For '''musical equipment''', there's a good cluster of shops just southwest of the JR station. (Take the pedestrian overpass to cross the highway.)
+
+===Other===
+* {{buy
+| name=Hands | alt=ハンズ渋谷店 | url=https://shibuya.hands.net/ | email=
+| address=12-18 Udagawa-cho | lat= | long= | directions=end of Center-gai
+| phone=+81 3-5489-5111 | tollfree=
+| hours= | price=
+| content=Long known as Tokyu Hands, acquired by another company in 2022. Promoted as "Creative Life Store", Hands has everything from do-it-yourself, interior, hobby, crafts, outdoors to stationery and more. The Shibuya store spans eight floors.
+}}
+* {{buy
+| name=Loft | alt= | url=http://www.loft.co.jp/shop_list/detail.php?shop_id=189 | email=
+| address= | lat= | long= | directions=behind Seibu department stores
+| phone= | tollfree=
+| hours= | price=
+| content=Loft is Seibu's answer to Tokyu Hands, also offering a large array of products related to interior, hobby, crafts and gifts, but with less strong emphasis on do-it-yourself. The Loft Shibuya branch consists of seven floors.
+}}
+
+==Eat==
+You can't turn around without spotting a handful of restaurants here – from one coin (less than ¥500) noodles to top notch gourmet food.
+
+* {{eat
+| name=Kujiraya | alt=くじら屋 | url=http://www.kujiraya.co.jp | email=
+| address=Dogenzaka 2-29-22 | lat=35.659770 | long=139.698586 | directions=Bunkamura-dori, just past 109, opposite Baskin-Robbins.
+| phone=+81 3-3461-9145 | tollfree= | fax=
+| hours= | price=Lunch sets from ¥1300, dinner ¥2000 up
+| lastedit=2015-05-13
+| content=The specialty and only food here is whale meat dishes, which are very rare elsewhere. Human consumption of whale meat is controversial and has been denounced by detractors on grounds of wildlife conservation, toxicity, and animal rights. The restaurant hands out pro-whaling propaganda pamphlets.
+}}
+* {{eat
+| name=Murghi | alt=ムルギー | url= | email=
+| address=Dogenzaka 2-19-2 | lat=35.658963 | long=139.696572 | directions=
+| phone=+81 3-3461-8809 | tollfree= | fax=
+| hours=closed Fridays and Thursday evenings | price=¥1050
+| lastedit=2015-05-13
+| content=Founded in 1951, when the owner decided to serve the kind of curry he had enjoyed in Burma before World War II.
+}}
+* {{eat
+| name=Tokyu Food Show | alt=東急フードショー | url=https://www.tokyu-dept.co.jp/shibuya_foodshow/ | email=
+| address= | lat=35.658597 | long=139.701858 | directions=basement of Shibuya MarkCity building (Inokashira Line station)
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2015-05-13
+| content=A superb food section in the basement with enough free samples to make a full lunch, if you don't mind not having a place to sit.
+}}
+* {{eat
+| name=Gonpachi | alt= | url=https://gonpachi.jp/shibuya/ | email=
+| address=3-6 Maruyama-cho Shibuya-ku 14F | lat=35.657475 | long=139.695534 | directions=halfway between Shibuya Station and Inokashira Line's Shinsen station
+| phone=+81 3-5784-2011 | tollfree=
+| hours=Main restaurant 11:30-03:30, sushi bar 11:30-14:00, 17:00-02:00 | price=
+| content=Trendy eatery specializing in soba, with a separate sushi bar in the back.
+}}
+* {{eat
+| name=Restaurant Kinoshita | alt= | url=http://www.restaurant-kinoshita.com | email=
+| address=3-37-1 Yoyogi | lat=35.681875 | long=139.693348 | directions=Next to the Design Festa Art Gallery and
+| phone=+81 3-3376-5336 | tollfree=
+| hours=12:00-14:00, 18:00-21:00, closed Mondays and the third Tuesday of each month | price=
+| content=Kinoshita makes eating French food in Japan justifiable. Some say that with its underpriced menu, dinner courses for &yen;3800-&yen;7000, and weekday lunches for &yen;1800, this restaurant is considered one of the best kept secrets in Tokyo. But in fact it is popular, and reservations are mandatory. Menu in French and Japanese.
+}}
+* {{eat
+| name=Udon Shin | alt=うどん 慎 | url=http://www.udonshin.com/ | email=
+| address=2 Chome−20−16, Yoyogi | lat=35.688717 | long=139.697024 | directions=
+| phone=+81 3-6276-7816 | tollfree=
+| hours=11:00 ~ 22:00 | price=from 1000¥
+| lastedit=2025-10-26
+| content=Although it is Shibuya in terms of address, it is a udon store closer to Shinjuku. It is cost-effective and features homemade udon noodles.
+}}
+* {{eat
+| name=Mikore Sushi | alt=江戸前割烹 三是寿司 | url=https://mikore.jp/ | email=
+| address=2 Chome−14−1, Yoyogi | lat=35.687052 | long=139.696712 | directions=
+| phone=+81 3-3375-5008 | tollfree=
+| hours=11:30 ~ 22:30 | price=from 1000¥
+| lastedit=2025-10-26
+| content=It is a sushi restaurant located in Shibuya, but close to Shinjuku Station. The lunch special features cost-effectiveness.
+}}
+
+==Drink==
+Shibuya is a major center for nightclubs, music, and dancing. Also, '''Nonbei-yokochō''' (のんべい横丁, "drinker alley"), magically shielded from decades of commercial development, is a narrow alley running alongside the east side of the Yamanote tracks just north of the station. It's packed with traditional ''yakitori'' taverns as well as some modern, ''extremely tiny'' bars. The district was formed in 1955, and a few of the shops have been operating since then.
+
+===Cafes===
+*{{drink
+| name=Cafe Apres-Midi | alt=カフェ・アプレミディ | url=http://www.apres-midi.biz/ | email=
+| address=1-9-11 Jinnan 2F | lat=35.664926 | long=139.701528 | directions=10 min. north of Shibuya Station
+| phone=+81 3-5428-5121 | tollfree=
+| hours= | price=
+| lastedit=2015-05-14
+| content=Jazzy cafe with 1960s decor in moody lighting. Excellent food, try the quiche, although portions are small.
+}}
+* {{drink
+| name=Beat Cafe | alt=ビートカフェ | url=http://www.facebook.com/beatcafe | email=
+| address=2-13-5 B1, Dogenzaka | lat= | long= | directions=
+| phone=+81 9093344342 | tollfree=
+| hours= | price=Cash only and drinks range from ¥500-1000
+| content=Small cafe-bar-restaurant catering to the young alternative rock crowd. While showing constant videos from VH1 Classic on their TV, the easy drinking, simple eating crowd is about as friendly as they come. If you can't talk in your own native language, you can always discuss music.
+}}
+* {{drink
+| name=Excelsior Cafe | alt= | url= | email=
+| address=1-20-12 Jinnan, Toyama Building 1st/2nd Floors | lat=35.662219 | long=139.699503 | directions=just in front of Gap, on Shibuya Koen Dori [Street]
+| phone=+81 3-5728-7667 | tollfree= | fax=
+| hours= | price=
+| lastedit=2015-05-14
+| content=Great coffee and delicious sandwiches, with a warm smile.
+}}
+
+===Pubs===
+* {{drink
+| name=The Aldgate | url=http://www.the-aldgate.com | email=
+| address=Shiniwasaki Bldg 3F, Udagawacho 30-4 | lat= | long= | directions=
+| phone=+81 3-3462-2983 | tollfree= | fax=
+| hours=18:00-02:00 | price=
+| content=Down to earth smoke-free British-style pub, with a large number of Japanese and international beers on tap and a large collection of British Rock music on vinyl.
+}}
+* {{drink
+| name=Hobgoblin Shibuya | alt= | url=https://www.hobgoblin.jp/hobgoblin-shibuya | email=
+| address=Ichiban Bldg 3F, 1-3-11, Dogenzaka | lat= | long= | directions=
+| phone=+81 3-6415-4244 | tollfree=
+| hours=16:00 to late (weekdays), noon to late (weekends and holidays), last order 22:45 | price=
+| content=Outlet of the famous British micro-brewer Wychwood Brewery.
+}}
+
+===Izakaya===
+There are plenty of cheap and cheerful '''izakaya''' (Japanese pubs) scattered about Shibuya. The Watami and Outami chains offers good, but not too inspiring, watering holes.
+
+* {{drink
+| name=Bar Ishinohana | alt=Bar石の華 | url=http://www.ishinohana.com/en/ | email=
+| address=Daini Yaki Bldg., B1, 3-6-2 | lat= | long= | directions=Back exit from Shibuya Station, left hand side of Roppingi Dori
+| phone=+81 3-5485-8405 | tollfree=
+| hours=Daily 18:00-02:00 | price=
+| content=Acclaimed high-end bar serving up drinks that are more works of art than cocktails. You may reserve seats from the English webpage.
+}}
+
+===Nightclubs===
+
+* {{drink
+| name=Camelot | alt= | url=http://www.clubcamelot.jp/ | email=
+| address=神南1-18-2 神南坂フレームB2/B3 | lat=35.662611 | long=139.700281 | directions=
+| phone=+81 3-5728-5613 | tollfree= | fax=
+| hours= | price=
+| content=Multi-room nightclub that plays a mix of hip-hop, r&b, and techno/house in their different areas. Most of the clientele is of a younger crowd (ages 20-25). Friday's entrance fee is only ¥1000 (including two drinks).
+}}
+* {{drink
+| name=Club Atom / STUDIO-A | alt= | url=http://www.clubatom.com/ | email=
+| address=4F/5F Dr.Jeekahn's Maruyamacho | lat=35.658329 | long=139.695432 | directions=
+| phone=+81 3-5428-5195 | tollfree= | fax=
+| hours= | price=Entrance fee is only ¥1000 before midnight
+| content=Owned by Vanilla, this club houses three dance floors with music ranging from psychedelic trance to hip-hop.
+}}
+* {{drink
+| name=Club Asia | alt= | url=http://www.clubasia.co.jp | email=
+| address=Maruyama-chou, 1-8 | lat=35.659003 | long=139.695349 | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=Popular for trance music all night long.
+}}
+* {{drink
+| name=Harlem | alt= | url=http://www.harlem.co.jp | email=otaken@harlem.co.jp
+| address=2-4 Maruyamacho, Dr. Jeekahn's 2F | lat=35.658331 | long=139.695424 | directions=
+| phone=+81 3-3461-8806 | tollfree= | fax=
+| hours= | price=¥3000, occasional discount if you enter before midnight
+| content=Large two-floor all hip-hop club. Foreigners may not be admitted unless they bring along a Japanese friend.
+}}
+* {{drink
+| name=Womb | url=http://www.womb.co.jp/ | email=info@womb.co.jp
+| address=Maruyama 2-16 | lat=35.658 | long=139.695 | directions=
+| phone=+81 3-5459-0039 | tollfree= | fax=
+| hours= | price=¥3500 without drinks included
+| content=One of Tokyo's largest clubs, designed by the people behind [[New York City|New York]]'s Twilo and the setting of a scene in ''Babel''.
+}}
+* {{drink
+| name=Oto | alt= | url=http://shibuya-oto.com/ | email=
+| address=3-18-7 Shibuya | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=Upscale club of mostly locals that have live jazz bands and DJs. Music ranges from jazz, electro, to Euro rock.
+}}
+* {{drink
+| name=Rock West | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=Cover charge of ¥1000 and most drinks around ¥500
+| content=A smaller, friendly club that specialised in underground techno, fairly well hidden on 7F of an office building. It's certainly one of the cheaper spots in the area.
+}}
+
+==Sleep==
+Accommodation options in Shibuya are surprisingly limited. The hillside to the left of Dogenzaka is also known as '''Love Hotel Hill''' and indeed contains dozens of [[Tokyo#Sleep | love hotels]], although they're on the expensive side: figure on at least ¥10,000 for an overnight "stay".
+
+*{{sleep
+| name=Cerulean Tower Tokyu Hotel | alt= | url=http://www.ceruleantower-hotel.com/en/ | email=
+| address=26-1 Sakuragaoka-cho | lat= | long= | directions=
+| phone=+81 3-3476-3000 | tollfree=
+| checkin= | checkout= | price=¥33,000
+| content=A popular high-end hotel near the station. Also contains a large office complex, as well as some very expensive restaurants. It provides free Wi-Fi, and you can use fitness and swimming pools for free when you stay.
+}}
+* {{sleep
+| name=Shibuya Excel Hotel Tokyu | alt= | url=http://www.tokyuhotelsjapan.com/en/TE/TE_SHIBU/index.html | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| checkin= | checkout= | price=
+| content=A popular high-end hotel. There is a breakfast service, and guests can use fitness for free.
+}}
+* {{sleep
+| name=Tokyu Stay Shibuya | url=http://www.tokyustay.co.jp/e/hotel/SIB/index.html | email=
+| address=8-14 Shinsen-cho | lat= | long= | directions=
+| phone=+81 3-3477-1091 | tollfree= | fax=+81 3-3477-1092
+| hours= | price=Singles start at ¥9450, doubles at ¥17,850 per night. Slight discounts are offered for extended stays
+| checkin= | checkout=
+| content=Part of the Tokyu Stay chain, this hotel is popular with business travelers. Small kitchenettes, washer/dryers, and free LAN access in all rooms makes these a good value.
+}}
+* {{sleep
+| name=Tokyu Stay Shibuya Shin-Minamiguchi | alt= | url=http://www.tokyustay.co.jp/e/hotel/SIM/index.html | email=
+| address=3-26-21 Shibuya | lat= | long= | directions=
+| phone=+81 3-5466-0109 | tollfree= | fax=+81 3-5466-1091
+| checkin= | checkout= | price=
+| content=This is another outlet of the same chain. You can keep your luggage, and you can rent an LAN and charger. Breakfast service is provided.
+}}
+
+==Go next==
+* [[Tokyo/Harajuku|Harajuku]], reachable within 15 minutes by walking north along Meiji Street.
+* [[Tokyo/Ebisu|Ebisu]], the next stop south on the JR Yamanote Line, is a quieter and more sophisticated version of the Shibuya scene.
+* [[Tokyo/Shimokitazawa|Shimokitazawa]], just two stops down the Keio Inokashira line, offers trendy shops, restaurants and watering holes in a slightly less frenetic atmosphere.
+* [[Tokyo/Kichijoji|Kichijoji]], at the other end of the Inokashira Line, has more of the same plus a park famed for its cherry blossoms.
+
+{{routebox
+| image1=JR Sobu icon.png
+| imagesize1=100
+| directionl1=W
+| majorl1=[[Tokyo/Nakano]]
+| minorl1=[[Tokyo/Shinjuku]]
+| directionr1=E
+| majorr1=[[Tokyo/Taito]]
+| minorr1=[[Tokyo/Chiyoda]]
+}}
+
+{{geo|35.664036|139.698211}}
+{{usabledistrict}}
+{{IsPartOf|Tokyo}}

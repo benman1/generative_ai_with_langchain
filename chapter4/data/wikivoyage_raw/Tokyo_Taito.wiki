@@ -1,0 +1,319 @@
+{{pagebanner|Tokyo Taito Wikivoyage banner.jpg}}
+[[File:Tokyo_Wikivoyage_locator_maps_-_Taito.png|120px|thumb|right|Location of Taito in Tokyo]]
+'''Taitō''' ({{lang|ja|台東}}) is a northeastern ward of [[Tokyo]]. Talk to a Tokyoite about "downtown" (下町 ''shitamachi''), and he will think of the Taito district: the train station of '''[[Tokyo/Ueno|Ueno]]''', where migrants from the [[Tohoku|deep north]] first arrived in their search for a better life, and the temples of '''[[Tokyo/Asakusa|Asakusa]]''', once a boom town full of prostitutes and gangsters, now again a boom town full of tourists. Stuck in a low-rent post-war time warp, here Japan's hypermodernity takes a bit of a breather, with such quaint oddities as bustling street markets and even the occasional wooden house.
+
+==Understand==
+Two districts of Taito have their own articles:
+* [[Tokyo/Asakusa|Asakusa]], known particularly for '''Sensō-ji Temple (Asakusa Kannon)'''.
+* [[Tokyo/Ueno|Ueno]], packed full of museums and Tokyo's best-known cherry blossom viewing spot.
+
+The '''San'ya''' (山谷) area is Tokyo's largest slum, and is home to a large number of homeless people and low-income day laborers. This history dates back to Edo period, when the area was designated for the ''burakumin'' (部落民), the lowest caste in the traditional Japanese caste system, who were tasked with "unclean" jobs such as being butchers or executioners. In an attempt to sanitize the area's reputation, the name "San'ya" was abolished by the Japanese government in 1966 and no longer appears in official maps, while the area was split between Kiyokawa and Nihonzutsumi districts, but the old name is still used by local residents.
+
+'''Yoshiwara''' (吉原) was the designated red-light district for the city of Edo (Tokyo's name prior to the Meiji Restoration) under the Tokugawa Shogunate. It was here that many girls from poor families were sold into a lifetime of sexual slavery in their childhood. It continued as a red-light district even after the fall of the Tokugawa Shogunate well into the 20th century, before the Anti-Prostitution Law came into force in 1958 and forced the brothels to close down, and the name "Yoshiwara" was erased from official maps. Today, aside from a few soaplands (brothels disguised as bathhouses), little remains from its seedy past, but the site of the former main gate into the red-light district has been marked, and remnants of the wall that used to surround the district can still be found if you look hard enough. There is also Jōkan-ji, a Buddhist temple where countless unnamed prostitutes were buried after their corpses were unceremoniously dumped at the back entrance after they died. 
+
+===Tourist Information Site===
+[https://authentic-tokyo.com/ Visit Authentic Tokyo] is the ward's English language guide site.
+
+The ward has another [https://t-navi.city.taito.lg.jp/ Japanese-only guide site] with integrated Google Translate and different sets of contents, including [https://t-navi.city.taito.lg.jp/pamphlet/ downloadable pamphlets in many languages].
+
+==Get in==
+{{Mapframe|35.71282|139.78641|zoom=14|width=550|height=550|name=Taito (with [[Tokyo/Ueno|Ueno]] shaded green and [[Tokyo/Asakusa|Asakusa]] shaded red)}}
+{{Mapshape|type=geoshape|wikidata=Q720644|fill=#ff6baa|title=[[Tokyo/Asakusa|Asakusa]]}}
+{{Mapshape|type=page|wikicommons=Ueno for Wikivoyage.map}}
+{{Mapshape}}
+Ueno Station is the major hub, connecting together northbound ''Shinkansen'' passengers with the JR Yamanote line, the subway Ginza and Hibiya lines, and the Keisei trains to [[Narita]].
+
+If visiting Tokyo University in [[Tokyo/Bunkyo|Bunkyo]], the Hongō Sanchōme Stations of the Marunouchi and Ōedo subway lines are the most convenient.
+
+==See==
+* {{see
+| name=Asakura Museum of Sculpture | alt=朝倉彫塑館 | url=https://www.taitocity.net/zaidan/asakura/ | email=
+| address=7-16-10 Yanaka | lat=35.726894 | long=139.76854 | directions=[[File:JR_JY_line_symbol.svg|20px|link=]] JR Yamanote line to Nippori, north exit
+| phone= | tollfree=
+| hours=Tu W F-Su 09:30-16:30 | price=Adult ¥500, student ¥250
+| wikipedia=Asakura Museum of Sculpture | wikidata=Q11517304
+| lastedit=2017-11-18
+| content=[[File:Gold Star (with border).svg|20px|Must visit!]] Sculptor [[w:Asakura Fumio|Asakura Fumio]] (Artist name Kōso 1883-1964) designed this atmospheric house himself. It combined his original Japanese home and garden with a large studio that incorporated vaulted ceilings, a 'sunrise room' and a rooftop garden with wonderful neighbourhood views. It's now a reverential museum with many artist's signature realist works, mostly of people and cats, on display. This is a wonderful place to stroll and contemplate the meaning of life. You must remove footwear before entering the museum, but cannot go barefoot, so you must wear socks.
+}}
+* {{see
+| name=SCAI The Bathhouse | url=http://www.scaithebathhouse.com/en/ | email=
+| address=Kashiwayu-Ato 6-1-23 Yanaka | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours=Closed Su, M, holidays | price=
+| content=A small gallery showing the work of contemporary artists, the building is a former ''sento'', or bathhouse.
+}}
+* {{see
+| name=Shitamachi Museum Annex | alt=下町風俗資料館付設展示場, shitamachifū-shiryōkan-fusetsu-tenjijō | url= | email=
+| address=2-10-6 Ueno-Sakuragi | lat= | long= | directions=
+| phone=+81 3-3823-4408 | tollfree= | fax=
+| hours=Tu-Su 09:30-16:30, closed M, also Tu following a holiday. ''Closed until March 2025 for renovations'' | price=Free
+| wikipedia= | image= | wikidata=Q59268117
+| content=Many buildings scattered around the Yanaka district survived the bombings of World War II, including this former sake store built in 1910. Characteristic of Meiji-era architecture, the building now houses a small museum of sake and beer equipment.
+}}
+* {{see
+| name=Jōkan-ji | alt=浄閑寺 | url=http://jyokanji.com/ | email=info@jyokanji.com
+| address=2-1-12 Minamisenju, Arakawa City | lat= | long= | directions=
+| phone=+81 3-3801-6870 | tollfree= | fax=+81 3-3802-1849
+| hours= | price=Free
+| wikipedia= | image= | wikidata=Q10895707
+| content=Arguably the most visible reminder of the tragedy of the lives of the prostitutes who lived and worked in Yoshiwara. This is where many of the prostitutes were buried when they died, as the brothels would just unceremoniously dump their corpses at the back entrance to the temple. 
+}}
+
+==Do==
+* {{do
+| name=Iwasaki's Ganso Shokuhin Sample-ya | alt= | url=https://www.ganso-sample.com/en/shop/kappabashi/ | email=ganso-info@ganso-sample.com
+| address=3-7-6 Nishi Asakusa | lat=35.7143 | long=139.7898 | directions=400 m WNW of Tsukuba Express Railway's Asakusa Station, exit A2; Tobu Railway's Asakusa Station is 1 km away
+| phone= | tollfree=
+| hours=10:00–17:30 | price=
+| lastedit=2022-04-23
+| content=Make your own replica food or sample food (''sampuru'') out of wax. This shop, in Tokyo's Kappabashi restaurant supply district, offers onsite workshops and at-home DIY kits to make food from wax. Workshops are usually conducted in Japanese. If you don't want to make it yourself, then you can buy the company's readymade options from the store, or order some of the more elaborate pieces for delivery. A souvenir keychain, made from a durable plastic by the company's artisans, will set you back ¥1,000–2,000.
+}}
+
+==Buy==
+* {{buy
+| name=Kappabashi | alt=かっぱ橋 | url=http://www.kappabashi.or.jp/en/ | email=
+| address= | lat=35.71134 | long=139.78835 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=A more offbeat shopping option, it is best reached from Tawaramachi station on the Ginza line. This is Tokyo's restaurant wholesale district, which sells plastic food, metal spatulas, deep fryers and an immense variety of affordable crockery. Some shops sell only in wholesale quantities, but many are happy to sell single items and factory-made Japanese pottery (which to the casual eye is indistinguishable from the handmade kind) can sell for as little as &yen;100 a piece. Another bargain is high-quality Japanese kitchen knives, which are generally much cheaper in Japan, but due diligence is required, since some of the flashier knife shops aimed at tourists resell cheap Chinese-made junk. Many stores here are closed on Sundays.
+}}
+** {{buy
+| name=Dengama | alt=田窯 | url=https://www.dengama.jp/ | email=
+| address=at the corner of Kappabashi-dori and Asakusa-dori | lat=35.71048 | long=139.78848 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=A particularly good boutique specializing in handmade Japanese pottery. The discount racks outside are downright cheap at several hundred yen a pop, but more expensive items on the second floor may run into tens of thousands of yen. Don't miss the trays of wacky decorative chopstick holders.
+}}
+
+*'''Asakusabashi''' (浅草橋), two stops south on the Toei Asakusa Line, is a wholesale district which these days is known for its shops specializing in '''bead craft''' supplies. There are also many stores selling traditional Japanese festival and party supplies.
+** {{buy
+| name=Kiwa Seisakusho | alt=貴和製作所 | url=http://www.kiwa-inc.co.jp/ | email=
+| address=Asakusabashi 2-1-10 | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours=M-Sa 09:30-18:30  | price=
+| content=5 floors of plastic baubles of all shapes and sizes. Three shops in Asakusabashi alone, the largest near exits A4 and A2 of the metro.
+}}
+
+*'''Okachimachi''' (御徒町) area, to the southeast of JR Okachimachi station, is known for [https://jto-net.com/access/ jewelry industry] - about 2,000 shops, wholesalers and workshops concentrate in the area.
+
+===Markets===
+[[Image:Yanaka_Ginza.JPG|thumb|240px|Yanaka Ginza]]
+[[Image:Nezu_Facade_Color.JPG|thumb|Old house in Nezu]]
+
+Collectively called '''Ya-ne-sen''', '''Yanaka''' (谷中), '''Nezu''' (根津) and '''Sendagi''' (千駄木) are adjacent low-key commercial and residential neighborhoods full of traditional, quirky little shops, particularly along the very tongue-in-cheek '''[http://www.yanakaginza.com/ Yanaka Ginza]''' (谷中銀座) shopping street.  The area is best reached on the Metro Chiyoda line to Sendagi or the JR Yamanote Line to Nippori. 
+
+* {{buy
+| name=Chaho Kanekichi-en | alt=茶舗金吉園 | url=http://www.yanakaginza.com/shop/kanekichien/ | email=
+| address=Yanaka 3-11-10 | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=An old-school tea shop near the entrance to Yanaka Ginza, just follow the smell of roasting tea.  They prepare their own blends, which are uniformly excellent: try the slightly bitter Snow Plum (雪の梅 ''Yuki-no-Ume'', &yen;600 per 100g) or the unusual Yanaka Midori (谷中みどり, &yen;600-1000 per 100g), a mix of roasted tea stems (the cheapest tea) with tea-ceremony grade ''matcha'' (the most expensive tea).  Ask to see the private garden and if they're in a good mood they just might let you have a peek.
+}}
+* {{buy
+| name=Gotō no Ame | alt=後藤の飴 | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours=Closed Wednesdays | price=
+| content=A traditional Japanese candy (''ame'') shop at the very end of Yanaka Ginza, everything sold here is made on premises and quite cheap (&yen;100+).
+}}
+
+==Eat==
+*{{eat
+| name=Aoi Marushin | alt=葵丸進 | url=https://www.aoi-marushin.co.jp/top.html | email=
+| address=1-4-4 Asakusa | lat= | long= | directions=
+| phone=+81 3-3841-0110 | tollfree=
+| hours=11:30-21:00 | price=
+| content=Tempura, Tempura, Tempura. Aoi Marushin is the largest tempura restaurant in Tokyo!
+}}
+*{{eat
+| name=Bentenyama Miyakozushi Souhonten | alt=弁天山美家古壽司 | url=https://www.bentenyama-miyakosushi.com/en/ | email=
+| address=2-1-16 Asakusa | lat= | long= | directions=
+| phone=+81 3-3844-0034 | tollfree=
+| hours= | price=
+| content=This is a very small, very expensive sushi restaurant in Taito. If you are a sushi buff this is that place for you, with fantastic sushi and great ambiance.
+}}
+*{{drink
+| name=Cigars & Cafe LWAN | alt=ルワン | url= | email=
+| address=Matsugaya 1-11-3 | lat=35.71207 | long=139.787821 | directions=Near Tawaramachi on the Ginza Line
+| phone=+81 3 6426-2170 | tollfree=
+| hours=Tu-F 11:00-21:00, Sa Su 12:00-20:00, national holidays 12:00-20:00 | price=
+| lastedit=2016-12-29
+| content=A cigar bar that serves coffee, alcoholic drinks, and desserts. There is a large cigar selection, in particular from the Dominican Republic.
+}}
+* {{eat
+| name=Zakuro | alt= | url=https://nippori-zakuro.com/en/ | email=
+| address=3-14-13 Nishi-Nippori | lat= | long= | directions=3 min directly west of JR Nippori North Exit
+| phone=+81 3-3822-1543 | tollfree=
+| hours= | price=
+| content=Located in the heart of the traditional Yanaka neighborhood, this Persian/Turkish restaurant goes all-out on the "dining experience": you sit on the carpeted floor, they make you wear middle-eastern garb, and dessert includes a hookah (water-pipe) to puff on! And all the while, the owner wanders from table to table making wisecracks in Japanese. The set dinner course (&yen;2000) is guaranteed to leave anyone stuffed.
+}}
+
+==Drink==
+
+==Sleep==
+{{infobox|Remnants of the "water trade"|Why is there so much cheap lodging near Minami-Senju and Minowa? The answer is the quiet nearby neighborhood of Senzoku 4-chōme, once the legendary red-light district of '''Yoshiwara''', the sole licensed area for pleasures of the flesh during the Edo era. At its peak, Yoshiwara was home and prison to over 9,000 prostitutes, many of whom had been sold into debt bondage when as young as 7, and with only the most successful managing to buy their way out. Thrice wiped out by a fire in 1913, an earthquake in 1923 and Allied bombing in 1945, Yoshiwara finally gave up the ghost when prostitution was outlawed in 1958. Some soaplands still struggle on, but by and large the action has long since shifted elsewhere, with [[Tokyo/Shinjuku|Shinjuku]]'s Kabuki-cho now having replaced Yoshiwara as the main red-light district in Tokyo.}}
+
+Taito has Tokyo's best range of cheap to midrange accommodation. The listings below cover only more far-flung bits of the district, see [[Tokyo/Asakusa|Asakusa]] and [[Tokyo/Ueno|Ueno]] for listings of hotels in the immediate vicinity of the two central stations.
+
+===Budget===
+The area around '''Minami-Senju''' (南千住) near the northern end of the Tokyo Metro Hibiya Line, formerly known as '''San'ya''' (山谷), has some of Tokyo's cheapest budget accommodation. The typical room is an individual tatami flat of 2 square-meters, with television and air-conditioning. The bedding is Japanese style (futon set and pillow).
+
+Much of the accommodation here was originally designed to cater to itinerant day laborers looking for a cheap place to crash, but many have pivoted to serving foreign travellers instead. All hotels listed here cater regularly to backpackers and have some English ability. Just hop out at Minami-Senju and walk down south towards Meiji-Dori (Main road) on Route 464. The further away from the train station you walk the cheaper it gets. About ¥3,500 down to ¥2,100 for single, also ¥1,500 for dorms are available all along this street (Route 464).
+
+* {{sleep
+| name=Juyoh Hotel | alt=ホテル寿陽 | url=http://www.juyoh.co.jp/ | email=
+| address=2-15-3 Kiyokawa | lat=35.726712 | long=139.800777 | directions=10 min walk south from Minami-senju Station
+| phone=+81 3-3875-5362 | tollfree= | fax=+81 3-5603-5775
+| checkin= | checkout= | price=
+| content=Very nice cheap hotel, prices ranging from &yen;3200 for a single (''&yen;2980 with a discount coupon printable from their web page, includes cleaning service every other day'') to &yen;6400 for a double (''&yen;5960 with coupon''). Internet access available in the lobby, five PC's and Macs available; wireless and ethernet support for laptops.
+}}
+* {{sleep
+| name=New Koyo | alt=ホテルニュー紅陽 | url=http://www.newkoyo.jp/ | email=
+| address=2-26-13 Nihonzutsumi | lat=35.728211 | long=139.798327 | directions=
+| phone=+81 3-3873-0343 | tollfree=
+| checkin= | checkout= | price=Single room for ¥2900, Double room for ¥5200
+| content=Do not expect too much from this hotel. Usually a line for the shared showers.
+}}
+<!--* {{sleep
+| name=Oak Hotel | url=http://www.oakhotel.co.jp/ {{dead link|December 2020}} | email=
+| address=Higashi-Ueno 6-1-2 | lat=35.711428 | long=139.784607 | directions=Two blocks north from JR Ueno stn Asakusa exit, tucked into an alley on the left
+| phone= | tollfree= | fax=
+| hours= | price=Singles for students ¥5880, twin rooms available
+| checkin= | checkout=
+| content=Small, but clean and efficient rooms, free internet computers, a collection of travel books, coin laundry, and an English-speaking staff make it a useful stop for foreign visitors. Guests with their own LAN-enabled laptops/netbooks can get free internet access in the privacy of their own rooms; just borrow a connection kit from the front desk. Located near Inarichō Station (Tokyo Metro Ginza Line) and the Kappabashi-Dori kitchenware street. Ueno Station is a long but manageable walk away. Offers a discount for ISIC cardholders.
+}} https://oakhostel.com/fuji/ says it is closed indefinitely from 2020 due to Covid. -->
+* {{sleep
+| name=Tsukuba Hotel Ueno | alt=ツクバホテル | url=http://www.hotelink.co.jp/ | email=
+| address=Moto-Asakusa 2-7-8 | lat=35.710473 | long=139.783021 | directions=1 min from Metro Ginza Inaricho stn, 8 min from JR Ueno
+| phone=+81 3 3834-2556 | tollfree= | fax=
+| hours= | price=Western-style singles &yen;5250, Japanese-style tatami rooms with shared bath from &yen;4000
+| checkin= | checkout=
+| content=Old but functional business hotel offering small but cheap rooms. Free wireless, free PCs, coin laundry, used to dealing with foreigners.
+}}
+* {{sleep
+| name=Hotel Villa Fontaine Tokyo Ueno Okachimachi | alt=ホテルヴィラフォンテーヌ東京上野御徒町 | url=https://www.hvf.jp/ueno/ | email=
+| address=2-4-4 Kojima | lat=35.705307 | long=139.781902 | directions=
+| phone=+81 3 5339-1200 | tollfree=
+| checkin= | checkout= | price=&yen;7900
+| content=Mid-range hotel. Rooms have en-suite toilet. Staff speaks English. Simple breakfast included. Free internet (through LAN cable) in rooms. Rooms are quiet and pleasant. 5 minutes walk from Shin-Okachimachi Station.
+}}
+
+===Mid-range===
+* {{sleep
+| name=Andon Ryokan | alt=行燈旅館 | url=http://www.andon.co.jp/ | email=
+| address=2-34-10 Nihonzutsumi | lat=35.728302 | long=139.795498 | directions=5 min walk from Minowa subway station
+| phone=+81 3-3873-8611 | tollfree= | fax=+81 3-3873-8612
+| checkin= | checkout= | price=&yen;8190 for double/twin
+| content=Run by the same family as New Koyo, this is a well-kept ryokan north of Ueno.
+}}
+* {{sleep
+| name=Annex Katsutaro Ryokan | alt=アネックス勝太郎旅館 | url=http://www.katsutaro.com/annex_index.html | email=
+| address=3-8-4 Yanaka | lat=35.726670 | long=139.764728 | directions=near Sendagi Metro Exit 2 - from the top of the stairs turn left, cross Shinobazu-dori just past Lawson's and continue straight for 50 more meters; or from Nippori station follow Yanaka Ginza to the end and turn left
+| phone=+81 3-3828-2500 | tollfree= | fax=+81 3-3821-5400
+| hours= | price=1 person &yen;6300, 2 people &yen;10,500
+| checkin= | checkout=
+| content=Smallish Japanese-style tatami rooms with ''en suite'' bathrooms and A/C in a modern (2001) 3-story building (elevator available) on a quiet residential street. English spoken. WiFi; free use of computer in the lobby; coin washer/drier (ask for detergent at front desk).
+}}
+* {{sleep
+| name=Sawanoya Ryokan | alt=旅館 澤の屋 | url=http://www.sawanoya.com/ | email=sawanoya@tctv.ne.jp
+| address=2-3-11 Yanaka | lat=35.720994 | long=139.764861 | directions=7-min walk from Nezu station no 1 exit, 10 min taxi from Ueno station or 25- to 30-minute walk
+| phone=+81 3-3822-2251 | tollfree= | fax=+81 3-3822-2252
+| checkin= | checkout= | price=Single &yen;4935-5250 without bathroom, double &yen;9240/9870 without/with bath, triple &yen;12600/14175 without/with bath
+| content=Well-known and popular ryokan, all rooms Japanese style with tatami floors. 2 rooms with bath, the 10 others share two Japanese-style baths and showers. Good neighborhood to simply wander and look at the houses and gardens. Free internet and LAN points in all rooms. Coin operated laundry. Really friendly helpful staff. Closed 29 Dec-3 Jan. Quote from book by owner "I stay here not because it is cheap but because it is friendly".
+}}
+
+==Connect==
+
+==Stay Safe==
+As Tokyo's largest slum, the '''San'ya''' (山谷) area has a dangerous reputation, and you will often see rundown buildings and garbage piling up in the street. Nevertheless, street crime and especially violent crime remains rare, and you are unlikely to have major issues if you maintain a moderate level of vigilance. Women may want to avoid walking around the area alone though, as sexual harassment tends to be more common here than elsewhere.
+
+==Go next==
+* [[Tokyo/Asakusa|Asakusa]] is a district of eastern Taito
+* [[Tokyo/Sumida|Sumida]] ward is to the east, across the Sumida River
+* [[Tokyo/Ueno|Ueno]] is a district of western Taito
+{{routebox
+| image1=Hokuriku Shinkansen Icon.png
+| imagesize1=100
+| directionl1=N
+| majorl1=[[Nagano]]
+| minorl1=[[Takasaki]] ← Kumagaya
+| directionr1=S
+| majorr1=[[Tokyo/Chiyoda]]
+| minorr1=
+
+| image2=Joetsu Shinkansen icon.png
+| imagesize2=100
+| directionl2=N
+| majorl2=[[Niigata]]
+| minorl2=[[Takasaki]] ← Kumagaya
+| directionr2=S
+| majorr2=[[Tokyo/Chiyoda]]
+| minorr2=
+
+| image3=Tohoku Shinkansen icon.png
+| imagesize3=100
+| directionl3=N
+| majorl3=[[Sendai]]
+| minorl3=[[Nasushiobara|Nasu Shiobara]] ← [[Utsunomiya]]
+| directionr3=S
+| majorr3=[[Tokyo/Chiyoda]]
+| minorr3=
+
+| image4=JR Tohoku icon.png
+| imagesize4=100
+| directionl4=N
+| majorl4=[[Saitama|Ōmiya]]
+| minorl4=[[Saitama|Urawa]] ← [[Tokyo/North|Akabane]]
+| directionr4=S
+| majorr4=[[Tokyo/Chiyoda]]
+| minorr4=
+
+| image5=JR Sobu icon.png
+| imagesize5=100
+| directionl5=W
+| majorl5=[[Tokyo/Shibuya]]
+| minorl5=[[Tokyo/Chiyoda]]
+| directionr5=E
+| majorr5=[[Chiba]]
+| minorr5=[[Tokyo/Sumida]]
+
+| image6=JR JJ line symbol.svg
+| imagesize6=30
+| directionl6=N
+| majorl6=[[Iwaki]]
+| minorl6=[[Mito]]← [[Kashiwa]]
+| directionr6=S
+| majorr6=END
+| minorr6=
+
+| image7=Number prefix Keisei.PNG
+| imagesize7=30
+| directionl7=W
+| majorl7=END
+| minorl7=
+| directionr7=E
+| majorr7=[[Narita]]
+| minorr7=[[Funabashi|Keisei Funabashi]]
+
+| image9=Tsukuba Express mark.svg
+| imagesize9=30
+| directionl9=W
+| majorl9=[[Tsukuba]]
+| minorl9=[[Kashiwa]] ← [[Misato (Saitama)|Misato]]
+| directionr9=S
+| majorr9=END
+| minorr9=
+
+| image10=Shuto Urban Expwy Sign 1-Ueno.svg
+| imagesize10=30
+| directionl10=N
+| majorl10=END
+| minorl10=
+| directionr10=S
+| majorr10=[[Tokyo/Ginza|Ginza]]
+| minorr10=[[Tokyo/Chuo|Honcho]] → into [[File:Shuto Urban Expwy Sign C1.svg|30px]]
+}}
+
+{{usabledistrict}}
+{{IsPartOf|Tokyo}}
+{{geo|35.7126083|139.779994}}

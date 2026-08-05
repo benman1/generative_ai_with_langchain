@@ -1,0 +1,814 @@
+{{pagebanner|Kyoto Imperial Palace gate Wikivoyage banner.jpg|caption=Kyoto Imperial Palace gate|unesco=yes}}
+[[Image:Nijo Castle.jpg|thumb|250px|Ninomaru Palace, Nijō Castle]]
+
+'''Central Kyoto''' encompasses the urban heart of Japan's former imperial capital.
+
+==Understand==
+From the carefully tended gardens and stately buildings of the Imperial Palace in the north to the massive, ultra-modern showpiece structure of Kyoto Station in the south, Central Kyoto has a bit of everything that makes [[Kyoto]] what it is today: a marbled mix of old and new, of immeasurably ancient traditions and fast-paced modernity.
+
+Shimabara was the designated red-light district of Kyoto during the Edo Period. The district went into a steep decline when prostitution was outlawed in Japan in 1958, but two of the historic teahouses have been preserved.
+
+===Visitor information===
+* {{listing
+| name=Japan National Tourism Board: Central Kyoto | alt= | url=http://www.jnto.go.jp/eng/location/regional/kyoto/centralkyoto.html | email=
+| address= | lat=34.987544 | long=135.7592 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+
+==Get in==
+{{Mapframe|35.003|135.757|zoom=13}}
+[[Image:KyotoStation2871.jpg|thumb|250px|Inside Kyoto Station]]
+Kyoto's extensive rail, subway, and bus networks can all be accessed through the city's main transportation hub: the gargantuan glass-and-steel structure of '''Kyoto Station''' (京都駅, ''Kyōto-eki'') – an outstanding piece of architecture that's worth seeing in itself (see below).
+
+===By train===
+Kyoto Station is a major stop on the '''Tōkaidō Shinkansen Line'''. From the station, travellers arriving by shinkansen (or by other railway lines) can easily access the city's municipal subway and bus systems.
+
+===By subway===
+Central Kyoto is served by [[http://www.city.kyoto.jp/koho/eng/access/subway.html two intersecting subway lines].
+
+The north-south '''Karasuma Line''' (which stops at Kyoto Station) and the west-east '''Tōzai Line''' link up at Karasuma-Oike Station near the city centre.
+
+===By bus===
+Several important bus routes (covering not only Central Kyoto but other parts of the city as well) start and end at the '''Kyōto-eki-mae''' terminal - which, as the name indicates, is right in front of Kyoto Station. Take the station's Karasuma/North exit and you will see the bus terminal, which is divided into four boarding platforms (from A to D) and has signs in English identifying key stops on each route. For detailed route information, pick up a copy of the helpful "Bus Navi" leaflet from the information centre near the terminal.
+
+==See==
+Central Kyoto is a mix of museums, religious heritage sites, contemporary shopping and office buildings. Note that museums are limited in their non-Japanese offerings when it comes to labels and guides. Most religious sites close by 17:00 daily. This is often an area that surprises tourists &mdash; many come to Kyoto expecting tradition, and are often surprised to find contemporary life humming along as it does in most medium and big cities, except in Kyoto &mdash; it's alongside real tradition.
+
+* {{see
+| name=Shinsen-en Garden | alt=神泉苑 | url=http://www.shinsenen.org/ | email=
+| address=167 Monzen-cho, Nakagyo-ku | lat=35.011382 | long=135.748369 | directions=
+| phone=+81 75 821-1466 | tollfree= | fax=
+| hours=Daily 09:00-22:00 | price=Free
+| content=Although cherry blossom-viewing and festivals can be seen all over Japan today, Shinsen-en Garden is where the very first organized cherry blossom viewing festival took place.}}
+
+[[File:NinomaruGarden.jpg|thumb|250px|Ninomaru Garden, Nijō Castle]]
+* {{see
+| name=Nijō Castle | alt=二条城 nijō-jō | url=https://nijo-jocastle.city.kyoto.lg.jp/?lang=en | email=
+| address=541 Nijojo-cho, Horikawa-nishiiru, Nijo-dori, Nakagyo-ku | lat=35.014167 | long=135.7475 | directions=Tozai Subway Line to Nijojo Mae
+| phone=+81 75 841-0096 | tollfree=
+| hours=Daily 08:45-16:00 (Gate closes at 17:00), Ninomaru Palace closed on Tuesdays. | price=¥1,300 for adults; ¥400 for junior and senior high school students, ¥300 for elementary school students, free for children under 6 years
+| wikipedia=Nijō Castle | wikidata=Q1013399
+| content=Certainly one of the highlights of Kyoto, with fine gardens and splendid centuries-old structures. The castle was built by the Tokugawa shoguns to serve as the shogun's residence in Kyoto. After the fall of the Tokugawa shogunate, the castle served as an imperial residence before being converted to a museum and opened to the public. The series of ornately-decorated reception rooms within the Ninomaru Palace complex is particularly impressive, and known for its "nightingale floors" - wooden flooring which makes bird-like squeaking sounds when stepped on so as to give advance warning when someone was approaching. From the empty base of the donjon that once overlooked the innermost section of the fortress (known as the Honmaru), you can get good views over parts of the castle compound and the wider city beyond. The donjon and original Honmaru Palace burnt down in two separate fires; the current Honmaru Palace was originally part of a prince's residence, and moved to its current location in the Meiji Period (late 19th century). The Honmaru Palace was opened to the public for the first time in 18 years on September 1, 2024, but reservations are required, and it will cost an additional ¥1,000. See also [[Japanese castles]].
+}}
+* {{see
+| name=Nijō-Jinya | alt=二条陣屋 | url=http://nijyojinya.net/English.html | email=info_isckyoto@yh-kyoto.or.jp
+| address=Just south of Nijo Castle | lat=35.010282 | long=135.748658 | directions=
+| phone=+81 75 381-6487 | tollfree=
+| hours=Daily 10:00-16:00 | price=
+| content=A private residence, Nijo-Jinya is a former samurai house. Tours discuss the roles of samurai and the dangers experienced during that time period. The house features unique trap doors and escape routes used by samurai and former residents to escape fires and attacks. Guided tours are available in Japanese by a family member of the current residents. You are welcome to bring an interpreter.
+}}
+* {{see
+| name=The Museum of Kyoto | alt=京都文化博物館, kyōto bunka hakubutsukan; 通称, bunpaku | url=http://www.bunpaku.or.jp/en/ | email=
+| address=Sanjo Takakura, Nakagyo-ku | lat=35.009389 | long=135.762333 | directions=Kyoto City Subway to "Karasuma Oike Station".Hankyu Railway to "Karasuma Station" or Keihan Line to "Sanjo Station".
+| phone=+81 75-222-0888 | tollfree= | fax=
+| hours=Tu-Su 10:00-19:30 (until 18:00 during special events) | price=Adults: ¥500; students: ¥400; children: free. For special exhibits: adults: ¥1,400; students: ¥1,000; children: ¥500
+| image=Museum of Kyoto 20101204-002.jpg | wikidata=Q11375592
+| content=The museum features many ancient artifacts relating to Kyoto life and history. It has an expansive ancient ceramics collection.
+}}
+* {{see
+| name=Kyoto International Manga Museum | alt=京都国際マンガミュージアム, Kyōto Kokusai Manga Myūjiamu | url=https://www.kyotomm.jp/en/ | email=
+| address=Kinbuki cho 452, Nagakyō-ku | lat=35.010807 | long=135.760009 | directions=Tozai line to Karasuma Oike, exit 2. Buses 15, 51, 61, 62, and 63
+| phone=+81-75-254-7414 | tollfree= | fax=
+| hours=Daily 10:00-18:00 (entry until 17:30) | price=Adults: ¥800; students: ¥300; children: ¥100
+| content=Housed in an old elementary school building, the museum holds over 300,000 manga-related items ranging from rare Meiji-era publications to the works of contemporary artists. One of its main attractions is the so-called "Wall of Manga": a vast collection of some 50,000 volumes arranged on shelves running along the building's corridors. Much of the collection is in Japanese, but there is a sizeable selection of manga translated into various foreign languages (including English) on the ground floor. Visitors are welcome to pick out and read anything they choose from the "Wall of Manga" (although the books can't be checked out for offsite reading), which explains the large numbers of children and young adults that throng the museum - and the large Astroturf field just outside where people can read the manga of their choosing. The museum also hosts special temporary exhibitions and other manga-related events. Closed Wednesdays and national holidays.
+}}
+* {{see
+| name=Nishi Honganji | alt=西本願寺; “Western Temple of the Original Vow” | url=http://www.hongwanji.or.jp/english/ | email=
+| address=60 Horikawa-dōri Hanaya-chō Kudaru Honganji Monzen-machi, Shimogyō-ku | lat=34.991778 | long=135.751694 | directions=From Kyoto Station, walk 15 min. northwest
+| phone= | tollfree= | fax=
+| hours=Sep Oct Mar Apr 05:30–17:30; May-Aug 05:30–18:00; Nov-Feb 06:00–17:00 | price=Free
+| wikidata=Q1146038| wikipedia=Nishi Hongan-ji
+| content=One of many [[World Heritage Site]]s in Kyoto, Nishi Honganji is one of two temple complexes of the Buddhist sect, Jōdo Shinshū (the other being Higashi Honganji). It was founded in 1602, and has gates dating back to 1573.
+}}
+* {{see
+| name=Higashi Honganji | alt=東本願寺 Higashi Honganji; Eastern Temple of the Original Vow | url=http://www.higashihonganji.or.jp/english/ | email=
+| address=Karasuma Shichi-jō Agaru, Shimogyō-ku, Kyoto 600-8505 | lat=34.99143 | long=135.75854 | directions=Karasuma Shichijō bus stop or Gojō Station via Karasuma subway. Accessible also from Kyoto Station
+| phone=+81-75-371-9181 | tollfree= | fax=
+| hours=Mar–Oct 05:50-17:30; Nov–Feb 06:20-16:30 | price=Free
+| wikidata=Q910281| wikipedia=Higashi Hongan-ji
+| content=Higashi Honganji was established in 1602 by the Shogun Tokugawa Ieyasu when he split the Shin sect in two (Nishi Honganji being the other) in order to diminish its power. Today it is the headquarters of the Ōtani branch of Jōdo Shin-shū. The Founder’s Hall (Goei-dō) is said to be the second-largest wooden structure in Japan. With a capacity for 5,000 people, it's majestic. Check out the massive coil of hair rope, donated by a group of female devotees and used to haul the massive timbers for the reconstruction of the temple in the 1880s.
+}}
+* {{see
+| name=Shōseien Garden | alt=渉成園; Kikoku-tei; Karatachi tei | url=http://www.pref.kyoto.jp/visitkyoto/en/theme/sites/shrines/temples/m_shoseien/ | email=
+| address=300 higashitamamizu-chō, Shimojyuzuyamachi-dōri Aidanochō-higashiru, Shimogyō-ku | lat=34.991395 | long=135.763238 | directions=two blocks east of Hingashi Hongaji; bus stop: Kawaramachi Shōmen
+| phone=+81 75-371-9210 | tollfree=
+| hours=Daily 09:00-16:00 (last entry 15:30) | price=Free
+| content=Shosei-en Garden was commissioned by Prince Minamoto no Tōru. He designed the Ingetsu Pond to resemble the Shiogama Coast in [[Miyagi Prefecture]]. During the Tokugawa Period the garden was given to Higashi Hongan-ji Temple, restoring the old sections and adding on to the garden. It's a stroll garden with buildings dating back to the 19th century.
+}}
+[[Image:Cherry blossoms at Toji Temple, Kyoto.jpg|thumb|Cherry blossoms at Tō-ji Temple]]
+* {{see
+| name=Tō-ji | alt=東寺 Tō-ji; East Temple; Kyō-ō-gokoku-ji (教王護国寺) | url=http://www.toji.or.jp/ | email=
+| address=Kujyomachi, Minami-ku | lat=34.980556 | long=135.747778 | directions=Kintetsu Kyoto Line to Toji Station
+| phone= | tollfree= | fax=
+| hours=Daily 08:30-17:30 (until 16:30 from mid-September to mid-March) | price=Admission to grounds free; Kondō & Treasure Hall ¥500; Pagoda ¥800
+| wikidata=Q1046403| wikipedia=Tō-ji
+| content=An impressive complex of Buddhist temple buildings, this site features the tallest pagoda in Japan. Bright colors decorate the interior of many buildings on the site, and Buddhist sculptures compliment the color choices. The grounds include a relaxing garden, and cherry blossoms. The Kōbō-san market fair is held here on the 21st of every month.
+}}
+* {{see
+| name=Kyoto Tower | alt=京都タワー Kyōto-tawā | url=https://www.keihanhotels-resorts.co.jp/kyoto-tower/en/ | email=
+| address=Karasuma-dōri Shichijō-sagaru, Shimogyō-ku | lat=34.9875 | long=135.759167 | directions=City Bus to "Kyoto"; JR Line, Subway Karasuma Line or Kintetsu Line to "Kyoto"; it is just in front of Kyoto station
+| phone=+81 75-361-3215 | tollfree= | fax=
+| hours=Daily 09:00-20:30 | price=Free to visit lobby & hotel, charge for going to the top: adults: ¥770; students: ¥620; teens: ¥520; children: ¥150
+| wikidata=Q1201304| wikipedia=Kyoto Tower
+| content=A source of bitterness of locals due to its futuristic feel, which counteracts the historic feel the city is known for, the Kyoto Tower is an overpriced viewing tower where you can observe Kyoto's urban sprawl at its finest. There is also a hotel and banquet hall at the tower.
+}}
+* {{see
+| name=Mibu-dera | alt=壬生寺 | url=http://www.mibudera.com/eng/ | email=mibudera@kyoto.zaq.ne.jp
+| address=Bojo-dori Bukkouji Kita-iru, Nakagyo-ku | lat=35.0016 | long=135.743339 | directions=10 min walk from Hankyu Line to Omiya
+| phone=+81 75-841-3381 | tollfree= | fax=
+| hours=Daily 08:30-17:30 | price=Main grounds free; garden & museum ¥100
+| content=Founded in 991 CE, Mibu-dera is a Buddhist temple. The temple has Setsubun celebrations in February which draws large crowds. It's free to visit the grounds, however, a small museum and garden have an admission fee.
+}}
+* {{see
+| name=Kyoto Station | alt=京都駅 | url=http://www.kyoto-station-building.co.jp/map_en/index.html | email=
+| address= | lat=34.985458 | long=135.757756 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=Free
+| wikidata=Q801046| wikipedia=Kyōto Station
+| content=Even if you are not travelling by train, it is worth spending an hour or so wandering around the station, which is an outstanding example of modern architecture. The station, with its futurist architecture designed by Hiroshi Hara, opened in 1997 to commemorate Kyoto's 1,200th anniversary. There are two tourist information centers in the building on the 2nd and 9th floors. Take one of the many escalators or stairs to the top, where you will find a rooftop garden with views over the city, and if you have a head for heights, walk across the skywalk on the 11th floor. Actually the views from the levels in between might be better than the rooftop view through shaded glass.
+}}
+* {{see
+| name=Kyoto Railway Museum | alt=京都鉄道博物館 | url=http://www.kyotorailwaymuseum.jp/ | email=
+| address=Kankijicho, Shimogyo Ward | lat=34.987222 | long=135.7425 | directions=
+| phone= | tollfree=
+| hours=Daily 10:00-17:00 | price=¥1,500
+| lastedit=2023-09-20
+| content=An expansive and modern railway museum with over 50 historical Japanese rollingstock, primarily used in service by JR West and its predecessor, JNR. Three Shinkansen models are on display, along with an extensive collection of preserved steam locomotives, including one you can ride. Many informative displays and exhibits of railway technology, operations and systems line a three story main building, coupled with an outdoor locomotive garage complete with railway turntable mean it is easy to spend hours in here. In addition, a very popular train simulator and miniature railway display complete the experience; the former is so popular it requires a lottery to get a turn!
+}}
+* {{see
+| name=Sumiya | alt=角屋 | url=https://sumiyaho.sakura.ne.jp/page/english.html | email=
+| address=32 Nishishinyashiki Ageyacho, Shimogyo Ward | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=¥1,000
+| lastedit=2024-12-31 | wikidata=Q11630696
+| content=A conserved historic former teahouse in what was once the red-light district of Kyoto, it is today a museum. Only open to the public seasonally.
+}}
+
+* {{see
+| name=Kyoto Aquarium | alt=京都水族館 | url=https://www.kyoto-aquarium.com | email=
+| address=35-1 Kankijicho, Shimogyo Ward, 600-8835 | lat=34.9876 | long=135.74784 | directions=Located in Umekoji Park
+| phone=+81 075-354-3130 | tollfree=
+| hours=10:00 - 18:00 | price=Cost varies based on age: ¥2,400 - ¥800
+| lastedit=2025-11-17
+| content=A modern aquarium with a wide variety of sea life such as small and large Fish, Garden Eels, Dolphins, Seals, and Giant Salamanders. The Aquarium also includes a small Japanese style garden, two cafes, and a gift shop. The whole facility is wheelchair and pram accessible with elevators and ramps.
+}}
+===Imperial Park===
+The '''Imperial Park''' is a large, peaceful area in the centre of Kyoto, centred around the '''Imperial Palace'''. The palaces are only open to visitors on free guided tours, and bookings must be made at the Imperial Household Agency, online or in their office to the west of the palace complex. If you're in Kyoto for an extended amount of time, the park can make for a very pleasant afternoon, and it's large enough to let you forget the noise of the city outside the walls. It's home to 50,000 trees, including cherry, plum and peach tree orchards (mostly in the northern section).
+
+* {{see
+| name=Kyoto Imperial Palace | alt=京都御所 Kyōto-gosho | url=http://sankan.kunaicho.go.jp/english/guide/kyoto.html | email=
+| address= | lat=35.024113 | long=135.762163 | directions=A 5-10 minute walk south from the Imadegawa subway station, Karasuma subway line
+| phone= | tollfree= | fax=
+| hours=English tours M-F at 10:00 and 14:00 (by appointment only) | price=Free
+| wikidata=Q1202239| wikipedia=Kyoto Imperial Palace
+| content=The palace is a reconstruction (dating from 1855), though the Emperor doesn't spend much time there, ''and'' the guided tour doesn't enter the palace buildings, only peeking at them from the outside, but nevertheless, it provides interesting insight into the lives of the Imperial Court and it's the only Imperial site in Kyoto that offers English guides. Show up an hour before the tour at the Imperial Household Agency building (west of Kyoto Imperial Palace), and they'll let you join if there's space, or make a booking for another day if there isn't. If you don't want to chance it, advance bookings can also be made online through the Imperial Household Agency's official website [http://sankan.kunaicho.go.jp/english/].
+}}
+* {{see
+| name=Sentō Imperial Palace | alt=仙洞御所 Sentō-gosho | url=http://sankan.kunaicho.go.jp/english/guide/sento.html | email=
+| address= | lat=35.021516 | long=135.765262 | directions=within the grounds of Kyoto's Imperial Park
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikidata=Q909444| wikipedia=Sentō Imperial Palace
+| content=This palace is one of the most competitive for reservations, because this is the palace where the Imperial family stays when in Kyoto.
+}}
+
+==Do==
+[[Image:Kyoto Nishijin Textile show.jpg|thumb|250px|Kimono fashion show, Nishijin Textile Center]]
+* {{do
+| name=Nishijin Textile Center | alt=西陣織会館 Nishijin-ori Kaikan | url=http://nishijin.or.jp/eng/ | email=
+| address=Horikawa-Imadegawa | lat= | long= | directions=
+| phone=+81 75-451-9231 | tollfree=
+| hours= | price=Weaving costs ¥1,800 adult (¥1,500 for students) and dressing up as a geisha costs ¥10,000
+| content=While visitors may just go to the museum to see the history of Nishijin Textiles, you may also want to try dressing up as a geisha or trying your hand at weaving. You need reservations for each activity, and separate fees are charged for each activity. As of Aug 2023, kimono shows are suspended.
+}}
+* {{do
+| name=Kyoto Butoh-kan | alt=京都舞踏館 | url=http://butohkan.jp | email=info@butohkan.jp
+| address=Tsukinukecho 135, Nakagyoku, Kyoto 604-8202 | lat=35.009312 | long=135.757597 | directions=just west of Karasuma Oike Subway stop
+| phone=+81 75-254-6520 | tollfree=
+| hours=Thursdays 18:00 and 20:00 | price=¥3,000
+| wikipedia=Butoh | wikidata=Q1018001
+| lastedit=2016-10-17
+| content=In the heart of the city is located the Butoh-kan, the world's first theatre devoted to weekly performances of the elusive dance of Butoh. Performances are by world-famous Butoh dancer Tenko Ima, every Thursday at 18:00 and 20:00. She is accompanied by live Shamisen music. The "theatre" is an ancient plaster storehouse, so the atmosphere is vivid and intimate, because there are only eight seats per show. Due to Covid-19, the theater has been closed since May 2021.
+}}
+
+==Buy==
+
+The city's main shopping district is centered on '''the intersection of Shijō-dōri and Kawaramachi-dōri''', a short distance from the Kamo River and a manageable walk away from the neighbouring Gion district in [[Kyoto/Higashiyama|Higashiyama]]. Kawaramachi Station on the Hankyū Line puts you right in the heart of the action, within easy reach of three major department stores and a wide assortment of other shopping options.
+
+For electronics, head up to Teramachi and turn left; for clothes boutiques, including your chance at finding the ''perfect'' Engrish t-shirt, turn right into the covered arcade portion of Teramachi and Shinkyōgoku, which runs parallel.
+
+Specific places worth checking out include the following:
+
+* {{buy
+| name=Kōbō-san Market | alt= | url= | email=
+| address=Tō-ji, 1 Kujō-chō, Minami-ku | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours=Early morning till around 16:30 | price=
+| content=On the 21st of each month, Tō-ji hosts a large flea market on and around the temple grounds. It's like a one-day festival, with long rows of food vendors joining an odd assortment of sellers &mdash; everything from elegant Japanese crafts and rare plants to piles of old postcards, photos, movie posters, and appliances from decades past.
+}}
+* {{buy
+| name=Gallery Gado | alt= | url=http://www.gado.jp | email=
+| address=27 Miyashiki-cho Hirano, Kitaku | lat= | long= | directions=on Kinukake no Michi, near Kinkakuji
+| phone=+81 75-464-1655 | tollfree=
+| hours=Daily 10:00-18:00 | price=Postcard-sized prints &yen;800, medium-sized prints &yen;2,000-3,000, large prints for more
+| content=Gallery Gado sells modern woodblock prints (''ukiyo-e'') with traditional themes. The gallery also has catalogs of the work of artists who are maintaining this art form. All prints are authentic woodblock prints.
+}}
+* {{buy
+| name=Junkudo | alt= | url= | email=
+| address= | lat= | long= | directions=8th floor of BAL building on Kawaramachi-dori between Shijo Street and Sanjo Street
+| phone= +81 75-253-6460 | tollfree= | fax=
+| hours=daily 11:00-20:00 | price=
+| content=A huge bookstore with big selection of English books and magazines.
+}}
+* {{buy
+| name=Nishiki Market | alt= | url=http://www.kyoto-nishiki.or.jp/ | email=
+| address=Nishikikoji-dori and Takakura-dori | lat=35.005028 | long=135.766139 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Nishiki Market | image=Nishiki ichiba kyoto.jpg | wikidata=Q11650434
+| lastedit=2018-11-19
+| content=An enclosed traditional shopping street, expensive but full of interesting shops and products, including great souvenirs and snacks. It runs east-west, a block north of Shijo-dori, and at its eastern end it connects to '''Teramachi-dori''', another, newer shopping street that runs north-south.
+}}
+
+==Eat==
+
+===Budget===
+* {{eat
+| name=Musashi Sushi | alt= | url= | email=
+| address= | lat= | long= | directions=directly across from Kappa Sushi at the corner of Sanjo/Kawaramachi
+| phone= | tollfree=
+| hours= | price=¥137 per plate (usually 2 pieces per plate)
+| wikidata=
+| lastedit=
+| content=One of the oldest kaitenzushiya (conveyor belt sushi) restaurants in Kyoto. All of the sushi is handmade, though it may take a while to see something new float by. Fortunately, the seats surround the chefs, so you can request whatever you want if you don't see something you like.
+}}
+*'''Kappa Sushi''' is a chain kaitenzushiya (conveyor belt sushi) restaurant on the corner of Sanjo and Kawaramachi at the entrance to the Shinkyogoku/Teramachi covered mall. Lots of variety and cheap prices, but the sushi isn't handmade &mdash; machines are used to cut the rice and fish. Price: ¥100 per plate (usually 2 pieces per plate).
+*'''Mr. Young Men''' is a pleasantly grubby okonomiyaki restaurant downtown, at the corner of Shijo and the covered shopping street of Teramachi. Basic English menus are available. A basic dish of Osaka-style okonomiyaki will run about ¥800, although a few variations (including a bizarre cheese and potato version) are available for about the same price.
+*'''Hati Hati''' is an Indonesian restaurant on Kiyamachi, near Takoyakushi. It has great food and atmosphere, but it's occasionally converted into a bar and a performance space for local bands and DJs at night on weekends. For really late night food on Kiyamachi, there is a cheap, open-air '''falafel''' cafe a couple doors down from Hati Hati that never seems to close.
+*'''Donguri''' is a cheap yet very nice okonomiyaki restaurant on the Northwest corner of Kawaramachi and Shijo. It's a sub-level place so it might take a bit to find it. It is next to the Excelsior Coffee; if you walk past The Body Shop you went too far. It's about ¥500 for an okonomiyaki and about ¥300-500 for a namachuu (mid sized mug of beer). Expect to pay ¥800-900 in the evening. Great place for a date or nicer evening.
+* {{eat
+| name=Kappa Sushi (on Pontocho) | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=
+| lastedit=
+| content=A reasonably-priced (for fresh sushi) restaurant. They have an English menu which is, unfortunately, inferior to the Japanese menu. Specials change daily, but are generally on the pricey side. Sit at the sushi bar, and eat well-apportioned nigiri off of banana leaves with your fingers. Not a bad place to try real o-toro for ¥800 a plate.
+}}
+* {{eat
+| name=Shofukutei | alt=昭福亭 | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| lastedit=2025-03-05
+| content=One person udon nabe for ¥1,100. Green soba or udon noodles for as cheap as ¥400.
+}}
+
+===Mid-range===
+
+* {{eat
+| name=Shishin Samurai Cafe & Bar | alt= | url=http://www.universalpeace.co.jp/shi-shin.html | email=
+| address=230-1 Kamimyoukakuji-cho Nakagyo-ku | lat=35.013092 | long=135.757308 | directions=
+| phone= +81 75 231-5155 | tollfree= | fax=
+| hours=W-M 12:00-23:00 | price=
+| content=The place proclaims that an increase of food production, food self-sufficiency, and the decrease of food waste can prevent war. This cafe serves local Japanese foods as much as possible to increase food self-sufficiency and sustainability. In addition this cafe uses 5% of its gross sales to aid homeless people and orphans who are suffering from a lack of food. Furthermore, this cafe aims to reintroduce declining Japanese traditional customs and keep these traditions alive. Also, this cafe plans to hold lectures, discussions and forums concerning peace and food sustainability (please, note different menu items during cafe and bar times).
+}}
+* {{eat
+| name=Siam | alt=シャム | url=http://www.siam-thaicurry.com/ | email=
+| address= | lat= | long= | directions=on Marutamachi-dori about 100 m east of Nishioji-dori
+| phone= | tollfree=
+| hours=Th-Tu 11:30-15:30, 18:00-21:00 | price=
+| content=A tiny but wonderful Thai curry restaurant. The food is delicious, reasonably priced and spice levels are indicated on the menu. Relax in a soft-lit room decorated with exotic paintings from Bali, while the friendly staff prepare your meal right in front of you. An English menu available.
+}}
+* {{eat
+| name=Fuka | alt=麩嘉 | url=https://fuka-kyoto.com/ | email=
+| address= | lat= | long= | directions=west of the Imperial Palace and just a bit south of the Kyoto Prefectural Office
+| phone= | tollfree=
+| hours=Tu-Su 09:00-17:00 | price=
+| content=This old shop makes the best ''nama-fu manju'' (wheat gluten filled with sweet bean paste) in Kyoto and supplies many sweet shops and restaurants throughout the city. There might not be enough supplies to sell over the counter, so it is best to arrive early.
+}}
+* {{eat
+| name=Tengu | alt= | url= | email=
+| address= | lat= | long= | directions=underground with an entrance near the corner of Sanjo/Kawaramachi
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=A chain izakaya offering their own beer and good shared food with occasional seasonal specials.
+}}
+* {{eat
+| name=Anil | alt= | url= | email=
+| address= | lat= | long= | directions=6F Daini Kanko Building on Kiyamachi
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=A nice Nepalese restaurant with a great atmosphere and awesome food. The dahl, cheese nan and momo dumplings are highly recommended.
+}}
+* {{eat
+| name=Torikizoku | alt=鳥貴族 | url=http://www.torikizoku.co.jp/ | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours=18:00-late | price=All food/drink &yen;300 each
+| content=Torikizoku is the most popular yakitori chain in Kansai. There are several locations in Kyoto - most convenient for travellers is in Kawaramachi/Shijo, just before the bridge, or between sanjo and shijo, on kiyachou-dori. The yakitori is delicious, comes in generous serves and is very cheap. It's very popular with both locals and expats, and is always busy. Try to come before 19:30 to secure seats. Look for the Japanese characters on the distinctive yellow and red sign.
+}}
+* {{eat
+| name=Apollo | alt= | url=http://www.kyo-apollo.jp/ | email=
+| address=Rokakku-dori | lat=35.00738 | long=135.76304 | directions=Rokakku-dori 2 blocks east of Karasuma-doritel
+| phone=+81 75-212-2233 | tollfree= | fax=
+| hours=17:00-00:00 (last order 23:00) | price=¥150-3200 (latter is set plate)
+| content=If hipster izakaya didn't exist before, Apollo has invented it. Izakaya style with a clean, laid back environment consisting more of hip and arty locals instead of an older "regulars" crowd. Beautiful interior with a center garden and private dining rooms, or you can sit at the bar or in the more casual tables upstairs. Chefs prepare a mix of salads, grilled foods and fried foods from seasonal regional ingredients. House speciality is a pork gyoza. Affordable, cool and laid back.
+}}
+* {{eat
+| name=Tuzuri | alt=綴 | url=http://tuzuri-kyoto.com/ | email=
+| address=Matsubara Dori, just west of Karasuma | lat=34.998905 | long=135.759185 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2016-04-04
+| content=Quiet Japanese place specialising in traditional home cooking dishes (called ''obanzai'').
+}}
+* {{eat
+| name=Nijiya | alt=虹屋 | url=https://nijiya-produced-by-vegan-farm.jimdosite.com/ | email=
+| address= | lat=35.0065831 | long=135.7701993 | directions=
+| phone= | tollfree=
+| hours=17:30-20:30 | price=
+| lastedit=2024-06-22
+| content=Cozy vegan izakaya with only counter 7 seats. As of March 2024, they had to temporarily stop taking reservations due to popularity, and serve customers in order of arrival.
+}}
+
+===Splurge===
+* {{eat
+| name=Pontochō | alt=先斗町 | url= | email=
+| address= | lat= | long= | directions=a narrow lane running from Shijo-dori to Sanjo-dori, one block west of the Kamo River
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=One of Kyoto's most traditional nightlife districts, the restaurants here run the gamut for super-exclusive geisha houses to common yakitori bars. Many have pleasant open-air riverside terraces. Rule of thumb is, any establishment with a menu and prices outside is OK, but others are best skipped.
+}}
+* {{eat
+| name=Mishima-tei | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=If you have a yearning for ''sukiyaki'', and your pockets are deep, you must visit Mishima-tei at the junction of Teramachi-dori and Sanjo-dori. Here you will be bowed in and shown to your own private tatami room by your personal kimono-clad hostess. There, having helped you to order, she will prepare your ''sukiyaki'' feast on the hotplate set between you. Order the "premium beef", and the richly marbled meat will just melt in your mouth, and require almost no chewing whatsoever: it is delectable – and it should be since two of you will spend around &yen;25,000 in less than an hour on 360 grams of beef and a few vegetables! (For the cost-shy, there is a 'tourist set' on the menu which results in a bill of about &yen;13,600 for 2.
+}}
+
+==Drink==
+
+Kyoto is a more sleepy town compared its neighbours like [[Osaka]] and [[Kobe]]. Bars range from "girlie bars" to a select few bars that cater to ''gaijin'' and their friends to local watering holes. The best bars in Kyoto are often less noticeable. When heading out for a drink, look for bars in Central and Eastern Kyoto with little or no signage. You can always pop your head in the door to take a look at the crowd and vibe. Fixing a nice mix is a good way to feel comfortable, and bartenders usually do their best to make you feel welcome by attempting some conversation if they know a bit of English. However, you can also enjoy a drink in the corner while observing the locals and pay up after a drink. Some places might charge a fee of ¥500-1000.
+
+Beer and sake are common place in most bars. Wine is rarer, and often overpriced and mediocre. Mixed drinks are also common, and at many bars you'll find local liqueurs you can't find anywhere else.
+
+There are little to no nightclubs and a small selection of live music venues in Kyoto. The local government has cut back on nightclubs and girlie bars to keep a more calm, safe and relaxed environment in the historic city. However, Gion still serves as a major entertainment district, and if you arrive early enough (before 18:00) you might see a geisha wandering off to an appointment in Gion.
+
+* {{drink
+| name=Ing | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=Sapporo sells at &yen;600 each shareable bottle
+| content=No night in Kyoto is complete without the requisite after hours visit to all-night Ing (a.k.a., "Box Bar," or "the office"). Proprietor Hako-san will keep bringing you the booze, and he's happy to join you for a drink when offered. Food there is always an option - tofu salad & potato pizza are good for the price (&yen;600). Get ready for Rolling Stones, competitive Jenga, sharing tables with odd drunk people, and clothes permanently soaked in smoke. Good luck finding it. If you see '''Hamid's Falafel''' you're on the right track. Ing is on the second floor of a building slightly south of Hamid's.
+}}
+* {{drink
+| name=Sake Bar Yoramu | alt=酒ＢＡＲよらむ | url=http://www.sakebar-yoramu.com/index_eng.html | email=yoram@sakebar-yoramu.com
+| address=Nijo-dori east of Karasuma | lat= | long= | directions=Marutamachi and Karasuma-Oike subway stations
+| phone=+81-75-213-1512 | tollfree= | fax=
+| hours=Tu-Su 18:00-00:00, closed first Sunday of the month | price=
+| content=From the unusual to the standard, this sake bar has both an impressive selection of traditional Japanese rice wine. Even more impressive is the barkeep and owner, who's from Israel, who can translate your preferences in wine into sake. Well-aged sake is available, busting the myth that sake does not age. Traditionally-brewed sake ranging from slightly cloudy to yogurt-like may also be available.
+}}
+*{{drink
+| name=Nikki's Bar | url= | email=
+| address=Nishi-Kiyamachi 804 Daini Kankou Building | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours=20:00-05:00 | price=¥700
+| content=This is a nice little bar ran by a gregarious Nepalese guy named Nikki. It's got a great bunch of regulars and new customers are always warmly welcomed. It's just north of Hamid's Kebab shop. Mixed drinks and beer run &yen;700 per drink and shots are &yen;500. It's a little hard to find because it's on the 8th floor. If you can't find it ask the folks working at Hamid's.
+}}
+*{{drink
+| name=Sugar Trip | url=http://www.sugar-trip.com/ | email=
+| address=Rokkaku Building2F 236 Yamasaki-cho Nakagyo-ku | lat= | long= | directions=on Rokkaku-dori a few blocks south of the intersection with O
+| phone=+81 75-211-1145 | tollfree= | fax=
+| hours= | price=Original cocktails sell for ¥700-750, Smoothie cocktails for ¥900, Beer for ¥650-700, tonic ¥700
+| content=A ritsy cocktail bar with a variety of drinks from the standard beers to champaigne and cava. Most people come for one of the many cocktail varieties that this bar is famous for.
+}}
+*{{drink
+| name=A bar | url= | email=
+| address= | lat= | long= | directions=
+| phone=+81 75-213-2129 | tollfree= | fax=
+| hours= | price=¥550 Yebisu
+| content=A hard-to-find (on 2nd floor) izakaya close to the Shijo/Kiyamachi corners, makes a great start to the evening. Food is good and reasonable - daily sashimi specials and fried goods, especially. You share long tables with foreigners and locals alike; a friendly thing to do would be to pour beers for your neighbors and Suei-san, the proprietor.
+}}
+*{{drink
+| name=Pub Africa | url= | email=
+| address=KyotoRokkaku Terrace Bld 1F | lat= | long= | directions=
+| phone=+81 75-255 4518 | tollfree= | fax=
+| hours= | price=
+| content=Although many think this is an Africa-themed bar, there is nothing very African about it. If there's a football match from home that you need to catch, they'll show it here, and they have cheap Asahi jugs. Beers half off during Happy Hour. Also, their fooseball table is very well kept. Across from the Hub, infra.
+}}
+[[File:Garden from K Bar in Kyoto - Sarah Stierch.jpg|thumb|A view of the garden outside of K-ya in Kyoto, Japan.]]
+* {{drink
+| name=K-ya | alt=K Bar, Bar K | url= | email=
+| address=105 Yaoya-cho, Gokomachi-nishiiru, Rokkaku-dori, Nakagyo-ku | lat= | long= | directions=
+| phone=+81 75-241-0489 | tollfree= | fax=
+| hours= | price=
+| content=Classy beautiful off the beaten path bar that caters to locals more than tourists. The owner is one of Japan's best bartenders. Staff wear tux's ala Rainbow Room in New York. The vibe is upscale yet casual. It overlooks a beautiful Japanese garden. Cocktails range from classics like Moscow Mule to their own specialities. Tasty amuse bouche come with each round of drinks. Service is wonderful.
+}}
+* {{drink
+| name=Milan's Bar | alt= | url=https://www.facebook.com/groups/110460828994014/ | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| lastedit=2015-04-07
+| content=A fun little bar tucked away down a back alley on the west side of the canal. The alley is just south of Karaoke Paradise, and the sign for Milan's read just Mil-N Bar. Located on the 2nd floor, it's a cozy, cave-like interior, but Milan, the Nepalese proprietor, is gregarious and always has a funny tale to tell.
+}}
+
+===British and Irish pubs===
+These are popular with foreign tourists looking for a "closer to home" connection and with locals wanting to meet them.
+
+* {{drink
+| name=The Hub | alt= | url= | email=
+| address= | lat= | long= | directions=on the small streets connecting Kiyamachi to Kawaramachi
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Lots of TVs for sports, cheap beer (¥700/pint) (especially with a ¥500 membership) and more expensive imports; food, however, is mediocre. This is basically the headquarters for English-speaking tourists and gaijin residents for happy hour. Happy hour (17:00-19:00) discounts cocktails only. If you want some inside information about where to go, where to eat, what to see, etc., ask a group here. One of the larger bars in Kyoto, it is a popular spot for happy hours and goodbye parties. The real draw is the football, darts tournaments, and, upstairs in the back, the pool table.}}
+* {{drink
+| name=McLoughlin's | alt= | url= | email=
+| address= | lat= | long= | directions=on Kiyamachi between Sanjo and Nijo
+| phone= | tollfree= | fax=
+| hours= | price=Main courses starting at ¥1,200
+| content=Presided over by the most amiable owner/chef Tadg McLoughlin. Quality beers, domestic and foreign (including microbrews). The staff are friendly and speak English. Live music on weekends. Giant screen TV (Mr. McLoughlin being a rugby fanatic), darts, foosball and a great view of east Kyoto. Happy hours are 17:00-20:00.}}
+
+==Sleep==
+
+The great majority of Kyoto's accommodation can be found here. Staying closer to Kyoto Station provides immediate access to the Shinkansen and the hub of the city [[Kyoto#By bus 2|bus network]]; closer to Karasuma-Oike puts you in the midst of downtown and closer to the [[Kyoto/Higashiyama|Gion]]. They're only minutes apart by subway, making the choice merely a matter of personal convenience.
+
+===Budget===
+====Internet and manga cafés====
+*{{sleep
+| name=Topscafé | url=http://www.topsnet.co.jp | email=
+| address=Hachijo street | lat=34.98385 | long=135.75948 | directions=south-east of Kyoto JR station, a 5-min walk, near willerexpress bus stop
+| phone= | tollfree= | fax=
+| hours= | price=Night starts at ¥1620 + member card. Internet hour starts at ¥516 + member card. Member card ¥200, vip: +¥216 for pack, ¥129/15-min overtime
+| checkin= | checkout=
+| content=
+}}
+*{{sleep
+| name=Popeye media cafe | alt= | url=http://www.mediacafe.jp/company/shop/shijoukawaramachi.html | email=
+| address= | lat=35.00415 | long=135.76850 | directions=between Kyoto Shiyakusho-mae station/Honno-ji and Sanjo-dori, just near catholic cathedral and Royal Hotel and Spa, bus stop Kawaramachi-sanjo 4/17/205
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=No member card. Night starts at ¥880/1100. Internet hour starts at ¥280. Shower extra ¥100 if cafeteria (included in other case), ¥100 for towel rent
+| content=The most famous one. Cafeteria seats are OK, but it is better to use two if sleeping.
+}}
+
+====Hostels====
+* {{sleep
+| name=Guest House Kyoto Inn | alt= | url=http://www.guesthouse-kyoto.jp | email=
+| address=15, Sujaku Shokaicho, Shimogyo-ku | lat= | long=
+| directions=an 8-min walk south from Tambaguchi station or 10-min bus ride from Kyoto station
+| phone=+81 75 681-2282 | tollfree= | fax=
+| checkin=15:00-21:00 | checkout=11:00 | price=¥3000
+| lastedit=
+| content=Opened November 2016. Very new and clean guesthouse where you can feel at home. Friendly, helpful and knowledgeable staffs who can speak good English. Comfy beds with curtain on the bottom bunk. Smooth Wi-Fi access, tea and coffee, computer and dryer use, left luggage service are all free. Enough number of toilets and showers with soap, well equipped kitchen. Air-conditioned dorms.
+}}
+* {{sleep
+| name=JAM Hostel | alt= | url=https://www.facebook.com/jamhostel/?ref=br_rs | email=
+| address=Tokiwacho170 Higashiyama | lat=35.00489 | long=135.77245 | directions=at the corner of Gion-Shijo station at the Keihan line
+| phone=+81-75 201-3374 | tollfree= | fax=
+| checkin=15:00-22:00 | checkout=12:00 | price=Dorms from ¥2,100, laundry, fast and free Wi-Fi, common area with bar
+| content=
+}}
+* {{sleep
+| name=Hirano's B&B Kyoto | url=http://www.geocities.jp/hiranosguest_house/ | email=hr_hirohira12@yahoo.co.jp
+| address=38 Nakano-cho Oshikoji-sagaru, Shinmachi-dori, Nakagyo-ku | lat= | long= | directions=a 3-min walk west from the Karasuma-Oike subway station
+| phone=+81 75256-3081 | tollfree= | fax=
+| hours= | price=¥4,000 single, ¥3,500/person for two, includes breakfast
+| checkin= | checkout=
+| content=A quiet and intimate B&B (three guest rooms), near Nijo Castle. Guests experience being at home with a Japanese family.}}
+* {{sleep
+| name=J-Hoppers Kyoto Guesthouse | alt= | url=http://kyoto.j-hoppers.com/ | email=
+| address=51-2, Nakagoryo-cho, Higashikujo, Minami-ku | lat=34.97948 | long=135.76137 | directions=an 8-min walk south from Kyoto Station, near Kujo subway station
+| phone=+81 75 681-2282 | tollfree= | fax=
+| checkin=15:00-22:00 | checkout=08:00-11:00 | price=Dormitory bed &yen;2500
+| content=A clean backpackers hostel. Rental (worn-out) bikes ¥500/day, Internet ¥300/hour. No curfew; up-to-date local information by local staff.
+}}
+* {{sleep
+| name=K's House Kyoto | alt= | url=http://kshouse.jp/kyoto-e/ | email=info@kshouse.jp
+| address=418 Nayacho, Shichijo-agaru, Dotemachi-dori, Shimogyo-ku | lat=34.98977 | long=135.76491 | directions=a 9-min walk east from JR Kyoto Station along Shichijo-dori, 4-min walk from Keihan Line Shichijo Station
+| phone=+81 75-342-2444 | tollfree= | fax=+81 75-342-2440
+| checkin=15:00-22:00 | checkout=11:00 | price=Dormitory room from &yen;2400, twin/double/triple room from &yen;3100, single room from &yen;3800 (prices per person, additional &yen;300 during high season)
+| content=Opened in November 2003, this clean, foreigner-friendly hostel with English speaking staff has amenities like internet access and kitchens. The hostel itself can be difficult to find, as it is located down a narrow street off the main road.
+}}
+* {{sleep
+| name=Kyoto Cheapest Inn | alt=Hostel Kyotokko | url=http://kyoto.cheapest-inn.com/ | email=
+| address=783 Sabamatsu-cho, Marutamachi Omiya-Dori, Kamigyo-ku. | lat=35.0172 | long=135.7482 | directions=at the south-east of the cross road named Marutamachi Matsuyacho; near Nijo Castle, 1-3 min walk from bus stop Horikawa Marutamachi, a 7-min walk northeast from JR Nijo station
+| phone=+81 75-821-3323 | tollfree= | fax=
+| hours= | price=Dorms from ¥2200−2500, private rooms, ¥7800. Discounts common in winter
+| content=Credit cards accepted, English available, sheets included. Free wifi, computer use. Long stay discount. Additional charges for various services - use of printer or fax, changing sheets more frequently, etc. Bike rental (¥500/day)
+}}
+* {{sleep
+| name=Mosaic Hostel | alt= | url=http://mosaichostel.jp/mosaic-hostel-kyoto/ | email=info@mosaichostel.jp
+| address=4-1 Nishikujo Kasugacho, Minami-ku | lat=34.980335 | long=135.755239 | directions=
+| phone=+81 756720511 | tollfree= | fax=
+| checkin=15:00–03:00 | checkout=11:00 | price=Bunks from ¥3,000
+| lastedit=2018-11-19
+| content=Not a party hostel by any means, but has a friendly, social vibe, which seems to be encouraged by the free dinners they provide some days. The dorms are capsule-style, meaning that your bunk is enclosed in a capsule with walls on either side and a curtain at your feet, which makes the dorms quiet and feel much more private than your typical hostel. Each capsule has a little panel that lets in natural light in the morning, so make sure you have a sleeping mask if you want to sleep past sunrise. Big lockers, helpful staff, and they provide free slippers, earplugs, toothbrushes, and so on if you forgot them.
+}}
+* {{sleep
+| name=Sandal Wood Hostel | alt= | url= | email=Sandal_Wood26@Live.jp
+| address=2F 32-2 Takada-Cho, Saiin, Ukyou-ku | lat= | long= | directions=bus from JR Kyoto Station, right in front of the Daikokuya Super Market; a 5-minute walk to the Saiin Metro Station
+| phone=+81 75-585-7052 | tollfree=
+| hours=No curfew | checkin=12:00 | checkout= | price=Air-conditioned dorms are of ¥2700 per night
+| content=New hostel with friendly, English-speaking staff. Guests are always greeted with an unlimited amount of either ice cold water, hot coffee, or iced coffee. It is not uncommon for the hosts to offer plates of fruits and nuts during nights in. Free WiFi, towel use, washer and dryer, common room, left luggage service.
+}}
+* {{sleep
+| name=Tomato Guesthouse | url=http://pascon.gozaru.jp/enindex.html | email=
+| address=135 Shimizu, Nishi-iru Shiokoji-Horikawa, Shimogyou-ku | lat= | long= | directions=a 7-min walk west from Kyoto Station
+| phone=+81 75-203-8228 | tollfree= | fax=
+| hours= | price=Dorm &yen;2200, private singles &yen;3600−&yen;3900
+| checkin=16:00-21:00 | checkout=
+| content=
+}}
+* {{sleep
+| name=Tour Club | url=http://www.kyotojp.com/ | email=tourclub@kyotojp.com
+| address=362 Momijicho, Higashinakasuji, Shomensagaru, Shimogyo-ku | lat=34.99068 | long=135.75439 | directions=a 9-min walk northwest from Kyoto Station
+| phone=+81 75-353-6968 | tollfree= | fax=
+| hours= | price=Double en-suite &yen;3490 per person, quad en-suite &yen;2,930 per person, dorm beds &yen;2450 per person
+| checkin= | checkout=
+| content=A friendly, clean hostel with both dorm and private rooms. There is a beautiful zen garden and traditional Japanese-living room with a small library of local travel information. Free wifi, coffee and tea and the chance to try on a kimono. Air-con, bicycle rental, coin operated internet terminals and laundry are also available.
+}}
+* {{sleep
+| name=Uronza Guesthouse | alt= | url=http://www.uronza.com | email=reservation@uronza.com
+| address=427 Yohoji-cho Shimogyo-ku | lat=35.00201 | long=135.75286 | directions=
+| phone=+81 75-341-3226 | tollfree=
+| checkin=16:00-22:00 | checkout=11:00 | hours=closed in August| price=From ¥4000
+| content=A guesthouse offering Japanese and Western-style rooms in a traditional wooden house built in 1897, with no air-conditioning. Read the house rules before booking.
+}}
+
+====Hotels, minshuku & ryokan====
+
+* {{sleep
+| name=B&B Keiko | alt= | url=http://www.guesthouse-keiko.jp/ | email=bbkeikokyoto@gmail.com
+| address=576-1 Matsumotocho, Ebisugawa Agaru, Gokomachi, Nakagyo-ku | lat= | long= | directions=just south of Imperial Palace Park, west of Teramachi Street, 20 min by bus from Kyoto Station
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=¥5000 per person per night (¥6000 in peak seasons)
+| content=A traditional, 80-year-old house with two tatami mat rooms. Shared bath. Short walk to shops and restaurants. Highly rated by reviewers. Free wi-fi throughout.
+}}
+* {{sleep
+| name=Crossroads | url=http://www.rose.sannet.ne.jp/c-inn/ | email=
+| address=45-14 Ebisu Banba-cho, Shimogyo-ku | lat= | long= | directions=a 20-min walk west of Kyoto Station, or #205 bus to Ume Koji Koen-mae then a 2-min walk northwest
+| phone=+81 75-354-3066 | tollfree= | fax=+81 75-354-3022
+| hours= | price=Three rooms: one person ¥4000, two persons ¥7350, three persons ¥10,400
+| checkin=16:00 | checkout=10:00
+| content=A ryokan with shared shower & toilet facilities. 23:00 curfew.
+}}
+* {{sleep
+| name=Econo Inn Discount Hotel | url=http://www.econo-inn-kyoto.com/en/ | email=
+| address=67 Hirai-cho, Kawaramachi-Gojo Sagaru, Shimogyo-ku | lat= | long= | directions=a 15-min walk northwest from Kyoto Station, or just south of Kawaramachi-Gojo stop on buses 4, 17, 205
+| phone=+81 75-343-6660 | tollfree= | fax=+81 75-343-6667
+| hours= | price=Sliding rate scale depending on length of stay: singles go from &yen;5880 for one night down to &yen;3880 for 21 nights or more; a few small short-term singles range start at &yen;3780
+| checkin=15:00-23:00 | checkout=11:00
+| content=Western-style private singles, doubles, and triples. All rooms have a bath unit, air-conditioner and TV. Caters more to long-term stays.
+}}
+* {{sleep
+| name=Hotel Iida | alt=ホテル飯田 | url=http://www.hotel-iida.co.jp/en/ | email=
+| address=717 Shiokoji-agaru, Akezu-dori, Shimogyo-ku | lat= | long= | directions=3 min northeast of Kyoto Station
+| phone=+81 75-341-3256 | tollfree= | fax=+81 75-351-3051
+| hours= | price=Singles &yen;5250-7875 (Japanese), &yen;6300-7875 (Western); doubles &yen;8400-14,700; triples &yen;12,600-23,625
+| checkin= | checkout=
+| content=Mostly Japanese style rooms, with a few Western rooms, both varieties with or without private bath.
+}}
+* {{sleep
+| name=Ikoi-no-Ie | alt=憩の家 | url= | email=
+| address=885 Ushitora-cho, Rokujo-dori, Shinmachi Higashi-iru, Shimogyo-ku | lat= | long= | directions=a 12-15 min walk northwest from Kyoto Station, 5 min west from Gojo subway station
+| phone=+81 75-354-8081 | tollfree= | fax=+81 75-354-8068
+| hours= | price=Singles with shared bath &yen;4750, private bath &yen;7600; doubles &yen;7600-8400 shared, &yen;9600-11,000 private; triples &yen;9600 shared, &yen;12,000-&yen;13,500 private; quad &yen;15,000 private
+| checkin=by arrangement | checkout=11:00
+| content=All non-smoking rooms, some en-suite. The ground floor rooms near the lobby can be noisy. LAN ports in most rooms.
+}}
+* {{sleep
+| name=Palace Side Hotel | url= | email=
+| address=Karasuma Shimodachiuri Agaru, Kamigyo-ku | lat= | long= | directions=a 3-min walk north from Marutamachi subway station K07
+| phone=+81 75-415-8887 | tollfree= | fax=+81 75-415-8889
+| hours= | price=Singles &yen;6000-7000, twin &yen;9000-9800, doubles &yen;9800
+| checkin=14:00 | checkout=11:00
+| content=It's exactly where the name suggests: across the street from the Kyoto Imperial Palace and park, on Karasuma (near the intersection with Marutamachi). It's a Western-style hotel reminiscent of a much more expensive hotel that could use a good scrubbing. The staff speak fluent English, and the front desk is always open, as are computers with Internet access in the lobby. It's often used by academic groups from nearby universities, though, so advance reservations should be made. There are discounts for stays of three or more nights.
+}}
+* {{sleep
+| name=Ryokan Hiraiwa | alt=旅館平岩 | url= | email=
+| address=314 Hayao-cho, Kaminokuchi-agaru, Ninomiyacho-dori, Shimogyo-ku | lat= | long= | directions=a 15-min walk northeast from Kyoto Station, or take buses #17 or #205 from pier A2 to Kawaramachi-Shomen, the third stop
+| phone=+81 75-351-6748 | tollfree= | fax=
+| hours= | price=Singles &yen;4200-5250, doubles &yen;8400
+| checkin= | checkout=
+| content=A self-proclaimed ryokan (really a minshuku) catering almost entirely to the foreign market, in an old Japanese house plastered with English signs, warnings and tips. All rooms are Japanese style. Traditional breakfast is available for an extra charge. Shared bathrooms or a public bath half a block away. But it's cheap (&yen;4200 for a single, &yen;8400 for a double, breakfast not included) and reasonably friendly, though opinions beyond that vary widely. Slightly inconveniently located halfway between the station and the center of town (it's bit of a hike to either).
+}}
+* {{sleep
+| name=Ryokan Kyoraku | url=http://www.ryokankyoraku.jp/en.index.html | email=
+| address=231 Kogawa-cho, Shichijo-agaru, Akezu-dori, Shimogyo-ku | lat= | long= | directions=a 6-min walk north from Kyoto Station
+| phone=+81 75-371-7161 | tollfree= | fax=+81 75-371-1260
+| hours= | price=Singles &yen;5200-6000 with shared bath, &yen;6000-6600 private; doubles &yen;9200-10,200 shared, &yen;11,000-12,300 private; triples &yen;13,800-15,200 shared, &yen;16,000-17,700 private
+| checkin=15:00-22:00 | checkout=10:00
+| content= 14 Japanese-style rooms (half with private bath, half without) and two Western-style double rooms (both with private bath). 23:00 curfew.
+}}
+* {{sleep
+| name=Ryokan Yuhara | url= | email=
+| address=188 Kagiyacho, Shomen-agaru, Kiyamachi-dori, Shimogyo-ku | lat= | long= | directions=a 15-min walk northeast from Kyoto Station
+| phone=+81 75-371-9583 | tollfree= | fax=+81 75-371-9580
+| hours= | price=Singles/doubles/triples ¥5,250/9,660/14,490 per room with shared bath, no meals included
+| checkin=15:00 | checkout=10:00
+| content=Japanese style rooms, shared bath, sink in room. Very nice rooms, very clean, very friendly. 23:00 curfew.
+}}
+* {{sleep
+| name=Station Ryokan Seiki | alt= | url=http://www.hotelseiki.com/ | email=
+| address=24-5, Kitakarasuma-cho, Higashikujo, Minami-ku | lat= | long= | directions=a 5-min walk south from Kyoto Station
+| phone=+81 75-682-0444 | tollfree= | fax=+81 75-682-0171
+| checkin= | checkout= | price=Singles &yen;5500, doubles &yen;8000-9000, triples &yen;12,000-13,000
+| content=Shabby building, but the staff is friendly.
+}}
+* {{sleep
+| name=Super Hotel Kyoto Karasuma Gojo | url=http://www.superhotel.co.jp/en/s_hotels/karasuma.html | email=
+| address=Karasuma Dori, Gojo Kudaru, Osaka Machi 396-3 | lat= | long= | directions=a 10-min walk from Kyoto Station, or at exit 8 of Gojo subway station
+| phone=+81 75-343-9000 | tollfree= | fax=+81 75-343-9001
+| hours= | price=Singles &yen;6090 (&yen;5040 off season, &yen;7140 peak season); doubles &yen;7140-8180-9240
+| checkin=15:00-00:00 | checkout=10:00
+| content=A Japanese budget hotel chain. All rates include tax and breakfast.
+}}
+*{{sleep
+| name=Toyoko Inn Kyoto Gojo-Karasuma | url=http://www.toyoko-inn.com/e_hotel/00040/index.html | email=
+| address=393, Gojo-Karasumasho Karasuma-dori Matsubara-sagaru Shimogyo-ku | lat= | long= | directions=a 15-min walk north from Kyoto Station, a 3-min walk from Gojo subway station, exit 2
+| phone=+81 75 344-1045 | tollfree= | fax=+81 75 344-1047
+| hours= | price=Singles ¥6,200, doubles ¥7,200, triples ¥8,200
+| checkin=16:00 | checkout=10:00
+| content=A Japanese budget hotel chain. Good value for twin rooms. Online reservations showing vacancies & bookings available on all sites, enter as "General Guest" if you do not have membership. Two other locations nearby, at [http://www.toyoko-inn.com/e_hotel/00027/index.html Shijo-Omiya] and [http://www.toyoko-inn.com/e_hotel/00053/index.html Shijo-Karasuma], with similar prices.}}
+
+===Mid-range===
+* {{sleep
+| name=Gimmond Hotel | alt=2 min. walk east from Karasuma-Oike subway station | url=http://www.gimmond.co.jp/kyoto/english/e_index.html | email=
+| address=Takakura-Oike-dori, Nakagyo-ku | lat=35.010543 | long=135.762224 | directions=
+| phone=+81 75-221-4111 | tollfree= | fax=+81 75-221-8250
+| checkin=13:00 | checkout=11:00 | price=Including taxes and fees: Singles &yen;9,586−10,741, doubles &yen;16,170, twin rooms &yen;16,747−23,100
+| content=A foreigner-friendly hotel, neat and tidy, downtown near City Hall. Discount for Internet booking. For breakfast one has the choice between American or Japanese.
+}}
+* {{sleep
+| name=Hearton Hotel Kyoto | alt= | url=http://www.hearton.co.jp/ | email=
+| address=Higashi no Toin Dori Oike Agaru, Nakagyo-ku | lat= | long= | directions=2 min northeast of Karasuma-Oike subway station, exit 1
+| phone=+81 75-222-1300 | tollfree= | fax=+81 75-222-1313
+| checkin=14:00 | checkout=12:00 | price=Single &yen;11,000, twin &yen;22,400
+| content=Mid range, Western-style hotel located downtown.
+}}
+* {{sleep
+| name=Hotel Monterey Kyoto | url=http://www.hotelmonterey.co.jp/en/htl/kyoto/ | email=
+| address=3 Jyo Minami Karasuma-dori, Nakagyo-ku | lat= | long= | directions=west side of Karusuma, south of Sanjo
+| phone=+81 75-251-7111 | tollfree= | fax=
+| hours= | price=Singles range from ¥10000 and doubles from ¥15000. Suites available.
+| checkin=14:00 | checkout=11:00
+| content=Japanese chain of boutique hotels. A 5-minute walk from Karasuma Oike station. A quick walk towards the heart of the city where restaurants and bars are located. Rates are best on their website, versus discount travel sites. The hotel has a spa, a chapel (Christian churches aren't common in Japan, so this makes up for it), and three restaurants (bar, French and Japanese). Decor is contemporary with a British revival twist. The hotel can use a good clean up, but the location is good. Free Wi-Fi for guests and visitors.
+}}
+* {{sleep
+| name=Hotel Sugicho | url=http://www.hotel-kyoto.jp/ | email=sugicho@kyoto-ryokan.jp
+| address=172 Moriyamacho, Oike-agaru, Tominokoji, Nakagyo-ku | lat= | long= | directions=a 5-min walk east from Karasuma-Oike subway station
+| phone=+81 75-241-0106 | tollfree= | fax=+81 75-221-7271
+| hours= | price=Standard plan around ¥9,450−¥18,900, Limited plan around ¥3,900−77,350
+| checkin=16:00 | checkout=10:00
+| content=Mostly Japanese-style rooms, with a few Western. Breakfast and dinner available. Adjacent to Kyoto Gyoen and the Nishiki Markets.
+}}
+* {{sleep
+| name=Kyoto Garden Hotel | url=http://www.kyoto-gardenhotel.co.jp/index.html | email=office@kyoto-gardenhotel.co.jp
+| address=Muromachi-dori, Oike Minamiiru, Nakagyo-ku | lat= | long= | directions=about 1 min west of Karasuma-Oike subway station (Karasuma subway line), exit 4-1
+| phone=+81 75-255-2000 | tollfree= | fax=+81 75-255-2389
+| hours= | price=Single ¥9240, double ¥12,600−13,650, twin ¥14,700−16,800, triple ¥19,950
+| checkin=15:00 | checkout=10:00
+| content=Downtown location; a short walk away from the Kyoto International Manga Museum, a long (but manageable) walk away from Nijo Castle. All rooms are non-smoking. Guests with their own LAN-enabled laptops/netbooks can get internet access in their rooms free of charge; just borrow a connection kit from the front desk. Actual rates vary depending on the time of year and discounts/special offers are available for online bookings.
+}}
+* {{sleep
+| name=Kyoto Tower Hotel | alt= | url=https://www.keihanhotels-resorts.co.jp/tower_hotel/en/ | email=
+| address=Karasuma-dori Shichijo-sagaru, Shimogyo-ku | lat= | long= | directions=a 1-min walk north from JR Kyoto Station, immediately across the street
+| phone=+81 75-361-3212 | tollfree= | fax=+81 75-343-5645
+| checkin=13:00 | checkout=11:00 | price=Kyoto Tower: Singles &yen;8,000−14,500, twin &yen;16,000−31,000. Annex and Dai-Ni: &yen;6,500−11,500, twin &yen;14,000−19,800
+| content=Foreigner-friendly hotel, and the location across the street from JR Kyoto Station is impossible to miss. The same company operates two additional hotels nearby: the '''Kyoto Tower Hotel Annex''', a few blocks northwest, and the '''Kyoto Dai-Ni Tower Hotel''', east of the station.
+}}
+* {{sleep
+| name=Ryokan Shimizu | url=http://www.kyoto-shimizu.net/ | email=
+| address=644 Wakamiya Agaru Shichijo, Shimogyo-ku | lat= | long= | directions=a 5-min walk northwest from Kyoto Station, near Nishi-Honganji
+| phone=+81 75-371-5538 | tollfree= | fax=+81 75-371-5539
+| hours= | price=&yen;6,000/person (&yen;5,000 during winter), higher near holidays
+| checkin= | checkout=
+| content=A modern ryokan which is welcoming to foreign visitors. The owners can speak some English. En-suite facilities are provided and a Japanese breakfast is available. There is a communal Japanese bath facility.
+}}
+* {{sleep
+| name=Citadines Karasuma-Gojo Kyoto | alt= | url=http://www.citadines.com/en/japan/kyoto/citadines-karasuma-gojo-kyoto/index.html | email=enquiry.kyoto@the-ascott.com
+| address=432 Matsuya-cho Gojo-dori Karasuma- Higashiiru Shimogyo-ku | lat=34.996603 | long=135.760711 | directions=
+| phone=+81-75 352 8900 | tollfree= | fax=
+| checkin= | checkout= | price=
+| lastedit=2017-11-16
+| content=This apart-hotel offers studio and one-bedroom apartments. It also conducts certain residents' programmes.
+}}
+
+===Splurge===
+
+* {{sleep
+| name=Kyoto Hotel Okura | url=http://www.kyotohotel.co.jp/khokura/english/ | email=
+| address=Kawaramachi-Oike, Nakagyo-ku | lat= | long= | directions=at Kyoto Shiyakusho-mae Subway Station, exit T12
+| phone=+81 75-211-5111 | tollfree= | fax=+81 75-254-2529
+| hours= | price=&yen;19,000 for a single, through &yen;49,000 for a double-occupancy corner room; top-floor suites climb higher still
+| checkin=13:00 | checkout=11:00
+| content=A large, modern Western-style hotel downtown.
+}}
+* {{sleep
+| name=New Miyako Hotel | alt=新都ホテル | url=http://www.miyakohotels.ne.jp/newmiyako/english/ | email=
+| address=17 Nishikujo-Inmachi, Minami-ku | lat= | long= | directions=across the street from the Hachijo Exit of Kyoto Station
+| phone=+81 75-661-7111 | tollfree= | fax=+81 75-661-7135
+| hours= | price=&yen;11,550 singles through &yen;57,750 suites, tax included
+| checkin=13:00 | checkout=11:00
+| content=The largest hotel in Kyoto with over 700 rooms, and the prices to match: starting at &yen;10,000 for singles and &yen;21,000 for doubles. Located immediately south of Kyoto station. If you get a room facing north, you'll be able to see the bullet trains coming in and out of the station, as well as the glass windows from the exterior of the Isetan department store that seem to reflect the sky if the weather conditions are just right. The slightly more expensive south wing opened in 2005.
+}}
+* {{sleep
+| name=Marufukuro | alt= | url=https://marufukuro.com/en/ | email=
+| address=No. 342, Kagiyamachi, Kamogawa Nishiiri, Maedori, | lat=34.99173 | long=135.76627 | directions=
+| phone=+81 75-353-3355 | tollfree= | fax=
+| checkin= | checkout= | price=&yen;25,000 - 235,000
+| wikidata=
+| lastedit=2024-04-27
+| content=The former Nintendo headquarters, built in 1933, converted into a 18 room hotel.  The library is full of Nintendo memorabilia and books.
+}}
+====Three Great Historic ''Ryokan''====
+* {{sleep| alt=俵屋 | url= | name=Tawaraya | address=278 Nakahakusanchō, Nakagyō-ku | phone=+81 75 211 5566 | fax=+81 75 211 2204 | wikidata=Q1520972}}
+* {{sleep
+| name=Hiiragiya | alt=柊家 | url=https://www.hiiragiya.co.jp/en/ | email=info@hiiragiya.co.jp
+| address=277 Nakahakusancho, Anekoji-agaru, Fuyacho Kyoto-shi, Nakagyo-ku | lat=35.010335 | long=135.765666 | directions=
+| phone=+81 75 221 1136 | tollfree= | fax=+81 75 221 1139
+| checkin= | checkout= | price=
+| content=
+}}
+* {{sleep| alt=炭屋 | url=https://www.sumiyaryokan.com/f_english.html | name=Sumiya | address=431 Shirakabecho, Fuyamachi-dori Sanjo-sagaru, Nakagyō-ku | phone=+81 75 221 2188 | fax=+81 75 221 2267 | lat=35.00828624094091 | long=135.7658205864195}}
+
+==Go next==
+*[[Kyoto/Arashiyama|Arashiyama]] (Western Kyoto)
+*[[Kyoto/Higashiyama|Higashiyama]] (Eastern Kyoto)
+*[[Kyoto/North|North Kyoto]]
+*[[Kyoto/South|South Kyoto]]
+*[[Uji]]
+
+{{routebox
+| image1=Tokaido Shinkansen icon.png
+| imagesize1=100
+| directionl1=W
+| majorl1=[[Osaka/North|Shin Osaka]]
+| minorl1=
+| directionr1=E
+| majorr1=[[Nagoya]]
+| minorr1=[[Maibara]]
+
+| image2=JR Tokaido icon.png
+| imagesize2=100
+| directionl2=W
+| majorl2=[[Osaka/Kita|Osaka]]
+| minorl2=[[Suita]] ← [[Ibaraki]]
+| directionr2=E
+| majorr2=[[Omihachiman|Omi Hachiman]]
+| minorr2='''[[Otsu]]'''
+
+| image3=JR San-in icon.png
+| imagesize3=100
+| directionl3=W
+| majorl3=[[Toyooka]]
+| minorl3=[[Fukuchiyama]]
+| directionr3=E
+| majorr3=END
+| minorr3=
+
+| image4=Number prefix Randen Arashiyama mainline.svg
+| imagesize4=30
+| directionl4=W
+| majorl4=[[Kyoto/Arashiyama|Arashiyama]]
+| minorl4=[[Kyoto/Arashiyama|Uzumasa-Kōryūji]]
+| directionr4=E
+| majorr4=END
+| minorr4=
+
+| image5=Subway KyotoKarasuma.png
+| imagesize5=30
+| directionl5=N
+| majorl5=[[Kyoto/North|Kokusaikaikannmae]]
+| minorl5=[[Kyoto/North|Kitaōji]]
+| directionr5=S
+| majorr5=[[Uji|Okubo]]
+| minorr5=[[Kyoto/South|Takeda]] → into [[File:KintetsuLogo.svg|30px]]
+
+| image6=Subway KyotoTozai.png
+| imagesize6=30
+| directionl6=W
+| majorl6=[[Kyoto/Arashiyama|Uzumasa Tenjingawa]]
+| minorl6=
+| directionr6=E
+| majorr6=[[Uji|Rokujizō]]
+| minorr6=[[Kyoto/Higashiyama|Yamashina]]
+
+| image7=Subway KyotoTozai.png
+| imagesize7=30
+| directionl7=W
+| majorl7=↑
+| minorl7=
+| directionr7=E
+| majorr7=[[Otsu|Hamaotsu]]
+| minorr7=[[Kyoto/Higashiyama|Misasagi]] → into [[File:Number prefix Otsu lines.svg|30px]]
+}}
+
+{{geo|34.98715|135.75979}}
+{{IsPartOf|Kyoto}}
+
+{{usabledistrict}}

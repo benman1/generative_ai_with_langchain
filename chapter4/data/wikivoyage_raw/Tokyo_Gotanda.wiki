@@ -1,0 +1,204 @@
+{{pagebanner|Meguro gawa in Gotanda Tokyo Metropolis Wikivoyage banner.jpg}}
+'''Gotanda''' (五反田) is part of [[Tokyo/Shinagawa|Shinagawa]] and a Yamanote Line station between Osaki and [[Tokyo/Meguro|Meguro]]. This quiet business district has transformed from a manufacturing district to a residential and business area with several corporate headquarters for international firms in Japan. Though not especially attractive as a destination for sight-seeing, Gotanda does bring in business travelers and can be a convenient base from which to explore the city. The JR Yamanote Line, Toei Asakusa Subway Line, and Tokyu Ikegami Line all serve this neighborhood giving quick access to most parts of central Tokyo. Shinagawa Station and express trains to Haneda Airport is just 5 minutes away. Since Gotanda is less fashionable, it may be cheaper or easier to book accommodation at busy times.
+
+Though not as famous as Kabukichō, Gotanda is host to a compact but very active red-light district. Wander just behind the mainstream business facing the east exit of the JR station on any evening. In comparison with the large chain restaurants clustered around Shinagawa and Osaki Stations, this neighborhood features more small and independent izakaya or international restaurants.
+
+==Get in==
+{{Mapframe|35.6258|139.7236|zoom=12}}
+{{Mapshapes|Q682894}} <!-- Tokyo Metro -->
+{{Mapshapes|Q247782}} <!-- Toei Subway -->
+{{Mapshape|wikidata=Q225095|type=geoline|stroke=#00b48d|stroke-width=4|stroke-opacity=1}} <!-- Rinkai Line -->
+
+Served by Gotanda Station on the Yamanote Line, Takanawadai and Gotanda Stations on the Toei Asakusa Line, and Osaki Hirokoji and Gotanda Stations on the Tokyu Ikegami Lines.
+
+*From Narita: Quick access for international visitors arriving in Tokyo is the Narita Express via Shinagawa Station. The Keisei Express from Narita connects to the Asakusa Line for cheaper and frequent service to Gotanda Station. Change at Aoto Station. There are frequent announcements of the change on the train in English.
+*From Haneda: Take the Keikyu Line to Shinagawa, change to the Yamanote Line—two stops.
+
+==See==
+*{{see
+| name=Hatakeyama Collection | alt= | url=http://www.ebara.co.jp/csr/hatakeyama/index.html | email=
+| address=Minato-ku, Shirokanedai 2-20-12 | lat= | long= | directions=5 minutes walk from Toei Asakusa Line Takanawadai Station Exit A2
+| phone=+81 3-3447-5787 | tollfree=
+| hours=Apr-Sep 10:00-17:00, Oct-Mar 10:00-16:30, closed Mondays | price=&yen;500
+| content=Outstanding collection of artwork from around Northeast Asia in this small museum surrounded by manicured grounds. Excellent ceramics and items related to tea ceremony. Some exhibits change seasonally.
+}}
+
+==Do==
+*The Meguro River passes just blocks from Gotanda Station and this section is a less crowded alternative for some quick cherry blossom viewing.
+
+==Buy==
+*{{buy
+| name=Naitoh Shoten | alt=内藤商店 | url=https://www.instagram.com/naitou.shouten/ | email=
+| address=Shinagawa-ku, Nishi Gotanda 5-3-5 | lat= | long= | directions=follow Sakurada-dori across the river, cross Yamate dori at Book Off and turn right; look for the large yellow sign marked in English several blocks down on your left
+| phone=+81 3-3493-6565 | tollfree=
+| hours= | price=
+| content=This local liquor shop carries a good selection of domestic and imported beverages. Visitors looking for colorful and fun souvenirs might try their huge selection of decorative one-cup sake. One-cup is a brand name of cheap sake, but better quality brewers have started making these attractive 180 ml packages where the cup can be saved and reused. Naitoh offers one of the larger selections in the city.
+}}
+
+==Eat==
+===Budget===
+All of the usual chain restaurants and fast-food surround the station area including MOS Burger, McDonalds, KFC, Subway, and Curry House CoCo Ichibanya.
+
+*{{eat
+| name=Chin Mar Ya | alt=陳麻家 | url=https://tokyo-shurou.com/chinmarya-west/ | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours=Lunch until late | price=¥600-1,000
+| content=This local fast-food chain started here and serves good, cheap, and spicy maboudofu or Szechuan-style spicy tofu. Though the original restaurant closed in 2022, there are two other locations in Gotanda. Take out also available.
+}}
+
+===Mid-range===
+*{{eat
+| name=7025 Franklin Avenue | alt= | url= | email=
+| address=Shinagawa-ku, Higashi Gotanda 3-15-18 | lat= | long= | directions=About five minutes walk from Gotanda Station along Sony Dori and left at the signs for Seisen University.
+| phone=+81 3-3441-5028 | tollfree=
+| hours=Daily 11:00-21:00 (Su until 19:30) | price=¥2,000-3,000
+| content=Excellent burger restaurant with a bit more of an upscale decor, including a quiet and comfortable garden in this converted house. A bit pricier than some hamburger restaurants, but very good. No credit cards are accepted.
+}}
+* {{eat
+| name=Bar Arara | alt=ばる・あらら | url=http://a-la-la.jp/ | email=
+| address=Shinagawa-ku Higashi Gotanda 5-22-32 | lat= | long= | directions=One block from JR East Exit; left past KFC until the road merges; look for the red awning on the right.
+| phone=+81 3-3446-0655 | tollfree=
+| hours=17:30-12:00; closed Sundays and holidays | price=
+| content=Reasonably priced Spanish food and wine in a small restaurant open to the sidewalk in season.
+}}
+*{{eat
+| name=Bar Blast | url=http://www.bar-blast.jp/index.html | email=
+| address= | lat= | long= | directions=Less than 1 minute from JR Gotanda East Exit-Look just around the corner to the left of KFC
+| phone=+81 3-3443-7222 | tollfree= | fax=
+| hours=Daily 18:00-04:30 | price=
+| content=This basement bar is not a dive, but trying to be a little cooler than other bars in the neighborhood. See website for online reservation form. ¥500 table charge if just stopping in for a drink.
+}}
+* {{eat
+| name=Ribera Steakhouse | alt=ステーキハウス リベラ | url= | email=
+| address=Higashi Gotanda | lat= | long= | directions=5 minutes walk north up Sakurada-dori from JR Gotanda, or 2 minutes walk from Takanawadai Station on the Asakusa line. On Sakurada-dori between Takanawadai and Gotanda Stations, next to the Red Baron motorcycle shop
+| phone= | tollfree=
+| hours=Tu-Su 18:00-23:00, closed Mondays | price=&yen;2,500-3000
+| content=Reasonably priced steaks with great character. Think C&W meets pro-wrestling. Hank Williams on cassette and photos of Andre the Giant and The Rock. The walls are covered with autographed photos of K1 and other fighters eating steaks here. Look for the giant photo of Hulk Hogan tucking into a steak. Yokuzuna Akebono has been a regular here for years.
+}}
+
+===Splurge===
+* {{eat
+| name=Ne Quittez Pas | alt=ヌキテパ | url=https://nequittezpas.com/ | email=
+| address= | lat= | long= | directions=a short walk from Gotanda Station.
+| phone=+81 3-3442-2382 | tollfree=
+| hours=Closed M, Tu-Su 12:00-14:00 and 18:00-21:00 | price=&yen;10,000 person and up
+| content=High-end French cuisine.
+}}
+
+==Drink==
+*{{drink
+| name=The Grafton | alt= | url=https://the-grafton.com/ | email=
+| address=Shinagawa-ku, Nishi-Gotanda 2-26-5 Ito Building III, B1 | lat= | long= | directions=on the Nishi Gotanda (outside the circle) side of the Yamanote Line; look for the nearby Tsutaya shop
+| phone=+81 3-3491-9696 | tollfree=
+| hours= | price=
+| content=Though a bit out of the way this Irish pub is a good place for the standards: fish and chips, Guinness, and football.
+}}
+
+==Sleep==
+===Budget===
+* {{sleep
+| name=Hotel Royal Oak Gotanda | alt=ホテルロイヤルオーク五反田 | url=https://www.royal-oak-gotanda.com/ | email=royal-oak@r6.dion.ne.jp
+| address=Shinagawa-ku, Nishi Gotanda 1-9-3 | lat= | long= | directions=Adjacent to the Tokyu Ikegami Line Tracks facing the Meguro River
+| phone=+81 3-3492-5111 | tollfree= | fax=+81 3-3492-5211
+| checkin=15:00 | checkout=10:00 | price=Rack rates from ¥7,000 online reservations from as low as ¥3,700
+| content=Less glamorous and a bit on the wrong side of the tracks, but cheap and accessible.
+}}
+
+===Mid-range===
+*{{sleep
+| name=Hotel MyStays Gotanda | alt=ホテルマイステイズ五反田 | url=https://www.mystays.com/hotel-mystays-gotanda-tokyo/ | email=
+| address= | lat= | long= | directions=Less than 1 minute from the Western Exit of JR Gotanda Station: Immediately in front of Toei-Asakusa Line Gotanda station Exit A2
+| phone=+81 3-3494-1050 | tollfree=
+| checkin=15:00 | checkout= | price=Single ¥9,800-10,800
+| content=Formerly known as Toko Hotel (東興ホテル).
+}}
+*{{sleep
+| name=Tokyu Stay Gotanda | alt=東急ステイ五反田 | url=http://www.tokyustay.co.jp/e/hotel/GO/ | email=
+| address=Shinagawa-ku, Higashi Gotanda 1-12-2 | lat= | long= | directions=One minute walk along Sakurada-dori from the East Exit of JR Gotanda Station just past the karaoke Big Echo
+| phone=+81 3-3280-0109 | tollfree=
+| checkin= | checkout= | price=Single ¥9,400-11,000
+| content=This chain of hotels is very popular with business travelers. When the Shibuya or other branches are full (as is often the case) this is a good alternative. All rooms have a clothes washer/drier and most have a kitchenette so this is a good option for longer stays.
+}}
+
+==Connect==
+
+==Cope==
+===Embassies===
+* {{flag|Belarus}} {{listing
+| name=Belarus | url=http://japan.mfa.gov.by/ru/ | email=japan@mfa.gov.by
+| address=5-6-32 Higashi Gotanda, Shinagawa-ku | lat= | long= | directions=
+| phone=+81 3-3448-1623 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+* {{flag|Brazil}} {{listing
+| name=Brazil | url=http://cgtoquio.itamaraty.gov.br/en-us/ | email=consbrastoquio@itamaraty.gov.br
+| address=1-13-12 Higashi Gotanda, Shinagawa-ku | lat= | long= | directions=
+| phone=+81 3-5488-5451 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+* {{flag|Indonesia}} {{listing
+| name=Indonesia | url=http://kbritokyo.jp/ | email=info@kbritokyo.jp
+| address=5-2-9 Higashi Gotanda, Shinagawa-ku | lat= | long= | directions=
+| phone= +81 3 3441-4201 | tollfree= | fax= +81 3 3447-1697
+| hours= | price=
+| content=
+}}
+* {{flag|Macedonia}} {{listing
+| name=Macedonia | url= | email=
+| address=5-16-17 Higashi Gotanda, Shinagawa-ku | lat= | long= | directions=
+| phone= +81 3-6868-7110 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+*{{flag|Peru}} {{listing
+| name=Peru | alt= | url=http://www.consulado.pe/es/Tokio/Paginas/Inicio.aspx | email=informacion@consuladoperutokio.org
+| address=1-13-12 Higashi Gotanda, Shinagawa-ku | lat= | long= | directions=
+| phone=+81 3-5793-4444 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+
+==Go next==
+{{routebox
+| image1=JR JY line symbol.svg
+| imagesize1=30
+| directionl1=N
+| majorl1=[[Tokyo/Shibuya]]
+| minorl1=[[Tokyo/Ebisu|Ebisu]]
+| directionr1=S
+| majorr1=[[Tokyo/Shinagawa|Shinagawa]]
+| minorr1=[[Tokyo/Shinagawa|Osaki]]
+
+| image2=Tokyu IK line symbol.svg
+| imagesize2=30
+| directionl2=W
+| majorl2=[[Tokyo/Ota|Kamata]]
+| minorl2=[[Tokyo/Ota|Ikegami]]
+| directionr2=E
+| majorr2=END
+| minorr2=
+
+| image3=Subway TokyoAsakusa.png
+| imagesize3=30
+| directionl3=W
+| majorl3=[[Tokyo/Ota|Nishi Magome]]
+| minorl3=
+| directionr3=E
+| majorr3=[[Tokyo/Chuo|Nihonbashi]]
+| minorr3=[[Tokyo/Minato|Sengakuji]] → [[Tokyo/Shinbashi]]
+
+| image5=Japanese National Route Sign 0001.svg
+| imagesize5=30
+| directionl5=N
+| majorl5=[[Tokyo/Chiyoda|Imperial Palace]]
+| minorl5=[[Tokyo/Minato|Tokyo tower]]
+| directionr5=S
+| majorr5=[[Yokohama]]
+| minorr5=[[Tokyo/Ota|Ikegami Honmonji]]  → [[Kawasaki]]
+}}
+{{usabledistrict}}
+{{IsPartOf|Tokyo}}
+{{geo|35.6258|139.7236}}

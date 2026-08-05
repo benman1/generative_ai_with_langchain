@@ -1,0 +1,301 @@
+{{pagebanner|Mena-asia_default_banner.jpg|pgname=Eastern Tokyo|caption=Tokyo Sea Life Park at Kasai}}
+[[File:TokyoEast.png|thumb|250px|Eastern wards of Tokyo]]
+'''Eastern Tokyo''' covers the wards of '''Adachi''' (足立), '''Katsushika''' (葛飾), '''Edogawa''' (江戸川), '''Kōtō''' (江東) and '''Arakawa''' (荒川).  Neighboring '''[[Tokyo/Sumida|Sumida]]''' (墨田) is covered in its own article, as is the flashy bayside shopping and entertainment district of '''[[Tokyo/Odaiba|Odaiba]]'''.
+
+==Understand==
+Eastern Tokyo is largely residential and industrial. The one major attraction here is the new Toyosu Market, the world's largest fish market famed for its tuna auctions, which replaced the old Tsukiji Market in 2018.
+
+===Tourist Information Sites===
+(from north to south)
+*Adachi: [https://www.adachikanko.net/ Local tourist association], with integrated machine translation.
+*Arakawa: [https://www.city.arakawa.tokyo.jp/foreign/en/index.html ArakawAmazing!] is the ward's official multilingual guide site.
+*Katsushika: [https://katsushika-kanko.jp/index.html Local tourist association], Japanese-only.
+*Edogawa:The ward's official website has [https://www.city.edogawa.tokyo.jp/sports/kankomidokoro/index.html a multilingual tourism section].
+*Kōtō: [https://koto-kanko.jp/ Local tourist association], with integrated machine translation.
+
+==Get in==
+===By rail===
+
+To Adachi: Tobu Skytree Line, Umejima Station or Gotanno Station.
+
+To Koiwa: Chuo-Sobu from Shinjuku and Akihabara in the west or Chiba outside of Tokyo.
+
+==See==
+{{Mapframe|35.709|139.825|zoom=12|height=800|width=500}}
+{{Mapshape|wikidata=Q213464, Q232624, Q214056, Q232628, Q215175}}
+{{Mapshapes|Q682894}} <!-- Tokyo Metro -->
+{{Mapshapes|Q247782}} <!-- Toei Subway -->
+{{Mapshape|wikidata=Q225095|type=geoline|stroke=#00b48d|stroke-width=4|stroke-opacity=1}} <!-- Rinkai Line -->
+
+* {{see
+| name=Toyosu Market | alt=豊洲市場 Toyosu Shijō | url=https://www.toyosu-market.or.jp/en/ | email=
+| address=6 Toyosu, Koto-ku | lat=35.644167 | long=139.783611 | directions=Shijō-mae Station on the Yurikamome Line
+| phone=+81 3-3520-8205 | tollfree=
+| hours=M-Sa 05:00-17:00; closed holidays and most Wednesdays | price=Free
+| wikipedia=Toyosu Market | image=Toyosu_fish_market-4b.jpg | wikidata=Q11633916
+| lastedit=2019-02-12
+| content=Toyosu is new home of the world's largest wholesale market for seafood and produce after its relocation from [[Tokyo/Chuo#See|Tsukiji]]. Unlike the old facility where tourists could almost walk up to the fish, Toyosu's market has large enclosed observation decks and dedicated paths for tourists to view the action, including the famous tuna auctions. However, early morning fish sales start before public transit opens, so take a taxi for those.
+}}<p>A [https://www.shijou.metro.tokyo.lg.jp/english/pamphlet/ pamphlet showing the visitors' course]{{Dead link|date=March 2025 |bot=InternetArchiveBot }} outlines the three buildings. The Wholesale Market Building is where fish are auctioned to intermediate brokers. Many of those are located in the Intermediate Wholesale Building, where they peddle to resellers and restaurants (but not the general public). In the Fruits and Vegetables Building, a similar tiered structure sells produce, meat, and flowers.</p><p>'''Fish auctions''' start at 05:00 and run roughly 1 hour, sometimes less; you should arrive early to get a good view. Other auctions follow until around 08:00. Most of the market activity is done by 11:00, after which it becomes a bit of a ghost town until the next morning. Visitors are separated from the market in upstairs viewing galleries, and it's still impressive even though you can't hear or smell anything through the glass. For the tuna auction, 120 people per day can observe from a bottom-floor observation deck, from which you ''can'' hear the auctioneers' chant. Tickets are granted by '''lottery'''; you must apply online or by phone in the first half of the month that precedes your desired visit (which means between 3-7 weeks in advance).</p><p>On the roof, a minimalist grass deck offers good views of Tokyo Bay. While you can't enter the lower markets, there are many dozens of '''shops and eateries''' where you can sample some sushi or purchase a persimmon; however, if you want to get face to face with a fish, visit the many shops in [[Tokyo/Chuo#See|Tsukiji's outer market]] instead.</p>
+
+* {{see
+| name=Nishiarai Daishi | alt=西新井大師, formally known as Gochisan Henjōin Sōji-ji Temple | url=http://www.nishiaraidaishi.or.jp/ | email=
+| address=1−15−1 Nishiarai, Adachi-ku | lat=35.780139 | long=139.78 | directions=
+| phone=+81 3-3890-2345 | tollfree= | fax=
+| hours= | price=
+| image=Nishiarai Daishi Main Hall.JPG | wikidata=Q11608171
+| content=
+}}
+* {{see
+| name=Tokyo Budokan | alt=東京武道館 | url=http://www.tef.or.jp/tb/ | email=
+| address=3-20-1 Ayase, Adachi-ku | lat=35.76548 | long=139.82568 | directions=at the south end of the Higashi Ayase Park
+| phone=+81 3-5697-2111 | tollfree= | fax=
+| hours= | price=
+| image=Tokyo budokan.jpg | wikidata=Q8193312
+| content=A very distinctive architecture by the famous Japanese architect Kijō Rokkaku.
+}}
+* {{see
+| name=Kiyosumi Garden | alt=清澄庭園 | url=https://www.tokyo-park.or.jp/park/kiyosumi/index.html | email=
+| address=3-3-9 Kiyosumi, Kōtō-ku | lat=35.679944 | long=139.797722 | directions=4 min from Kiyosumi-Shirakawa Station on the Toei Ōedo and Hanzōmon lines; rom Exit A3, cross the main street. Turn left to the next small street, then right along the wall to the entrance
+| phone=+81 3-3641-5892 | tollfree=
+| hours=09:00-17:00 | price=&yen;150
+| wikipedia=Kiyosumi Garden | image=Kiyosumi-1.JPG | wikidata=Q4388146
+| content=Not the most famous of Tokyo's gardens, but is quite lovely and uncrowded. It was created in the Edo period, and took its present form during the Meiji Era, under the ownership of the founder of Mitsubishi. The ancient-looking pavilion was built in 1909 to host Lord Kitchener on his visit to Japan.
+}}
+* {{see
+| name=Fukagawa Edo Museum | alt=深川江戸資料館, fukagawa edo shiryōkan | url=https://www.kcf.or.jp/fukagawa/ | email=
+| address=1-3-28 Shirakawa, Kōtō-ku | lat=35.68092 | long=139.8007 | directions=10 min from Kiyosumi-Shirakawa Station on the Toei Ōedo and Hanzōmon lines; from Exit A3, turn left; at the next traffic light, turn left again; the museum is ahead on the left, past the entrance to a temple
+| phone=+81 3-3630-8625 | tollfree= | fax=+81 3-3820-4379
+| hours= | price=&yen;300 adult
+| image=Fukagawa Edo Museum.JPG | wikidata=Q3090685
+| content=This intimate museum features a wonderfully recreated Tempo-period (1830-1843) neighbourhood - complete with homes, shops, narrow alleyways, and even the local rubbish dump. Wander about, peering in windows and entering buildings furnished with household goods and Edo-period bric-a-brac. Light and sound effects create the illusion of a whole day passing from day to night in the space of a few minutes. Pair it up with a visit to the huge [[Tokyo/Sumida#Edo-Tokyo Museum|Edo-Tokyo Museum]] in nearby Sumida ward, just a couple of stops away on the Toei Ōedo subway line.
+}}
+* {{see
+| name=Shibamata | alt=柴又 | url= | email=
+| address= | lat=35.758597 | long=139.878247 | directions=
+| phone= | tollfree=
+| hours= | price=
+| image=Shibamata street.jpg | wikidata=Q11534647
+| content=In Katsushika-ku, it features '''Taishakuten Temple''' (帝釈天) with its cozy shopping street that rivals [[Asakusa]] in liveliness while being much more authentic, lacking the overseas-tourist kitsch. The district's biggest claim to fame is being the setting for "Otoko wa tsurai yo", Japan's longest-running movie series, and the hero of the series, '''Tora-san''', can be seen every block of the way from the life-size statue in front of the train station to caricatures and movie posters in every shop. Down by the river past the temple there is a museum dedicated to the movie series, as well as a hand-rowed boat that carries passengers between the shores (¥100 one way fare), the last of its kind in Tokyo. You might want to cover the [http://www.shibamata.jp/sevengods/s_godmap.html 7 gods], a series of temples around the neighbourhood, get a free map at the station.
+}}
+
+[[File:Kasai Rinkai Park 2011--1.JPG|thumb|Flowers in the park]]
+
+* {{see
+| name=Kasai Rinkai Park | alt=葛西臨海公園 | url= | email=
+| address= | lat=35.64286 | long=139.86257 | directions=next to Kasai Rinkai Koen Station on the JR Keiyo Line, 10-15 minutes and ¥210 from Tokyo Station; the platforms of the Keiyo Line at Tokyo Station are a 10-minute walk from the station's other platforms
+| phone=+81 3-5696-1331 | tollfree=
+| hours= | price=Free
+| wikipedia=Kasai Rinkai Park | image=Kasai-Rinkai-Park View Plaza Rest House.jpg | wikidata=Q1038727
+| lastedit=2025-11-17
+| content=The largest park in central Tokyo is just across the Edogawa River from [[Tokyo Disney Resort]]. Opened in 1989, the park was built on reclaimed land and developed in an effort to restore and preserve natural Tokyo Bay habitat. The park offers a nice break from the surrounding cityscapes and has a number of walking trails that crisscross the gardens, lawns and beaches. In addition, the park features an aquarium, two cafes, a Ferris wheel, a seabird sanctuary, and the Crystal View observatory. Mt Fuji is viewable on a clear day from the Ferris Wheel and the observatory. There are a number of ferries (waterbuses) that serve the park though these services are infrequent and announced in advance on the [https://www.tokyo-park.or.jp/water/waterbus/ Tokyo Parks Waterbus] page.
+}}
+**{{see
+| name=Tokyo Sea Life Park | alt=葛西臨海水族園 ''Kasai Rinkai Suizokuen'' | url=http://www.tokyo-zoo.net/zoo/kasai/ | email=
+| address=6-2-3 Rinkai-chō Edogawa-ku | lat=35.640083 | long=139.862167 | directions=a 5-minute walk from JR Kasai Rinkai Kōen Station on the JR Keiyō Line.
+| phone=+81 3-3869-5152 | tollfree= | fax=
+| hours=Th-Tu 09:30-17:00; tickets sold until 16:00; closed W if Th is a public holiday | price=¥700 adult (16-64), ¥350 senior, ¥250 student, free under 12
+| wikipedia=Tokyo Sea Life Park | image=Tokyo Sea Life Park Edogawa-ward Tokyo Japan.JPG | wikidata=Q4925165
+| content=In the huge 2,200-ton tank, you can enjoy watching bluefin tuna darting swiftly around. The aquarium also exhibits sea birds including penguins, and giant kelp from California, US. The facility sits on the beach of Tokyo Bay and could be reached in half an hour by train from Tokyo station.
+}}
+** {{see
+| name=Bird Sanctuary Center | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours=Tu-Su 09:30-17;00, closed Dec 29-Jan 3 | price=&yen;800
+| content=In line with the park's goals as a bay habitat preserve, nearly a third of the park is maintained as a Sea Bird Sanctuary. The area attracts bird lovers and photographers who are free to roam the area, except the marsh areas which are restricted. At the center is a Sea Bird Center with information on the local birds.
+}}
+** {{see
+| name=Diamond and Flower Ferris Wheel | alt=ダイヤと花の大観覧車 | url=http://www.senyo.co.jp/kasai/index.htm | email=
+| address= | lat=35.643905 | long=139.857226 | directions=
+| phone=+81 3-3686-6911 | tollfree=
+| hours=M-F 10:00-20:00, Sa Su 10:00-21:00, closed one or two days per month | price=&yen;700
+| wikipedia=Diamond and Flower Ferris Wheel | image=Ferris wheel at Kasai Rinkai Park.jpg | wikidata=Q901219
+| content=The park's most visible landmark is the Diamond and Flowers Ferris Wheel, so named due to its light shows that give it the appearance of a sparkling diamond or flower. At 117 meter tall it is the second tallest Ferris wheel in Japan. The top offers views of Tokyo Bay, Tokyo Disney Resorts, Chiba and as far away as Mt. Fuji.
+}}
+* {{see
+| name=Tomioka Hachiman Shrine | alt=富岡八幡宮, Tomioka Hachimangū | url=http://www.tomiokahachimangu.or.jp/ | email=
+| address= | lat=35.671753 | long=139.799583 | directions=2015/06/14
+| phone=+81 3-3642-1315 | tollfree= | fax=
+| hours= | price=
+| wikipedia=Tomioka Hachiman Shrine | image=Tomioka Hachiman-gu 2008 August.jpg | wikidata=Q654417
+| lastedit=2015-06-14
+| content=The largest Shintō hachiman shrine in Tokyo.
+}}
+* {{see
+| name=Tokyo Big Sight | alt= | url=http://www.bigsight.jp/english/ | email=
+| address=3-21-1 Ariake, Koto-ku | lat=35.630158 | long=139.793742 | directions=Yurikamome Tokyo Big Sight (U11), Rinkai Kokusai-tenjijō (R03) station
+| phone=+81 3-5530-1111 | tollfree=
+| hours= | price=
+| wikipedia=Tokyo Big Sight | image=20030727 27 July 2003 Tokyo International Exhibition Center Big Sight Odaiba Tokyo Japan.jpg | wikidata=Q1359125
+| content=If you're visiting Tokyo on business, this, Japan's largest exhibition and convention center, might already be your destination. The four inverted pyramids are hard to miss and worth a look.
+}}
+* {{see
+| name=Tokyo Metro Museum | alt=地下鐵博物館 | url=https://www.chikahaku.jp/en | email=
+| address=6-3-1, Higashi-kasai, Edogawa-ku | lat=35.6635 | long=139.873861 | directions=Take Tozai Line metro to Kasai station
+| phone=+81 03-3878-5011 | tollfree=
+| hours=Tu-Su 10:00-17:00 (closed M) | price=Adult ¥220, child ¥100
+| wikidata=Q11424081
+| lastedit=2025-10-28
+| content=History of Tokyo Metro, full size replica of old metro trains, train simulator and more. Takes about an hour to view the museum.
+}}
+* {{see
+| name=small worlds | alt= | url=https://www.smallworlds.jp/ | email=
+| address=Ariake Butsuryu Center, 1-3-33, Ariake, Koto-ku | lat=35.638131 | long=139.788327 | directions=Take Yurikamome Line to Ariake-Tennis-no-mori station and walk southwest for 6 mins
+| phone= | tollfree=
+| hours=Daily 09:00-19:00 | price=Adult ¥3200, youth (12-17) ¥2100, child (4-11) ¥1700, under 4 free
+| wikipedia=Small Worlds Miniature Museum | image=Small Worlds Tokyo Koto-ku Tokyo.jpg | wikidata=Q30926669
+| lastedit=2026-02-08
+| content=Indoor miniature world, including futuristic scenes.
+}}
+
+==Do==
+[[File:Kasai Rinkai Park, Crystal-view 20080524.JPG|thumb|The Crystal View observatory]]
+
+*{{do
+| name=KidZania Tokyo | alt=キッザニア東京 | url=http://www.kidzania.jp/tokyo/ | email=
+| address=Urban Dock LaLaport Toyosu, North Port 3rd floor 33200 2-4-9 Toyosu Kōtō-ku | lat=35.655833 | long=139.791944 | directions=8 minutes waik from Toyosu Station on the Yurakucho and Yurikamome lines
+| phone=+81 3-3536-8405 | tollfree= | fax=
+| hours= | price=
+| wikipedia=Kidzania Tokyo | image=Kidzania.JPG | wikidata=Q5363436
+| content="A land of kids, by kids, for kids" - where children can experience their favorite job and learn about the social system while having fun.
+}}
+
+==Buy==
+*{{buy
+| name=LaLaport Toyosu | alt=ららぽーと豊洲 | url=https://mitsui-shopping-park.com/lalaport/toyosu/ | email=
+| address=2-4-9 Toyosu Koto-ku | lat=35.655833 | long=139.791944 | directions=
+| phone= | tollfree=
+| hours= | price=
+| image=Urban Dock LaLaport Toyosu5.JPG | wikidata=Q11285723
+| content=Large shopping complex.
+}}
+*{{buy
+| name=Nippori Fabric Town | alt=日暮里繊維街 "Nippori Sen-i-gai" | url=https://www.nippori-senigai.com/en/ | email=
+| address= | lat= | long= | directions=
+| phone=+81 338034007 | tollfree=
+| hours= | price=
+| lastedit=2020-09-24
+| content=Any lover of crafting and sewing needs to visit Nippori Fabric Town. Fabric Town has about 90 shops from Nippori Station to Nippori Chuo Street. Here you'll find wonderful fabric in any print you could want and any sewing notion you'll ever need.
+}}
+
+==Eat==
+[[File:Monjayaki.jpg|thumb|Monja-yaki]]
+"''Monja-yaki''" (もんじゃ焼き) is a [[Kanto]]-area specialty, similar to ''okonomiyaki''. Once people used to draw letters with ingredients on the hot plate for fun before eating because "Monja-yaki" means "letter cake". Monja-yaki's basic batter is made of water, flour and soy sauce. Ingredients can include cabbage, grated yam, crushed ''tempura'', cuttlefish, shrimp, slices of meat, and so on. Although [[Tokyo/Chuo|Tsukishima]] is Tokyo's best-known neighborhood for monjayaki, it's popular here as well.
+
+==Drink==
+
+==Sleep==
+* {{sleep
+| name=Smile Hotel Tokyo Ayase-ekimae | alt= | url=https://smile-hotels.com/hotels/show/tokyoayaseekimae | email=
+| address= | lat=35.76117 | long=139.82443 | directions=
+| phone= | tollfree=
+| checkin= | checkout= | price=
+| content=Convenient to visit East Tokyo. Near Ayase station in Adachi-Ku. It is on the Chiyoda line which means easy access to central Tokyo, it takes about 30-40 minutes to Shibuya, Shinjuku and Ikebukuro.
+}}
+* {{sleep
+| name=Hotel Lumiere Nishikasai | alt= | url=https://www.hotel-lumiere.jp/nishikasai/en/ | email=
+| address=6-20-3 Nishikasai, Edogawa-ku | lat=35.66239 | long=139.86132 | directions=
+| phone=+81 03 5676 2711 | tollfree=
+| checkin=15:00 | checkout=10:00 | price=
+| lastedit=2025-11-17
+| content=A comfortable 3-star hotel located within 5 minutes walk of Nishikasai station on the Tozai Line (20 mins to Tokyo Station, one transfer to Asakusa, Akihabara, Shinjuku). Airport Limousine buses run to the nearby Kasai Station (15 mins walk or one stop on the Tozai Line). The rooms are larger than a standard business hotel with some including a washer/dryer combo and a small kitchenette. The hotel has free amenities such as bathroom items (razor, toothbrush, face cream, bath scents), a coffee machine available 24/7 in reception, and a modern room TV allowing Netflix and Youtube to be used. A small buffet is available each morning with simple foods (breads, fruit, eggs, and 1-2 cooked dishes) and a drink selection (coffee, teas, juices). The staff will assist with holding luggage before check-in and organised luggage forwarding. On the upper floors there are nice views including the Kasai Rinkai Park Ferris Wheel, the Skytree, and the Disneyland fireworks show, on a clear day you can see Mt Fuji through the Tokyo Skyline. There is plenty of nearby food options and a decent playground for kids.
+}}
+
+==Connect==
+
+==Go next==
+{{routebox
+| image1=JR Sobu icon.png
+| imagesize1=100
+| directionl1=W
+| majorl1=[[Tokyo/Taito]]
+| minorl1=[[Tokyo/Sumida|Kinshichō]]
+| directionr1=E
+| majorr1=[[Chiba]]
+| minorr1=[[Ichikawa]]
+
+| image2=JR JJ line symbol.svg
+| imagesize2=30
+| directionl2=N
+| majorl2=[[Mito]]
+| minorl2=[[Tsuchiura]] ← [[Kashiwa]]
+| directionr2=S
+| majorr2=[[Tokyo/Ueno|Ueno]]
+| minorr2=
+
+| image3=JR JL line symbol.svg
+| imagesize3=30
+| directionl3=N
+| majorl3=[[Toride]]
+| minorl3=[[Kashiwa]] ← [[Matsudo]]
+| directionr3=S
+| majorr3=[[Tokyo/Akasaka|Akasaka]]
+| minorr3=into [[File:Logo of Tokyo Metro Chiyoda Line.svg|30px]] → [[Tokyo/Bunkyo|Nezu]]
+
+| image4=JR JE line symbol.svg
+| imagesize4=30
+| directionl4=W
+| majorl4=[[Tokyo/Chiyoda|Tokyo]]
+| minorl4=[[Tokyo/Chuo|Hatchōbori]]
+| directionr4=E
+| majorr4=[[Chiba|Kaihin Makuhari]]
+| minorr4=[[Tokyo Disney Resort|Maihama]] → [[Funabashi|Minami Funabashi]]
+
+| image5=Tobu Skytree Line (TS) symbol.svg
+| imagesize5=30
+| directionl5=W
+| majorl5=[[Tokyo/Asakusa|Asakusa]]
+| minorl5=[[Tokyo/Sumida|Tokyo Skytree]]
+| directionr5=N
+| majorr5=[[Ashikaga]]
+| minorr5=[[Koshigaya]] → [[Kasukabe]] → into [[File:Tobu Isesaki Line (TI) symbol.svg|30px]]
+
+| image6=Number prefix Keisei.PNG
+| imagesize6=30
+| directionl6=W
+| majorl6=[[Tokyo/Ueno|Keisei Ueno]]
+| minorl6=
+| directionr6=E
+| majorr6=[[Narita|Keisei Narita]]
+| minorr6=[[Ichikawa|Keisei Yawata]] → [[Funabashi|Keisei Funabashi]]
+
+| image7=Shuto Urban Expwy Sign C2.svg
+| imagesize7=30
+| directionl7=W
+| majorl7=[[Tokyo/Toshima|Nishi Ikebukuro]]
+| minorl7=[[Tokyo/North|Ōji Kita]]
+| directionr7=S
+| majorr7=into [[File:Shuto Urban Expwy Sign B.svg|30px]]
+| minorr7=
+
+| image8=Shuto Urban Expwy Sign B.svg
+| imagesize8=30
+| directionl8=W
+| majorl8=[[Yokohama|Daikoku Wharf]]
+| minorl8=[[Tokyo Haneda Airport|Haneda Airport]] ← [[Tokyo/Odaiba|Rinkai Fukutoshin]]
+| directionr8=E
+| majorr8=[[Chiba|Wangan Chiba]]
+| minorr8=[[Tokyo Disney Resort|Urayasu]] → into [[File:Higashi-Kanto Expwy Route Sign.svg|80px]]
+
+| image9=Shuto Urban Expwy Sign S1.svg
+| imagesize9=30
+| directionl9=N
+| majorl9=[[Saitama|Iwatsuki]]
+| minorl9=into [[File:Tohoku Expwy Route Sign.svg|80px]] ← [[Kawaguchi|Angyō]]
+| directionr9=S
+| majorr9=into [[File:Shuto Urban Expwy Sign C2.svg|30px]]
+| minorr9=
+
+| image10=Shuto Urban Expwy Sign 6-Misato.svg
+| imagesize10=30
+| directionl10=N
+| majorl10=[[Tsukuba|Yatabe]]
+| minorl10=[[Kashiwa]] ←  into [[File:Joban Expwy Route Sign.svg|80px]] ← [[Misato]]
+| directionr10=S
+| majorr10=into [[File:Shuto Urban Expwy Sign C2.svg|30px]]
+| minorr10=
+}}
+
+{{usabledistrict}}
+{{IsPartOf|Tokyo}}
+{{geo|35.715|139.861}}

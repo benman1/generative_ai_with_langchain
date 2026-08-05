@@ -1,0 +1,232 @@
+{{pagebanner|Chuo_banner_Uchimizu_ceremony_Ginza_001.jpg}}
+'''Chuo''' (中央) is a central ward in [[Tokyo]]. It has been the historical commercial heart of Tokyo since the Edo period, and to this day, is filled with offices, banks, and other institutions that drive the Japanese economy.
+
+==Understand==
+
+While the name literally means "Center", this ward loses out in prestige (if only very slightly) to neighboring [[Tokyo/Chiyoda|Chiyoda]], home to the Emperor among others. '''[[Tokyo/Ginza|Ginza]]''', which is located in Chuo ward and is covered in a separate article, is generally reckoned to have the most expensive real estate on earth and there are plenty of bright lights.
+
+Chuo ward was the former home to the world’s largest fish market, Tsukiji, which processed an unparalleled volume and variety of seafood, in addition to vegetables and other products. While the Inner Market has permanently closed and operations moved to [[Tokyo/East|Toyosu]], the hundreds of stalls in the Outer Market remain open to the public.
+
+===Tourist Information Sites===
+*The local tourist association has a [https://www.chuo-kanko.or.jp/?p=we-page-top-1 Japanese-only guide site].
+
+*[https://www.city.chuo.lg.jp/multilingual/index.html Multilingual local information] from the ward government.
+
+==Get in==
+{{Mapframe|35.67221|139.77590|height=700|zoom=14}}
+{{Mapshape}}
+{{Mapshape|type=geoshape|wikidata=Q746052|fill=#aa6baa|title=[[Tokyo/Ginza|Ginza]]}}
+{{Mapshapes|Q682894}} <!-- Tokyo Metro -->
+{{Mapshapes|Q247782}} <!-- Toei Subway -->
+
+The western edge of Chuo starts on the Yaesu (east) side of Tokyo Station, and if your legs are feeling up to it, you can get pretty much anywhere worth seeing within a 45-minute walk. Otherwise, take the subway.
+
+==See==
+[[Image:Tsukiji_Outer_Market_-08.jpg|300px|thumb|Stalls at the Tsukiji Outer Market]]
+{{infobox|Closure of Inner Market|The Tokyo Metropolitan Government has closed the Inner Market of Tsukiji and relocated wholesale operations to a larger space in [[Tokyo/Koto|Toyosu]]. While the inner market space is redeveloped into temporary parking for the 2020 Tokyo Olympics and Paralympics, the outer market will remain open to everyone.}}
+*{{see
+| name=Tsukiji Outer Market | alt=築地場外市場 ''Tsukiji jōgai shijō'' | url=http://www.tsukiji.or.jp/english/ | email=
+| address=5-2-1 Tsukiji | lat=35.661389 | long=139.769722 | directions=Tsukijishijo Station, Toei Oedo Subway
+| phone=+81 3-3542-1111 | tollfree=
+| hours=Varies by shop, but typically M-Sa 09:00-14:00, closed holidays and most Wednesdays | price=Free
+| wikipedia=Tsukiji fish market | wikidata=Q859471
+| content=For more than 80 years, Tsukiji was the world's largest wholesale fish market. Although the wholesale operations (including the famous tuna auctions) closed in 2018 and moved to [[Tokyo/East#See|Toyosu]], the outer market remains in place and continues to welcome the public with stalls selling fresh fish, sushi, produce and kitchen supplies. Suggested plans for the former inner market site include a sport stadium or an anime/manga themed entertainment facility.
+}}
+* {{see
+| name=Tsukiji Hongwanji | alt=築地本願寺 | url=http://www.tsukijihongwanji.jp/eng/ | email=
+| address=3-15-1 Tsukiji | lat=35.666472 | long=139.772317 | directions=accessible from Tsukiji (Hibiya Line) or Tsukiji-shijō (Ōedo Line)
+| phone=+81 3-3541-1131 | tollfree= | fax=
+| hours= | price=
+| wikipedia=Tsukiji Hongan-ji | wikidata=Q943255
+| content=A Jōdo Shinshū temple just a few blocks away from the fish market, worth seeing because of its unique, South Asian-inspired architecture. Buddhist services are held in English on Saturday evenings.
+}}
+* {{see
+| name=Nihonbashi Bridge | alt=日本橋 | url= | email=
+| address= | lat=35.683696 | long=139.774394 | directions=
+| phone= | tollfree=
+| hours= | price=
+| image=Nihonbashi 12.jpg
+| lastedit=2018-03-14
+| content=''Nihonbashi'' means Japan bridge. It is the most famous bridge in Japan and one of the very few historic bridges remaining in Tokyo. The current stone and steel bridge was built in 1911. It is the point from which all distances are measured to the capital. Since 1964 it is unfortunately overshadowed by a massive expressway, blocking much of the view.
+}}
+* {{see
+| name=Tokyo Stock Exchange | alt=東京証券取引所 Tokyo shoken torihikijo | url=https://www.jpx.co.jp/english/ | email=
+| address=2-1 Nihombashi Kabutocho | lat=35.682667 | long=139.778808 | directions=accessible from Kayabacho (Tozai and Hibiya Lines) or Nihombashi (Asakusa Line)
+| phone=+81 3-3665-1881 | tollfree=
+| hours= | price=
+| wikipedia=Tokyo Stock Exchange | wikidata=Q217475
+|lastedit=2024-12-01| content=Tokyo's stock exchange, while one of the largest in the world by capitalization, is now entirely automated, and the tiny building it resides in is mostly for show, featuring a small museum, exhibition hall, and broadcasting facilities. English tours can be booked in advance.
+}}
+* {{see
+| name=Hama-rikyū Gardens | alt=浜離宮恩賜庭園 | url=https://www.tokyo-park.or.jp/park/format/index028.html | email=
+| address=1-1 Hama-rikyū Teien | lat=35.659955 | long=139.762219 | directions=7 min walk from Shiodome Station on Toei Oedo or Yurikamome Lines, or 10 min walk from JR Shimbashi station
+| phone=+81 3-3541-0200 | tollfree=
+| hours= | price=Park admission ¥300 (age 65+ ¥150, primary school children free)
+| wikipedia=Hamarikyu Gardens | wikidata=Q1033333
+|lastedit=2024-12-01| content=It was built by 17th-century shoguns for their private enjoyment. Hama-rikyu is now a public walking garden with an all-season range of flowers and flowering trees. The highlight is the tea house, picturesquely set on a small island in the middle of a pond, where green tea and sweets are available starting at ¥500, and ¥1000 for a set. The garden is next to Tsukiji fish market. A boat which runs up the Sumida River to [[Tokyo/Asakusa|Asakusa]] used to depart from inside the garden, but has been suspended indefinitely.
+}}
+* {{see
+| name=Mitsui Memorial Museum | alt=三井記念美術館, ''Mitsui Kinen Bijutsukan'' | url=http://www.mitsui-museum.jp/ | email=
+| address= | lat=35.686298 | long=139.773144 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q864700
+| lastedit=2020-12-30
+| content=Art museum, the collection includes items used in the Japanese tea ceremony as well as Eastern antiques. Housed in an historic building dating back to 1926.
+}}
+
+==Do==
+*{{do
+| name=Tsukiji Outer Market | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=The Outer Market of the Tsukiji Fish Market contain a bewildering array of shops. One shop carries nothing but dried seaweed, another knives, another is just bowls of all shapes and sizes! After you've had your sushi breakfast, wander around these shops and pick up something interesting.
+}}
+*Walk around the Tsukiji area to find the remaining 1920s houses that are among the rare ones to have survived World War II. The World Monuments Fund [https://www.wmf.org/project/early-twentieth-century-architecture-tsukiji warns] against their ongoing destruction.
+
+*{{do
+| name=Ramen Cooking Tokyo | alt= | url=https://ramen-cooking-class-tokyo.com/ | email=
+| address=2-13-5 Tsukuda, Chuo-ku | lat=35.6661419 | long=139.7858171 | directions=5 min walk from Tsukishima Station
+| phone=+1-213-214-3338 | tollfree=
+| hours=10:00–13:00, 14:00–17:00 | price=¥20,000
+| content=English-only small-group cooking class (maximum 8 participants) where visitors prepare ramen and sushi in a 3-hour session, with a sake pairing of three varieties. Located in Tsukishima, a short walk from the monja-yaki district.
+}}
+
+==Buy==
+
+The '''[[Tokyo/Ginza|Ginza]]''', covered in its own article, is one of the world's most famous (and most expensive) shopping districts.
+
+* {{buy
+| name=Sho-Chu Authority | url=https://twitter.com/shochuAUTHORITY | email=
+| address=18-17 Koami-cho, Chuo | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours=M W F 10:00-19:00 | price=
+| content=This humbly named shop stocks over 3,000 varieties of the Japanese tipples ''shochu'' and ''awamori''.
+}}
+
+==Eat==
+
+===Budget===
+[[Image:Monjayaki Before.JPG|thumb|Monjayaki before cooking...]]
+[[Image:Monjayaki After.JPG|thumb|...and after. (Yes, it's supposed to look like that.)]]
+
+Past Tsukiji on Harumi-dori is the island neighborhood of '''Tsukishima''' (月島, "Moon Island"), known mainly for its many restaurants serving '''monja-yaki''' (もんじゃ焼き). This dish is popular in Eastern Japan (Kantō) and is available throughout Tokyo, but is a particular specialty of Tsukishima. Monja-yaki is like the ''[[Hiroshima#Eat|okonomiyaki]]'' of Western Japan (Kansai), but the dough is much more runny and the ingredients are finely chopped, leading to what looks like a puddle of vomit. Just remember the essentials: you form the shredded cabbage into a ring on the griddle and pour the leftover liquid in the middle, and you use the tiny spatulas to press the mixed batter onto the griddle until it sizzles, then eat it right off the spatula. (Most shop staff will be more than happy to assist.) Sounds strange, doesn't it? It is. To get here, take the Yurakucho/O-Edo Line to Tsukishima station, and you'll find "Monja Town" [http://www.monja.gr.jp/] aka Nishinaka-dori (西仲通り) extending out from near exit 7, with no less than 70 restaurants crammed into a couple of city blocks.
+
+* {{eat
+| name=Oshio Honten | alt=おしお本店 | url= | email=
+| address=Tsukishima 3-17-10 | lat=35.662699 | long=139.7802912 | directions=
+| phone=+81 3-3531-7423 | tollfree= | fax=
+| hours= | price=Monjas from &yen;1000 up (serves two)
+| content=The original shop of one of the better-known chains here, with half a dozen restaurants. Try the ''mentaiko-shiso'' monja with cod roe and perilla, which tastes oh so much better than it looks.
+}}
+
+The northern section of Tsukishima is named '''Tsukudajima''' (佃島), and is the origin of ''tsukudani'' (佃煮), a way of preserving food by simmering it in a sticky soy and sugar sauce. Tsukudani is still available throughout Japan, but is less common than before, having fallen out of style in most of Japan; it is still commonly available here. Seafood, seaweed (konbu) and various vegetables are the most common ingredients, but if you're looking for something more interesting, try ''inago'' (いなご) tsukudani, made from locusts!
+
+===Mid-range===
+Try a '''sushi breakfast''' at Tsukiji, primarily for the experience. The fish is guaranteed to be as fresh as possible and the prices, while not cheap, are reasonable given the high quality–figure on ¥2000–4000 for an ''omakase'' set of whatever is good today, more if you order drinks or extra pieces. Prices are comparable to a mid-range sushi lunch, while quality is somewhat higher, and are significantly cheaper than a sushi dinner in Ginza, which can easily cost over ¥10,000.
+
+Also consider the omelette rolls (''dashimaki tamago''). This is another Tsukiji speciality, and egg sushi (''tamago nigiri-zushi'') is traditionally served alongside seafood sushi.
+
+There are many sushi places in the outer market. These generally open at 08:00 or 09:00. Some of these are businesses of long-standing, dating to the 19th century and now consisting of large chains, though the main shops are still in Tsukiji.
+
+*{{eat
+| name=Sushisay Main Store
+| alt=寿司清本店 | url=http://www.tsukijisushisay.co.jp/store/honten.html | email=
+| address=4-13-9 Tsukiji | lat=35.6648699 | long=139.7702882 | directions=[http://www.tsukijisushisay.co.jp/store/honten_m.html map]
+| phone=+81 3-3546-8777
+| hours=M-F 08:30-14:30 & 17:00-20:00, Sa 08:30–20:00, Su 09:30–20:00, closed Wednesday
+| price=
+| content=Over 120 years old, this is now a large chain, but the head shop is in Tsukiji and it is well-reputed.}}
+*{{eat
+| name=Sushizanmai | alt=すしざんまい | url=http://www.kiyomura.co.jp/ | email=
+| address=4-11-9 Tsukiji | lat=35.6659208 | long=139.7705718 | directions=near Shin-Ohashi-dori/Harumi-dori crossing
+| phone=+81 3-3541-1117 | tollfree= | fax=
+| hours=24 hr | price=
+| content=The self-proclaimed "King Of Tuna", this is now a large chain but they originate from here in Tsukiji, where they have at least 7 locations and this three-story ''Honten''. Prices are per roll and range from &yen;100-500, or order a set meal for &yen;3000. They have an excellent English menu.
+}}
+
+There are also non-sushi options, most notably omelette rolls (''dashimaki tamago'').
+
+* {{eat
+| name=Tamahide | alt=玉ひで | url=http://www.tamahide.co.jp/ | email=
+| address=1-17-10 Nihonbashiningyocho | lat=35.684967 | long=139.782925 | directions=A few blocks south of Ningyocho station
+| phone=+81 3-3668-7651 | tollfree=
+| hours= | price=
+| lastedit=2016-09-18
+| content=In business since 1760, perhaps the oldest in Tokyo. This restaurant specialises in ''Oyakodon'', literally "parent-child bowl", made from spiced chicken with scrambled eggs (hence the name) and sweet sauce on rice. A popular comfort food with surprising complexity. Expect long queues.
+}}
+* {{eat
+| name=Tsujihan | alt=日本橋海鮮丼 つじ半 日本橋本店 | url=https://www.tsujihan-jp.com/ | email=
+| address=3 Chome−1−15, Nihonbashi | lat=35.681246 | long=139.772004 | directions=
+| phone=+81 3-6262-0823 | tollfree=
+| hours=10:00 ~ 22:00 | price=from 2000¥
+| lastedit=2025-10-26
+| content=It is a Kaisen-dong store located near Tokyo Station. It is characterized by pouring stock with a little rice left.
+}}
+
+===Splurge===
+There are a wide variety of expensive and extremely expensive restaurants in Ginza; see [[Tokyo/Ginza#Eat]].
+
+==Drink==
+
+The [[Tokyo/Ginza|Ginza]] has a large array of drinking establishments, most of which are also ''extremely'' expensive. This is where the Japanese horror stories of US$100 for a beer originate from. Choose carefully, or head elsewhere.
+
+==Sleep==
+
+===Budget===
+* {{sleep
+| name=Sumisho Hotel | alt=住庄ほてる | url=http://www.sumisho-hotel.co.jp/english/ | email=
+| address=9-14 Nihonbashi Kobunacho | lat=35.685567 | long=139.779074 | directions=
+| phone=+81 3-3661-4603 | tollfree= | fax=+81 3-3661-4639
+| checkin= | checkout= | price=Singles start at ¥7,000, doubles at ¥11,000
+| content=A ryokan-style hotel, Japanese style rooms and big traditional bath available.
+}}
+
+===Mid-range===
+* {{sleep
+| name=Hotel Kazusaya | alt=かずさや | url=http://www.h-kazusaya.co.jp/english/ | email=web@h-kazusaya.co.jp
+| address=4-7-15 Nihombashi-Honcho | lat=35.689716 | long=139.7744257 | directions=near Shin-Nihombashi Station, Sobu Line
+| phone=+81 3-3241-1045 | tollfree= | fax=
+| hours= | price=Singles ¥8,000-9,000, doubles ¥14,700
+| checkin= | checkout=
+| content=
+}}
+* {{sleep
+| name=Tokyu Stay Nihombashi | url=http://www.tokyustay.co.jp/e/hotel/NI/index.html | email= | alt=東急ステイ日本橋
+| address=4-7-9 Nihombashi-Honcho | lat=35.6900265 | long=139.7747869 | directions=
+| phone=+81 3-3231-0109 | tollfree= | fax=+81 3-3231-0112
+| hours= | price=Singles start at ¥9,450, twin rooms ¥17,850
+| checkin= | checkout=
+| content=Slight discounts are offered for extended stays. Part of the Tokyu Stay chain, these hotels are popular with business travelers. The small kitchenettes, washer/dryers, and free LAN access in all rooms makes these a good value.
+}}
+* {{sleep
+| name=Tokyu Stay Tsukiji | url=http://www.tokyustay.co.jp/e/hotel/HIG/index.html | email= | alt=東急ステイ築地
+| address=Tsukiji 4-11-5 | lat=35.6657691 | long=139.7708242 | directions=
+| phone=+81 3-5551-0109 | tollfree= | fax=
+| hours= | price=Singles from ¥9400, twins from ¥14,700 per night, breakfast included. Discounts for extended stays.
+| checkin= | checkout=
+| content=Part of the Tokyu Stay chain. Free internet access, microwave, washer-dryer, and kitchenette in each room. Good staff, views of nearby temple. Located very close to Tsukiji fish market, avoiding an early morning taxi ride.
+}}
+* {{sleep
+| name=Somerset Ginza East Tokyo | alt= | url=https://www.discoverasr.com/en/somerset-serviced-residence/japan/somerset-ginza-east-tokyo | email=enquiry.tokyo@the-ascott.com
+| address=4-1-12 Tsukiji | lat=35.659449 | long=139.754619 | directions=
+| phone=+81-3-3549-7111 | tollfree=
+| checkin= | checkout= | price=
+| lastedit=2017-10-25
+| content=This property contains 124 studio and one-bedroom apartments. Offers weekly housekeeping services.
+}}
+
+===Splurge===
+*{{sleep
+| name=Royal Park Hotel | alt=ロイヤルパークホテル | url=http://www.rph.co.jp | email=
+| address=2-1-1 Nihonbashi-Kakigara-cho | lat=35.6823 | long=139.7866 | directions=
+| phone=+81 3-3667-1111 | tollfree=
+| checkin= | checkout= | price=
+| image=Royal Park Hotel (Tokyo).JPG | wikidata=Q11350136
+| content=Five-star luxury hotel
+}}
+
+{{usabledistrict}}
+{{IsPartOf|Tokyo}}
+{{geo|35.6781|139.7757}}

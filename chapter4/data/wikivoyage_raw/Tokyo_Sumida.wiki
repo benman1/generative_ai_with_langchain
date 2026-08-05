@@ -1,0 +1,296 @@
+{{pagebanner|Sumida banner.jpg}}
+{{IsPartOf|Tokyo}}
+[[File:Tokyo_Wikivoyage_locator_maps_-_Sumida.png|120px|thumb|right|Location of Sumida in Tokyo]]
+'''Sumida''' (墨田区, ''sumida-ku'') is a ward to the east of central [[Tokyo]]. It has a famous cherry blossom viewing area along the Sumida River near Asakusa Station in spring, and the Sumida River Fireworks Festival (''Hanabi Matsuri'') in summer.
+
+==Understand==
+Sumida is considered "shitamachi" (roughly translated as "old town"), though it has become a kind of bedroom community for Tokyoites, which has meant the building of many high-rise apartment buildings. Despite the boom in construction, the area retains its pre-WWII charm, with many small businesses and a small neighborhood feel to it.
+
+The '''Ryōgoku''' (両国) neighborhood, in the southwest portion of the ward, is nearly synonymous with '''sumō wrestling''', one of Japan's most famous sports, where the human behemoths grapple and attempt to hoist each other out of the ring. The '''Edo-Tokyo Museum''', an excellent and large museum on the history of Tokyo (but closed for renovation until 2025), is here, as well as a collection of quirky special-interest museums.
+
+===Tourist information===
+The local tourist association has a [https://visit-sumida.jp/ guide site].
+
+==Get in==
+[[File:Kinshicho Sumida Tokyo.jpg|thumb|250px|Sumida's main station, Kinshicho Station Square]]
+The '''JR Sobu Line''' (local service) runs east–west through Sumida, connecting to the Yamanote line across the river in [[Tokyo/Akihabara|Akihabara]]. Via subway, the '''Toei Oedo Line''' loops past the western edge of the ward with connections to both [[Tokyo/Ueno|Ueno]] in the north and [[Tokyo/Shiodome|Shiodome]] to the south. On both lines, '''Ryogoku Station''' is the closest connection to most of the ward's main attractions.
+
+Those going to Tokyo Skytree can use the '''Tokyo Skytree Station''' on the Tobu Railway (one station from the Asakusa terminal station) or '''Oshiage (Skytree)''' on the '''Toei Asakusa Line''' and '''Tokyo Metro Hanzōmon Line'''.
+
+==See==
+{{Mapframe|35.71457|139.81480|zoom=13|width=350}}
+{{Mapshape}}
+{{Mapshapes|Q682894}} <!-- Tokyo Metro -->
+{{Mapshapes|Q247782}} <!-- Toei Subway -->
+[[File:Tokyo_Sky_Tree_2012.JPG|thumb|190px|Tokyo Skytree, the world's tallest self-supporting tower]]
+
+* {{see
+| name=Tokyo Skytree | alt=東京スカイツリー | url=https://www.tokyo-skytree.jp/en/ | email=
+| address=1-1-2 Oshiage | lat=35.710139 | long=139.810833 | directions=Tobu Railway to Tokyo Skytree Station, Toei Asakusa Subway Line/Tokyo Metro Hanzōmon Line to Oshiage (Skytree) Station, or direct bus from Tokyo Station (30 minutes, ¥500)
+| phone= | tollfree=
+| hours=Daily 08:00-22:00 (varies during the year) | price=Adults ¥2,400 to the main deck, additional ¥1,100 to the upper deck, with slightly higher admission charges on weekends and holidays. Advanced purchase tickets are sold online at a discount of ¥400
+| image=Tokyo Sky Tree 2012.JPG | wikidata=Q57965
+| content=Completed in 2012, Tokyo Skytree stands tall over the old Sumida ward as the newest symbol of Tokyo and the world's tallest self-supporting tower at 634 m. It is the primary location from which digital television broadcast signals in Tokyo are transmitted. The tower's LED lighting system uses a different color scheme every night. The Skytree is complemented by a shopping complex, Tokyo Solamachi (Tokyo Skytree Town).
+}}
+
+===Museums===
+[[File:OedoMuseum_Kabukiza.JPG|thumb|250px|Large-scale replica of the now defunct ''Nakamura-za'' theater, Edo-Tokyo Museum]]
+The area has many museums on the history and traditions of Japan.
+* {{see
+| name=Edo-Tokyo Museum | alt=江戸東京博物館 Edo-Tōkyō-hakubutsukan | url=http://www.edo-tokyo-museum.or.jp/en/ | email=
+| address=1-4-1 Yokoami | lat=35.696389 | long=139.796083 | directions=near Ryogoku subway station exits A3/A4; take the West exit from the JR station
+| phone=+81 3-3626-9974 | tollfree= | fax=
+| hours= Tu-Su 09:30 - 17:30, Sa 09:30 - 19:30; last admission 30 minutes before closing time | price=Adult ¥1,300, age 65 and over ¥650, university student with ID ¥1,040, younger students with ID free; ¥100 discount for advance purchase
+| image=Edo-Tokyo Museum.jpg | wikidata=Q1191042
+| lastedit=2026-04-04
+| content=This bizarre multi-story edifice suspended in midair and bearing not a small resemblance to a Star Wars Imperial Walker (meant to be a replica of an old raised warehouse) covers the history of the metropolis, starting from 1590 when it was selected as Japan's new capital Edo, all the way through the Kanto earthquake and firebombings of World War II. The museum is built with the latest technology including life-size replicas of entire buildings and the Nihombashi Bridge. Free informative tours are available in several languages, depending on which volunteers are around; audio guides in several languages always available. Pair it up with a visit to the more intimately sized [[Tokyo/East#Fukagawa Edo Museum|Fukagawa Edo Museum]] in nearby Kōtō ward, just a couple of stops away on the Toei Ōedo subway line.
+}}
+* {{see
+| name=Japanese Sword Museum | alt=刀剣博物館 | url=https://www.touken.or.jp/english/ | email=
+| address=1-12-9, Yokoami | lat=35.698982 | long=139.793633 | directions=7min walk from Ryogoku Station
+| phone=+81 36284 1000 | tollfree=
+| hours=Tu-Su 09:30-17:00 | price=¥1,500
+| wikidata=Q3329874
+| lastedit=2018-06-29
+| content=Display of all types of Japanese art swords and fittings, some of them centuries old. Beautiful view from balcony on 3rd floor over Kyū Yasuda Garden. Quite hefty entrance fee, but a must see for anyone interested in Japanese swords.
+}}
+* {{see
+| name=Paulownia Wood Furniture Museum | alt=桐の博物館 kiri no hakubutsukan | url= | email=
+| address=4-1-3 Ryogoku | lat= | long= | directions=
+| phone=+81 3 36320341 | tollfree= | fax=
+| hours=Th-Tu 10:00-18:00 | price=
+| content=
+}}
+* {{see
+| name=Ryogoku Fireworks Museum | alt=両国花火資料館 ryōgoku hanabi shiryōkan | url= | email=
+| address=2-10-8 Ryogoku | lat=35.693753 | long=139.791653 | directions=
+| phone=+81 3 56086181 | tollfree= | fax=
+| hours=Th-Sa 12:00-16:00, open daily Jul-Aug | price=Free
+| content=
+}}
+* {{see
+| name=Sumo Museum | alt=相撲博物館, sumō hakubutsukan | url=http://www.sumo.or.jp/KokugikanSumoMuseum/ | email=
+| address=first floor of the Ryogoku Kokugikan | lat=35.697139 | long=139.793528 | directions=
+| phone=+81 3 36220366 (Japanese) | tollfree=
+| hours=M-F 10:00-16:30; closed Sa Su & holidays | price=Free
+| wikidata=Q11582043
+| content=A small, quirky museum tucked inside the arena's first floor, dedicated to the history of sumo, particularly artifacts and ceremonial clothing, almost entirely in Japanese only. The collection rotates several times a year. During sumo tournaments, it is open daily, but only to tournament ticket holders.
+}}
+*{{see
+| name=Sumo Photo Museum | alt=相撲写真資料館 | url= | email=
+| address=3-13-2 Ryogoku | lat= | long= | directions=
+| phone=+81 3 36312150 | tollfree= | fax=
+| hours=Open Tuesday only, but every day during sumo tournaments | price=
+| content=
+}}
+* {{see
+| name=Tabi Museum | alt=足袋資料館 / tabi shiryōkan / Japanese socks | url= | email=
+| address=1-9-3 Midori | lat= | long= | directions=
+| phone=+81 3-3631-0092 | tollfree= | fax=
+| hours=M-Sa 09:00-17:00 | price=
+| content=
+}}
+[[File:Tobacco & Salt Museum (Tokyo).JPG|150px|thumb|Tobacco and Salt Museum]]
+* {{see
+| name=Tobacco and Salt Museum | alt=たばこと塩の博物館 Tabako to Shio no Hakubutsukan | url=https://www.tabashio.jp/en/ | email=
+| address= | lat=35.706 | long=139.80869 | directions=
+| phone= | tollfree=
+| hours=Tu–Su 10:00-17:00 | price=¥100
+| image=Tobacco & Salt Museum (Tokyo).JPG | wikidata=Q11271253
+| lastedit=2019-02-27
+| content=This peculiar institution owes its existence to Japan's government monopoly on these two substances. The website advises that "dangerous substances are not permitted within the museum". They have map-guides of the museum in English and most exhibits have English translations. There is a free mobile-app based auto tour as well.
+}}
+*{{see
+| name=Tobu Museum | alt=東武博物館 | url=https://www.tobu.co.jp/museum/en/ | email=
+| address=4-28-16 Higashi-Mukojima | lat=35.724361 | long=139.819167 | directions=Adjacent to Higashi Mukojima Station
+| phone=+81 3-3614-8811 | tollfree=
+| hours=Th-Su 10:00-16:30 | price=¥210
+| wikidata=Q3915461
+| lastedit=2023-01-04
+| content=A museum of railways and buses, operated by Tobu Railway. At the museum, visitors can also see trains running through Higashi Mukojima Station, which is located directly above the museum.
+}}
+
+==Do==
+[[File:Ryogoku Kokugikan.jpg|thumb|250px|Ryogoku Kokugikan]]
+
+* {{do
+| name=Ryōgoku Kokugikan | alt=両国国技館 / Sumo | url=http://www.sumo.or.jp/en/ | email=
+| address=1-3-28 Yokoami | lat=35.696944 | long=139.793333 | directions=
+| phone=+81 3-3623-5111 (Japanese) | tollfree= | fax=
+| hours= | price=Advance-booking Western-style chairs on the second floor are &yen;3,600, &yen;4,900 and &yen;8,400; Japanese-style box seats on the first floor are &yen;9,200, &yen;10,300 and &yen;11,300. These can be purchased at ticket outlets and convenience stores, starting the month before the match. The Japan Sumo Association has an [https://sumo.pia.jp/en official English website] handling online ticket sales. You can also buy sumo tickets by reserving through specialized third-party online ticket sellers, which charge higher markups; while there are generally no issues, the Sumo Association discourages purchases from these sites. In the past, unsold seats have been sold on the day of the tournament, but in the mid-2020s this has not been the case as all seats usually sell out soon after tickets go on sale
+| wikipedia=Ryōgoku Kokugikan | image=Ryogoku Great Sumo Hall.jpg | wikidata=Q176821
+| content=The largest sumo arena in Japan with a capacity for 10,000 spectators, this is where grand tournaments or ''basho'' are held in January, May and September, starting on the second Sunday of the month. These tournaments last for 15 days, and are filled with ceremony and ritual which observe strict hierarchies not just for the wrestlers, but also for the referees and callers. The competition each day begins around 09:00 with the amateurs, and from there, wrestlers compete in progressing order of seniority. The professional wrestlers start around 14:35, but the excitement begins when the top division ''makuuchi'' (幕内) enter the ring in the ''dohyō-iri'' (土俵入り) ceremony at 15:50. The tournament culminates when the high-rank ''yokozuna'' (横綱) and ''ozeki'' (大関) have their bouts, around 18:00. If you have seats far from the ring, but arrive early, it is possible to borrow some seats close to the ring until mid-afternoon, when most spectators begin to arrive. English pamphlets describing the day's program and sumo in general are available, and radios with live English commentary can be rented. Food is available inside, at somewhat inflated prices. There are now signs prohibiting you from bringing in outside food and drink, but enforcement is spotty.
+}}
+Note:
+* Besides purchases of regular sumo tickets, you can book third-party tour packages to Tokyo's three Sumo tournaments which include a tour of the Sumo Museum and a second-floor reserved seat to watch the afternoon Sumo matches. A meal package includes a post-match dinner where you can feast on Sumo's signature dish, '''chanko-nabe''' (see below).
+* Instead of peering at wrestlers through binoculars from the cheap seats at Kokugikan, you can see sumo up close and personal by visiting a '''sumo stable''' (''heya'') to watch the morning training, generally held daily 06:00-10:00 (and no, you don't have to stick around for the whole time). Advance arrangements will be necessary, preferably with the help of a Japanese speaker, and a "donation" of around ¥1,500 is expected. While watching the training, keep quiet and do not take flash photos. Many stables — particularly those with very famous wrestlers — do not permit visits. '''[http://omochi.cup.com/isenoumi/index-e.html Isenoumi Stable]''' has an informative (although increasingly outdated) English home page and is happy to arrange visits.
+
+==Buy==
+* {{buy
+| name=Tokyo Solamachi | alt=東京ソラマチ | url=https://www.tokyo-solamachi.jp/ | email=
+| address=1 Chome-1-2 Oshiage | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2024-03-14
+| content=Tokyo's largest commercial complex, with over 300 shops and restaurants, plus an aquarium and a planetarium, at the base of Tokyo Skytree.
+}}
+
+==Eat==
+[[File:Chanko set.JPG|thumb|Chanko set]]
+[[File:Chanko.JPG|thumb|Chanko, before cooking]]
+
+While in sumo town the thing to do is eat sumo food, namely the hearty '''chanko-nabe''' (ちゃんこ鍋) stew that forms the bulk of a rikishi's diet. Oddly, it's actually a fairly healthy dish of chicken, fish, tofu and vegetables cooked in broth, the wrestlers just seem to eat lots of it. Many a sumo wrestler sets up a ''chanko'' restaurant when they retire, and many of those establishments can be found here. Be warned that this is usually fairly expensive, with sets starting around ¥2,500/person. You'll want at least two people, and make reservations well in advance if planning to sample chanko when the ''basho'' is in town.
+
+* {{eat
+| name=Chanko Tomoegata | alt=巴潟 | url=http://www.tomoegata.com | email=
+| address=2-17-6 Ryōgoku | lat=35.69478 | long=139.79227 | directions=3 min south from JR Ryōgoku West exit
+| phone=+81 3-3632-5600 | tollfree= | fax=
+| hours=Tu-Su 11:30-14:00, 17:00-23:00 | price=
+| content=One of Tokyo's oldest chanko joints, operating for over 100 years, specializing in a slightly unusual miso-flavored soup. Lunch sets at &yen;840/1260 weekdays/weekends are just about the cheapest chanko you'll find anywhere and a good option for the solo traveller. Dinner starts from &yen;2940/person for the ''Tomoegata'' (miso) or ''Yahazuyama'' (dashi) set and goes up to &yen;8400 for the aptly humongous 9-course ''Yokozuna''.
+}}
+
+==Drink==
+* {{drink
+| name=Popeye Beer Club | alt=麦酒倶楽部Popeye | url=https://www.70beersontap.com/ | email=
+| address=2-18-7 Ryogoku | lat= | long= | directions=
+| phone=+81 3-3633-2120 | tollfree=
+| hours=M-F 17:00-01:00, Sa 17:00-02:00, closed Su | price=Pints of beer are around &yen;900, half pints and a sampler set are available
+| content=Popeye's is an excellent place to try Japanese microbrews. There are 70 beers on tap, which cover the full range of beers from familiar ales to barley wines and rauchbiers. The food menu is interesting, try the avocado and blue cheese. English menus are available. Not English friendly if you have problems asking about the menu or bill. Not a standing bar, you have to be seated and charged for that; hidden seating and cover charges can be a nasty surprise when you get your bill.
+}}
+* {{drink
+| name=Asakusa Smile Bar & Cafe | alt=浅草スマイルバー&カフェ | url=https://www.facebook.com/asakusasmilebar.tokyo/ | email=asakusasmilebar@gmail.com
+| address=1 Chome-16-1 Azumabashi | lat=35.7094 | long=139.8000 | directions=
+| phone= | tollfree=
+| hours=17:00-23:30 | price=
+| lastedit=2023-01-04
+| content=Founded by a Tokyo resident returning from abroad. Located across the Sumida river from the Asakusa tourist district. Clientele has many expats and English-speaking Japanese. Periodically hosts an English-language comedy show.
+}}
+
+==Sleep==
+Accommodations are few, especially for non-Japanese speakers. Sleeping elsewhere in Tokyo and taking the train in for the day is the typical approach.
+
+*{{sleep
+| name=Tobu Hotel Levant Tokyo | alt=東武ホテル　レバント東京 | url=http://www.tobuhotel.co.jp/levant/ | email=
+| address=１-2-2　Kinshi | lat= | long= | directions=3 minutes walk from JR Kinshi-cho station
+| phone=+81 3-5611-5511 | tollfree= | fax=
+| hours= | price=
+| checkin= | checkout=
+| content=
+}}
+*{{sleep
+| name=Lotte City Hotel Kinshicho | alt=ロッテシティホテル錦糸町 | url=http://www.lottecityhotel.jp/en/ | email=
+| address=4-6-1 Kinshi | lat= | long= | directions=in front of JR kinshi-cho Station.
+| phone=+81 3-5619-1066 | tollfree= | fax=
+| hours= | price=
+| checkin= | checkout=
+| content=
+}}
+*{{sleep
+| name=Dai-ichi Hotel Ryogoku | alt=第一ホテル両国 | url=http://www.dh-ryogoku.com/english/index.html | email=
+| address=1-6-1 Yokoami | lat= | long= | directions=1 minute walk from Oedo Subway Ryogoku Station A-1
+| phone=+81 3-5611-5211 | tollfree= | fax=
+| hours= | price=
+| checkin= | checkout=
+| content=
+}}
+
+==Go next==
+*[[Tokyo/Asakusa|Asakusa]], across the Sumida River to the west, part of Taito ward
+*[[Tokyo/East|Eastern Tokyo]]
+*[[Tokyo/Taito|Taito]], across the Sumida River to the west
+*The little '''Fukagawa Edo Museum''' in nearby [[Tokyo/East#See|Koto Ward]] ''(From Ryogoku Subway Station, take Oedo line to Kiyosumi-Shirakawa Station, exit A3)'' is a nice complement to the Edo-Tokyo Museum. '''Kiyosumi Garden''' is nearby.
+
+{{routebox
+| image1=JR Sobu icon.png
+| imagesize1=100
+| directionl1=W
+| majorl1=[[Tokyo/Chiyoda|Tokyo]]
+| minorl1=
+| directionr1=E
+| majorr1=[[Chiba]]
+| minorr1=[[Tokyo/East|Shin Koiwa]] → [[Funabashi]]
+
+| image2=JR JB line symbol.svg
+| imagesize2=30
+| directionl2=W
+| majorl2=[[Tokyo/Chiyoda|Akihabara]]
+| minorl2=[[Tokyo/Taito|Asakusabashi]]
+| directionr2=E
+| majorr2=[[Chiba]]
+| minorr2=[[Tokyo/East|Kameido]] → [[Ichikawa]]
+
+| image3=Number prefix Keisei.PNG
+| imagesize3=30
+| directionl3=W
+| majorl3=END
+| minorl3=
+| directionr3=E
+| majorr3=[[Narita]]
+| minorr3=[[Tokyo/East|Keisei Takasago]] → [[Funabashi|Keisei Funabashi]]
+
+| image4=Tobu Skytree Line (TS) symbol.svg
+| imagesize4=30
+| directionl4=W
+| majorl4=[[Tokyo/Asakusa|Asakusa]]
+| minorl4=
+| directionr4=N
+| majorr4=[[Nikko]]
+| minorr4=[[Tokyo/East|Nishi Arai]] → [[Koshigaya]] → into [[File:Tobu Nikko Line (TN) symbol.svg|30px]]
+
+| image5=Subway TokyoAsakusa.png
+| imagesize5=30
+| directionl5=N
+| majorl5=END
+| minorl5=
+| directionr5=S
+| majorr5=[[Tokyo Haneda Airport|Haneda Airport]]
+| minorr5=[[Tokyo/Asakusa|Asakusa]] → [[Tokyo/Shinbashi|Shinbashi]] → into [[File:Number prefix Keikyū.PNG|30px]]
+
+| image6=Subway TokyoShinjuku.png
+| imagesize6=30
+| directionl6=W
+| majorl6=[[Tokyo/Shinjuku|Shinjuku]]
+| minorl6=[[Tokyo/Chiyoda|Kudanshita]] ← [[Tokyo/Akihabara|Iwamotocho]]
+| directionr6=E
+| majorr6=[[Ichikawa|Motoyawata]]
+| minorr6=[[Tokyo/East|Ojima]]
+
+| image7=Subway TokyoOedo.png
+| imagesize7=30
+| directionl7=W
+| majorl7=[[Tokyo/Shinjuku|Shinjuku]]
+| minorl7=[[Tokyo/Bunkyo|Kasuga]] ← [[Tokyo/Ueno|Ueno Okachimachi]]
+| directionr7=S
+| majorr7=[[Tokyo/Chuo|Tsukiji market]]
+| minorr7=[[Tokyo/East|Kiyosumi Shirakawa]] → [[Tokyo/East|Monzen-Nakacho]]
+
+| image8=Subway TokyoHanzomon.png
+| imagesize8=30
+| directionl8=W
+| majorl8=[[Tokyo/Shibuya|Shibuya]]
+| minorl8=[[Tokyo/Chiyoda|Jinbocho]] ← [[Tokyo/East|Kiyosumi Shirakawa]]
+| directionr8=E
+| majorr8=END
+| minorr8=
+
+| image9=Shuto Urban Expwy Sign 6-Mukojima.svg
+| imagesize9=30
+| directionl9=N
+| majorl9=into [[File:Shuto Urban Expwy Sign C2.svg|30px]]
+| minorl9=
+| directionr9=S
+| majorr9=into [[File:Shuto Urban Expwy Sign C1.svg|30px]]
+| minorr9=[[Tokyo/Chuo|Hakozaki]]
+
+| image10=Shuto Urban Expwy Sign 0007.svg
+| imagesize10=30
+| directionl10=W
+| majorl10=into [[File:Shuto Urban Expwy Sign 6-Mukojima.svg|30px]]
+| minorl10=
+| directionr10=E
+| majorr10=[[Chiba]]
+| minorr10=[[Tokyo/East|Komatsugawa]] →into [[File:Keiyo Road Route Sign.svg|80px]]→ [[Funabashi]]
+}}
+
+{{geo|35.7000|139.8167}}
+{{usabledistrict}}

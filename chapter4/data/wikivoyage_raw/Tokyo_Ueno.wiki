@@ -1,0 +1,376 @@
+{{pagebanner|Tokyo national museum banner.jpg|unesco=yes|caption=Tokyo National Museum|pgname=Ueno}}
+
+If you want to get a feel for old [[Tokyo]], '''Ueno''' ({{lang|ja|上野}}) in the [[Tokyo/Taito|Taito]] district is a good place to start.  Entirely lacking in high-rise condos or whiz-bang shopping malls, by Tokyo standards it's distinctly downmarket, in contrast to places like [[Tokyo/Ginza|Ginza]], but that means that eating, shopping and drinking are all affordably priced.  Safety is not an issue, but the areas to the southwest of Ueno station has a high density of sex clubs with active bouncers and prostitutes soliciting their trade. Ueno has excellent connectivity not just around Tokyo, but to all of northern Japan as well. Several major museums and other cultural sites are conveniently located to the northwest of the well-connected station.
+
+== Understand ==
+=== Tourist office ===
+* {{listing
+| name=Tokyo Tourist Information Center Keisei Ueno Branch| url=http://www.gotokyo.org/en/tourists/info/center/index.html | email=
+| address=in the Keisei train station outside the ticket gates | lat= | long= | directions=
+| phone=+81 3-3836-3471 | tollfree= | fax=+81 3-3836-3472
+| hours=Daily 09:30-18:30 | price=
+| content=A good source of tourist information, this office is geared for foreign visitors, so all materials are in languages other than Japanese and all staff speak English.
+}}
+
+==Get in==
+{{mapframe|35.71423|139.77502|zoom=15|width=500|height=550|staticmap=Ueno City Map Tokyo Japan.png}}
+{{Mapmask|35.7064,139.7724|35.7059,139.7744|35.7054,139.7817|35.7086,139.7821|35.7112,139.7830|35.7166,139.7829|35.7195,139.7839|35.7199,139.7839|35.7207,139.7812|35.7226,139.7795|35.7236,139.7767|35.7236,139.7755|35.7220,139.7735|35.7207,139.7694|35.7194,139.7675|35.7188,139.7665|35.7172,139.7680|35.7169,139.7682|35.7157,139.7687|35.7157,139.7682|35.7156,139.7680|35.7156,139.7677|35.7168,139.7668|35.7167,139.7665|35.7166,139.7663|35.7165,139.7660|35.7175,139.7649|35.7172,139.7645|35.7169,139.7647|35.7168,139.7650|35.7168,139.7652|35.7168,139.7653|35.7163,139.7656|35.7157,139.7659|35.7155,139.7660|35.7151,139.7661|35.7150,139.7661|35.7149,139.7660|35.7148,139.7660|35.7146,139.7659|35.7143,139.7656|35.7139,139.7657|35.7135,139.7656|35.7132,139.7665|35.7131,139.7671|35.7128,139.7677|35.7126,139.7678|35.7121,139.7677|35.7115,139.7676|35.7114,139.7669|35.7113,139.7669|35.7113,139.7670|35.7111,139.7670|35.7111,139.7681|35.7103,139.7681|35.7103,139.7680|35.7104,139.7672|35.7104,139.7666|35.7103,139.7666|35.7103,139.7669|35.7102,139.7669|35.7102,139.7667|35.7098,139.7667|35.7098,139.7668|35.7094,139.7668|35.7094,139.7672|35.7092,139.7672|35.7092,139.7666|35.7088,139.7666|35.7088,139.7669|35.7086,139.7669|35.7086,139.7676|35.7089,139.7682|35.7089,139.7688|35.7089,139.7689|35.7088,139.7692|35.7088,139.7698|35.7092,139.7715|35.7083,139.7716|35.7083,139.7721|35.7083,139.7722|35.7083,139.7725|35.7081,139.7725|35.7081,139.7725|35.7075,139.7724|35.7075,139.7722|35.7072,139.7722|35.7073,139.7709|35.7074,139.7700|35.7065,139.7700|35.7064,139.7721|35.7064,139.7724}}
+
+<maplink text="" class="no-icon" latitude="16.8190" longitude="97.6772" zoom="11" width="400" height="350" group="view">
+{"type":"Feature","properties":{"stroke":"#ff0000","stroke-width":3,"stroke-opacity":1,"title":"City walk"},"geometry":{"type":"LineString","coordinates":[[139.77787256240845,35.7163259081098],[139.77330207824707,35.71857329551627],[139.77119922637937,35.71984504480228],[139.77087736129758,35.721047090535386],[139.77057695388794,35.72188328556685],[139.7690212726593,35.721447768416425],[139.76894617080688,35.72180489265547],[139.76742267608643,35.72150003060019],[139.76707935333252,35.72158713416359],[139.76755142211914,35.72145647878276],[139.7690212726593,35.7218310236345],[139.76911783218384,35.721404216570456],[139.77054476737976,35.7219616784011],[139.77017998695374,35.7227717331716],[139.77016925811768,35.72295464762507],[139.77049112319946,35.72514087834657],[139.77071642875669,35.726194776903],[139.77081298828125,35.726325424513],[139.77079153060913,35.726604138698185],[139.77111339569092,35.72702220814748],[139.77102756500244,35.727196403103754],[139.77014780044556,35.72797156603984],[139.769868850708,35.72809350109594],[139.7683346271515,35.72758834036258],[139.76557731628418,35.727710276005325],[139.76483702659607,35.7276144694446],[139.7647941112518,35.72745769482391],[139.76373195648193,35.72722253231435],[139.7632920742035,35.72556766539231]]}}
+</maplink>
+
+'''[http://www.jreast.co.jp/e/stations/e204.html Ueno Station]''' (上野駅 ''Ueno-Eki'') was at one time the place from which steam locomotives chugged off to the snowy northeast, but nowadays the highspeed Shinkansen just make a brief stop. The JR Joban Line, which connects with the prefectures to the north still terminate here though. All local trains on the JR Yamanote and Keihin-Tohoku lines stop here as well. The Keisei Skyliner and most Keisei limited expresses from [[Narita Airport]] terminate at '''Keisei Ueno Station''', just south of the larger JR station.
+
+Tokyo Metro's Hibiya and Ginza subway lines (stations '''H-17''' and '''G-16''') underpin both stations, with direct connecting passages to each.
+
+Stations around '''Okachimachi''' (御徒町) are within walking distance to Ueno park, where you will find most of the major attractions in the area.  Both of '''Okachimachi Station''' (御徒町駅) on the JR Yamanote line and JR Joban line and '''Naka-okachimachi Station''' (仲御徒町駅, '''H-16''') on the Tokyo Metro Hibiya line are tightly connected to Ueno Station via the Ameyoko bazaar - walking through the street you can shop for souvenirs. '''Ueno-okachimachi Station''' (上野御徒町駅, '''E-09''') on the Toei Oedo subway line connects Ueno directly with Ryogoku in the [[Tokyo/Sumida|Sumida]] district in about 10 minutes.
+
+==See==
+[[File:Temple Roof Sakura.JPG|thumb|Temple and cherry blossoms, Ueno Park]]
+'''Ueno Park''' (上野公園 ''Ueno-kōen''), adjacent to the station, is home to most of the attractions in the area, including the '''Ueno Zoo''' and a concentration of Japan's best museums. In cherry blossom season, Ueno Park is Tokyo's most popular spot for outdoor ''hanami'' parties.
+
+===Tokyo National Museum===
+{{see
+| name=Tokyo National Museum | alt=東京国立博物館 Tōkyō kokuritsu hakubutsukan | url=http://www.tnm.jp | email= | wikipedia=Tokyo National Museum | wikidata=Q653433
+| address= | lat=35.718997 | long=139.776333 | directions=13-9 Ueno-kōen, Taitō-ku
+| phone=+813-38822-111 | tollfree= | fax=
+| hours=Tu-Su 09:30-17:00 year round; Mar-Dec: F to 20:00; Mar-Aug: Sa Su to 18:00 | price=Adult &yen;1,000, student &yen;500, child & senior free. Special exhibitions charge separate admission fees
+| content= [[File:JR logo (east).svg|alt=JR East|25px|link=]] JR lines to Ueno, Ueno-kōen exit.
+}}
+
+A gigantic complex that houses almost 100,000 art objects covering Japanese history from the Jomon period to the 20th century. Some descriptions are in English. Admission includes access to the following buildings:
+
+* '''Honkan''' is the main museum which is notable for the breadth of its displays. It displays works of artistic and historical value, including Buddhist statues, calligraphy, tea ceremony art, swords and armor, folding screen artwork, noh and kabuki-related items, and ukiyo-e woodblock prints.
+* '''Heiseikan''' is an archaeological museum which displays excavated items, such as pottery and burial statues from early periods. Heiseikan also houses special exhibitions.
+* '''Toyokan''' exhibits art from east Asia, India and Egypt.
+* '''The Gallery of Horyuji Treasures''' houses art donated by [[Horyuji]] temple (near [[Nara]]) in 1878. The modern museum building, designed in 1999 by Yoshio Taniguchi, is worth a visit for its own architectural merits.
+
+===Museums===
+[[File:National museum of western art01 1920.jpg|thumb|National Museum of Western Art]]
+* {{see
+| name=National Museum of Western Art | alt=国立西洋美術館, Kokuritsu Seiyō Bijutsukan | url=http://www.nmwa.go.jp/ | email=
+| address= | lat=35.715278 | long=139.775833 | directions=
+| phone= | tollfree=
+| hours=Daily 09:30-17:00 | price=Entry &yen;420; free admission on the 2nd and 4th Saturdays of each month
+| wikipedia=National Museum of Western Art | wikidata=Q1362629
+| content=Houses an extensive collection of Western art, including the original of Rodin's famous ''The Thinker''. It is listed as a [[UNESCO World Heritage List|UNESCO World Heritage]] as part of "The Architectural Work of Le Corbusier, an Outstanding Contribution to the Modern Movement".
+}}
+* {{see
+| name=National Museum of Nature and Science | alt=国立科学博物館 Kokuritsu kagaku hakubutsukan | url=https://www.kahaku.go.jp/english/ | email= | wikipedia=National Museum of Nature and Science | wikidata=Q74940
+| address= | lat=35.716387 | long=139.776247 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=It focuses on the living world, with life-sized representations of practically every life form the earth has ever seen, from the blue whale (outside the old building) to hundreds of exotic insects. There are also sections covering technology, the physical sciences, and hands-on exhibits for children, as well as the stuffed and mounted body of Hachiko, of [[Tokyo/Shibuya|Shibuya]] statue fame. In a new building since 2012. There are two galleries in adjacent buildings, the Global gallery and the Japan gallery. A lot of the global stuff you can see in other countries so you might want to prioritize the Japan gallery. The English-language written descriptions of exhibits are very brief, so it's well worth hiring an English audio guide.
+}}
+* {{see
+| name=Shitamachi Museum | alt=下町風俗資料館 | url=https://www.taitogeibun.net/shitamachi/ | email= | wikipedia=Shitamachi | wikidata=Q3915464
+| address= | lat=35.710298 | long=139.772685 | directions=near the southeast corner of Shinobazu Pond, in Ueno Park
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=A small museum that offers a glimpse into life in the area in the early 20th century, with re-created houses and stores, and cultural artifacts. Closed for renovation until March 2025.
+}}
+
+===Other===
+[[File:Statue SaigoTakamori.JPG|thumb|Saigō Takamori, walking his dog]]
+* {{see
+| name=Saigō Takamori Statue | alt=西郷隆盛像 | url= | email= | wikipedia= | wikidata=Q11629701
+| address= | lat=35.71184 | long=139.77418 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Near the main entrance to the park from JR station stands an unassuming statue of a pudgy man walking his dog. This is Saigō Takamori, a famous ''samurai'' general best known for leading the doomed Satsuma Rebellion against the Meiji government (and the inspiration for Hollywood blockbuster ''The Last Samurai''). These days, it's the canonical place for meeting people at the park.
+}}
+* {{see
+| name=Ueno Zoo | alt=上野動物園 | url=http://www.tokyo-zoo.net/english/ueno/index.html | email=
+| address= | lat=35.717500 | long=139.771389 | directions=
+| phone= | tollfree=
+| hours=Tu-Su 09:30-17:00 (last entry 16:00) | price=&yen;600
+| wikipedia=Ueno Zoo | wikidata=Q162722
+| lastedit=2026-01-26
+| content=Has over 300 animals, mostly in cramped, depressing conditions. Japan's last pandas, which had been the main attractions at the zoo, departed for China in January 2026.
+}}
+* {{see
+| name=Shinobazu Pond | alt=不忍池 Shinobazu-ike | url= | email=
+| address=adjacent to Ueno Park | lat=35.711019 | long=139.77075 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=Shinobazu Pond | wikidata=Q5365093
+| content=Full of lotus flowers and waterfowl and has the picturesque little '''Bentendō Hall''' shrine, dedicated to the goddess Benzaiten, in the middle. Outside the main entrance of the temple is a statue of Ugajin, a Japanese folk god of harvests, fertility, and wealth who is represented as a coiled serpent with a bearded man’s head.
+}}
+* {{see
+| name=Former Iwasaki Family House and garden | alt=旧岩崎邸庭園, Kyū-Iwasaki-tei Teien | url= | email=
+| address=1-3-45, Ikenohata | lat=35.70972 | long=139.76778 | directions=on a side street between Ueno Park and Tokyo University Hospital; look for small blue directional signs
+| phone= | tollfree= | fax=
+| hours= | price= | wikidata=Q1358767
+| content=Not a major tourist attraction, but an interesting bit of history. The house was built in the Meiji era in the style of an American or British mansion. In WWII the fire raids consumed most of the houses behind the mansion, which was used by GHQ during the occupation. A few attached Japanese-style rooms remain. Sit and sip green tea. The garden--mostly lawn and trees--is of no great interest.
+}}
+
+==Do==
+===City Walk===
+[[File:Map of City Walk in Yanesen.png|thumb|300px|left|Guide map for City Walk]]
+{| style="border-top:3px dotted red;border-bottom:3px dotted red"
+|-
+|'''START''' Tokyo National Museum
+|-
+|'''END''' Sendagi Station
+|-
+|'''LENGTH''' approx. 3&nbsp;km; two hours
+|}
+The walk starts from {{User:SNN95/lblpoint|1}}'''Tokyo National Museum'''. You can explore Yanaka's temples, galleries and old wooden buildings. Otherwise, you can follow the road north-west out of {{User:SNN95/lblpoint|2}}'''Ueno-kōen''' until you reach Katotoi-dōri. At the corner is the {{User:SNN95/lblpoint|3}}'''Shitamachi Museum Annexe''', which is a preserved, century-old liquor store. Across the street is {{User:SNN95/lblpoint|4}}'''Kayaba Coffee''', if you need refreshment.
+
+From here, it's a short walk to {{User:SNN95/lblpoint|5}}'''SCAI the Bathhouse''', an old public bathhouse that has been converted into a contemporary art gallery. Continue down to {{User:SNN95/lblpoint|6}}'''Edokoro''', the studio of painter Allan West, to see the ancient, thick-trunked {{User:SNN95/lblpoint|7}}'''Himalayan cedar tree''' on the corner. Around here, there are many temples, including {{User:SNN95/lblpoint|8}}'''Enju-ji''', where Nichika-sama, the 'god of strong legs' in enshrined. It is popular with runners. You can visit any of the temples, but be respectful and keep your voice low.
+
+Next, walk back towards the entrance of {{User:SNN95/lblpoint|9}}'''Yanaka-reien''', which is one of Tokyo's most atmospheric cemeteries, where you may find the neighbourhood's many stray cats sunning themselves. When you leave the cemetery, continue with the train tracks on your right, going up to the bridge, which overlooks the tracks. This is a favourite viewing spot for trainspotters ([https://goo.gl/maps/ZU12Y64X5dm 360° photo for this spot]).
+
+Head left and look for the sign pointing towards the {{User:SNN95/lblpoint|10}}'''Asakura Museum of Sculpture, Taitō''', the home studio of an early-20th-century sculptor which is now a museum. Back on the main street, continue down the {{User:SNN95/lblpoint|11}}'''Yūyake Dandan''' (literally ''Sunset Stairs'') to the classic mid-20th-century shopping street, {{User:SNN95/lblpoint|12}}'''Yanaka Ginza'''. Vendirs here sell a variety of snacks, which locals consume sitting on milk crates on the side of the road. There is also a beer stand here. To the west, you can get on the subway at Sendagi Station.
+
+==Buy==
+* {{buy
+| name=Ameyoko | alt=アメ横 | url=http://www.ameyoko.net/e/ | email=
+| address= | lat=35.71099 | long=139.77452 | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=A packed shopping bazaar full of stalls selling almost anything you can imagine. It runs roughly south of Ueno station along the inside of the JR Yamanote line tracks to Okachimachi station. If you are looking for a more typically "Asian" market street in Tokyo, with bargaining expected and friendly vendors trying to out-shout each other, this is it. Definitely a good place for souvenirs for friends back home. It is often mistakenly believed that the district got its name in the post-war years from the American blue jeans and other items that were sold on the black market, but really the 'ame' comes from the candies (''ame'' in Japanese) that were sold there.
+}}
+
+==Eat==
+[[File:Bentendo Gull.JPG|thumb|Shinobazu Pond and Bentendo Hall in early spring]]
+
+There's plenty of cheap food to be found all around Ueno station, including a large number of food stalls near the shrine on Shinobazu Lake.
+
+In cherry blossom season, the local favorite is grilled rice dumplings known as '''dango''' (団子), slathered with either a sweet and salty soy-based sauce or chunky red bean paste. As the terse Japanese proverb says, ''Hana yori dango'', or "Dumplings are better than blossoms".
+
+===Budget===
+* {{eat
+| name=Okina An | alt=翁庵 | url= | email=
+| address= | lat=35.711842 | long=139.778859 | directions=two minutes from Ueno station
+| phone= | tollfree= | fax=
+| hours=11:00-20:00 | price=¥750
+| content=One of the most authentic soba places in Tokyo. The owner keeps the place clean but has not renovated anything since the Showa era. Note the cash register from the 1960s and the museum-worth tea hearth. Try negiseiro, which is buckwheat noodles with tempura-style soup. Put the onions and some wasabi in your soup, then put a bit of soba into your soup and slurp it. When you're done, pour the sobayu into your soup and drink.
+}}
+* {{eat
+| name=Yayoiken | alt=やよい軒 | url=http://www.yayoiken.com/ | email=
+| address=Higashi-Ueno 3-37-9 | lat=35.711685 | long=139.779489 | directions=on Asakusa-dori, 2 min from JR Ueno
+| phone=+81 3-5846-6175 | tollfree= | fax=
+| hours=07:00-23:00 | price=Morning sets from &yen;350, full meals from &yen;580
+| content=Cheap and cheerful grills served on a hot ''teppan'' iron plate, with all the rice you can eat. Plastic food models plus a coupon machine with pictures make ordering easy.
+}}
+* {{eat
+| name=Juraku | alt=じゅらく | url=http://www.juraku.com/rest/area_tokyo.html | email=
+| address=6-11-11, Ueno | lat= 35.711403| long=139.774674 | directions=In front of Ueno Station at Shinobazu Exit across the street
+| phone= +81 3-3831-8452| tollfree= | fax=
+| hours=11:00-22:00 | price=around ¥1,000
+| content=An affordable restaurant popular for families. Serves omelettes, hamburg steaks among other Western and some Japanese dishes. No credit cards accepted.
+}}
+* {{eat
+| name=Ueno Yabusoba | alt=上野藪そば | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=Seiro for ¥740
+| lastedit=2016-02-07
+| content=Another traditional soba place.
+}}
+* {{eat
+| name=Yoshinoya | alt= | url=https://www.yoshinoya.com/ | email=
+| address= | lat=35.71238 | long=139.77782 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=From ¥¥380
+| lastedit=2016-09-20
+| content=A popular beef rice bowl chain.
+}}
+
+===Mid-range===
+* {{eat
+| name=Izuei | alt=伊豆栄 | url=http://www.izuei.co.jp/shop/ | email=
+| address=2-12-22, Ueno | lat= 35.709780 | long=139.772626 | directions=2 min from Ueno Station into Ueno Park
+| phone= +81 3-3831-0954| tollfree= | fax=
+| hours=11:00-21:30 | price=Lunch from &yen;2,100, dinner from &yen;7,300
+| content=Opened circa 1750, an authentic eel place.
+}}
+
+===Splurge===
+* {{eat
+| name=Ueno Seiyōken | alt=上野精養軒 | url=http://www.seiyoken.co.jp/ | email=
+| address=in the Ueno Park grounds | lat= 35.711728 | long=139.774251 | directions=1 min from Ueno Station into Ueno Park
+| phone= | tollfree= | fax=
+| hours= | price=Lunch from &yen;2400, dinner from &yen;10,000
+| content=Opened in 1877, this was one of the first Western restaurants in Japan, serving French cuisine befitting its stature.
+}}
+
+==Drink==
+[[File:Hall of Ueno Station-P1000653.JPG|thumb|Ueno Station]]
+Ueno is low on clubs, but heavy on traditional bars and seedier businesses.
+
+"Without sake, what is the meaning of cherry blossoms?", proclaims a famous ''haiku'' poem. The profound truths contained within are experimentally tested every spring, when more or less all of Ueno Park disappears under a sea of blue tarps, picnicking secretaries and sozzled salarymen.
+
+* {{drink
+| name=Tōrindō | alt=桃林堂 | url=http://www.tourindou100.jp/ | email=
+| address=Ueno-sakuragi 1-5-7 | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours=09:00-17:00 | price=
+| content=A little off the beaten track but just a short walk from the Tokyo National Museum, this traditional shop serves tea ceremony tea (&yen;450) without the ritualized fuss and delectable Japanese desserts (from &yen;150) to go with them.
+}}
+* {{drink
+| name=Tasuichi (plus one) | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Down the street from the 0101(Marui) department store is an extremely small but very friendly stand-up bar. They serve good food, have cheap drinks, speak some English, and are very friendly to foreigners. A great place to go if you are traveling by yourself, know some very basic Japanese and want to make friends with a local or two, but this is not a club. The surrounding area is filled with similar places.
+}}
+*{{drink
+| name=The Warrior Celt | alt=550 m south of Ueno station, past Marui dept.store | url=http://www.warriorcelt.jp | email=
+| address=3rd floor, Ito Bld, 6-9-22 Ueno | lat= | long= | directions=
+| phone=+81 3-3836-8588 | tollfree= | fax=
+| hours= | price=¥600-1000
+| content=Known locally as the hangout for a few good beers in a typical Irish pub atmosphere. Expat crowd as well as Japanese drinkers. Say you found the place off Wikivoyage for a little something special.
+}}
+
+==Sleep==
+Only hotels within walking distance of Ueno Station are listed here. See [[Tokyo/Taito|Taito]] for a listing of hotels elsewhere in the district.
+
+* {{sleep
+| name=Sutton Place Hotel | alt=サットンプレイスホテル | url=https://r-hotel.jp/en/hotel/detail/24 | email=
+| address=7-8-23, Ueno, Taito-ku | lat=35.713956 | long=139.779074 | directions=from JR Ueno station, Iriya exit, cross the street to Iwakura High School; continue to the end of that block; turn left at the next traffic light; hotel is on the left; 2 min walk total
+| phone=+81 3 3842-2411 | tollfree= | fax=+81 3 3842-2414
+| checkin=15:00 | checkout=12:00 | price=&yen;7000
+| content=Mid-range hotel, in the R-Hotels Group. Rooms have en-suite toilet. Staff speaks English. Breakfast included. Free internet access in the lobby. The hotel is in a quiet street in Ueno, 2 minutes walking from JR Ueno Station and 5 minutes walking from subway Ueno Station. From Keisei Ueno, terminating station of the Skyliner from Narita Airport, the walk is about 10 minutes.
+}}
+*{{sleep
+| name=Kinuya Hotel |alt=きぬやホテル | url=http://www.kinuyahotel.jp/ | email=
+| address=2-14-28 Ueno, Taito-ku | lat=35.711008 | long=139.772916 | directions=3 minutes walk from JR Ueno Shinobazu exit
+| phone= | tollfree= | fax=
+| hours= | price=Singles for &yen;7400
+| checkin= | checkout=
+| content=A great hotel for backpackers, staff can speak English. Two PCs with internet access are available at the lobby.
+}}
+*{{sleep
+| name=Mitsui Garden Hotel Ueno |alt=三井ガーデンホテル上野| url=http://www.gardenhotels.co.jp/eng/ueno/ | email=
+| address=3-19-7 HigashiUeno | lat=35.711864 | long=139.778109 | directions=2 minutes walk from the Asakusa Exit of JR Ueno Station
+| phone=+81 3-3839-1131 | tollfree= | fax=
+| hours= | price=¥16,800 twin room per night
+| checkin= | checkout=
+| content=
+}}
+*{{sleep
+| name=Hotel Coco Grand Ueno Shinobazu | alt=ホテル ココ・グラン上野不忍 | url=http://www.cocogrand.co.jp/uenoshinobazu/ | email=
+| address=2-12-14 Ueno Taito | lat=35.70944 | long=139.77157 | directions=
+| phone=+81 3-5812-1155 | tollfree=
+| checkin= | checkout= | price=
+| content=
+}}
+* {{sleep
+| name=Ueno Hotel | alt= | url=http://www.uenohotel.jp/ | email=
+| address= | lat=35.71610 | long=139.78057 | directions=
+| phone=+81 3-6231-7610 | tollfree= | fax=
+| checkin= | checkout= | price=
+| lastedit=2016-09-20
+| content=8-minute walk from Ueno Station.
+}}
+
+==Connect==
+===Free Wifi===
+* {{listing
+| name=Taito Free Wi-Fi | url=http://www.city.taito.lg.jp/index/kusei/johokasuishin/wifi.html | email=
+| address= | lat= | long= | directions=
+| phone=+81 570-015-152 | tollfree= | fax=
+| hours= | price=
+| content =The Wifi Serviced Taitō ward.
+}}
+
+==Stay safe==
+
+Ueno is home to one of Tokyo's major red light areas and thus has a somewhat more sketchy atmosphere than most of the city. Compared to similar areas in most countries, however, it is very safe and you are unlikely to run into trouble. Do be careful of hawkers trying to pull you into a bar, though, as this is likely to be a snack which will charge an extortionate seating fee.
+
+African scammers are known to operate in market areas and try to push their merchandise (usually overpriced, low quality, stolen or counterfeit) on foreigners. While usually not violent, these African scammers usually have connections with organized crime and best to be avoided and ignored. Ueno is also known for being frequented by fake Buddhist monks. They will give you a trinket and then a piece of paper saying it is the treasure of their temple and they would like a donation to rebuild said temple. This is a lie, they are known to be an organized begging gang with no religious affiliation who specifically target obvious foreigners.
+
+==Go next==
+* [[Tokyo/Akihabara|Akihabara]] &mdash; the hub for geek culture is two stops away by JR Yamanote Line
+* [[Tokyo/Asakusa|Asakusa]] &mdash; Tokyo's top temples are two stops away by Metro Ginza Line
+* [[Tokyo/Bunkyo|Bunkyo]] &mdash; University of Tokyo and a slice of Old Tokyo are within strolling distance of Ueno Park
+
+{{routebox
+| image1=JR Tohoku icon.png
+| imagesize1=100
+| directionl1=N
+| majorl1=[[Sendai]]
+| minorl1=[[Utsunomiya]] ← [[Saitama|Ōmiya]]
+| directionr1=S
+| majorr1=[[Tokyo/Chiyoda|Tokyo]]
+| minorr1=
+
+| image2=JR JJ line symbol.svg
+| imagesize2=30
+| directionl2=N
+| majorl2=[[Mito]]
+| minorl2=[[Tsuchiura]] ← [[Kashiwa]]
+| directionr2=S
+| majorr2=END
+| minorr2=
+
+| image3=JR JY line symbol.svg
+| imagesize3=30
+| directionl3=N
+| majorl3=[[Tokyo/Toshima|Ikebukuro]]
+| minorl3=[[Tokyo/Toshima|Sugamo]] ← [[Tokyo/North|Tabata]]
+| directionr3=S
+| majorr3=[[Tokyo/Shinbashi|Shinbashi]]
+| minorr3=[[Tokyo/Akihabara|Akihabara]] → [[Tokyo/Chiyoda|Tokyo]]
+
+| image4=JR JK line symbol.svg
+| imagesize4=30
+| directionl4=N
+| majorl4=[[Saitama|Urawa]]
+| minorl4=[[Kawaguchi]] ← [[Tokyo/North|Akabane]]
+| directionr4=S
+| majorr4=[[Yokohama|Tsurumi]]
+| minorr4=[[Tokyo/Shinagawa|Shinagawa]] → [[Oimachi]] → [[Tokyo/Ota|Kamata]]
+
+| image5=Number_prefix_Keisei.PNG
+| imagesize5=30
+| directionl5=W
+| majorl5=END
+| minorl5=
+| directionr5=E
+| majorr5=[[Narita]]
+| minorr5=[[Tokyo/East|Aoto]] → [[Funabashi|Keisei Funabashi]]
+
+| image6=Subway TokyoGinza.png
+| imagesize6=30
+| directionl6=S
+| majorl6=[[Tokyo/Akasaka|Akasaka Mitsuke]]
+| minorl6=[[Tokyo/Ginza|Ginza]] ← [[Tokyo/Chuo|Nihonbashi]]
+| directionr6=E
+| majorr6=[[Tokyo/Asakusa|Asakusa]]
+| minorr6=
+
+| image7=Logo of Tokyo Metro Hibiya Line.svg
+| imagesize7=30
+| directionl7=N
+| majorl7=[[Kasukabe]]
+| minorl7=into [[File:Tobu Skytree Line (TS) symbol.svg|30px]] ← [[Tokyo/East|Kitasenjyu]]
+| directionr7=S
+| majorr7=[[Tokyo/Roppongi|Roppongi]]
+| minorr7=[[Tokyo/Akihabara|Akihabara]] → [[Tokyo/Chuo|Tsukiji]]
+
+| image8=Subway TokyoOedo.png
+| imagesize8=30
+| directionl8=W
+| majorl8=[[Tokyo/Shinjuku|Shinjuku]]
+| minorl8=[[Tokyo/Bunkyo|Kasuga]]
+| directionr8=E
+| majorr8=[[Tokyo/East|Kiyosumi Shirakawa]]
+| minorr8=[[Tokyo/Sumida|Ryogoku]]
+
+| image9=Shuto Urban Expwy Sign 1-Ueno.svg
+| imagesize9=30
+| directionl9=N
+| majorl9=END
+| minorl9=
+| directionr9=S
+| majorr9=[[Tokyo/Ginza|Ginza]]
+| minorr9=[[Tokyo/Chuo|Honcho]] → into [[File:Shuto Urban Expwy Sign C1.svg|30px]]
+}}
+
+{{usabledistrict}}
+{{IsPartOf|Tokyo}}
+{{geo|35.71546944|139.77401944}}

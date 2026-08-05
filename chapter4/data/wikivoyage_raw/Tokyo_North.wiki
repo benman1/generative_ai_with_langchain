@@ -1,0 +1,224 @@
+{{pagebanner|North Tokyo Wikivoyage banner.jpg|caption=Cherry blossoms in Hikarigaoka Park}}
+
+'''Nerima''' (練馬), '''Itabashi''' (板橋), and '''Kita''' (北) are a trio of suburban wards in north and northwestern [[Tokyo]], bordering [[Saitama (prefecture)|Saitama]] and outer Tokyo's [[Tokyo (prefecture)|Tama region]].  All three lie well beyond the central Yamanote line – nearby [[Tokyo/Ikebukuro|Ikebukuro]] is as close as it gets.
+
+==Understand==
+===Tourist Information Sites===
+*Itabashi:The local tourist association has a [https://itabashi-kanko.jp/en/ multilingual guide site, Hanging Out Itabashi].
+*Kita: [http://www.kanko.city.kita.tokyo.jp/en　Enchanting Tokyo Kita] is the ward's official multilingual guide site.
+*Nerima: The ward has a [https://www.nerimakanko.jp/ Japanese-only guide site] with integrated Google Translate.
+
+==Get in==
+{{Mapframe|35.75824|139.66679|height=350|width=600|zoom=12}}
+{{Mapshape|wikidata=Q232635, Q235130, Q232655}}
+{{Mapshapes|Q682894}} <!-- Tokyo Metro -->
+{{Mapshapes|Q247782}} <!-- Toei Subway -->
+{{Mapshape|title=Rinkai Line|wikidata=Q225095|type=geoline|stroke=#00b48d|stroke-width=4|stroke-opacity=1}}
+{{Mapshape|title=Tokyo Monorail|wikidata=Q8015774|type=geoline|stroke=#ff0000|stroke-width=4|stroke-opacity=1}}
+
+Nerima is accessible on the Toei Oedo subway line from many points in the city, and on the Seibu Ikebukuro and Seibu Shinjuku (going to stations in the Southern part of Nerima-ku) Railway lines from Ikebukuro and Seibu Shinjuku stations respectively. The Tokyo Metro Yurakucho Line branches in two at Kotake-mukaihara station with some trains going on to Wako-shi in Saitama Prefecture then continuing along the Tobu Tojo line and others continuing to Nerima then running through to the Seibu Ikebukuro Line.
+
+Itabashi is best covered by the Toei Mita line and a small portion of the Tobu Tojo line.  Itabashi Station on the JR Saikyo line is at the far southeastern corner of the ward, barely in Itabashi at all.
+
+JR East serves Kita.  The Keihin Tohoku JR Line stops at Tabata, Kami-nakazato, Oji, Higashi-Jujo, and Akabane stations, while the Saikyo JR Line stops at Itabashi, Jujo, Akabane, Kita-akabane, and Ukima-funado stations.
+
+==See==
+[[File:Iwabuchi suimon red.jpg|thumb|Akasuimon (red floodgate)]]
+* {{see
+| name=Akasuimon | alt=赤水門 | url=http://www.city.kita.tokyo.jp/yoran/graffiti.html | email=
+| address=5-41 Shimo, Kita-ku | lat=35.7856 | long=139.7336 | directions=Namboku subway line to Akabane-Iwabuchi; wander north through small streets
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=The Red Floodgate may be of little interest to the casual tourist, but involves a pleasant walk in a riverside park. Tokyo is low-lying, and depends on floodgates and levees to avoid inundation. The historic red flood gate is no longer used, replaced by the larger (but less attractive) blue gates to the east.
+}}
+*{{see
+| name=Asukayama Park | alt=飛鳥山公園 | url=http://www.kanko.city.kita.tokyo.jp/spot/445-2/ | email=
+| address=1-1-3 Oji | lat=35.750556 | long=139.738889 | directions=1 min from JR Ōji station
+| phone=+81 3-3908-9275 | tollfree=
+| hours= | price=Free, including the monorail ride
+| content=Asukayama Park is the first park in Japan. It has about 650 sakura trees, planted by the Japanese political leader Yoshimune Tokugawa (1684-1751). People drink and eat under them when the cherry blossoms bloom in spring. There are also [https://www.asukayama.jp/ some museums in the park] (combined website). The paper museum shows the history of paper and has a library. The Shibusawa museum is about the famous Japanese industrialist Eiich Shibusawa (1840-1931), who played an important role in the development of Japan.
+}}
+
+[[File:Hakusan-jinja,Nerima.JPG|thumb|right|250px]]
+* {{see
+| name=Hakusan shrine | alt=白山神社 | url= | email=
+| address= | lat= | long= | directions=
+| phone=+81 3-3948-1096 | tollfree=
+| hours= | price=
+| image=Hakusan-jinja,Nerima.JPG | wikidata=Q11579601
+| content=The place to worship Japanese God. There is a big portable shrine, a big box and the Japanese believe that Japanese God rides to it while Japanese festival is being held. Every fall, there is a festival where Japanese carry the big portable shrine through the city by walking. It is a very ancient tradition. You can see this festival. And Hakusan shrine is famous for the zelkova tree. It has two zelkova trees. These trees are 800 years old. They are a natural monument in Japan.
+}}
+* {{see
+| name=Kyū-Furukawa Teien | alt=旧古川庭園 | url= | email=
+| address=Nishigahara 1-chome | lat=35.742972 | long=139.746694 | directions=15 min from Rikugien along Hongo-dori
+| phone= | tollfree= | fax=
+| hours= | price=&yen;150
+| wikipedia=Kyu-Furukawa Gardens | image=Kyu-furukawa-panorama-2011.png | wikidata=Q3082256
+| content=Probably Tokyo's best-preserved early Edo-era Western-style mansion, designed by English architect Josiah Condor. The rose garden here is also well-known and blooms twice a year in May–June and Oct-Nov, and there's a Japanese garden to round out the set.
+}}
+*{{see
+| name=Market of the cock | alt=酉の市 | url=http://torinoichi.info/ | email=
+| address= | lat= | long= | directions=Nerima
+| phone= | tollfree=
+| hours= | price=
+| content=It is the Japanese traditional festival that have continued from Edo period. Held in November on the days of the cock by Ootori shrine in Nerima - 5th, 17th and 29th in 2024. There are many kinds of booths. For example, Chinese foods, grilled chicken, apricot candy, big cotton candy and so on. You can eat those foods and enjoy this traditional atmosphere.
+}}
+*{{see
+| name=United cinema Toshimaen | alt=ユナイテッド・シネマとしまえん | url=https://www.unitedcinemas.jp/toshimaen/index.html | email=
+| address=4-15-20 Nerima, Nerima-ku | lat= | long= | directions=2min from Toshimaen station
+| phone=+81 3-5912-9400 | tollfree=
+| hours= | price=
+| content=This cinema has 9 screens and special seats that have more beautiful sound than normal seats. It can accommodate about 2372 spectators. There are some shops, you can buy foods, for example, popcorn and ice cream, drinks and goods of movies. Prices are ¥1,800 for adults, ¥1,500 for university and high school students, ¥1000 for junior and senior, ¥900 for infants (from 3 years old).
+}}
+* {{see
+| name=Warner Bros Studio Tour Tokyo - The Making of Harry Potter | alt= | url=https://www.wbstudiotour.jp/ | email=
+| address=1 Chome-1-7 Kasugacho, Nerima City | lat=35.745 | long=139.645 | directions=From Ikebukuro Station, take Seibu Toshima Line to Toshimaen Station
+| phone=+81 50-6862-3676 | tollfree=
+| hours=M-F 08:30-19:30, Sa Su 08:30-22:00 | price=Adults ¥6300, child ¥5200. Tickets must be purchased in advance
+| wikidata=Q121605231
+| lastedit=2023-10-10
+| content=Opened in June 2023, it is the first Harry Potter studio tour in Asia.
+}}
+
+==Do==
+* {{do
+| name=Niwa-no-yu | alt=庭の湯 | url=https://www.seibu-leisure.co.jp/niwanoyu/index.html | email=
+| address=3-25-1 Kouyama, Nerima-ku | lat=35.744083 | long=139.647972 | directions=
+| phone=+81 3-3990-4126 (Japanese only) | tollfree=
+| hours=10:00–23:00 | price=¥2250 before 21:00, ¥1260 after
+| content=A large, upscale ''sento'' adjacent to Toshimaen which features indoor and outdoor baths, Roman steam rooms, Finnish saunas, a large indoor pool (bring your bathing suit), and an upstairs area with food, drinks, massages, and relaxation chairs (food, drinks, and massages cost extra). Children not permitted.
+}}
+* {{do
+| name=Hikarigaoka Park | alt=光が丘公園 | url= | email=
+| address=4-1 Hikarigaoka, Nerima-ku | lat=35.766667 | long=139.629167 | directions=north of Hikarigaoka Station, Oedo Line
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Hikarigaoka Park | image=Hikarigaoka Park.jpg | wikidata=Q6631678
+| content=One of the larger parks in Tokyo. It was left over land from a U.S. military base. The park has extensive open, grassy areas for picnics, frisbee and the like. There is also a large public pool, and a gym, a bird-watching center, a small water play area, tennis courts, archery, a baseball diamond and other facilities. A number of festivals and flea markets and special events are often held in the park (or near it) year round as well.
+}}
+*{{do
+| name=Stage Up | alt=ステージアップ | url= | email=
+| address=4-15-15 Nerima, Nerima-ku | lat=35.766667 | long=139.629167 | directions=1 min from Toshimaen station by walking
+| phone=+81 3 3557-5771 | tollfree=
+| hours= | price=
+| content=A karaoke parlor with a performance stage near Toshimaen station. When you enter the room, choose your favorite songs and sing it. If you look for a song and put its number to the karaoke machine, music without a voice is being played so you can sing with music. And you can eat many kinds of foods and drink.
+}}
+
+==Buy==
+[[File:Jujo Ginza, located in Kita-Ku, a covered marketplace with everything from Pachinko to Seafood.jpg|thumb|240px|Jujo-Ginza, Kita Ward]]
+* {{buy
+| name=Jūjō-Ginza | alt=十条銀座 | url=http://www.jujo-ginza.com/ | email=
+| address=Kami-jūjō 2-chome, Kita-ku | lat=35.7610396 | long=139.7214049 | directions=Jūjō Station on the Saikyō Line, across from the west entrance
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=This covered shopping street is as good a way as any to see how every-day people shop and what they buy.
+}}
+
+==Eat==
+A Japanese radish, called Nerima radish.(練馬大根) It is long and the length is about 1 meter.
+Its taste is spicy so when you eat it, you should eat it for spice. You can buy it at supermarket in Nerima city.
+
+==Drink==
+* {{drink
+| name=Cartagena | url= | email=
+| address=4F, 7-1-1 Shakujii-cho, Nerima-ku | lat= | long= | directions=beside the first railroad crossing west of Shakujii-koen station
+| phone=+81 3-5372-0103 | tollfree= | fax=
+| hours=Su-Th 19:00-00:00, F Sa all night | price=Beer, rum and others start at ¥500
+| content=A cozy and friendly spot where you can dance and drink. It is probably the first Latin bar in Nerima. The owner is a lady who once lived in Colombia; she speaks English and Spanish. There is a salsa event on weekends.
+}}
+
+==Sleep==
+Few options.  Consider the more plentiful choices near [[Tokyo/Ikebukuro#Sleep|Ikebukuro]], or in [[Tokyo/Bunkyo|Bunkyo]] for closer access to Kita.
+
+==Connect==
+==Go next==
+{{routebox
+| image1=JR JK line symbol.svg
+| imagesize1=30
+| directionl1=N
+| majorl1=[[Saitama|Ōmiya]]
+| minorl1=[[Saitama|Urawa]] ← [[Kawaguchi]]
+| directionr1=S
+| majorr1=[[Oimachi]]
+| minorr1=[[Tokyo/East|Nippori]] → [[Tokyo/Ueno|Ueno]] → [[Tokyo/Akihabara|Akihabara]]
+
+| image2=JR JA line symbol.svg
+| imagesize2=30
+| directionl2=N
+| majorl2=[[Kawagoe]]
+| minorl2=[[Saitama|Ōmiya]] ← [[Saitama|Musashi Urawa]]
+| directionr2=S
+| majorr2=[[Tokyo/Odaiba|Odaiba]]
+| minorr2=[[Tokyo/Toshima|Ikebukuro]] → [[Tokyo/Shibuya|Shibuya]] → into [[File:Rinkai Line symbol.svg|30px]]
+
+| image3=Subway TokyoMita.png
+| imagesize3=30
+| directionl3=N
+| majorl3=END
+| minorl3=
+| directionr3=S
+| majorr3=[[Tokyo/Minato|Shibakōen]]
+| minorr3=[[Tokyo/Toshima|Sugamo]] → [[Tokyo/Chiyoda|Jinbocho]]
+
+| image4=Subway TokyoOedo.png
+| imagesize4=30
+| directionl4=N
+| majorl4=END
+| minorl4=
+| directionr4=S
+| majorr4=[[Tokyo/Roppongi|Roppongi]]
+| minorr4=[[Tokyo/Nakano|Higashi-Nakano]] → [[Tokyo/Shinjuku|Shinjuku]]
+
+| image5=SeibuIkebukuro.svg
+| imagesize5=30
+| directionl5=W
+| majorl5=[[Chichibu]]
+| minorl5=[[Hanno]] ← [[Tokorozawa]] ← [[Nishitokyo|Hoya]]
+| directionr5=E
+| majorr5=[[Tokyo/Toshima|Ikebukuro]]
+| minorr5=
+
+| image6=Kan-etsu Expwy Route Sign.svg
+| imagesize6=100
+| directionl6=N
+| majorl6=[[Takasaki]]
+| minorl6=[[Tokorozawa]]
+| directionr6=S
+| majorr6=END
+| minorr6=
+
+| image7=Tokyo-Gaikan Expwy Route Sign.svg
+| imagesize7=100
+| directionl7=W
+| majorl7=END
+| minorl7=
+| directionr7=E
+| majorr7=[[Misato (Saitama)|Misato]]
+| minorr7=Wako → [[Saitama|Urawa-Minami]]
+
+| image8=Shuto Urban Expwy Sign 0005.svg
+| imagesize8=30
+| directionl8=N
+| majorl8=[[Saitama|Ōmiya]]
+| minorl8=[[Saitama|Urawa]] ← Toda ← into [[File:Shuto Urban Expwy Sign S5.svg|30px]]
+| directionr8=E
+| majorr8=[[Tokyo/Ginza|Ginza]]
+| minorr8=[[Tokyo/Toshima|Higashi-Ikebukuro]] →  into [[File:Shuto Urban Expwy Sign C1.svg|30px]]
+
+| image9=Shuto Urban Expwy Sign C2.svg
+| imagesize9=30
+| directionl9=S
+| majorl9=[[Tokyo/Odaiba]]
+| minorl9=into [[File:Shuto Urban Expwy Sign B.svg|30px]] ← [[Tokyo/Shibuya|Tomigaya]] ← [[Tokyo/Shinjuku|Nishi-shinjuku]]
+| directionr9=E
+| majorr9=[[Tokyo Disney Resort|Urayasu]]
+| minorr9=[[Tokyo/East|Ougiohashi]] → [[Tokyo/East|Kosuge]] → into [[File:Shuto Urban Expwy Sign B.svg|30px]]
+}}
+
+{{outlinedistrict}}
+{{IsPartOf|Tokyo}}
+{{geo|35.75|139.733333}}
+
+{{RelatedWikipedia|Nerima, Tokyo|Wikipedia (Nerima)|rel=y}}
+{{RelatedWikipedia|Itabashi, Tokyo|rel=y}}
+{{RelatedWikipedia|Kita, Tokyo|rel=y}}

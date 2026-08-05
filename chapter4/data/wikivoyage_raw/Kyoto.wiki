@@ -1,0 +1,487 @@
+{{pagebanner|Kyoto banner Fushimi Inari Torii.png|unesco=yes|origin=0,0|dotm=yes|caption=The Senbon Torii, a tunnel-like row of torii gates at Fushimi Inari-taisha shrine}}
+{{printDistricts}}
+
+[[File:Kiyomizu_Temple_in_Kyoto.jpg|thumb|320px|Kiyomizu-dera Temple with its famous large veranda]]
+'''Kyōto''' ({{lang|ja|京都}}) was the capital of [[Japan]] for over a millennium, and carries a reputation as the nation's most beautiful city and its cultural capital - even the national government's Agency for Cultural Affairs moved there in 2023.  However, visitors may be surprised by how much work they will have to do to see Kyoto's beautiful side. Most first impressions of the city will be of the urban sprawl of central Kyoto, around the ultra-modern glass-and-steel train station, which is itself an example of a city steeped in tradition colliding with the modern world.
+
+Nonetheless, the persistent visitor will soon discover Kyoto's hidden beauty in the temples and parks which ring the city center, and find that the city has much more to offer than immediately meets the eye.
+
+The city has a multi-lingual [http://www.kyoto.travel/ Official Travel Guide site].
+
+==Districts==
+[[File:Kyotomap.png|thumb|350px|Kyoto's districts]]
+[[File:Kinkakuji Golden Pavilion.jpg|thumb|320px|The Golden Pavilion of Kinkaku-ji]]
+
+Though dwarfed in size by other major Japanese cities, Kyoto is vast in terms of its rich cultural heritage - the material endowment of over a thousand years as the country's imperial capital.  The city's numerous palaces, shrines, temples and other landmarks are spread out over the following districts:
+
+{{Regionlist
+|region1name=[[Kyoto/Central|Central]]
+| region1color=#dde390
+|region1description=Site of Nijō Castle (a former residence of the Tokugawa shōguns) and the stately grounds of the Imperial Palace.  The district's southern end is anchored by the massive glass-and-steel building of the city's main gateway, Kyoto Station.
+|region2name=[[Kyoto/Arashiyama|Arashiyama]] (Western Kyoto)
+| region2color=#a789ab
+|region2description=Set against the beautiful tree-covered hills of Arashiyama, this district is rich in both historic and natural wonders.
+|region3name=[[Kyoto/Higashiyama|Higashiyama]] (Eastern Kyoto)
+| region3color=#dca65b
+|region3description=Nestled between the Kamo River and the temple-studded mountains of Higashiyama, this area's many attractions include the famed geisha district of Gion and the historic sites strung alongside the well-known Philosopher's Path.
+|region4name=[[Kyoto/North|North]]
+| region4color=#73a3c3
+|region4description=Graced with scores of centuries-old shrines and temples, including several [[World Heritage Site]]s.  One of Kyoto's most famous attractions - the magnificent gilded pavilion of Kinkaku-ji - can be found here.
+|region5name=[[Kyoto/South|South]]
+| region5color=#d1888f
+|region5description=This district covers a large part of Japan's former capital, stretching from the Ōharano area in the west to Fushimi-ku, Daigo, and the southern tip of Higashiyama-ku in the east.
+}}
+
+==Understand==
+
+Nestled among the mountains of the [[Kansai]] region of Western [[Honshu]], Kyoto was the capital of Japan and the residence of the Emperor from 794 until the Meiji Restoration of 1868, when the capital was moved to [[Tokyo]].  During its millennium at the center of Japanese power, culture, tradition, and religion, it accumulated an unparalleled collection of palaces, temples and shrines, built for emperors, shoguns, and monks. Kyoto was among the few Japanese cities that escaped the allied bombings of World War II and so still has an abundance of prewar buildings, such as the traditional townhouses known as ''machiya''. However, the city is continuously undergoing modernization with some of the traditional Kyoto buildings being replaced by newer architecture, such as the Kyoto Station complex. Kyoto is home to Japan's second most prestigious university, Kyoto University.
+
+===Orientation===
+Kyoto's city planners way back in 794 decided to copy the Chinese capital Chang'an (present-day [[Xi'an]]) and adopt a '''grid pattern''', which persists to this day in the city core.  West-east streets are numbered, with Ichijō-dōri (一条通, "First Street") up north and Jūjō-dōri (十条通, "Tenth Street") down south, but there is no obvious pattern to the names of north-south streets.
+
+===Climate===
+{{climate chart
+|Kyoto
+|1.5 |9.1 |53.3
+|1.6 |10.0 |65.1
+|4.3 |14.1 |106.2
+|9.2 |20.1 |117.0
+|14.5 |25.1 |151.4
+|19.2 |28.1 |199.7
+|23.6 |32.0 |223.6
+|24.7 |33.7 |153.8
+|20.7 |29.2 |178.5
+|14.4 |23.4 |143.2
+|8.4 |17.3 |73.9
+|3.5 |11.6 |57.3
+|jansnow=50.0 |febsnow=70.0 |marsnow=10.0 |aprsnow=0.0 |maysnow=0.0 |junsnow=0.0 |julsnow=0.0 |augsnow=0.0 |sepsnow=0.0 |octsnow=0.0 |novsnow=0.0 |decsnow=20.0
+|float=right
+|clear=right
+| description =Source:[[:w:Kyoto#Climate]]
+}}
+
+Kyoto truly exhibits the four seasons of spring, summer, fall and winter, with many flowers in spring and changing leaves in the fall attracting hordes of tourists. Kyoto is particularly humid in summer, as the city is flanked by mountains. From about mid-June to the end of July is the rainy season, so most travelers avoid this time. The type of rain ranges from drizzles to off-and-on showers to downpours. There is another typhoon season in late August and September. Winters are generally cold but without snowfall. They usually don't start until the end of December and last until March when the plum blossoms begin to open, followed by [[Japan's Top 100 Cherry Blossom Spots|cherry blossoms]].
+
+==Get in==
+===By plane===
+{{infobox|Not arriving at Kansai or Itami?|*A small number of air flights operate daily from Tokyo's [[Narita Airport]] to Itami and Kansai, for the benefit of international passengers. Another option is to take the ''Narita Express'' limited express train to Tokyo's Shinagawa station, then change to the Tokaido Shinkansen.
+
+You can also hop on a bus from Narita Airport ''directly'' to Kyoto. Nankai Bus and Chiba Kotsu operate a daily overnight bus service, leaving Narita Airport's terminals at around 21:35 and arriving in Kyoto at around 6:25 the next morning. The return leaves Kyoto at 22:15, arriving at Narita at around 6:50. If and when returning to Narita, arrive with plenty of time for your flight! The one-way bus fare starts from ¥7,370 per person.
+
+*If you arrive at Nagoya's [[Chubu Centrair International Airport]], Kyoto can be reached in less than two hours by taking the Meitetsu Airport Line to Nagoya, then changing to the Tokaido Shinkansen. Since the Meitetsu Line and the Shinkansen are operated by different companies, allow some time in Nagoya to purchase additional train tickets. In addition, Kintetsu Bus operates two direct buses every day from Centrair to Kyoto (2 hr 40 min, ¥4000).}}
+
+Kyoto does not have its own airport, but is served by [[Osaka]]'s two airports, Kansai International and Itami. There is an excellent road and railway network between the two cities.
+
+====Through Kansai International Airport====
+=====By train=====
+You can fly into [[Kansai International Airport]] ({{IATA|KIX}}) in Osaka Bay and then get a train to Kyoto. Kansai Airport Station is opposite the arrival lobby where the ''Haruka'' limited express train, operated by West Japan Railway (JR West), can be caught. The ''Haruka'' runs to Kyoto in 75–80 minutes and a one-way ticket costs ¥2,900 for an open (non-reserved) seat or ¥3,430 for a reserved seat.
+
+There are a few ways that foreign tourists can use the ''Haruka'' at a discount. One way is to buy a one-day '''[http://www.westjr.co.jp/global/en/travel-information/pass/kansai/ Kansai Area Pass]{{Dead link|date=April 2025 |bot=InternetArchiveBot }}'''. At a cost of only ¥2,400 (¥2,350 if you book online), this pass costs ¥500 less than a regular ticket. You will need to show a passport issued by a foreign country with Japanese temporary visitor visa on it when purchasing a ticket. Note that you are limited to purchasing one pass per trip, so if you return to Kansai Airport on the ''Haruka'' you will have to pay the regular fare.
+
+The above ticket can be purchased online or at the Kansai Airport train station. Some other, more expensive JR West passes where trips on the ''Haruka'' are valid include the '''[http://www.westjr.co.jp/global/en/travel-information/pass/kansai_wide/ Kansai Wide Area Pass]{{Dead link|date=April 2025 |bot=InternetArchiveBot }}''' and the '''[http://www.westjr.co.jp/global/en/ticket/pass/sanyo_sanin/ Sanyo Area Pass]'''.
+
+The other train company operating out of Kansai Airport is the Nankai Railway. They offer a discounted ticket if you are interested in traveling to Central Kyoto, called the '''Kyoto Access Ticket'''. For ¥1250 this ticket includes a journey on the Nankai Railway Airport service to Tengachaya (天下茶屋) station in Osaka, followed by a trip on the Osaka Sakaisuji Subway Line. With a second transfer at Awaji station you can travel to Kyoto on the Hankyu Main Line. Under this plan you can reach Central Kyoto in approximately 1 hr 45 min. You have the option to upgrade to the fastest Nankai train service, the Rapi:t, for an additional charge.
+
+=====By bus=====
+Comfortable limousine buses run from the airport to Kyoto Station twice an hour. The ticket costs ¥2,600 one-way or ¥4,260 round-trip. Buses discharge at the south end of Kyoto Station; return tickets are sold from a vending machine on the first floor of the Hotel Keihan Kyoto. The ride from Terminal 1 takes 88 minutes, but can take longer when there is traffic (90 – 135 min).
+
+====Through Itami Airport====
+Itami Airport ({{IATA|ITM}}), also called Osaka International Airport although it no longer has international flights, is Kansai region's largest domestic airport and the closest airport to Kyoto. Travelers flying from other areas in Japan will most likely arrive here. The easiest way to get to Kyoto from Itami Airport is by Limousine Bus, which generally runs every 20 min throughout the day. The trip takes about 50 min and costs ¥1,340.
+
+Alternatively, you can take a combination of monorail and train, which requires one or two changes:
+*Take the Osaka Monorail to Hotarugaike, the Hankyu Takarazuka Line to Juso, and the Hankyu Kyoto Line to Kyoto (1 hr, ¥670)
+*Take the Osaka Monorail to Minami-Ibaraki and change to the Hankyu Kyoto Line to Kyoto (1 hr, ¥760)
+
+Whereas the Limousine Bus will leave you at Kyoto Station in the ''southern'' part of Kyoto, the Hankyu Railway runs to Shijō Street in ''central'' Kyoto.
+
+===By train===
+[[File:Shinkansen700 in Kyoto juli 2004.JPG|thumb|250px|A shinkansen service entering Kyoto station.]]
+Most visitors arrive at JR Kyoto Station by Shinkansen (bullet train) from [[Tokyo]]. ''Nozomi'' trains take approximately 2 hr 15 min to Kyoto and cost ¥14170 one-way. Travel agencies in Tokyo and Kyoto sell ''Nozomi'' tickets with ¥700-1,000 discount. If you buy a ticket in an agency, it is "open date" - you can board any train as long as it is not full. All you have to do is show up at the train station, register your agency ticket and then you will be reserved a seat.
+
+''Hikari'' trains, which run less frequently and make a few more stops, cover the trip in around 2 hr 45 min, while all-stopping ''Kodama'' trains take around 3 hr 40 min. Only the ''Hikari'' and ''Kodama'' trains can be used by [[Japan#Japan Rail Pass|Japan Rail Pass]] holders unless a Nozomi supplement is paid.
+
+Tickets can be purchased in advance through Japan Railways' official '''[https://smart-ex.jp/en/ SmartEX App]''', available in English and other languages, with a ¥200 discount. Look for '''''hayatoku''''' fares, which can offer big savings on trips purchased at least three days in advance. For example, two passengers from Tokyo could travel for ¥12020 each in ordinary class on the ''Nozomi'' or for ¥11200 each in the Green Car (first class) if willing to take the all-stations ''Kodama'' service.
+
+Travelers can also take advantage of the [https://travel.jr-central.co.jp/top/dpsitetop/ '''Puratto (Platt) Kodama Ticket'''] (Japanese), which offers a discount for Kodama services if you purchase at least one day in advance. You get a reserved seat and a coupon for a free drink (including beer) which can be redeemed at a "Kiosk" convenience counter inside the station. With this ticket a trip from Tokyo to Kyoto costs ¥10500. There is only one Kodama service per hour from Tokyo, and a few early-morning Kodama trains cannot be used with this ticket. Travel from Nagoya with this ticket costs ¥4400.
+
+During travel periods when the [[Seishun 18 Ticket]] is valid, you can go from Tokyo to Kyoto during the day in about 8½ hours using all-local trains. Traveling in a group is the best way to get discounts. The usual fare is ¥8360, however a party of three costs around ¥4000 per person, and a group of five traveling together drops the price down to ¥2410 per person.
+
+For travel in the [[Kansai]] region, a cheaper and almost as fast alternative is the JR ''shinkaisoku'' (新快速) rapid service, which connects to [[Osaka]], [[Kobe]] and [[Himeji]] at the price of a local train.  For a slightly cheaper price you can use the private Hankyu or Keihan lines to Osaka and Kobe, or the Kintetsu line to [[Nara]].  The Kansai Thru Pass includes travel on the private lines through to Kyoto, and this may prove cheaper that a JR Pass if you are staying a few days in the area.
+
+Those travelling from the [[Hokuriku]] region can use ''Thunderbird'' (サンダーバード) limited express trains from [[Tsuruga]]. From Tsuruga, you can catch the Hokuriku Shinkansen to [[Fukui]], [[Komatsu]], [[Kanazawa]] and beyond.
+
+====Hokuriku Arch Pass====
+The [https://www.westjr.co.jp/travel-information/en/tickets-passes/other/hokuriku-arch-pass/ '''Hokuriku Arch Pass'''] allows unlimited travel between Tokyo and the Kansai area via the Hokuriku region, using the Hokuriku Shinkansen from Tokyo to Kanazawa and the ''Thunderbird'' from Kanazawa to Kyoto and Osaka. At a cost of ¥30,000 for seven consecutive days of travel (¥35,000 starting on March 14, 2026), the Arch Pass is a little more than half the cost of the national Japan Rail Pass. On the other hand, a trip from Tokyo to Kyoto is over twice as long via Kanazawa (4 hr 50 min) compared to the more popular Tokaido Shinkansen (2 hr 10 min).
+
+====Overnight travel====
+Direct overnight train service between Tokyo and Kyoto were plentiful in the past decades, but as time went on services were pretty much eliminated. As a result, taking the bus is now the easiest way to travel between these two cities at night.
+
+Overnight travel between Tokyo and Kyoto is still possible with a stopover in another city along the way, which is easy to do with a Japan Rail Pass or a basic long-distance ticket that is valid over a period of several days.
+
+===By car===
+Kyoto is easily reached by car via the Meishin Expressway between [[Nagoya]] and [[Osaka]], but you'll definitely want to park your car on the outskirts of the city and use public transport to get around.  Most attractions are in places built well before the existence of automobiles, and the availability of parking varies between extremely limited and non-existent. Furthermore, what little parking is available might be outrageously expensive.
+
+===By bus===
+[[File:D654-02507 kanto 744-1978 Nishinihon MU612TX Dream.jpg|250px|thumb|JR Highway Buses are among many companies that make daily bus runs between Tokyo and Kyoto.]]
+As Kyoto is a major city, there are many day and overnight buses which run between Kyoto and other locations throughout Japan, which can be a cheaper alternative than shinkansen fares. As the cultural center of Japan, Kyoto's bus connections are almost as numerous as Tokyo's. There are bus operators with night buses from [[Yamagata]], [[Sendai]], [[Koriyama]], [[Fukushima]], [[Tochigi]], [[Utsunomiya]], [[Saitama]] (Omiya), [[Yokohama]], [[Niigata]], [[Karuizawa]], [[Toyama]], [[Hamamatsu]], [[Shizuoka]], [[Numazu]], [[Mishima]], [[Matsue]], [[Izumo]], [[Tokuyama]], [[Yamaguchi]], [[Imabari]], [[Matsuyama]], [[Kochi]], [[Fukuoka]] (Hakata), [[Takeo]], [[Sasebo]] (Huis Ten Bosch). Same-day highway buses depart from [[Tsu]], [[Yokkaichi]], [[Nagoya]], [[Toyokawa]], [[Toyohashi]], [[Takayama]], [[Okayama]], [[Kurashiki]], [[Tsuyama]], [[Fukuyama]], [[Onomichi]], and [[Hiroshima]].
+
+Most highway buses will pick up and drop off passengers at '''Kyoto Station'''. JR Buses congregate at the '''Karasuma Exit''' (烏丸口) at the north side of the station. Other companies will use the '''Hachijo Exit''' (八条口) on the south side, either at the station or at one of the nearby hotels.
+
+Another bus stop is called '''Kyoto Fukakusa''' (京都深草). This stop is nowhere close to Kyoto station, but rather is 4.5&nbsp;km to the south on the Meishin Expressway. Some JR Buses heading to and from [[Osaka]] will use this stop instead of calling at Kyoto Station. The closest train stations are Fujinomori on the Keihan Line (5-10 min walk) and Takeda on the Kintetsu Line and Kyoto Subway (10-15 min walk); all can be used to reach [[Kyoto/Central|central Kyoto]]. Local city buses also runs to Kyoto station from the nearby Youth Science Center a few times per hour.
+
+====From Tokyo====
+The run between Tokyo and the Kansai region is the busiest in Japan. Buses use the Tomei or Chuo Expressway from Tokyo to Nagoya, then the Meishin Expressway to Kyoto. Trips take between 7 and 9 hours depending on the route and stops.
+
+Fierce competition between operators has led to better amenities and lower prices. Part of this strategy is the adoption of dynamic pricing on many bus routes. This generally means that daytime trips, weekday trips, tickets bought in advance and buses carrying more passengers are cheaper, while night trips, weekend/holiday trips, walk-up fares and buses with fewer (and more comfortable) seats will be more expensive.
+
+As a rule of thumb, fares for a weekday trip between Tokyo and Kyoto go for ¥4000-6000 per person during the daytime, and ¥5000-8000 per person for overnight trips. Children usually pay half the adult fare.
+
+Two of the major bus operators between Tokyo and Kyoto are '''Willer Express''' and '''JR Bus'''. Tickets for all carriers can generally be purchased at major departure points, and can also be purchased (with some Japanese language help) at kiosks inside convenience stores.
+
+'''[http://travel.willer.co.jp/en/ Willer Express]''' runs daytime and overnight trips with a variety of seating options ranging from standard seats to luxurious shell seats. Bus journeys can be booked online in English, and Willer's '''Japan Bus Pass''' is valid on all of their routes with some exceptions. Willer's buses in Tokyo leave from the '''Shinjuku Highway Bus Terminal''' (''Busta Shinjuku''), above the JR tracks at Shinjuku Station, which is served by many of Japan's highway bus operators. Willer also sells tickets for other bus operators on their website, but these trips are not valid with Willer's Japan Bus Pass.
+
+'''JR Bus''' reservations can be made in English through their '''[https://www.kousokubus.net/JpnBus/en Kousoku Bus Net]''' web site. You can also make reservations in train stations at the same "Midori-no-Madoguchi" ticket windows used to reserve seats on trains. Buses depart from '''Tokyo Station''' - Yaesu Exit (八重洲口) and from ''Busta Shinjuku''.
+
+==Get around==
+{{mapframe|35.011667|135.768333|zoom=11|layer=W}}
+{{mapshapes|Q728081}} <!-- Kyoto Subway -->
+
+The sheer size of the city of Kyoto, and the distribution of tourist attractions around the periphery of the city, make the city's public transport system invaluable.
+
+One of the easiest ways to plan a route is through '''[https://japantravel.navitime.com/en/area/jp/route/ Navitime]'''. This website contains station-to-station route plans, which reference public and private trains and subways as well as buses throughout Japan.
+
+If you are planning to travel beyond city limits you might consider using the tickets from [[Kansai#Get around|'''Surutto Kansai''']]. For use in west Japan, including Kyoto, there are some other useful tickets: a rechargeable smart card, '''ICOCA''', can be used on rail, subway and bus networks in the [[Kansai]] area and also [[Okayama]], [[Hiroshima]], [[Nagoya]] (Kintetsu trains) and [[Tokyo]] (JR East trains). These cards are available at vending machines at these rail stations, and cost ¥2000, which includes a ¥500 deposit that will be refunded when the card is returned at JR West Station. For use in Kyoto only there are some other useful tickets:
+
+* The '''Kyoto Sightseeing Card''' can be purchased as a one-day (adults ¥900/children ¥450) or two-day pass (¥1700/¥850). It can be used for unlimited travel on the subway and city buses as well as a part of the Kyoto bus route. The two-day pass has to be used on two consecutive days.
+* The ''' Traffica Kyo Card''' is a stored-value card in denominations of ¥1000 or ¥3000. It can be conveniently used up to face value on all subways and buses by simply sliding it through the ticket gate. They offer a 10% bonus value.
+
+Check the [https://www2.city.kyoto.lg.jp/kotsu/webguide/en/index.html Kyoto City Bus & Subway Information Guide] for more information on how to use these cards.
+
+===By train===
+[[File:Kyoto-railways.png|thumb|420px|Map of railway lines in most of the Kyoto municipality]]
+Kyoto is criss-crossed by several train lines, all of which are clearly sign-posted in English. Although the lines are run independently and prices vary slightly between them, transfers can be purchased at most of the ticket machines. The '''Keihan''' train line can be useful for traveling in eastern Kyoto, while the two '''Keifuku''' (aka Randen) tram lines are an attractive way of traveling in the northwest. Across the street from the northern terminus of the Keihan Line is the '''Eiden''' line, which runs to [[Mount Hiei]] and [[Kurama]]. The '''Hankyu''' Line starts at ''Shijo-Kawaramachi'' downtown, and connects to the Karasuma Line one stop later at ''Karasuma''. It's useful for reaching ''Arashiyama'' and the ''Katsura Rikyu''; it runs all the way to [[Osaka]] and [[Kobe]]. '''JR''' lines run from Kyoto station to the northwest (JR Sagano line), to the southwest (JR Kyoto line) and to the southeast (JR Nara line). There are local and express trains so check if they stop at your station before you get on.
+
+===By subway===
+[[File:014 Baggage lockers at Kyoto Station, Japan.JPG|270px|thumb|Baggage lockers in the underground part of Kyoto Station.]]
+There are two [https://www2.city.kyoto.lg.jp/kotsu/webguide/en/tika/howtoride_tika.html subway lines] which only serve a rather small part of the city. The north-south running '''Karasuma Line''' runs under Kyoto Station, and the west-east running '''Tozai Line''' links up with it near the city center. Both are useful for travel in the city center but not really suitable for temple-hopping. The Tozai Line does connect with the Keihan Line, however, which runs parallel to the Kamo-gawa, and is convenient for reaching ''Gion'' and southern Kyoto; it also gets you within a short walk of many of the sights in eastern Kyoto.
+
+A one-day pass for the subway costs ¥800.
+
+===By bus===
+[[File:Kyoto City Bus 200 Ka 1519.jpg|270px|thumb|Buses like this are part of Kyoto's vast public transit system.]]
+
+The bus network is the only practical way of reaching some attractions, particularly those in north-western Kyoto. Fortunately the system is geared toward tourists, with destinations electronically displayed/announced in English as well as Japanese.  Unlike other Japanese cities, a tourist probably is advised to use the buses here. Tourists with large luggage are strongly discouraged (and sometimes refused) from using city buses. Use the subway or 'Hands-Free Travel' luggage delivery services.
+
+Confusingly however, there are two different bus companies in Kyoto, which occasionally even have overlapping line numbers.  '''Green-and-white''' Kyoto City Buses (市バス ''shi-basu'') travel within the city, and are the most useful for visitors; unless otherwise noted, all buses listed in this guide are city buses.  '''Red-and-white''' [http://www.kyotobus.jp/ Kyoto Buses] travel to the suburbs and are generally much less useful.
+
+Many buses depart from Kyoto Station, but there are well-served bus stations closer to the city center at Sanjō-Kawabata just outside the Sanjō Keihan subway line, and in the northern part of the city at the Kitaōji subway station. Most city buses and some Kyoto Buses have a fixed fare of ¥230, but you can also purchase a one day Kyoto bus and subway pass (¥1100 for adults and ¥550 for children under 12) with which you can ride an unlimited number of times within a one day period. The day passes can be bought from subway stations or from the bus information center just outside Kyoto Station. This is especially useful if you plan on visiting many different points of interest within Kyoto. '''Note that the ¥700 bus-only day pass was discontinued at the end of September 2023.'''
+
+The municipal transport company publishes a very useful leaflet called [https://www2.city.kyoto.lg.jp/kotsu/webguide/en/comm/routemap.html '''Bus Navi''']. It contains a route map for the bus lines to most sights and information. You can pick it up at the information center in front of the main station.
+
+* '''Raku Bus''' - The city has three routes (100, 101, and 102) which are specifically designed for foreign tourists wishing to hit the tourist spots quickly. The buses skip many of the non-tourist stops and are thus a faster way to get from one sight to the next. The Raku Bus #100 and #101 leave from platform D1 and B2 at Kyoto Station. The cost is ¥230 per ride, but the day passes are accepted as well.
+* '''Keihan Loop Bus''' - Keihan operates a loop bus (300) that offers a convenient connection between Kyoto Station and the Keihan Railway. The nonstop, direct buses run every 15 minutes between the Hotel Thousand Kyoto (near Kyoto Station's Central Exit) and the Shichijo Station on the Keihan Main Line. The regular fare is ¥230, but if you take the bus from the Keihan Line to Kyoto Station the fare is just ¥100 if you buy a transfer ticket before exiting through the ticket barriers at Shichijo Station. If you are staying at the Hotel Thousand Kyoto or the adjacent Kyoto Century Hotel, you can buy a ¥100 ticket for the bus from your hotel. Note that several Kyoto City buses also offer a similar service (including the 206 and 208 routes) but the ¥100 discounted fare is only valid on the Keihan Loop Bus.
+
+===By bicycle===
+Particularly in spring and fall, but at any time of year, getting around by bicycle is an excellent option. Cycling forms a major form of personal transport year-round for locals. The city's grid layout makes navigation easy. The city is essentially flat, excepting a few places in the lower parts of the surrounding hills where you may have to climb a bit or park you bike to visit on foot. You can rent bicycles in many places in Japan for a reasonable price. During the peak tourist seasons, when roads are busy and buses tend to be crammed beyond capacity, bicycles are probably the best way to navigate Kyoto. Bike rentals are widely available. Be mindful of local traffic rules and stick to the bike paths.
+
+Kyoto's wide, straight roads make for heavy traffic in many parts of the city, but it is possible to find back alleys that are quieter and offer better chances to happen upon all sorts of sightseeing/cultural gems. Riding on major roads is OK, especially if you are confident and used to riding with traffic on the road, rather than on the sidewalk and especially again if you are used to riding/driving on the LEFT-HAND side of the road.
+
+Be aware that it is forbidden to park your bike where it is not explicitly authorized, in which case it could get towed and you would have to pay a fine to get it back. So you will have to find a legal bike park near the place you want to visit and pay for it. It will not be the preferred transportation mean if you have planned to go to a district and visit it by foot along a non-circular route (like the Philosopher's Path in [[Kyoto/Higashiyama|Higashiyama]]).
+
+*{{listing
+| name=Kyoto Cycling Tour Project (KCTP) | alt= | url=http://www.kctp.net/new/en/ | email=
+| address= | lat= | long= | directions=
+| phone=+81 75-354-3636 | tollfree= | fax=
+| hours= | price=
+| content=A five-minute walk from the North Exit (the side with the buses and Kyoto Tower) of Kyoto Station. Bikes range from ¥1000 to ¥2000 for an actual 27-speed mountain bike with city-tires on it; perfect for the average foreigner who is used to a 'real' bike in their home country. The following options can be added: bilingual cycling/walking map of Kyoto ¥100; light FREE; helmet ¥200; back pack; ¥100; rain poncho ¥100. They can hold on to your luggage while you are riding. There are four other locations of KCTP and you can return your bike to any location, however you will incur a ¥400 charge if you return the bike to a location other than the one you rented from. Guided bike tours are also available ranging from ¥3900 (three hours) to ¥12000 (7.5 hours) that include guide, bike rental, lunch/snacks, accident insurance and admission to some attractions on the tour. Minimum of two people to guarantee departure/maximum of 10. Needs to be reserved three days in advance if you want a tour. Don't worry if the mountain bikes sell out - Kyoto (like Tokyo) is a city with perfect kerb transitions so a 8 speed with basket and bell is fine, if a little bumpy on the river path.
+}}
+* There is a friendly bicycle rental shop across the street from the Keihan Demachiyanagi station, behind the taxi rank. ¥500 for a day, ¥750 for a day and night, and ¥3000 for a month. ¥3000 deposit (¥2000 when showing ID). Has 22" children's bikes which come with a free helmet. Opens early (<9AM) - 7PM.
+* There is a small rental shop just north of Sanjo Keihan station on Kawabata Dori that rents bicycles, which doesn't have "tourist signs" attached. On the downside, they do not speak English. ¥1000 per day.
+* For those staying more than a week or so, purchasing a used bicycle may be economical. Most bicycle shops in Kyoto offer used town bicycles with lights, bell, basket, and lock for around ¥5000 — ¥10,000 (plus a ¥500 registration fee). At least some of this cost can be made back by re-selling the bicycle just prior to departure. Cycle Eirin, a chain found throughout the city, is a good place to start.
+
+==Talk==
+{{seealso|Kansai#Talk}}
+
+As Kyoto is a very tourist-friendly city, staff at most of the major hotels and tourist attractions have a functional command of English, and English menus and signage are common along the tourist trail.  Outside of that, English is generally rarely spoken. Other foreign languages such as Italian, French, Korean or Mandarin may be spoken by some staff at the main tourist attractions.
+
+The Japanese spoken in Kyoto is a version of the [[Kansai]] dialect spoken across Western Japan, which may be a little difficult to understand if you have just started learning Japanese. Two stereotypically Kyoto phrases are ''oideyasu'' (おいでやす), meaning "welcome", and ''ookini'' (おおきに) for "thank you".  While standard Japanese is universally understood, it is not uncommon for locals to reply in dialect even when spoken to in standard Japanese. If you don't understand, just politely ask the person to repeat what they say in standard Japanese (標準語 ''hyōjungo'') and they will usually oblige.
+
+Kyoto people are also famous for their mastery of ''tatemae'', the "front" used to hide their actual feelings, and you will likely be told the story of how an invitation to have some ''bubuzuke'' rice porridge is the Kyoto way of saying you've overstayed your welcome. The good news is that unless you intend to spend a couple of years working your way into Kyoto high society, you won't need to worry about this kind of thing.
+
+==See==
+{{seeDistricts}}
+
+Kyoto offers an incredible number of attractions for tourists, and visitors will probably need to plan an itinerary in advance in order to visit as many as possible.
+
+Japan National Tourist Organization's self-guided [http://www.jnto.go.jp/eng/location/rtg/pdf/pg-503.pdf "Kyoto Walks" pamphlet] enables first time visitors to tour the city with ease and with minimum fuss by providing bus numbers, names of bus stops and clearly marked walking routes. There are a variety of self-guided walks in different districts to sample Kyoto's various sites. If you see the browser's dialog box popping up, just click on it till the entire PDF document opens.
+
+[[File:Kamigamo-jinja tatezuna.jpg|thumb|right|300px|Tatezuna at Kamigamo Shrine]]
+===World Heritage Sites===
+
+In 1994, 17 historic sites were inscribed on the [[UNESCO World Heritage List]] under the group designation '''Historic Monuments of Ancient Kyoto'''.  Fourteen of the listed sites are in Kyoto itself, two are in the neighbouring city of [[Uji]] and one is in [[Otsu|Ōtsu]].
+
+Listed by location, the fourteen World Heritage Sites in the city of Kyoto are:
+*[[Kyoto/North|Northern Kyoto]]: Kinkaku-ji, Ryōan-ji, Ninna-ji, Kōzan-ji, Shimogamo Shrine, Kamigamo Shrine
+*[[Kyoto/Central|Central Kyoto]]: Nijō Castle, Nishi Hongan-ji, Tō-ji
+*[[Kyoto/Higashiyama|Eastern Kyoto]]: Kiyomizu-dera, Ginkaku-ji
+*[[Kyoto/Arashiyama|Western Kyoto]]: Tenryū-ji, Koke-dera
+*[[Kyoto/South|Southern Kyoto]]: Daigo-ji
+
+===Imperial Palaces and Villas===
+
+Stroll through the regal retreats of the Imperial Palace or one of the two Imperial villas with gardens and teahouses managed by the Imperial Household Agency. These are the '''Imperial Palace''' (京都御所 ''Kyōto-gosho'') and '''Sentō Imperial Palace''' (仙洞御所 ''Sentō-gosho'') in [[Kyoto/Central|Central Kyoto]], '''Katsura Imperial Villa''' (桂離宮 ''Katsura-rikyū'') in [[Kyoto/Arashiyama|Western Kyoto]], and '''Shūgakuin Imperial Villa''' (修学院離宮 ''Shugaku-in-rikyū'') in [[Kyoto/North|Northern Kyoto]]. All four of these sites are open to the public by reservation through the Imperial Household Agency. The gardens located within the precincts of each palace and villa are at their most scenic during spring cherry blossom season and autumn where a riot of colors enchant visitors. Each property is still used from time to time for official state functions or for private visits by the current royal family members.
+
+The Imperial Household Agency maintains a quota on the number of visitors to each site per tour. Admission is free. English guides are available at the Imperial Palace; however, tours of the Sento Imperial Palace, Katsura Villa, and Shūgakuin Villa are conducted in Japanese only (English pamphlets are given at each destination upon entry and books are available for purchase if you'd like to know more). Overseas visitors can apply online to the Imperial Household Agency in [http://sankan.kunaicho.go.jp/english/index.html English here]. On its website are write ups and videos in English for interested visitors to gauge which ones they would like to visit before making an online application. Please note that advanced applications first become available on the first day of the month, three months in advance of the applicant's preferred touring month. For example, if your preferred date of visit falls in the month of April, you can begin applying on January 1. As these visits are over subscribed by the Japanese and overseas visitors, the Imperial Household Agency has to draw lots to pick the successful applicants. All applicants are notified on the status of their applications whether they are successful or otherwise within a week after closing date. Most applicants to the Imperial Palace are accepted, and early reservation is not usually necessary; however, those planning to visit the Sentō Imperial Palace, or either of the Imperial Villas should apply on the first available day of application as they are highly competitive and entire months of tours often become full within the first few days. Winter tours are typically much less competitive, but be aware that the gardens will not be as beautiful as other times of the year.
+* {{listing
+| name=Imperial household Agency Kyoto Office, | alt= | url= | email=
+| address=3 Kyotogyoen, Kamigyo-ku| lat= | long= | directions=
+| phone=+81-75-211-1215 | tollfree=
+| hours= | price=
+| wikipedia= | wikidata=
+| lastedit=
+| content=If an applicant is not successful, they can still go direct in person to the Imperial Household Agency Kyoto Office to enquire whether there are vacancies, as they typically save a few spots for walk-ins. Many people are able to do this successfully for the Imperial Palace, but it can be more of a risk for the others, so go early.
+}}
+
+==Do==
+{{seeDistricts}}
+
+===Public baths===
+Public baths have been a cornerstone of the society for centuries in Kyoto. The first public baths, or sentō (銭湯), were documented in the 13th century. Soon they became one of the few places in society where social status was irrelevant. Noblemen shared baths with commoners and warriors. Today over 140 bath houses remain in Kyoto. Funaoka Onsen is the oldest of these and dubbed "king of sentō", but newer bath houses and super sentō are just as much part of the Japanese bathing culture. If you have the time, make your way to one of the many public bath houses Kyoto has to offer.
+
+*{{do
+| name=Funaoka Onsen | alt=船岡温泉 | url=http://funaokaonsen.net/index.html | email=
+| address=Kyoto, Kita Ward, Murasakino Minamifunaokacho 82-1 | lat=35.036912 | long=135.744581 | directions=take bus line 206 from Kyoto station
+| phone=+81-75-441-3735 | tollfree=
+| hours=15:00 - 01:00 | price=¥430
+| content=Funaoka Onsen is one of the oldest public bath houses in Kyoto still in operation. Its classic building is an excellent example of bath house architecture of the beginning of the 20th century. Funaoka Onsen is popular with both locals and visitors and is a must if you have an hour to spare.
+}}
+
+===Film industry===
+Kyoto is the traditional home of the Japanese film industry and while it has declined since its heyday in the 1950s, to this day, the majority of Japanese period dramas (時代劇 ''jidaigeki'') continue to be produced in Kyoto.
+
+*{{do
+| name=Toei Kyoto Studio Park | alt=東映太秦映画村 ''tōei uzumasa eigamura'' | url=http://www.toei-eigamura.com/ | email=
+| address=Kyoto, Ukyo Ward, Uzumasa Higashihachiokacho 10 | lat=35.016389 | long=135.708333 | directions=take bus line 75 from Kyoto station
+| phone=+81-57-006-4349 | tollfree= | fax=
+| hours=09:30 - 16:30 | price=¥2,200
+| wikipedia=Toei Kyoto Studio Park | image=Toei Kyoto Studio Park from above.jpg | wikidata=Q11103541
+| content=Toei Kyoto Studio Park is an active film studio which continues to be used for the filming of period dramas. Visitors may visit the outdoor sets used in many samurai movies, and if they are lucky, could potentially observe the filming of a period drama.
+}}
+
+===Meditation===
+Well known for its abundance of historical sites, Kyoto often draws visitors eager to experience traditional Japanese culture. Buddhist meditation sessions are one of the most popular of these activities, and multiple options are available. In [[Kyoto/North|Northern Kyoto]], '''Taizo-in''' and '''Shunko-in''' (both sub-temples of Myoshin-ji) offer authentic Zen meditation sessions, complete with explanations of the meaning and significance of such meditation. Reservations are necessary.
+
+===Blossom viewing===
+====Cherry blossoms====
+[[File:Japan 050416 Maruyama 002.jpg|thumb|300px|Cherry blossoms at Kyoto's Maruyama Park]]
+Kyoto is arguably the most well known place in the country to view cherry blossoms, and there are certainly no lack of options. On the [[Japan's Top 100 Cherry Blossoms Spots|Official Top 100 cherry blossom spots]] list, three are in Kyoto (Arashiyama, Daigoji, Ninnaji).
+
+[[Kyoto/Higashiyama|Eastern Kyoto]] is particularly popular during the cherry blossom season. A walk from Nanzen-ji to Ginkaku-ji along the Philosopher's Path, lined with cherry trees, is enjoyable, as there are a variety of temples and shrines to stop at along the way. The garden of the Heian Shrine, not far from the Philosopher's Path, features colorful pink blossoms, which is a nice contrast to the white blossoms you'll see on the Philosopher's Path. The famous cherry tree in Maruyama Park is often the center of attention in the evenings when it is lit up. Vendors line the pathway leading up to it, creating a festive atmosphere. Kiyomizu-dera and Kodai-ji have extended hours during the first few days of this season offering visitors the opportunity to view them at night, lit up against the blossoms. Blossoms can also be seen along the Kamogawa River. The entire area literally blossoms in the spring!
+
+In [[Kyoto/Central|Central Kyoto]] the northern section of the Imperial Park is home to a variety of different types of cherry blossoms. Nijo Castle hosts its own Nijo Light-Up, in which visitors can walk the grounds of the castle at night among the cherry blossoms (typically for 10–14 days). You cannot enter the castle during the light-up, so those who want to enter should visit during the day to see the castle and the blossoms. Just south of Kyoto station, the grounds of Toji Temple bloom beautifully below the towering pagoda.
+
+In [[Kyoto/Arashiyama|Arashiyama]], a large portion of the mountainside is bright with cherry blossoms, along with the area around Hankyu Arashiyama Station. During the day, many people enjoy viewing the blossoms on the mountainside from the "Romantic Train" that travels through Arashiyama. At night, the area is lit up and food stalls are set up with a variety of delicious snacks.
+
+[[Kyoto/North|Northern Kyoto]] offers cherry-blossom scouts worthwhile experiences at Hirano Shrine and Kyoto Botanical Gardens, and a walk inside the large grounds of Daigo-ji in [[Kyoto/South|Southern Kyoto]] is certainly made memorable when all the blossoms are in full bloom.
+
+====Plum blossoms====
+Although they are less well-known to foreign tourists, who tend only to focus their attentions on seeing cherry blossoms, for those with plans to visit Kyoto from mid-February through mid-March, plum blossom viewing makes for a great alternative. Kyoto has two popular plum blossom locations; Kitano Tenmangu and the Kyoto Botanical Gardens, both in [[Kyoto/North|northern Kyoto]]. Kitano Tenmangu has a large grove of plum trees just outside the shrine entrance that, with a ¥600 fee, you can stroll about. Within the shrine grounds, there are many more trees (viewable for free). The shrine even hosts annual performances by geisha amidst the plum blossoms. Plum blossoms have a very pleasantly distinct fragrance. These Japanese ume trees are actually more closely related to apricot trees. However an early mistranslation by the Japanese resulted in these trees being called "plum" trees instead.
+
+===Festivals and events===
+* '''Setsubun''' (February 3 or 4) A large bonfire and Shinto ceremony is held at Yoshida Shrine.
+* '''Cherry Blossom Season''' (April 1–15; days vary depending upon the weather) Although viewing the blossoms is enough for many, special events are often held throughout the city. (See "Cherry Blossoms" above)
+
+The following are generally called Three Great Festivals of Kyoto (京都三大祭り ''Kyoto Sandai Matsuri'')
+
+* '''Aoi Matsuri''' (葵祭, May 15) Beginning at Kyoto Imperial palace, a large procession dressed in Heian Period garbs walks to Shimogamo Shrine and finishes at Kamigamo Shrine.
+* '''Gion Matsuri''' (祇園祭, July 17) Many Mikoshi are paraded through the streets. It is considered to be one of the [[Japan's Top 3|top three festivals]] in Japan.
+* '''Jidai Matsuri''' (時代祭, October 22) People dressed in traditional garbs parade to Heian Shrine.
+
+Another famous event is:
+* '''Daimonji Gozan Okuribi''' (大文字五山送り火, August 16) The hillside in Northwestern Kyoto is lit aflame in this festival honoring one's ancestors. Candle lanterns are floated out in Hirosawa Pond.
+
+==Learn==
+* {{listing
+| name=Kyoto University | alt=京都大学 ''Kyōto daigaku'' | url=http://www.kyoto-u.ac.jp | email=
+| address= | lat=35.026212 | long=135.780842 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Kyoto University | image=Kyoto University.jpg | wikidata=Q336264
+| lastedit=2015-04-20
+| content=One of Japan's most prestigious universities, second only to the University of Tokyo. Admissions are extremely competitive for Japanese students, though it is considerably easier for foreigners provided your Japanese language ability is up to scratch. Colloquially known by the shortened form 京大 (''Kyōdai'').
+}}
+
+==Buy==
+{{seeDistricts}}
+
+There is a nice selection of reassuringly non-tacky traditional souvenir shops around Arashiyama station in Western Kyoto, selling fans and traditional sweets. More tacky stores can be found in Gion and the approach to Kiyomizu Temple, selling keyrings, cuddly toys, and garish ornaments. Other traditional souvenirs from Kyoto include parasols and carved wooden dolls.
+
+More unconventional but colorful (and relatively cheap) souvenirs are the wooden votive tablets produced by Shinto shrines, which bear an image relevant to the shrine on the reverse. Visitors write their prayers on the tablets and hang them up, but there's no rule that says you can't take it with you.
+
+Manga and anime enthusiasts should visit Teramachi Street, a covered shopping street off the main Shijo-dori, which boasts a large manga store on two floors, as well as a two-story branch of Gamers (a chain of anime stores), and a small two-story anime and collectables store.
+
+Many ATMs in Kyoto do not allow non-domestic credit cards to be used, but ATMs in post offices and Seven-Eleven usually do. So if you find your card rejected or invalid in an ATM then try to get to a post office (郵便局 / ''yuubinkyoku'' or JP (in orange letters)) to use their ATMs instead. Look for the PLUS or Cirrus logos, whichever you find printed on the back of your ATM card. Another option is Citibank, which should work, too.  There is an old standby international ATM at the top floor of Takashimaya Department Store at Shijo/Kawaramachi in the "Cash Corner."  The bank of ATMs in the basement of the Kyoto Tower shopping center (across the street from JR Kyoto Station) also includes one machine where international cards may be used.
+
+===Splurge===
+In the shopping areas adjacent to Kiyomizudera (on the other side of the Kamo River), it is possible to purchase samurai swords and top-of-the-line kimono - though don't be surprised if the prices for either item exceed ¥3,000,000. A brand new kimono can cost as much as a small car - and you may be able to find something just as good at a fraction of the price in one of Kyoto's second-hand kimono stores.
+
+Kyoto incense is also famous. It usually has a very delicate yet fragrant bouquet.  Incense is relatively agreeable in price (¥400-2000). You will be able to find it between Nishi and Higashi Hongwanji.
+
+===Damascene===
+Damascene, a special metal created by imbedding other metals, originated in [[Damascus]], [[Syria]] over 2000 years ago and was introduced to Japan in the 8th century. Since then, it has ceased production worldwide with the exception of Kyoto city, which continues producing it today. The technique used to create Kyoto's damascene is quite complex, as it must be corroded, rusted, and boiled in tea, along with inlaying many layers of metal to produce the final product. Visitors can purchase a variety of jewelry, vases, tea utensils, lighters, and other accessories made using this technique.
+
+==Eat==
+{{seeDistricts}}
+{{see also|Japanese cuisine}}
+[[File:Noryo-yuka at a traditional restaurant of Kyoto by yajico.jpg|thumb|Restaurants along the Kamo River at dusk]]
+If you've just stepped off the train and the first thing on your mind is a bite to eat, there are several restaurants on the tenth and eleventh floors of the Isetan department store attached to Kyoto station. Most of the offerings are Japanese, including a veritable Ramen village, and there are a few casual Italian cafes.
+
+===Fine dining===
+
+If you have a lot of money, Kyoto is considered by most Japanese to be the spiritual home of ''kaiseki'' (懐石 or 会席), which is a meal of many small courses and a quintessential type of Japanese fine dining; in Kyoto this will typically entail a private room with traditional Japanese architecture. Unfortunately, most kaiseki establishments do not accept reservations directly from foreigners, and many require new customers to be introduced by one of their regular diners in order to be allowed to dine there. Your hotel concierge may be able to make a reservation for you if you contact them well in advance, though only the most expensive luxury hotels have the necessary clout to do this. As with anywhere else in Japan, most fine dining establishments do not accept credit cards, and you will have to pay for your meal ''in cash''.
+
+Consider staying at one of Kyoto's top ''ryokan''; elaborate ''kaiseki'' dinners are an essential part of a stay in a ryokan, and there are numerous ryokan that are just as well known for their food as their lodging experience. The downside is that most ryokan only accept reservations by phone, so at least conversational Japanese-language ability is essential for you to be able to do so by yourself.
+
+===Matcha===
+Kyoto and the nearby city of [[Uji]] are well known for ''matcha'' (抹茶 maccha) or green tea, but visitors don't just come to ''drink'' the tea; there are a wide variety of matcha-flavored treats. Matcha ice cream is particularly popular, and most places selling ice cream will have it as an option. It also shows up in a variety of snacks and gifts. There is also the traditional Japanese tea ceremony (茶道 ''sadō'') for those who want a unique experience.
+
+===Yatsuhashi===
+[[File:Peach Hijiri.JPG|thumb|200px| peach-flavored type of yatsuhashi]]
+'''Yatsuhashi''' (八ツ橋 or 八つ橋) is a delicious Kyoto snack, made from rice flour and sugar. There are three types of ''yatsuhashi'': baked, raw, and raw with paste inside. The traditional hard ''yatsuhashi'' was originally made using cinnamon, and tastes like a crunchy biscuit. This is ''yatsuhashi'' in its narrowest sense. Today, while the biscuits remain the same, you can also buy hard ''yatsuhashi'' dipped in ''maccha'' and strawberry-flavored glazes. The simple raw type (''nama-yatsuhashi'') appeared in the 1960s.
+
+Soon after came the final evolution: raw yatsuhashi sandwiching sweet red bean paste. The explanatory name, (あん入り生八つ橋, ''an-iri nama-yatsuhashi''), was too long for marketing purposes, so manufacturers began to call it in various trade names. The first to market was Otabe (おたべ). Other shops followed with Hijiri (聖), Yuko (夕子)  etc. This type is also made with cinnamon, but the cinnamon is mixed with bean paste and then folded into a triangle shape, somewhat like a ''gyoza''. Today, you can buy a wide variety of flavors, including ''maccha'', chocolate and banana, and black poppyseed. Many of the flavors are seasonal, such as the ''sakura'' (cherry blossom) yatsuhashi available in the spring and mango, peach, blueberry, and strawberry, available from May to October. This sandwich type became immensely popular and today the word ''yatsuhashi'' may well mean this type.
+
+Although yatsuhashi can be purchased at most souvenir shops, the best place to purchase raw yatsuhashi is the famous '''Honkenishio Yatsuhashi'''. While other stores may carry yatsuhashi, this is the place to find all of the seasonal flavors, as well as free samples. Most of these shops are in [[Kyoto/Higashiyama|Higashiyama]]. The most convenient for tourists is probably the one on Kiyomizu-zaka, just below the entrance to Kiyomizu-dera.
+
+Many tourists find raw yatsuhashi to be a delicious (and very affordable) souvenir, but it only lasts for one week after purchase. Baked yatsuhashi on the other hand, will last for about three months.
+
+===Other specialties===
+Other Kyoto specialties include ''hamo'' (a white fish served with ume as sushi), tofu (try places around Nanzenji temple), ''suppon'' (an expensive turtle dish), ''kaiseki-ryori'' (multi-course chef's choice that can be extremely good and expensive), and vegetarian dishes (thanks to the abundance of temples), particularly the [[vegan]] ''shōjin ryōri'', which isn't cheap, but has a great reputation for quality.
+
+==Drink==
+{{seeDistricts}}
+
+Kyoto's night scene is dominated by bars catering for local needs, most of which are located in [[Kyoto/Central|Central Kyoto]] around Kiyamachi, between Shijo and Sanjo. This area offers a wide variety of drinking options for all types of people. You'll also have no trouble finding the host and hostess bars, courtesy of the staff pacing around out front trying to entice visitors. There are plenty of options beyond this street in other regions, but with such a large concentration of bars along in the same area, it's easy to find a place where you feel most at home to relax for the night.
+
+If you're looking for nightclubs, Kyoto has a few options, but it is not a city known for its thriving dance clubs. Those hoping to experience that part of Japanese nightlife should consider taking a train to [[Osaka]] where many of the clubs are hip and wild enough to rival any [[Tokyo]] club. (Alternately, instead of staying in Kyoto and making trips to Osaka, it may make more sense to stay in Osaka and make day trips to Kyoto.)
+
+The tap water here is potable and safe. You can refill your water bottle at public fountains found throughout the city.
+
+===Sake===
+Some of Kyoto's most famous sake comes from '''Gekkeikan Brewery''' in the Fushimi area of [[Kyoto/South|Southern Kyoto]]. A 400-year-old brewery that still produces great sake, Gekkeikan also offers [http://www.gekkeikan.co.jp/english/gekkeikan/index.html tours of its facilities].
+
+===Whisky===
+Japan's oldest whisky distillery, Yamazaki, is just across the prefectural border in [[Takatsuki]], Osaka. Book ahead for factory and tasting tours.
+
+==Sleep==
+{{seeDistricts}}
+
+{{sleeppricerange|below ¥11,000|¥11,000&ndash;20,000|over ¥20,000}}
+
+Kyoto has a wide range of accommodation, much of it geared towards foreign visitors. Since Kyoto is a major tourist destination, demand is high and prices follow suit. During peak seasons, such as the cherry blossoms in April or during [[Japan#Holidays|Golden Week]] when accommodation is difficult to get, consider staying in [[Osaka]] or satellite towns like [[Takatsuki]] and [[Hirakata]].  A 30-minute train ride from Kyoto Station to Osaka Station will cost you ¥540 one way.
+
+Most of the lodging in the city is clustered near the [[Kyoto/Central|central city]], especially around Kyoto Station and the downtown area near Karasuma-Oike.  The outer areas have a scattering of their own, tending towards inexpensive but often much further from train or subway stations.
+
+For those who would like to experience traditional Japanese accommodation, Kyoto is home to some of Japan's most luxurious ''ryokan'', though prices are generally very expensive and would make economy-class plane tickets look cheap.
+
+The city of Kyoto charges a hotel tax: for lodging that's less than ¥20,000 per night, the tax is ¥200 per night. It may not be included in the listed rates. '''Starting in March 2026''' the tax will be increasing under a multi-tiered system: Rooms under ¥20,000 per night will be taxed at ¥400 per night (¥200 for stays under ¥6,000 per night), while more expensive accommodations will be charged a higher tax (up to ¥10,000 per night for rooms costing at least ¥100,000 per night).
+
+===Budget===
+[[File:Yudanaka Ryokan.jpg|thumb|300px|Japanese Style Ryokan]]
+
+At the bottom of the price scale, many temples in Kyoto own and run their own lodging complex known as ''shukubō'' (宿坊), usually on or near temple grounds. Guests are often invited to participate in morning prayer service (''otsutome'') held at the temple. Unfortunately, most temple lodgings do not have English-speaking receptions, and curfews and check-in/out times tend to be strict.  Most are in the [[Kyoto/North|northern region]] of the city.
+
+Hostels are common and popular with students.  Inexpensive hotels lack amenities but compensate with prices surprisingly low for Japan; both can be found in all regions of the city, and may be the only options available if you need to stay in an outlying ward.
+
+The majority of self-named [[Japan#Inns|ryokan]] in this range are actually minshuku.  Most are small family-run operations and accustomed to dealing with foreigners.  Be prepared to pay for the full stay in advance.
+
+====Internet and manga cafés====
+
+Don't fear these places. There is nothing bad about staying in these so-called "[[Japan#Last resorts|last resorts]]." Remember, though, that most of the time people stay at such places only for a few nights at the most.
+
+As in other Japanese cities, Internet cafés and capsule hotels are available for those truly looking to stay on the cheap. Please expect to pay around ¥2000 for a night's stay in an Internet café. You get a computer, a comfortable chair, and all the tea and hot chocolate you want.
+
+Most places have no separate space for smokers vis-à-vis non-smokers. Manga is usually only in Japanese. These places provide cushions, blankets, and free unlimited soft drinks. Showers are often available. However, there might be an additional charge for using a shower.
+
+Cafés don't keep luggage during the day so either carry it with you every day, find free storage, or use a coin locker (which costs ¥300–600 per use depending on the location and time duration). As a result, the cost of a night in a café could be similar to a bed in a hostel but without identical amenities.
+
+===Mid-range===
+The boundary between budget and midrange is often unclear, particularly among ryokan.  Hotels in this category are concentrated in [[Kyoto/Central|Central Kyoto]], serving the business market with the typical amenities and close proximity to transportation.
+
+===Splurge===
+{{infobox|Three Great ''Ryokan''|Kyoto is generally seen to represent the traditional and historical Japan, in contrast to the modern and industrialized Japan that Tokyo represents. While Tokyo is home to Japan's Three Great Hotels, Kyoto is fittingly home to Japan's Three Great Historic ''Ryokan'': Tawaraya, Hiiragiya and Sumiya, all of them within close proximity of each other in [[Kyoto/Central|Central Kyoto]]}}
+
+Split between the [[Kyoto/Central|downtown]] and [[Kyoto/Higashiyama|Higashiyama]] areas on each side of the Kamogawa River, these top-of-the-line lodgings can make your airfare look cheap. Western-style hotels dominate in this category; unlike the midrange options, very few of the high end ryokan can be booked without a functional command of Japanese.
+
+====Machiyas====
+
+In Kyoto, there are traditional wooden townhouses called Kyo-Machiya or Machiya. Kyo-Machiya defined the architectural atmosphere of downtown Kyoto for centuries, and represents the standard defining form of Machiya throughout the country.
+
+There are several facilities offers those Machiya to the travellers to stay privately, and can experience the traditional living in Kyoto.
+Most of those facilities are located in central Kyoto that easy to access to any sightseeing spot.
+However, generally those facilities don’t offer any meals, but in Kyoto, there is a delivery system from the Japanese restaurant that customer can order and eat in the Kyo-Machiya.
+During the guest stay, it is completely private that guests can feel like staying at their home.
+
+The size of the facilities are average 80㎡, can stay from 2 people but it is better to use with group of 4 to 6, or with family.
+There is a facility that guests can stay together in the same Machiya for up to 14 people.
+
+The price starts at ¥25,000.
+
+==Connect==
+
+Free public Wi-Fi is available in many parts of Kyoto.
+
+==Go next==
+* '''[[Uji]]''' - the best tea in Japan, the Byodo-in temple and the Nintendo Museum.
+* '''[[Lake Biwa]]''' - if the summer humidity has drained your will to sightsee, take a day swimming at the underrated beaches of western Lake Biwa.  Popular choices include Omi Maiko and Shiga Beach, each about 40 minutes from Kyoto on the JR Kosei Line.
+* '''[[Mount Hiei]]''' - an ancient hilltop temple complex that traditionally guarded (and occasionally raided) Kyoto.
+* '''[[Otsu]]''' - home to some great historical temples, [[Mount Hiei]], and one of [[Lake Biwa]]'s ports.
+* '''[[Koka]]''' - home of ninjas, and there is the Miho Museum.
+* '''[[Nara]]''' - less than an hour's journey by train on the JR Nara line from Kyoto station, Nara is an even older capital than Kyoto and has a stunning collection of temples in a giant landscaped park.
+* '''[[Osaka]]''' - about half an hour from Kyoto by JR rapid train, this bustling city offers more retail opportunities and a central castle.
+* '''[[Amanohashidate]]''' - literally "the bridge to heaven", it is considered one of Japan's [[Japan's Top 3|top three scenic views]] (along with [[Matsushima]] in [[Miyagi prefecture]] and [[Miyajima]] in [[Hiroshima prefecture]]). It forms a thin strip of land straddling the Miyazu Bay in northern Kyoto Prefecture, hence the name. Visitors are asked to turn their backs toward the view, bend over, and look at it between their legs.
+* '''[[Himeji]]''' - about an hour by Shinkansen west of Kyoto, Himeji boasts a spectacular traditional castle.
+* '''[[Sekigahara]]''' - about an hour northeast of Kyoto by train, Sekigahara is a small rural town of immense importance to the Japanese history buff, as this was the site of the battle that allowed Tokugawa Ieyasu to consolidate control of Japan and establish the Shogunate. 
+
+{{routebox-2
+| image1=Tokaido Shinkansen icon.png
+| imagesize1=100
+| directionl1=W
+| majorl1=END
+| minorl1=[[Osaka|Shin-Osaka]]
+| directionr1=E
+| majorr1=[[Nagoya]]
+| minorr1=[[Maibara]]
+
+| image2=JR San-in icon.png
+| imagesize2=100
+| directionl2=W
+| majorl2=[[Tottori]]
+| minorl2=[[Toyooka]]
+| directionr2=E
+| majorr2=END
+| minorr2=
+
+| image3=JR Tokaido icon.png
+| imagesize3=100
+| directionl3=W
+| majorl3=[[Kobe]]
+| minorl3=[[Osaka]]
+| directionr3=E
+| majorr3=[[Nagoya]]
+| minorr3=[[Otsu]]
+
+| image4=Meishin Expwy Route Sign.svg
+| imagesize4=100
+| directionl4=W
+| majorl4=[[Kobe]]
+| minorl4=[[Ibaraki (Osaka)|Ibaraki]]
+| directionr4=E
+| majorr4=[[Nagoya]]
+| minorr4=[[Otsu]]
+}}
+
+{{geo|35.011667|135.768333|zoom=13}}
+
+{{IsPartOf|Kyoto (prefecture)}}
+{{guidecity}}

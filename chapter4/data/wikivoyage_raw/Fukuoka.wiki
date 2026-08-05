@@ -1,0 +1,982 @@
+{{pagebanner|Fukuoka_seen_from_Fukuoka_Castle_banner.JPG|dotm=yes}}
+
+'''Fukuoka''' (福岡) is the capital of [[Fukuoka prefecture]] and the largest city on the island of [[Kyushu]]. Fukuoka is a good starting point for first-time visitors to Japan. As a historic port city, Fukuoka is more welcoming of foreigners than other parts of Japan, and has significant numbers of residents and tourists from abroad, particularly from China and Korea.  
+==Understand==
+{{climate chart
+|Fukuoka
+|3.9 |10.2 |74.4
+|4.4 |11.6 |69.8
+|7.2 |15.0 |103.7
+|11.5 |19.9 |118.2
+|16.1 |24.4 |133.7
+|20.3 |27.2 |249.6
+|24.6 |31.2 |299.1
+|25.4 |32.5 |210.0
+|21.6 |28.6 |175.1
+|16.0 |23.7 |94.5
+|10.6 |18.2 |91.4
+|5.8 |12.6 |67.5
+|jansnow=10.0 |febsnow=10.0 |marsnow=0.0 |aprsnow=0.0 |maysnow=0.0 |junsnow=0.0 |julsnow=0.0 |augsnow=0.0 |sepsnow=0.0 |octsnow=0.0 |novsnow=0.0 |decsnow=0.0
+|float=right
+|clear=right
+|source=[[:w:Fukuoka]]
+|description=
+}}
+[[File:Hakata Port.jpg|thumb|250px|Hakata Port in Fukuoka, as seen from a landing airplane]]
+[[File:Fukuoka-tenjin.jpg|thumb|Watanabe-dori, in the Tenjin area of Fukuoka.]]
+{{infobox|''Quack Experimental Animation''|Bits of Fukuoka may be recognizable to fans of the frenetically surreal 1999-2000 anime '''''Excel Saga''''' or the original manga; the manga's author, Kōshi Rikudō, is from nearby [[Dazaifu]]. Not only is the anime set in "F Prefecture, F City" (which in the manga is explicitly Fukuoka), nearly every character and organization in ''Excel Saga'' has a name borrowed from a Fukuoka landmark.
+
+How many names did he borrow? Let's see... ACROS, Il Palazzo, Excel, Hyatt, Watanabe, Iwata, Sumiyoshi, Matsuya, Ropponmatsu, Shiōji, Solaria... oh, and we'd also bet that Daitenzin is a pun on Tenjin.
+}}
+
+Historically, Fukuoka was two cities divided by the central river: the merchant town of '''Hakata''' (博多) and the samurai feudal domain of '''Fukuoka''' (福岡). According to legend, when the cities merged in 1889, a group of samurai heard that "Hakata" was probably going to win the vote for the name of the merged city, so they crashed the meeting and forced them to name it Fukuoka instead. While probably apocryphal, the important point to remember is that the city is named Fukuoka, but the main railway station and port are known as Hakata Station and Hakata Port. There are city centers in both Chūō-ku (in old Fukuoka's downtown of Tenjin) and Hakata-ku.
+
+The surrounding cities and towns make up the [[Fukuoka (prefecture)|prefecture of Fukuoka]]. The city has 2.5 million residents including its suburbs.
+
+Being a sizable, modern city it's still not hard to get around. A subway connects most of the city's main attractions, providing transportation between Hakata, Tenjin, Fukuoka International Airport, Meinohama, and Nishijin (where you can find Fukuoka Tower and the baseball ground of the Softbank Hawks: Fukuoka Dome). The main station in Hakata marks the terminus of the Sanyo Shinkansen bullet train. The Kyushu Shinkansen line also terminates here, and links the Sanyo Shinkansen directly with [[Kagoshima]], at the southern tip of Kyushu.
+
+* {{listing
+| name=Fukuoka City Tourist Information (Sightseeing Plaza Tenjin) | alt= | url=https://yokanavi.com/en/tourist-information/27483/ | email=
+| address=Lion Plaza, 2-1-1, Tenjin, Chuo-ku | lat=33.58932 | long=130.39923 | directions=
+| phone= | tollfree=
+| hours=Daily 09:30-19:00 | price=
+| wikipedia= | wikidata=
+| lastedit=2019-05-01
+| content=Information centre with English, Chinese and Korean speakers.
+}}
+* {{listing
+| name=Fukuoka City Tourist Information (Hakata Station)  | alt= | url=https://yokanavi.com/en/tourist-information/27478/ | email=
+| address= | lat=33.59062 | long=130.42095 | directions=
+| phone= | tollfree=
+| hours=Daily 08:00-21:00 | price=
+| wikipedia= | wikidata=
+| lastedit=2019-05-01
+| content=In the middle of Hakata JR train station there is a Tourist Information Center (sometimes with English speakers) with brochures in English, Japanese and other languages. They can help with transport information and bookings.
+}}
+* {{listing
+| name=Acros Fukuoka Cultural & Tourist Information Center | alt= | url=https://yokanavi.com/en/tourist-information/28842/ | email=
+| address= | lat=33.5913 | long=130.4029 | directions=
+| phone= | tollfree=
+| hours=Daily 10:00-18:00 | price=
+| wikipedia= | wikidata=
+| lastedit=2019-05-01
+| content=On the third floor of the ACROS building, near Nakasu, you can find more information in English.
+}}
+*There are also tourist information counters in the airport and Hakata Port.
+
+===Tourist information site===
+The local tourist association has a [https://gofukuoka.jp/ multilingual guide site].
+
+==Get in==
+===By plane===
+* {{go
+| name=Fukuoka Airport | alt={{IATA|FUK}} | url=https://www.fukuoka-airport.jp/en/ | email=
+| address= | lat=33.584444 | long=130.451667 | directions=to the east of the city, surprisingly close to the city centre
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q1137465
+| content=Within the country, Japan Airlines and ANA fly to Fukuoka from most larger cities, including [[Tokyo]] (both Haneda and Narita), [[Osaka]] (Itami and Kansai), and [[Nagoya]] (Komaki and Centrair Airport). There are scheduled flights to most major cities in [[China]] and [[South Korea]], as well as [[Taipei]], [[Hong Kong]], [[Singapore]], [[Bangkok]], [[Manila]], [[Hanoi]] and [[Ho Chi Minh City]], but the only scheduled transpacific flights are to [[Honolulu]] and [[Guam]].
+}}
+
+From Tokyo, flying to Fukuoka is much faster than the Shinkansen, and not significantly more expensive. The usual one-way fare on [http://www.skymark.jp/en/ Skymark Airlines] from Tokyo Haneda is ¥19,800, compared to ¥22,320 from Tokyo Station on the ''Nozomi'' Shinkansen, and steep discounts are available if you book in advance (as low as ¥5,300 with Skymark's "SKY Bargain" discount). The flight takes 2 hr while the train takes 5 hr. If you have a JR Pass, of course, you will still want to take the train.
+
+'''Getting there and away''':
+* The '''International Terminal''' is on the side facing the city. It is about 5 km walk from the city center. Buses directly to the airport leave from Hakata Station. Alternatively, take the subway to the Domestic Terminal and then the free shuttle to the International Terminal.
+* The '''Domestic Terminal''' is on the opposite side of the runway and requires a 10-min bus transfer to/from the International Terminal — free, leaving about every 10 min. The subway serves the Domestic Terminal with just 2 subway stops away from the Hakata JR station.
+
+===By train===
+[[File:Hakata Station illuminations.JPG|thumb|250px|''JR Hakata City'', part of the Hakata station complex]]
+Fukuoka's main station is named not "Fukuoka Station" but rather {{marker | type=go | name=Hakata Station | lat=33.589803 | long=130.420681 | wikipedia=Hakata Station | wikidata=Q800875 }} (博多駅); remember to use this name when searching for train routes. (If you search for schedules to "Fukuoka", you will likely be given an itinerary for a station in [[Toyama]], about 700&nbsp;km away.) Hakata Station is the dividing point between the ''Sanyo Shinkansen'' (from the north) and ''Kyushu Shinkansen'' (from the south) lines. Sanyo Shinkansen services are offered from Kokura in [[Kitakyushu]] (20 min), [[Hiroshima]] (1 hr), [[Okayama]] (1¾ hr) and [[Osaka]] (2½ hr), and through via the Tokaido Shinkansen from [[Kyoto]] (2¾ hr by ''Nozomi''), [[Nagoya]] (3½ hr by ''Nozomi'') and [[Tokyo]] (5 hr by ''Nozomi'').
+
+If you have a Japan Rail Pass, you can only use the fastest ''Nozomi'' (runs between Tokyo and Hakata) and ''Mizuho'' (runs between Shin-Osaka and Kagoshima-Chuo via Hakata) trains by paying a supplemental fee (up to ¥8,140 all the way from Tokyo), so if you are traveling from points east and don't want to pay extra you will have to take one of the two hourly ''Hikari'' trains from Tokyo and switch at Shin-Osaka (alternatives are Shin-Kobe, Okayama, and sometimes Himeji) to a ''Sakura'' (or ''Hikari'' runs between Shin-Osaka and Hakata only late in the evening) service. Travel time from Tokyo to Fukuoka using these trains is about 6 hours.
+
+Another option from Tokyo is to take a westbound sleeper express such as the ''Sunrise Izumo'' or ''Sunrise Seto'', leaving Tokyo around 22:00, and then connecting to the Shinkansen at [[Okayama]] (or Himeji) early in the morning, to arrive in Fukuoka just before 08:30 (or by 09:15 if you have a Rail Pass and use a ''Sakura'' service). While this takes much longer and costs more than the Shinkansen (from ¥25,000), it provides the benefit of doubling as lodging and transport.
+
+From [[Kagoshima]], Kyushu Shinkansen ''Mizuho'' and ''Sakura'' trains make the run to Fukuoka in 80–90 minutes at a cost of ¥10,170. As with the ''Nozomi'' service, the ''Mizuho'' service is available for an additional fee for tourists traveling with a Japan Rail Pass. Most ''Sakura'' trains do travel through Fukuoka, connecting Kagoshima to Osaka with no transfers.
+
+With the opening of a portion of West Kyushu ''shinkansen'' from [[Nagasaki]] to Takeo-Onsen the journey from Hakata to Nagasaki now takes 1½ hours (instead of 2): ''Relay Kamome'' limited express runs at least hourly to Takeo-Onsen with a cross-platform transfer to ''Kamome'' ''shinkansen'' trains going the rest of the way, at the cost of ¥6,250.
+
+====Overnight by train with rest stop====
+If you hold a Japan Rail Pass, and you wish to travel overnight from Tokyo (or any other distant city), you may want to split up your journey, stopping at an intermediate destination en route in order to sleep somewhere. The Rail Pass covers your transportation, so you only have to worry about paying for a hotel. You could stay near major stations like Nagoya, Kyoto or Shin-Osaka, or pay less at a smaller transfer point such as Himeji.
+
+As an example, you could leave Tokyo at 18:30 on a ''Hikari'' service and change in Shin-Osaka to a ''Kodama'', arriving in Himeji at 22:11. In the morning, a ''Sakura'' service leaving around 07:00 will get you into Fukuoka just after 09:00.
+
+===By bus===
+Many overnight bus services run into Fukuoka from other parts of the country.
+
+The ''Moonlight'' overnight bus runs from [[Osaka]] Umeda to Fukuoka in 9½ hr (¥10,000 one way); The ''Kyoto'' overnight bus runs from [[Kyoto]] to Fukuoka, also in 9½ hr (¥10,500 one way); and the oddly-named ''Dontaku'' runs from [[Nagoya]] to Fukuoka in 11 hr (¥10,500 one way).
+
+[http://willerexpress.com Willer Express] has a service from Osaka/Kyoto/Kobe from ¥4,800 with advance purchase tickets as cheap as ¥4,100. Other services are Nagoya (¥5,400), Okayama (¥4,300) and Hiroshima (¥2,500). They have an English website with online booking available. Discounts for tickets purchased 21 and 14 days in advance.
+
+If you're really ambitious, Nishitetsu bus runs an overnight service, the ''Hakata'', from the Shinjuku expressway bus terminal in [[Tokyo]] to Fukuoka non-stop. The ride, at just over 14 hr, is Japan's longest overnight bus service (¥8,000 for economy class ¥12,000 for high seasons, ¥15,000 for business class and ¥19,000 for 1st class, some round-trip discounts are available).
+
+===By boat===
+* [[Busan]]-Fukuoka:
+**'''[http://www.camellia-line.co.jp/ Camellia Line]''', +81 92 262-2323 (Japan) or +82 51 466-7799 (Korea), operates a ferry that takes about 8&nbsp;hr and starts at ¥12,000; if overnight, it may stop and wait in front of Busan Port in the morning until Korean Immigration opens. (Compared to most airports, there should be relatively little security hassle on this line.) Unless you want to sleep on a tatami mat on the floor shoulder-to-shoulder with a group of strangers, you should '''book your ticket(s) at least two months in advance'''. Moreover, if you want anything other than the tatami mat room ("2nd class"), you need to book through the Camellia Line directly, yet their website is only in Japanese. They do, however, provide [https://www.camellia-line.co.jp/wp-content/themes/2017theme_0111/camellialine/pdf/en_pamphlet.pdf this pretty brochure] in English.
+**The JR Kyushu Ferry (the "Queen Beetle") which had operated between Fukuoka and Busan has been discontinued.
+*An economy-class ticket on the '''[https://www.cityline.co.jp/english/ Meimon Taiyo Ferry]''' from [[Osaka]] to [[Kitakyushu]] costs about ¥6,000 (20% discount if booked online); tickets in other price ranges are available.
+
+==Get around==
+{{infobox|Bullet train on the cheap|Want to try out the bullet train, but put off by those high fares?  Ride the '''Hakata Minami Line''' (博多南線) from Hakata Station.  Built to connect to the train depot, the 8½-km, 10-min ride uses Shinkansen equipment and costs all of ¥290.}}
+
+===By public transport===
+The '''[https://subway.city.fukuoka.lg.jp/eng/index.php Fukuoka City Subway]''' consists of 3 lines. The Hakata subway station, located under the JR Hakata Station, can take passengers straight to [https://www.fukuoka-airport.jp/en/ Fukuoka International Airport] (6 min, ¥260), to Tenjin, the city's ''de facto'' downtown district, and to other major stops. An all-day subway pass (''ichinichi joshaken'') costs ¥640. If you tap a contactless credit card as you enter and leave subway stations, you will be charged no more than the cost of an all-day pass per day. Regular tickets cost between ¥210 and ¥380 depending on distance. The local rechargeable contactless smart card is called '''''[https://subway.city.fukuoka.lg.jp/eng/fare/one/#no02 Hayakaken]''''' and is compatible with other smart cards like PASMO ([[Tokyo]]) and ICOCA ([[Kyoto]] and [[Osaka]]). IC cards are also generally accepted on buses by multiple companies; some also accept contactless credit cards and QR code payments. When using a bus with an IC card reader or contactless credit card, be sure to tap when you enter ''and'' as you leave, so that you are charged the correct fare.
+
+Contactless credit card payment (Visa, Mastercard, JCB, Amex, Diners, Discover) is available at all ticket gates on all subway lines. You can enter and exit by simply tapping your credit card or smartphone.
+
+There is a [https://yokanavi.com/en/tourist-city-pass/ special pass for overseas tourists] which costs ¥2500 (¥1250 child) for one-day unlimited rides on buses, trains and subways, with some discounts at sights.
+
+Fukuoka is well served by '''[http://www.nishitetsu.co.jp/ Nishitetsu buses]'''. Fares vary based on distance traveled, starting at ¥150 (Oct 2025).
+
+===On foot===
+Downtown is small and compact enough to potentially wander around on foot. In the Tenjin area, '''Tenjin Chikagai''' (天神地下街, Tenjin Underground Shopping Center) runs under Watanabe Street and has many shops. It also connects the Tenjin and Tenjin-Minami subways stations with most major department stores and the Nishitetsu Fukuoka station; when transferring between these stations, you can take up to 120 minutes, leaving plenty of time for shopping. There is a passenger tunnel which connects Hakata and Gion subway stations and is useful during the frequent rains in summer and the bitter cold winds in winter, the latter of which is close to some of Fukuoka's temples and shrines.
+
+===By taxi===
+'''Taxis''' are available; they start from about ¥550, not the cheapest way to go. Some drivers speak English, but it's best to have your destination written down in Japanese if you do not speak the language.  Velotaxis are also available; they are ¥500 for the greater Tenjin area. Also, an environmentally friendly option is the human operated bicycle taxis.
+
+===By bicycle===
+If you can get a hold of a bicycle, it is probably the best way to get around. Parking does become a problem in some areas, but in Tenjin there are long term (06:00-23:00) underground parking areas, which are free for the first 3 hr. BIC Camera's 8th floor, which is opposite Kego shrine, has free bicycle parking from 10:00-21:00.
+
+In addition to the free parking in Tenjin, street bicycle meters are another great spot to park a bike. Much like many shopping centers around the world, it takes about ¥100 to release the bike lock, that wraps around the front wheel to be connected back into the slot. For a safer bicycle parking, use two bike locks and chain the front and back tires to the body of the bike.
+
+===By car===
+It is not a good idea to visit Fukuoka by car. Aside from dense traffic, roads in Fukuoka are generally narrow, especially in alleys. It is not an easy job to find a parking space either. The Kyushu Expressway Pass (KEP) does ''not'' include the Fukuoka highway (Fukuoka Urban Expressway), which means you need to pay an ETC fee even if you have a KEP.
+
+That said, since rural areas in [[Kyushu]] are car-centric, renting a car in Fukuoka is still an option. If you are doing so, Fukuoka should be your first and final destination (that is, you should borrow and return your car in/at Fukuoka, rather than visit there by car), and visit the city by public transportation. This is especially true if your journey starts/ends in Fukuoka airport or seaport.
+
+==Talk==
+Standard Japanese is understood pretty much everywhere. However, the area is known for the local '''Hakata dialect''' (博多弁 ''Hakata-ben'') which, like other nearby dialects in Kyushu, is well known for being somewhat incomprehensible to speakers of Standard Japanese. Just to scratch the surface, here are a few of the more widely-known differences:
+* と (''to'') is used as both a replacement for の (''no'') or か (''ka'') at the end of sentences, as well as a replacement for 〜ている (''teiru'') verb endings, leading to sentences like 知っとーと? (''Shittō to?'') instead of Standard 知っているの? (''Shitteiru no?'', "Do you know it?").
+* The particle を (''o'') is replaced with ば (''ba''). Standard 何してんの？ (''Nani shiten' no?'', "Whatcha doing?") becomes なんばしようとね？ (''Nan' ba shiyō to ne?'').
+* Instead of ''i''-adjectives, Hakata-ben has ''ka''-adjectives. Hakata speakers often give their okay with よか、よか (''yoka, yoka'') where a Tokyoite would use いいよ (''ii yo''), and proclaim a tasty meal with うまか (''umaka'').
+
+There are plenty more idiosyncrasies, like ''yokarōmon'' instead of ''ii ja nai ka''. Learning a bit of Hakata-ben from locals is a fun way to make friends.
+
+Fukuoka's railway smart card, ''Hayakaken'', has two explanations for its name, one of which is that ''hayaka ken'' is Hakata-ben for ''hayai kara'' ("Because it's quick").
+
+==See==
+{{Mapframe|33.59486|130.38092|zoom=13}}
+{{Mapshapes|Q289242}}
+* {{see
+| name=Nakasu | alt= | url= | email=
+| address= | lat=33.593249 | long=130.405667 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| image=Fukuoka Bike.jpg
+| lastedit=2016-03-15
+| content=This area is next to Tenjin and is Fukuoka's red-light district, with over 3500 restaurants, as well as ramen stalls (yatai), shopping, pubs, hostess bars, rooftop beer gardens in summer, one surviving movie theater, and sex trade. The neon lights on the Naka River are famous with over 60,000 visitors a day, and it has the busiest street in Kyushu.
+}}
+* {{see
+| name=Gion | alt= | url= | email=
+| address= | lat=33.593807 | long=130.413587 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| image=Entrance No.3 of Gion Station (Fukuoka Municipal Subway).jpg
+| lastedit=2016-03-15
+| content=This area has several historical shrines and Buddhist temples, including:
+}}
+** {{see
+| name=Kushida Shrine | alt= | url= | email=
+| address= | lat=33.592972 | long=130.410472 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=Kushida Shrine | wikidata=Q865839
+| content=The 8th-century Kushida Shrine is starting point for the annual Gion-Yamakasa Festival.
+}}
+** {{see
+| name=Tōchō-ji | alt= | url= | email=
+| address= | lat=33.595 | long=130.414167 | directions=
+| phone= | tollfree=
+| hours= | price=Free entry; ¥100 to see the Buddha
+| wikipedia=Tōchō-ji | wikidata=Q3547067
+| content=It has a 10.8-m wooden Great Buddha.
+| lastedit=2026-05-06
+}}
+** {{see
+| name=Shōfuku-ji | alt= | url= | email=
+| address= | lat=33.597454 | long=130.414458 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=Shōfuku-ji (Fukuoka) | wikidata=Q657825
+| content=Japan's first Zen temple.
+}}
+
+===Views===
+* {{see
+| name=ACROS rooftop garden | alt= | url= | email=
+| address= | lat=33.591595 | long=130.402349 | directions=Tenjin Chuo Park
+| phone= | tollfree= | fax=
+| hours=09:00-18:00 (March-October), 09:00-17:00 (November-February) | price=Free
+| image=Acrosfukuoka02.jpg
+| lastedit=2026-05-07
+| content=The ACROS building has a terraced roof that merges with the park and contains some 35,000 plants representing 76 species. It is 809 steps to the top. Just east of ACROS is the former Prefectural Guest House, featuring turn-of-the-century architecture.
+}}
+** {{see
+| name=ACROS observation deck | alt= | url= | email=
+| address= | lat= | long= | directions=at the top of the rooftop garden
+| phone= | tollfree= | fax=
+| hours=Weekends and public holidays only, 10:00-16:00 | price=Free
+| image=
+| lastedit=2026-05-07
+| content=A {{convert|60|m|ft|adj=mid|sp=us|-high}} observation deck with good views over Fukuoka.
+}}
+* {{see
+| name=Fukuoka Tower | alt=福岡タワー | url=https://www.fukuokatower.co.jp/ | email=
+| address=Sawara-ku Momochihama 2-3-26 | lat=33.59325 | long=130.351472 | directions=
+| phone= | tollfree=
+| hours= | price=¥1000
+| wikipedia=Fukuoka Tower | wikidata=Q847033
+| lastedit=2026-05-31
+| content=The triangular reflective tower has magnificent views of the city and Hakata Bay from its 123-meter-high observation deck. (The whole tower is 234&nbsp;m; the remaining 111&nbsp;m is a television mast.) In Christmas and the Star Festival (Tanabata) on July 7, this tower is decorated. During the rest of the year the view is best at night time. This is an iconic symbol of Fukuoka. There is a restaurant which commands a ¥300 sitting fee in addition to the meal. The menu is limited and the food is mediocre at best.
+}}
+* {{see
+| name=Atago Shrine | alt=愛宕神社 | url= | email=
+| address= | lat=33.585540 | long=130.334851 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| image=Night view of Fukuoka from Atago jinja.jpg
+| lastedit=2016-03-16
+| content=A hidden gem near the Muromi Subway Station, with a superb view of the city and Hakata Bay from a hilltop. You can also see many storks that fly by and nest in the area. Walk west from the subway station across the Muromi Bridge until you see the Atago torii gate with the stairs heading up. Alternatively there is a side road you can walk up if you don't like stairs.
+}}
+* {{see
+| name=Hakata Port Tower | alt= | url= | email=
+| address= | lat=33.604444 | long=130.397778 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=Hakata Port Tower | wikidata=Q1568000
+| lastedit=2019-05-09
+| content=It has an observatory 70 m above the ground, allowing for a great view of the port and the streets of Fukuoka.
+}}
+
+===Parks===
+* {{see
+| name=Ohori Park | alt= | url= | email=
+| address= | lat=33.585861 | long=130.37625 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=Ōhori Park | wikidata=Q846710
+| lastedit=2016-03-15
+| content=Tourists visiting Fukuoka should not miss this beautiful park located 2 stops west of Tenjin on the subway. The park has a 2&nbsp;km jogging track that is popular with locals throughout the year. Also, next to Ohori Park is Maizuru park, featuring the ruins of Fukuoka Castle and a good view of the city.
+}}
+** {{see
+| name=Ohori Park Japanese Garden | alt=大濠公園日本庭園 | url=https://www.ohoriteien.jp/en/ | email=
+| address= | lat=33.583030 | long=130.378745 | directions=
+| phone= | tollfree=
+| hours=Tu-Su 09:00-17:00, closed Mondays and Dec 29 - Jan 3 | price=¥190 (foreign visitors)
+| lastedit=2018-11-11
+| content=This beautiful, small Japanese garden is right next to Ohori Park.
+}}
+* {{see
+| name=Maizuru Park | alt=舞鶴公園 | url= | email=
+| address= | lat=33.586366 | long=130.385192 | directions=
+| phone= | tollfree=
+| hours= | price=
+| image=Shimonohashi Gomon and north moat of Fukuoka Castle.JPG | wikidata=Q11613685
+| lastedit=2016-10-29
+| content=Maizuru park includes the ruins of Fukuoka Castle (福岡城, Fukuoka-jō).  Also inside the park, you will find the ruins of the Korokan (鴻臚館), a reception hall built around 1,200 years ago.
+}}
+** {{see
+| name=Fukuoka Castle ruins | alt= | url= | email=
+| address= | lat=33.584381 | long=130.383103 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=Fukuoka Castle | wikidata=Q1143944
+| content=The foundations of Fukuoka Castle and part of its moat are all that remains of the original complex. Work is underway to rebuild part of the castle to show what it looked like. The ruins give a good feel for the scale of the original castle though, and form an attractive park.  Additionally, you may drop by the Fukuoka Castle Ruins Visitor Center to rent a tablet PC providing an augmented reality visualization of what the castle used to look like as you walk around the park.  Visitors who ascend the steps towards the top are rewarded with excellent views of the city, including of the lake in Ohori Park (which in the past used to extend to and surround the castle).
+}}
+* {{see
+| name=Nishi Park | alt=西公園 | url= | email=
+| address= | lat=33.598374 | long=130.374915 | directions=about ten minutes on foot north of Ohori Park
+| phone= | tollfree= | fax=
+| hours= | price=
+| image=Nishi park Sakura.JPG
+| lastedit=2016-03-15
+| content=A hilltop park with quiet walking trails, a shrine, an ocean and city view, and in springtime with over 3000 cherry trees is one of the finest places to see cherry blossoms in Kyushu.
+}}
+* {{see
+| name=Kego Koen | alt= | url=https://kegojinja.or.jp/ | email=
+| address= | lat=33.5884 | long=130.3991 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia= | wikidata=
+| lastedit=2019-05-09
+| content=The park behind Solaria Plaza, Kego Koen, is a great place to go to experience Tenjin's youth culture and do some people watching. Don't be surprised if some of these kids try to approach you for a bit of random conversation.
+}}
+
+===Museums===
+* {{see
+| name=Fukuoka City Museum | alt=福岡市博物館 | url=http://museum.city.fukuoka.jp/en/ | email=
+| address= | lat=33.589804 | long=130.353093 | directions=
+| phone= | tollfree=
+| hours=Tu-Su 09:30-17:30 | price=¥200 adults / 150 high schoolers / free for children
+| wikipedia=Fukuoka City Museum | wikidata=Q11592224
+| lastedit=2019-04-30
+| content=Permanent exhibition of city history and changing temporary exhibitions.
+}}
+* {{see
+| name=Machiya Folk Museum | alt=博多町屋ふるさと館 | url=http://www.hakatamachiya.com/static/english.php | email=
+| address= | lat=33.59378 | long=130.41162 | directions=about 15 min away from Hakata Station on foot, or a bit less if you exit on Gion station
+| phone= | tollfree=
+| hours=Daily except 4th M of each month 10:00-18:00 | price=¥200
+| lastedit=2019-05-08
+| content=gives you a glimpse of the Hakata way of life.
+}}
+* {{see
+| name=Asian Art Museum | alt= | url=http://faam.city.fukuoka.lg.jp/eng/home.html | email=
+| address=Shimokawabatamachi, 3−1 | lat=33.595 | long=130.4058 | directions=next door to Hakata-za
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2019-05-08
+| content=This gallery hosts temporary exhibitions from Kyushu and all around Asia. It has a good shop.
+}}
+* {{see
+| name=Fukuoka Art Museum | alt= | url=http://www.fukuoka-art-museum.jp/english/index.html | email=
+| address= | lat=33.583889 | long=130.379806 | directions=in Ohori Park
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=Fukuoka Art Museum | wikidata=Q3073273
+| lastedit=2019-04-30
+| content=This art gallery has an excellent permanent collection, and hosts temporary exhibitions.
+}}
+* {{see
+| name=Bayside Place Hakata Pier | alt= | url= | email=
+| address= | lat=33.6041 | long=130.3988 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia= | wikidata=
+| lastedit=2019-05-09
+| content=For a view of the bay, check out the Bayside Place Hakata Pier:a marine terminal for the regular service ferries for Tsushima Island and Hakata Bay cruise boats. The terminal building has a 8-m-tall aquarium, with 6,000 fish.
+}}
+* {{see
+| name=Fukuoka City Science Museum | alt=福岡市科学館 | url= | email=
+| address=3-6F, 4-2-1 Ropponmatsu, Chuo-ku | lat=33.592569 | long=130.35252 | directions=
+| phone= | tollfree=
+| hours= | price=Free but ¥510 adults/ 310 high schoolers / 200 children each for 5F exhibition room and 6F planetarium
+| lastedit=2016-03-15
+| content=Cotains Robosquare on its 5th floor. You can see and play with different kinds of robots and watch some of the engineers at work. Despite the imposing sounding name, Robosquare is one medium sized-room with a few robotics exhibits and some toy robots and is primarily aimed at children. Some English explanations are now available.
+}}
+* {{see
+| name=Ichiran Ramen Museum | alt=Ichiran no Mori | url=https://ichiran.com/shop/kyushu/mori/ | email=
+| address=256-10 Shimamatsuguma Itoshima-shi | lat=33.5931 | long=130.2022 | directions=
+| phone=+81 92 332-8902 | tollfree=
+| hours=Daily 10:00-21:00 | price=
+| wikipedia=| wikidata=
+| lastedit=2020-10-14
+| content=Ichiran is one of the largest chains of Hakata ramen restaurants, with locations all across Japan and in several other countries. At this factory, you can learn about the ramen-making process and view their factory where they make noodles. At the end is a small restaurant with a weekly special dish. The museum is entirely in Japanese.
+}}
+* {{see
+| name=Marine World Uminonakamichi | alt=マリンワールド海の中道 | url=http://www.marine-world.jp/ | email=
+| address=18-28 Saitozaki, Higashi Ward | lat=33.660922 | long=130.363477 | directions=
+| phone=+81 92-603-0400 | tollfree=
+| hours=M-Sa 10:00-17:00, Su 09:30-17:30 | price=2500¥
+| lastedit=2025-11-30
+| content=It is an aquarium and you can watch shows of various marine life, and there are also various hands-on activities, such as feeding dolphins. There is also a park outside the aquarium.
+}}
+
+==Do==
+[[File:Seaside-momochi 20160731.jpg|thumb|Momochi Beach]]
+For a good listing of what's happening and places to eat and drink, the local monthly English-language magazine ''[http://www.fukuoka-now.com/ Fukuoka Now]'' is a great start.
+* {{do
+| name=Kabuki theatre | alt=Hakata-za | url=http://www.hakataza.co.jp/ | email=
+| address= | lat=33.595703 | long=130.406477 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=Hakata-za | wikidata=Q5640353
+| lastedit=2019-05-09
+| content=An experience worth checking out. Check times and prices at the Hakata-za near Nakasu. If you don't want to stay for the whole show, or don't have so much money to spend, you can watch part of a show for about ¥800; see [https://www.hakataza.co.jp/ticket/?id=accordion06 here] for details.  Half price student/young (~25) adult tickets may be available day of performance to be released 20 minutes prior to the show; see [https://www.hakataza.co.jp/information/277 here] for details.
+}}
+* {{do
+| name=Noh theatre | alt= | url=http://www.ohori-nougaku.jp/ | email=
+| address=1-5 Ohorikoen, Chuo-ku | lat=33.5896 | long=130.3742 | directions=
+| phone=+81 92 715 2155 | tollfree=
+| hours= | price=
+| wikipedia= | wikidata=
+| lastedit=2019-05-09
+| content=A cultural experience that some may not want to miss. There is a Noh theatre in Ohori Koen. Many of the performances are free, get more information at the Rainbow Plaza (IMS building 8th floor). Don't worry, if you fall asleep during the play, it's almost expected. It's all part of the Noh experience.
+}}
+*{{do
+| name=Fukuoka SoftBank Hawks baseball | alt= | url=http://www.softbankhawks.co.jp/ | email=
+| address= | lat=33.595322 | long=130.362078 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=Fukuoka SoftBank Hawks | wikidata=Q129164
+| content=Winning the Japan Series seven times between 2011 and 2020, the Hawks was undoubtedly Japan's strongest team in the 2010s. Check out a baseball game at the Fukuoka PayPay Dome, which is about 15 min walking distance from Tōjinmachi subway station. Ticket prices vary by day, but you can get an outfield unreserved seat from ¥1,000.
+}}
+* If you haven't tried '''karaoke''' yet, why not try it now? There are many karaoke places to choose from, some with costumes you can borrow (just don't try to take them home). If you just want to go for a couple of hours, most places will charge by the hour; morning and afternoon hours being the cheapest. If you want to make a night of it, from 23:00, most have free time systems which mean ''nomihodai'' (all you can drink) and all you can sing for about ¥2,500, until 05:00.
+
+===Events===
+[[File:Hakata gion yamakasa 2005 01.jpg|thumb|Yamakasa participants carry one of the participating floats]]
+Fukuoka is famous for two annual '''festivals''' which are some of Japan's oldest and draw huge crowds.
+* {{do
+| name=Hakata Dontaku | alt=博多どんたく | url=http://www.dontaku.fukunet.or.jp/english | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours=May 3–4, with a pre-ceremony on May 2 | price=
+| lastedit=2019-05-24
+| content=Japan's largest festival, drawing well over 2 million people during the Golden Week holidays. The name "Dontaku" comes from Dutch "zondag" meaning Sunday. The festival features traditional dance.
+}}
+* {{do
+| name=Hakata Gion Yamakasa | alt=博多祇園山笠 | url=https://www.hakatayamakasa.com/ | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours=July 1–15 | price=
+| lastedit=2019-05-24
+| content=Fukuoka's second-largest festival, drawing up to a million spectators, is famous for the Oiyama '''parade float race'''. The elaborately-decorated ''yamakasa'' floats, around {{m|5}} tall and weighing up to {{convert|1|t|kg}}, have no wheels; they're picked up and carried by teams of loincloth-clad men, each team representing one of the seven historic districts of Hakata. The race takes place on July 15; teams line up around 01:00, and at 04:59, drums signal teams to begin in 5-minute intervals. The 5-kilometer race takes about half an hour for the fastest teams. Much larger ''kazariyama'' floats, which are up to {{m|13}} tall, are on display at street corners across the city, and are displayed indoors for the remainder of the year.
+}}
+
+Other events:
+* If you are visiting in November, be sure to check out the '''sumo''' matches held at [https://www.marinemesse.or.jp/kokusai/ Fukuoka Convention Center]. You are bound to see some of the sumo wrestlers out on the streets doing a bit of tourism as well.  Note that tickets may sell out well in advance of the event.
+
+===Outdoors===
+* {{do
+| name=Momochihama | alt= | url= | email=
+| address= | lat=33.595389 | long=130.352845 | directions=near the Fukuoka Dome
+| phone= | tollfree=
+| hours= | price=
+| image=Seaside-momochi-2.jpg
+| lastedit=2016-03-15
+| content=A stretch of beach where visitors can enjoy a bit of swimming and sun. While the water isn't as clean as the waters further west and east in Fukuoka, you can still take a refreshing dip. There are a few lovely patio restaurants and bars which are an ideal location to watch the sun set. The area behind the Seahawk Hotel is good. It's less crowded during the summer.
+}}
+* {{do
+| name=Nokonoshima | alt=能古島 | url= | email=
+| address= | lat=33.620983 | long=130.30356 | directions=
+| phone= | tollfree=
+| hours= | price=¥230 one way, ¥460 round trip
+| image=Beach on Nokonoshima Island 20140506-1.JPG
+| lastedit=2026-05-07
+| content=A small (about 12&nbsp;km around) island in the middle of Hakata Bay and offers some splendid hiking, swimming, and camping. It is easily reached by a 10-minute ferry ride from the Meinohama Port. The ferry departs every hour usually at 15 minutes past the hour from 05:15 in the morning to 23:00 at night, with service every half hour during the morning and evening rush (07:15-08:15 and 17:15-18:45).
+}}
+** {{do
+| name=Nokonoshima Island Park | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=¥1500
+| image=
+| lastedit=2026-05-07
+| content=Has several well manicured gardens and fields of flowers that vary by the season.
+}}
+* Rent bikes and tour about the city. There are a handful of shops that have reasonable prices. The cities best treasures are discovered while following any of the many paths or sidewalks.
+*Get out of the city. Although Fukuoka doesn't seem like the premier beach destination city, there are quite a few beautiful beaches in and around Fukuoka city. Most are an easy train ride away. While surfing isn't very good during the summer, a few waves can be caught around Mitoma (take the subway to Kaizuka Stn, then transfer to the Nishitetsu Miyajidake line to Mitoma Stn. Takes about 20 min or so. From the station, it's a 10-minute walk to the beach. West of the city, Nijinohama and Futamigaura, are supposed to have nice waves. To get to Nijinohama, you'll need a car. Also, Shikanoshima, which has pristine beaches, is an easy 30-min ferry ride.
+:*Drive to Maebaru IC, head in the Shima (志摩) direction along Kendo 12. Go straight at the intersection in front of Shima town office and turn left at Nogita intersection in front of 7-Eleven. 50 min from Tenjin. To get to Futamigaura, take a Showa bus for Tani from JR Chikuzen Maebaru (so first take a subway to Chikuzen Maebaru if you are in Tenjin or Hakata). Get off the bus at Imuta (around 30 min). About a 15-min walk to the beach.
+
+===Tenjin===
+[[File:Streetview of Fukuoka downtown, Japan, East Asia-3.jpg|thumb|Shopping]]
+
+*'''Kokutai Dohro''': walking up this street can be a bit of a challenge at times as the sidewalk narrows and widens but the crowds don't go away. Head towards Nishidori and on the way, on your right just past the drugstore, you'll find Kego Shrine and Kego Park. Across the street is Bic Camera, for your electronic needs.
+
+==Learn==
+There are several schools for studying Japanese in Fukuoka.
+
+*{{listing
+| name=Japanese School Asahi Nihongo | alt=Asahi Nihongo | url= | email=info@asahinihongo.com
+| address=Yodo Bldg. 2F, 2-9-30 Daimyo, Chuou-ku | lat=33.5904 | long=130.3934 | directions=7 min walk north from Tenjin in the Showa Street on the left side towards Akasaka
+| phone=+81 92 7166212 | tollfree= | fax=+81 92 7166214
+| hours= | price=
+| content=Short-term Japanese school for foreigners, offering intensive Japanese courses, internships, and marine sports.
+}}
+*{{listing
+| name=Genki Japanese and Culture School | alt=GenkiJACS | url=http://genkijacs.com/ | email=info@genkijacs.com
+| address=1-16-23 Hakataekihigashi, Hakata-ku | lat=33.5907 | long=130.4245 | directions=5 minute walk from Hakata station
+| phone=+81 92 472-0123 | tollfree= | fax=+81 92 472-0124
+| hours= | price=
+| content=Offers short programs: full and part time Japanese lessons in a small classroom style. Includes pop culture, tea ceremony, kimono and trips to experience Japanese outside of the classroom. Program open to schools and individuals. Home stays are also available.
+}}
+*{{listing
+| name=YMCA | url=http://www.ymcajapan.org/fukuoka/japanese/ | email=f-ymca-jlc@pop07.odn.ne.jp
+| address=Asahi Building, 2nd floor, 3-4-7 Tenjin, Chuuouku | lat=33.58766 | long=130.39675 | directions=5 minute walk north from Tenjin
+| phone=+81 92 781-7410 | tollfree= | fax=+81 92 712-4223
+| hours= | price=
+| content=Offers a 1-year program and sponsorship for student visas.
+}}
+*{{listing
+| name=WAHAHA Japanese Language School | alt= | url=http://www.wahahanihongo.com | email=info@wahahajapaneselanguage.com
+| address=Akasakamon Bldg. 4FL, 2-2-7 Maizuru, Chuo-ku | lat=33.59052 | long=130.39063| directions=2 minute walk north from Akasaka Station
+| phone=+81 92-737-2288 | tollfree= | fax=+81 92-737-2289
+| hours= | price=
+| content=Offers short-term Japanese language course, Working holiday course, Business course, etc.
+}}
+
+==Buy==
+
+[[File:Canal City Hakata 2011.jpg|thumb|Canal City]]
+
+{{Marker|type=buy|lat=33.5906 | long=130.3994|name=Tenjin}} (天神) is Fukuoka's largest shopping district. You can find here, designer stores housed in towering retail blocks such as Tenjin Core, IMS, Vivre to the east, and Solaria Plaza Vioro to the west. There are also several large department stores, Iwataya, Daimaru and Mitsukoshi (all with food available.) Also, there are boutique areas, including Tenjin Chikagai, housed in a pleasant underground area adjacent to the Tenjin subway station and under Watanabe street. Nishi-Dori and Oyafuko-Dori (actually the same street, separated by Showa-Dori) contains a multitude of stores and restaurants, both mainstream and independent.
+
+The Shotengai or shopping arcades are also good places to shop. In Tenjin, to the west of Solaria Stage you can find a shotengai with great deals and a used kimono store. Near Nakasu, across from Eeny Meeny Miny Mo (a large mall), you can find the Nakasu-Kawabata shopping arcade. Here you can find traditional paper goods, Noren curtains and inexpensive bakeries.
+
+Tenjin is very much about shopping, above and below ground.
+*In the {{Marker|type=buy|lat=33.59285|long=130.39904|name=Central Post office}} on Showa-dori, head downstairs to the underground shopping arcade. All of the major shops and department stores are connected to the underground.
+* {{Marker|type=buy|lat=33.59073|long=130.39997|name=Tenjin Core}} will provide you with a chance to see younger and more colorful fashion, ranging from frilly and cute to flashy and glam.
+* {{Marker|type=buy|lat=33.59048|long=130.39894|name=[https://www.solariastage.com/translation/ Solaria Stage]}} houses Incube, a shop with a variety of kitsch toys and gifts.
+* {{Marker|type=buy|lat=33.58875|long=130.40108|name=[https://www.daimaru-fukuoka.jp.e.md.hp.transer.com/ Daimaru]}} and {{Marker|type=buy|lat=33.58870|long=130.39996|name=[https://www.iwataya-mitsukoshi.mistore.jp.e.kq.hp.transer.com/mitsukoshi.html Mitsukoshi]}}, towards the end of the underground shopping, are large departments stores with more or less the same products. Both also house grocery stores and deli-style gourmet markets in their basements.
+* {{buy
+| name=Nishidori | alt= | url= | email=
+| address= | lat=33.58881 | long=130.39635 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia= | wikidata=
+| lastedit=
+| content=It is easy to find thanks to the Apple store on the corner with Kokutai Dohro. The area to your left is Daimyo, full of funky little boutiques and shops. There are also a countless number of restaurants, lunch time being a great time to try out their specials.
+}}
+
+Over the past few years, the main shopping, eating and drinking area has been moving away from north Tenjin and the Oyafuko-dori street south towards Daimyo, Kego and Imaizumi. With a different feel to the commercial district of Tenjin, just to the west (past Nishi-dori) is Daimyo, an area filled with small, mostly independent shops, bars and restaurants. Plan on staying all day; for daytime shopping and eating dinner. On Sundays, this area is full of young people out shopping. For a similar feeling area, check out Kego and Imaizumi, two upcoming areas to the south.
+
+* {{buy
+| name=Canal City | alt= | url=http://www.canalcity.co.jp/eg/index.html | email=
+| address= | lat=33.591111 | long=130.410556 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=Canal City Hakata | wikidata=Q1050353
+| lastedit=2019-01-12
+| content=This uniquely designed mall houses a wide range of stores, but is somewhat faded with the main action having moved to the new malls attached to Hakata Station. Nevertheless, it includes clothing stores, restaurants, rare character shops - including a Studio Ghibli goods shop - and even a well-appointed theatre. If you have time, be sure to catch one of the hourly fountain shows held in the centre of the bowl-shaped complex. There are also lots of food stores, including the 'Ramen Stadium' with several ramen outlets, but the quality is mediocre.
+}}
+* {{buy
+| name=Nakasu Kawabata shopping arcade | alt= | url= | email=
+| address=Hakata | lat=33.59367 | long=130.40820 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia= | wikidata=
+| lastedit=2019-05-09
+| content=A long, old-fashioned shopping streets with a variety of shops selling traditional Japanese goods among other items. Good for picking up souvenirs and other randomness.
+}}
+* {{buy
+| name=Hakata City | alt= | url= | email=
+| address= | lat=33.5900 | long=130.4198 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia= | wikidata=
+| lastedit=2019-05-09
+| content=Another large shopping area is the Hakata Station area. It includes over 230 shops, restaurant floor, and roof observation deck. With regards to gift-giving, if you're pressed for time, take a quick look around the craft and boutique stores in Hakata Station before leaving. Many carry the white clay Hakata dolls that are unique to Fukuoka. Prices range from under ¥1,000. Prices comparable to those found in Tenjin.
+}}
+* {{buy
+| name=Yodobashi Camera store | alt= | url=https://www.yodobashi.com/ec/store/0088/ | email=
+| address= | lat=33.5882 | long=130.4217 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2019-05-09
+| content=For cameras, computers or other electronics, there is a huge Yodobashi Camera store right outside of Hakata station. Go out to the eastern side of the JR station (Chikushi Gate), go down 2 blocks and it will be on your right.
+}}
+* {{buy
+| name=Konoha Mall Hashimoto | alt=木の葉モール橋本 | url=https://konohamall.com/ | email=
+| address= | lat=33.55637 | long=130.32159 | directions=at the Hashimoto Station which ends the Nanakuma subway line
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2019-05-09
+| content=While perhaps not worth a special trip all the way there, it's worth a look if you happen to be anywhere near the area.
+}}
+* {{buy
+| name=¥100 shop | alt= | url= | email=
+| address= | lat=33.5914 | long=130.4199 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia= | wikidata=
+| lastedit=2019-05-09
+| content=Don't miss out on the ¥100 shop. A great place to shop for souvenirs (although many items are made in China), dishes, toys and everything else you didn't think you needed. There is one located in the bus centre building next to Hakata Station. Another is in Daiei, in Tenjin behind the MINA building.
+}}
+* {{buy
+| name=Markis (Fukuoka Momochi) | alt=マークイズ福岡ももち mākuizu... | url=http://www.mec-markis.jp/fukuoka-momochi/ | email=
+| address=2 Chome-2-1 Jigyohama, Chuo Ward | lat=33.5923 | long=130.3641 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2019-05-01
+| content=160-shop shopping center, opened in November 2018.
+}}
+* {{buy
+| name=Kakavaka 福岡 | alt= | url=https://kakavaka1f.thebase.in/ | email=
+| address= Chuo Ward, Daimyo, 1 Chome−3−8, Daimyo631, ４F | lat=33.586442 | long=130.394584 | directions=
+| phone=+81 92-406-8056 | tollfree=
+| hours=13:00-20:00 | price=
+| lastedit=2024-09-20
+| content=Buy past soccer uniforms and vintage clothes.
+}}
+* {{buy
+| name=カーハート WIP ストア 福岡店 | alt= | url=https://www.carhartt-wip.jp/ | email=
+| address=Hakata-ku, 1 Chome-2-51 Daimyo, Chuo Ward | lat=33.586317 | long=130.395380 | directions=
+| phone=+81 927169810 | tollfree=
+| hours=11:00-20:00 | price=
+| lastedit=2024-09-20
+| content=
+}}
+* {{buy
+| name=Amu plaza Hakata | alt=アミュプラザ博多 | url=https://www.jrhakatacity.com/ | email=
+| address=1-1 Hakataekichuogai, Hakata Ward | lat=33.589989 | long=130.420753 | directions=
+| phone=+81 92-431-8484 | tollfree=
+| hours=10:00 ~ 20:00 | price=
+| lastedit=2025-10-19
+| content=It is an integrated shopping mall in Hakata. There are various brands and there are also many good restaurants.
+}}
+
+==Eat==
+[[File:Hakatara-men.jpg|thumb|Hakata tonkotsu ramen]]
+
+Hakata is famous for its style of '''ramen''', known as ''tonkotsu'' (豚骨, lit. "pork bone") ramen, which has a very pungent smell thanks to the thick broth that is made from simmering pork ribs for at least 12 hours (up to 3 days at some of the best restaurants), and is one of [[Japan's Top 3#Ramen|Japan's top three ramen]]. Enjoy it with pickled ginger and lots of sesame seeds. Save the broth, because you can order a refill of noodles (''kaedama'') for around ¥300 at many places.
+
+Although there are restaurants all over town serving ramen at various price levels, some of the best joints are '''''yatai''''', mobile food stalls (see also the Drink section). The stalls are set up early evening and can be found on major streets; particularly in Tenjin (near the post office), Nakasu and Nagahama-Dori. Also, along the river from Canal City, an entire strip of yatai can be found. Although ramen is the norm, you can find anything from yakitori to Italian cuisine. Brush up on your Japanese or pointing skills as these guys don't speak English at all. ''A few tips: respect other customers' space, don't go in large groups (split up and use multiple stalls), and don't stay too long.''
+
+Another regional product Hakata is famous for is the spicy '''''mentaiko''''' (明太子), or '''pollock roe''' condiment, though in actuality these days it is all imported. Enjoy it plain with breakfast, inside an ''onigiri'', or tossed with spaghetti. It's widely available for tourists in JR Hakata Station as well as major department stores, although it needs to be refrigerated.
+
+Fukuoka is also known for having good ''gyoza'' (pork dumplings) and there are many places to try some. (They are a perfect appetizer/side dish for ramen, incidentally.)
+
+Lunch time is probably the best value for the money. Most restaurants will do lunch sets at 1/2 or 1/3 the price of their dinner sets, but serve the same course. If you have a bit more cash to spend and want to have a nice Japanese style lunch, the Grand Hyatt at Canal City and the Excel Hotel near Nakasu are both good. Most of the larger, nicer hotels in the area will serve beautiful lunch sets. Many restaurants and cafes in the area will have lunch sets under ¥1,000.
+
+* {{eat
+| name=Nagahama | alt= | url= | email=
+| address= | lat=33.593501 | long=130.393346 | directions=northwest of Oyafuko St
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2016-03-15
+| content=Famous for Hakata's Nagahama ramen, with stalls (yatai) that get set up daily to handle the locals who are proud of their ramen. You will most likely smell it before you see it, and if you want a true Fukuoka experience is definitely worth a look if not a full meal.
+}}
+* {{eat
+| name=Daimyo | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia= | wikidata=
+| lastedit=
+| content=A few places offer Happy Hour from 17:00-19:00, if you are looking for some refreshment before dinner.
+}}
+*{{eat
+| name=Ichiran | alt=一蘭 | url=http://www.ichiran.co.jp/ | email=
+| address=5-3-2 Nakasugawa, Hakata-ku | lat=33.5933 | long=130.4044| directions=2 min from subway Nakasu-kawabata exit 2; five other outlets around town
+| phone=+81 92 262-0433 | tollfree= | fax=
+| hours=24 hr, 365 days | price=¥650
+| content=A well known ramen chain, dedicated solely to perfecting ''tonkotsu''. Buy a ticket from the vending machine outside (just hit the big top button) and take a seat at the counter. Each seat has a curtain in front and dividers on the side, so nothing distracts you from the noodle experience that awaits. Cellphones, children or conversation are not allowed. Hand over your ticket, receive a questionnaire on how you like your noodles (available in English at some outlets), and choose the middle option (基本 ''kihon'', or "standard") for everything. In under a minute, a bowl of noodles will appear. If you want more noodles or an egg, press the button and ask for ''kaedama'' or ''tamago'' respectively.
+}}
+*{{eat
+| name=Ramen Stadium | url= | email=
+| address= | lat=33.58913 | long=130.41104 | directions=5th floor of Canal City
+| phone= | tollfree= | fax=
+| hours=Daily 11:00-23:00 | price=Place your order by purchasing a food ticket from the vending machine before entering the restaurant
+| content=This celebration of ramen offers 8 restaurants with every style of ramen between Kyushu and Hokkaido. Ballots collected at the center determine a monthly favorite.
+}}
+*{{eat
+| name=Yama-chan | url=http://nagahama-yamachan.jp | email=
+| address= | lat=33.593276 | long=130.393443 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Tasty ramen and late night hours off the streets of Oyafukodori. Cut through the park behind the police box and you're sure to find it. Yama-chan is the owner.
+}}
+*{{eat
+| name=Asahiken Gyoza | url= | email=
+| address=2-15-22 Hakata Ekimae, Hakata-ku | lat=33.59057 | long=130.41662 | directions=
+| phone=+81 92 451-7896 | tollfree= | fax=
+| hours= | price=
+| content= Pot stickers, steamed rice, miso soup and beer.
+}}
+*{{eat
+| name=Tetsu-Nabe | alt=鉄なべ | url=http://www.tetsunabe.co.jp | email=
+| address= | lat=33.5925 | long=130.4141 | directions=near Gion station in Hakata
+| phone= | tollfree=
+| hours= | price=
+| content=There is another restaurant of similar name located in Nakasu, but the Hakata one seems to be the most popular. Be aware though that when you enter, you will be expected to be quick with your order as the place is usually very busy.
+}}
+*{{eat
+| name=Sancho Panza | url=https://sanchopanzafukuoka.com/ | email=
+| address=Daimyo building 11511 |lat=33.5872 | long=130.3960 | directions=enter from Nishidori
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Has a fabulous lunch menu, most dishes around ¥700-800. Tasty wrap tacos and other Latin-American style food is on available. On weekends, there is often live guitar music in the afternoon. In the evening the restaurant also opens the floor to dance: salsa, bachata, merengue and the cha-cha-cha all make their appearance at some point. Usually a ¥500 charge.
+}}
+*{{eat
+| name=RingerHut | url=https://www.ringerhut.jp/ | email=
+| address= | lat= | long= | directions=multiple locations all over Fukuoka
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=A chain restaurant that does Champon (a kind of Chinese noodle dish with seafood and vegetables). Some branches have a system where you put your money in a machine, push the button under the dish of your choice and give your ticket to the staff. Other branches you just order from the menu.
+}}
+* {{eat
+| name=Just Meat Yakiniku | alt= | url=https://www.bakuro09.com/shop/justmeat/ | email=
+| address= Chuo Ward, Daimyo, 1 Chome−14−5 １F B | lat= | long= | directions=
+| phone=+81 927913429 | tollfree=
+| hours=17:00-01:00 | price=
+| lastedit=2024-09-13
+| content=It is a restaurant where you can eat fresh yakiniku.
+}}
+* {{eat
+| name=Hitokuchi Gyoza Taketora | alt= | url=https://r.gnavi.co.jp/gbegjwpf0000/ | email=
+| address=3 Chome-26-27 Haruyoshi, Chuo Ward | lat=33.588013 | long=130.406617 | directions=
+| phone=+81 927072955 | tollfree=
+| hours=17:00-02:00 | price=
+| image=
+| lastedit=2024-09-13
+| content=It is a restaurant that specializes in alcohol snacks such as Japanese gyoza dumplings and gopchang.
+}}
+* {{eat
+| name=Toriko | alt=炭焼き とりこ | url=https://www.instagram.com/sumiyaki__toriko/?hl=ja | email=
+| address=3 Chome-2-17 Otemon, Chuo Ward | lat= | long= | directions=
+| phone=+81 924065388 | tollfree=
+| hours=17:00-00:00 | price=
+| lastedit=2024-12-03
+| content=Great spot for delicious yakitori.
+}}
+* {{eat
+| name=ShinShin | alt=신신라면 | url=http://www.hakata-shinshin.com/ | email=
+| address=3 Chome-2-19 Tenjin, Chuo Ward | lat=33.59271 | long=130.39689 | directions=
+| phone=+81927324006 | tollfree=
+| hours=11:00-03:00 | price=¥1,000~2,000
+| lastedit=2025-09-19
+| content=A restaurant specializing in Japanese ramen noodles
+}}
+* {{eat
+| name=Usagiyorikame | alt=ウサギよりカメ もんじゃ焼き 春吉 | url=https://www.hotpepper.jp/strJ001265349/ | email=
+| address=2 Chome-12-19 1F 101 Haruyoshi, Chuo Ward | lat=33.586618 | long=130.408107 | directions=
+| phone=+81 92-771-3131 | tollfree=
+| hours=18:00 ~ 06:00 (mon ~ 03:00) | price=2000~ 3000¥
+| lastedit=2025-10-19
+| content=It is a restaurant that sells monjayaki and okonomiyaki in Chuo Ward. Indoor smoking is available.
+}}
+* {{eat
+| name=Umeyama tetpei shokudo | alt=梅山鉄平食堂 本店 | url=http://umeyamateppei.com/lime | email=
+| address=일본 〒810-0004 Fukuoka, Chuo Ward | lat=33.585748 | long=130.404493 | directions=
+| phone=+81 92-715-2344 | tollfree=
+| hours=11:30~21:00 mon off | price=1000~ 2000¥
+| lastedit=2025-10-19
+| content=It is a restaurant that sells Japanese home-cooked meals. You can enjoy Japanese home-cooked meals at an affordable price.
+}}
+* {{eat
+| name=Menya Ishi | alt=麺屋 いしヰ | url=https://www.instagram.com/menya_ishii?igsh=MWt4eG54bjByNHo3aw== | email=
+| address=3 Chome−9−5, Hakata Ekimae, Hakata Ward | lat=33.588406 | long=130.416152 | directions=
+| phone= | tollfree=
+| hours=08:00 ~ 16:00 | price=1000 ~ 2000¥ Per person
+| lastedit=2025-11-30
+| content=This is a udon restaurant located around Hakata Station. It is famous for its udon and pollack udon.
+}}
+
+==Drink==
+[[File:Yatai.jpg|thumb|''Yatai'']]
+[[File:Nakasu-yatai.JPG|thumb|''Yatai'' at night]]
+'''''Yatai''''', or street stalls, are plentiful throughout Fukuoka and present a great place to grab a bite to eat and drink while mixing with the locals. Yatai are usually a last stop on a pub crawl since they provide cheap eats that taste better after a long night, and it's easier to start a conversation with a stranger after many beers. Don't rely on one for dinner! And bring your ''meishi'' ('''business cards''') if you have any, because they often get swapped here. Along the river in Hakata, from about 16:00, you'll see the yatai vendors setting up their booths and preparing ingredients for the evening crowds. A few of the yatai vendors speak a bit of English. Just be careful about the prices, sometimes the yatai don't have menus, so be sure to ask what they have and how much things are.
+
+[[File:Oyafukou Street 2010.jpg|thumb|]]
+'''Tenjin''', ¥100 by bus from Hakata Station or to the west of Fukuoka Nishitetsu Station, is one of the best places in the whole country to explore Japanese nightlife. This also includes '''Daimyo''', a farther out area which is becoming the "new Tenjin". The most well-known place to start is {{marker | type=drink | name=''Oyafukō-dōri'' | alt=親不孝通り | lat=33.592878 | long=130.394939}} (親不孝通り); the aptly-named "Disobedient Child Street" comes alive with youth activity, especially on weekend nights. It also has several ex-pat bars. It's only 400 m long but swells with young people at night. Unlike comparable areas in Tokyo, there are no scam bars in Tenjin, and the "snack bars" are not ridiculously overpriced. The area is aimed towards the locals but it is still large, new, fashionable, and full of unique experiences. This is one of the safest places imaginable to drop into a new bar, so why not give it a try?
+
+Some of the smaller bars down the backstreets will often have a table charge of ¥200-500 per person. This usually means you get a tiny bowl of nuts, chips or pickled octopus.
+
+For less adventurous groups, the area abounds with chain ''izakaya'' (Japanese pubs) that have picture menus which make it easy for the traveler who speaks no Japanese. Watami (和民) and Warawara (笑笑) are two such chains. Shirokiya (白木屋), another izakaya, is decent and fairly easy to find. It is on Nishi-dori, across from the Nishtetsu Grand Hotel above Kitamura Camera in the same building as Sam and Dave's, a night club popular with the hip-hop crowd.
+
+The happy hour concept is just beginning to make its way into the bars in the area, so you can now find places that do cheap drinks. Thursday night is also a good time to avoid weekend crowds, find the local ex-pat population and get some good deals on drinks.
+
+In the summer, many of the department stores have beer gardens on their roofs, with buffet style courses and all you can drink for about 2 hours. If you have a bit of cash (around ¥3500) it's a nice way to spend a hot summer evening.
+* {{drink
+| name=The Craic and The Porter | alt= | url= | email=
+| address=2F Kusano Bldg | lat=33.5870 | long=130.3954 | directions=above ABC Flower shop on Oyafuko-dori
+| phone=+81 92 4514-9516 | tollfree= | fax=
+| hours= | price=
+| content=A beer bar for beer-lovers. Features numerous, hard-to-find American and European imports by a very interesting American expatriate. An entertaining time is guaranteed for all.
+}}
+* {{drink
+| name=Off Broadway | alt= | url=https://offbroadwayburgerbar.com/ | email=
+| address=2F Beans Bldg, Oyafukodori | lat=33.5925 | long=130.3945 | directions=Tenjin
+| phone=+81 92 724-5383 | tollfree=
+| hours= | price=
+| content=Run by a friendly American expatriate and is a favorite with navy personnel passing through the region. Serves a great hamburger, but don't expect it to come too quickly. Happy hour from 18:00-20:00 everyday.
+}}
+* {{drink
+| name=The Dark Room | alt= | url= | email=
+| address= | lat=33.59193 | long=130.39551 | directions=close to Off Broadway
+| phone= | tollfree=
+| hours= | price=
+| content=The ''de facto'' hang-out for foreign rock bands playing in the area. The proprietor, Moses, ensures a good time in this multi-level indie hangout. Also has an 8th floor beer garden, which is a great place to kick back on summer evenings. Thursdays are ¥300 Corona beer night.
+}}
+*{{drink
+| name=Happy Cock | url=https://happycock.club/ | email=
+| address=9F, 2-1-51 Daimyo | lat=33.58897 | long=130.39590 | directions=5 minutes walk west from Tenjin Fukuoka Station
+| phone= | tollfree= | fax=
+| hours= | price=All drinks ¥500; all-you-can-drink or all-you-can-eat-and-drink specials available early evenings and some nights ¥2500-3000
+| content=Ignore the suggestive name; this is a popular crowded spot for locals and ''gaijin'' alike. The British expat owner is very friendly.
+}}
+
+* {{drink
+| name=Morris' Black Sheep British Pub | alt= | url=http://www.morris-pub.com/ | email=
+| address= | lat=33.58821 | long=130.39428 | directions=Daimyo
+| phone= | tollfree=
+| hours= | price=
+| content=Does Happy hour from 17:00-19:00. Guinness, Old speckled Hen ¥590 a pint, and cocktails are half price. Fish and chips. Around the corner from the KFC on Nishidori. Open from 17:00. One of four Morris pubs in the same part of town.
+}}
+*{{drink
+| name=Bar Bliss | alt= | url= | email=
+| address=Chuo-ku, Yakuin 2-choume | lat=33.58218 | long=130.39315 | directions=5-min walk from Yakuin station, 10-minute walk from downtown Tenjin
+| phone=+81 92 713-2058 | tollfree=
+| hours=11:00-00:00 (19:00-02:00 closed Su)<!-- these hours don't make sense--> | price=
+| content=Bar/restaurant is a great place to meet interesting locals, variety of shochus and a wide range of western style foods. Guinness is served on tap. Eclectic mix of local Fukuokans.
+}}
+
+==Sleep==
+[[File:THE LUIGANS.JPG|thumb|The Luigans Spa & Resort]]
+There are several hotels around Hakata Station, and in the Gion area, Nakasu, and Tenjin. Hotel options range from capsule hotels and reasonably priced western hotel rooms to more expensive tourist hotels. <!--This sentence does not make sense. What are you trying to say?   As of 2025, there are accommodation taxes of less than ¥20,000 per night and more than ¥20,000 and ¥500 per night. --> 
+
+=== Budget ===
+* {{sleep
+| name=Fukuoka Youth Hostel | alt= | url=https://www.hotel.info/en/fukuoka-youth-hostel/hotel-531653/ | email=
+| address=Hakata-ku, 6-7-23 Hakata-eki Minami | lat=33.57805 | long=130.43147 | directions=subway Hakata
+| phone=+81 92 473-4555 | tollfree=
+| checkin= | checkout= | price=member's bed ¥3460, non-member single room ¥4410
+| content=This hostel is part of the Japan Youth Hostels group and seems very new. No check-in until 16:00, but they'll let you put your bags in the room while you wait.
+}}
+* {{sleep
+| name=Fukuoka Backpackers Hostel | alt= | url=http://fukuoka-hostel.com/ | email=
+| address=Hakata-ku, Hiemachi 11-34 | lat=33.58416 | long=130.42819 | directions=''subway Hakata'', about 15 minutes walk from Hakata station, but a bit further away from the central area
+| phone=+81 92 404-6035 | tollfree=
+| checkin= | checkout= | price=
+| lastedit=2019-05-02
+| content=The hostel in Fukuoka city. Dorm from ¥2,500. Free Wi-Fi. There are free Wi-Fi and luggage storage services.
+}}
+* {{sleep
+| name=Media Cafe Popeye | alt= | url=http://www.media-cafe.net/nakasuhp.htm | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| checkin= | checkout= | price=5-hr stay will cost ¥1,200 where as 10-hr stay is ¥2,600
+| lastedit=2019-05-24
+| content=Internet cafe with multiple locations, e.g. in the Bus Terminal building next to Hakata station as well as in Tenjin. An internet cafe that offers free drinks, razors, toothbrushes, and a shower. Check in between the hours of 22:00-08:00 with options of staying 5-10 hr.
+}}
+
+* {{sleep
+| name=Hotel Cabinas Fukuoka | alt=ホテルキャビナス福岡 | url=http://cabinas.jp/ | email=
+| address= | lat=33.59124 | long=130.4177 | directions=
+| phone= | tollfree=
+| checkin= | checkout= | price=
+| content=No women, or tattooed customers, allowed (you might get away with it if you have small/nonobvious tattoos, but it's a rule and they could throw you out for it if spotted). Big, clean and nice facilities. A standard capsule is ¥3,800, and capsules located in their own private rooms cost more; conversely various discounts can be used (buying a membership card, showing the [http://cabinas.jp/reserve/ "Offers" page on their website] on your phone when you check in) to get the price down to around ¥2,900. There are some English speaking staff, but it seems most of them know a lot of basic hotel-related nouns in English. Free Internet available on the 1st floor (2 PCs) and 2nd floor (5 or so PCs, plus Ethernet sockets where you can plug your own in). Check-in is from 16:00 and check-out is before 11:00. If you book the next day's stay when you check out, they'll let you leave your luggage in your locker all day. Checking out late will cost you ¥500/hr (¥700/hr after 4 hours). All services within the hotel (restaurant food/drinks; massages/body care) are paid for using your capsule number/key wristband, you settle your bill when you check out.
+}}
+
+===Mid-range===
+* {{sleep
+| name=Fukuoka Floral Inn Nishinakasu | alt=フローラルイン西中洲 | url=https://www.floral-nishinakasu.com/en/ | email=
+| address=Chuo-ku Nishi-Nakasu 5-10 | lat=33.59106 | long=130.40476 | directions=subway Nakasu-kawabata
+| phone=+81 92 735-1100 | tollfree=
+| checkin= | checkout= | price=
+| content=Small but clean and quiet rooms, free Internet in lobby. Triples from ¥7800. There is a free curry and pillow selection service, comic book rental, and tea service.
+}}
+* {{sleep
+| name=Comfort Hotel Hakata | alt= | url=https://www.choice-hotels.jp/hotel/hakata/ | email=
+| address= | lat=33.59071 | long=130.41831 | directions=next to Hakata station
+| phone= | tollfree=
+| checkin= | checkout= | price=
+| content=Rooms start at from ¥6,000. Free Internet (Ethernet cable in room), breakfast included. Smoking rooms are smoky, but non-smoking rooms are not. There are free Wi-Fi and free breakfast services.
+}}
+* {{sleep
+| name=S-Peria Hotel Hakata | alt=エスペリアホテル博多 | url=https://www.s-peria.com/hakata/ | email=
+| address=2 Chome-11-4 Hakata Ekimae, Hakata Ward | lat=33.591488 | long=130.416330 | directions=
+| phone=+81 92-412-7272 | tollfree=
+| checkin=15:00 | checkout=11:00 | price=7000¥ ~
+| lastedit=2025-11-30
+| content=It is a quiet and clean hotel, and you can choose a bathtub or shower booth type.
+}}
+
+===Splurge===
+[[File:Hilton_Fukuoka_Seahawk_October_2011.jpg|thumb|Hilton Fukuoka Seahawk]]
+*{{sleep
+| name=With The Style | alt= | url=https://www.withthestyle.com/ | email=
+| address=1-9-18 Hakataeki-minami, Hakata-ku | lat=33.58494 | long=130.42178 | directions=7-minute walk from Hakata station and close to the airport
+| phone=+81 92 433-3901 | tollfree= | fax=+81 92 433-3903
+| checkin=14:00 | checkout=16:00 | price=
+| lastedit=2019-04-30
+| content=A Ryu Kosaka designed upscale boutique resort. Italian dining, Japanese nabe, bar scene, rooftop outdoor spa and an intimate private stay guest lounge. The rooms are spacious and elegant with private balconies, stocked with a complementary mini-bar. English speaking staff.
+}}
+*{{sleep
+| name=Grand Hyatt Fukuoka | alt= | url=https://fukuoka.grand.hyatt.com | email=rsv@grandhyattfukuoka.com
+| address=1-2-82 Sumiyoshi, Hakata-ku | lat=33.5898 | long=130.4103 | directions=in Canal City Hakata
+| phone=+81 92 282 1234 | tollfree=
+| checkin=noon | checkout=15:00 | price=
+| content=Large bathrooms. Guests can use free fitness and swimming pools.
+}}
+* {{sleep
+| name=ANA Crowne Plaza Fukuoka | alt= | url=http://www.ihg.com/crowneplaza/hotels/us/en/fukuoka/hakja/hoteldetail | email=
+| address=3-3-3 Hakata Ekimae, Hakata-Ku | lat=33.58734 | long=130.41774 | directions=
+| phone=+81 92-4717111 | tollfree=
+| checkin= | checkout= | price=from ¥9,975
+| lastedit=2019-05-08
+| content=Free fitness and free Wi-Fi are available. Responses are available in English, Chinese, and Korean.
+}}
+
+==Cope==
+===Consulates===
+
+*{{flag|China}} {{listing
+| name = China | url = http://fukuoka.china-consulate.gov.cn/ | email = fukuoka@csm.mfa.gov.cn
+| address = 1-3-3 Jigyohama Chuo-ku | lat = | long = | directions =
+| phone = +81 92-752-0085 | tollfree = | fax = +81 92-781-8906
+| hours = 09:00-12:00 | price =
+| content =
+}}
+*{{flag|South Korea}} {{listing
+| name = South Korea | url = http://jpn-fukuoka.mofa.go.kr/ | email = fukuoka@mofa.go.kr
+| address = 1-1-3 Jigyohama Chuo-ku | lat = | long = | directions =
+| phone = +81 92-771-0461, +81-90-1367-3638 (during non-working hours) | tollfree = | fax = +81 92-771-0464
+| hours = 09:00-18:00 | price =
+| content =
+}}
+*{{flag|Thailand}} {{listing
+| name = Thailand | url = https://fukuoka.thaiembassy.org/ | email = thaiconsulate.fuk@mfa.go.th, visa.fuk@mfa.go.th (visa enquiries
+| address = 4-1-37 Tenjin Chuo-ku | lat = | long = | directions =
+| phone = +81 92-739-9088, +81 92-739-9090 (consular services) | tollfree = | fax =
+| hours = 09:00-12:00, 13:30-17:30 | price =
+| content =
+}}
+* {{flag|United States}} {{listing
+| name=United States | alt= | url=https://jp.usembassy.gov/ | email=
+| address=5-26 Ohori 2-chome, Chuo-ku | lat= | long= | directions=
+| phone=+81 92-751-9331, +81 3-3224-5000 (ACS after hours emergency) | tollfree=
+| hours= | price=
+| content=
+}}
+* {{flag|Vietnam}} {{listing
+| name=Vietnam | alt= | url=https://vnconsulate-fukuoka.mofa.gov.vn/en-us/Consulate/Consulate%20General/Biography%20Consulate%20General/Pages/default.aspx | email=tlsqvn-fukuoka@shirt.ocn.ne.jp
+| address=F, Aqua Hakata, 5-3-8 Nakasu, Hakata-ku | lat= | long= | directions=
+| phone=+81 92-263-7668 | tollfree= | fax=+81 92-263-7676
+| hours= | price=
+| content=
+}}
+
+==Go next==
+JR train tickets (set of 2 or 4) for one day travel on Limited Express trains are cheaper than individual tickets. The Bullet Train has cheap rates to [[Kitakyushu]] on the weekend (¥3,000 return.)
+* [[Dazaifu]] &mdash; a site of pilgrimage every new year for Japanese students, this small town houses the beautiful Dazaifu Tenmangu Shrine (dedicated to a Shinto deity of learning) and the National Museum (Kyushu).
+* [[Kurume]] &mdash; famous for its ''ramen'' noodles, 30 min from [[Tenjin]] by train.
+* [[Munakata]]
+* [[Itoshima]]
+* [[Karatsu]]
+* [[Iizuka]]
+* [[Yanagawa]]
+* [[Yoshinogari]]
+* [[Beppu]] &mdash; and its famous Hells (unique hot springs for viewing) is a potential day trip at 2 hr via Sonic Limited Express trains (departing via Hakata Station), or a bit longer via bus.
+
+{{routebox
+| image1=Kyushu Shinkansen icon.png
+| imagesize1=100
+| directionl1=N
+| majorl1=Sanyo Shinkansen
+| minorl1=through service
+| directionr1=S
+| majorr1=[[Kagoshima]]
+| minorr1=[[Tosu|Shin-Tosu]]
+
+| image2=Sanyo Shinkansen icon.png
+| imagesize2=100
+| directionl2=N
+| majorl2=[[Hiroshima]]
+| minorl2=[[Kitakyushu|Kokura]]
+| directionr2=S
+| majorr2=Kyushu Shinkansen
+| minorr2=through service
+
+| image3=JR Kagoshima icon.png
+| imagesize3=100
+| directionl3=N
+| majorl3=[[File:JR Sanyo icon.png|90px]]
+| minorl3=[[Kitakyushu]]
+| directionr3=S
+| majorr3=[[Kumamoto]]
+| minorr3=[[Chikushino]]
+
+| image4=Kyushu Expwy Route Sign.svg
+| imagesize4=100
+| directionl4=N
+| majorl4=[[File:Chugoku Expwy Route Sign.svg|90px]]
+| minorl4=[[Kitakyushu]]
+| directionr4=S
+| majorr4=[[Kumamoto]]
+| minorr4=[[Chikushino]]
+}}
+
+{{guidecity}}
+{{geo|33.5833|130.4000}}
+{{isPartOf|Fukuoka (prefecture)}}

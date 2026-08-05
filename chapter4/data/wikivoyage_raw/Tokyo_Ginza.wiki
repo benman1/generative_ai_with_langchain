@@ -1,0 +1,283 @@
+{{pagebanner|Fujiya in Ginza Chuo-ku Tokyo Wikivoyage banner.jpg|pgname=Ginza}}
+
+The '''Ginza''' (銀座) district of [[Tokyo]], literally "Silver Mint", is in the [[Tokyo/Chuo|Chuo]] ward.  It is considered the high fashion center of the city and contains many upscale shops and restaurants.
+
+==Get in==
+
+{{Mapframe|35.66934|139.76570|zoom=15}}
+{{Mapshape}}
+
+===By train===
+Getting to Ginza is easy - in the heart of the area is Ginza station, connected to the Marunouchi (M16), Ginza (G09), and Hibiya (H08) subway lines. Alternatively you may walk to the area from the JR Shimbashi or Yurakucho stations, Higashi-Ginza station on the Toei Asakusa (A11) or the Ginza Itchome station on the Yurakucho (Y19) subway line.
+
+Connections from [[Narita Airport]] can be made either by taking the Keisei line to Ueno, then changing to the Ginza line (¥2,080 and 80 minutes via Keisei's reserved Skyliner service, or ¥1,160 and about 100 minutes via their limited express commuter service), or by JR's Narita Express to Tokyo Station and then the Marunouchi subway (¥2,900, 80 minutes).  Both airport services offer numerous additional connections if your destination is closer to another station.  Domestic passengers flying into [[Haneda|Haneda Airport]] have it easier - Keikyu trains travel directly from the airport to the Asakusa line's Higashi-Ginza station (¥650, 30 minutes).
+
+===By bus===
+Airport Limousine Buses run from the airport to major hotels in Ginza, taking 80–90 minutes under normal highway traffic and costing ¥3000.
+
+==See==
+[[File:San-ai Building at night.jpg|thumb|250px|The San-ai Building at night]]
+* {{see
+| name=San-ai Building | alt= | url= | email=
+| address= | lat=35.67118 | long=139.76464 | directions=
+| phone= | tollfree=
+| hours= | price=
+| image=San-ai Building at night.jpg
+| content='''Closed in 2023 for rebuilding, reopen due 2027.''' The heart of Ginza is the intersection of Chuo-dori and Harumi-dori, dominated by the glass cylinder of this building. With its huge neon sign, it's been ''the'' image of Ginza on postcards and travel books for decades now. The other corners are occupied by '''Wako''' and '''Mitsukoshi''', two of the most prestigious department stores (the former being a cut above), and the '''Nissan Gallery''', which shows off new and classic automobiles.
+}}
+* {{see
+| name=Sony Building | alt= | url=http://www.sonybuilding.jp/e/index.html | email=
+| address=5-3-1 Ginza | lat=35.672084 | long=139.763169 | directions=At Sukiyabashi Crossing.
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Sony Building (Tokyo) | image=Sony Building Japan 2006 - Tokyo - Ginza.JPG | wikidata=Q4385619
+| content=The Sony Showroom has four floors of the latest Sony products, with a small shop on the 3rd floor. The building also houses a BMW showroom.
+}}
+* {{see
+| name=Ginza Blossom | alt=銀座ブロッサム | url=http://ginza-blossom.jp/ | email=
+| address=Ginza 2-15-6 | lat=35.671199 | long=139.771172 | directions=
+| phone=+81 3-3542-8585 | tollfree= | fax=
+| hours= | price=Cost varies by event and seating
+| content=This theater hosts a variety of different events. See the website for a partial listing.
+}}
+* The side streets of Ginza are full of '''art galleries''' featuring paintings, photography, and graphic design. The Nichido Garo (日動画廊) near the B9 exit of the Metro Ginza line is one of the most famous, often frequented by collectors from Europe and the United States.
+* During '''Christmas''', Ginza's streets are illuminated. 126 trees in Ginzanamiki street are decorated with 75 thousand light bulbs, and 76 trees in Hanatsubaki street are decorated 35 thousand light bulbs which are made in the shape of stars. The illuminations are turned on on November 15.
+
+==Do==
+[[File:Saturday in Ginza.jpg|thumb|Saturday on Chuo Dori]]
+
+Weekends on {{marker|type=do|name=Chuo-dori|lat=35.668172|long=139.761833|image=Saturday in Ginza.jpg}} are '''Pedestrians' Paradise''' (歩行者天国), with the street closed to motor traffic during the day. You can catch street music (nothing too loud) and performance, hawkers selling magical puppets which dance without strings, and thousands of other people to bump into.
+
+* {{do
+| name=Kabukiza Theater | alt=歌舞伎座 Kabukiza | url=https://www.kabuki-za.co.jp/ | email=
+| address=4-12-15 Ginza, near the corner of Showa-dori and Harumi-dori | lat=35.66953 | long=139.768 | directions=underground passage from the Higashi-Ginza station of the Asakusa and Hibiya subway lines
+| phone=+81 3-3541-3131 | tollfree= | fax=
+| hours= | price=&yen;4000–&yen;20,000
+| image=Kabuki-za Theatre 2013 1125.jpg | wikidata=Q3082575
+| lastedit=2020-12-30
+| content=The best way to see traditional Japanese theater is to go to Kabuki-za for a single act, or ''hitomaku-mi'', which lasts between one and two hours. This costs around &yen;800, depending on the length, and seating is on the fourth floor. An English audio guide describes the play while you watch, it is worthwhile at &yen;700. You can also see the complete kabuki play, but this is a lengthy affair, and ticket prices can range from &yen;4000 to &yen;20,000. If it's around mealtime, pick up a ''bento'' at one of the local shops and take it in. The current Kabukiza Theater opened its doors in 2013, replacing the previous building which stood from 1950 to 2010.
+}}
+* '''Movie theaters''' are plentiful in the Ginza-Yurakucho area, and as many of them are quite old, they're spacious as well.
+
+==Buy==
+Ginza is the home of Tokyo's oldest and most prestigious '''department stores'''; the most exclusive is probably '''Wako'''. And of course Louis Vuitton, Dior, Chanel and Prada have stores as well, as do most other fashion brands you can think of.
+
+[[Image:Wako1000.jpg|thumb|240px|Wako Department Store]]
+* {{buy
+| name=Wako | alt= | url=http://www.wako.co.jp/ | email=
+| address=4 Chome−5−11 | lat=35.6715 | long=139.76504 | directions=
+| phone=+81 3 3562 2111 | tollfree=
+| hours=10:30-19:00 | price=
+| wikipedia=Wako (retailer) | image=170312 Ginza Tokyo Japan01s3.jpg | wikidata=Q1355621
+| lastedit=2018-07-05
+| content=Japan's most expensive luxury department store, the clock tower of this grand art deco building is a Ginza landmark. Founded in 1881 as a watch and jewellery shop, these still make up the core of their offerings but they've expanded to cover high end houseware to a discerning clientele. If you're itching to drop ¥50,000 on a handkerchief or ¥770,000 on a miniature brass replica of a Victorian serving cart, this is the place to be.
+}}
+* {{buy
+| name=Tōkyō Kyūkyodō | alt=東京鳩居堂 | url=http://www.kyukyodo.co.jp/ | email=
+| address= | lat=35.67104 | long=139.76461 | directions=
+| phone=+81 3-3571-4429 | tollfree= | fax=
+| hours=10:00-19:00 | price=
+| content=Located right across the street from Wako and its landmark clock tower on Ginza's main intersection, this two-floor shop specializes in the traditional Japanese paraphernalia (papers, fans, calligraphy brushes, votive scents etc.). A popular stop for foreigners in search for something exotic and genuine.
+}}
+* {{buy
+| name=Itōya | alt=伊東屋 | url=https://www.ito-ya.co.jp/ | email=
+| address= | lat= | long= | directions=
+| phone=+81 3-3216-0041 | tollfree=
+| hours= | price=
+| content=Beside the huge Matsuya department store, which is beside the huge Mitsukoshi department store (both being prestigious and expensive), which in turn is across the street from Wako. A 9-floor building packed with all things stationery, from pencils to paintbrushes, you name it. Not exactly discount price considering its location and prestige, but a stationery shop with a collection of this size is hard to come by in Japan.
+}}
+*For state of art leather bags fit for the imperial family, try '''Tanizawa''' (銀座タニザワ) down the same avenue.
+* There are many famous brand shops in Namiki street, such as Gucci or Coach. If you are low on cash, you can enjoy just looking around the street.
+* Yurakuchō has branches of two large discount electronics stores, '''Bic Camera''' and '''Sofmap'''. The former, right next to the Yamanote tracks, is housed in what was until 2001 the famous Sogo department store, which in 1958 spawned a popular hit song, "Yurakuchō de Aimashō" ("Let's Meet at Yurakuchō"). The big red building housing the latter used to be a theater for the renowned all-female Takarazuka Revue.
+* {{buy
+| name=Hakuhinkan Toy Park | alt=博品館 | url=http://www.hakuhinkan.co.jp/ | email=
+| address=Ginza 8-8-11 | lat= | long= | directions=south end of Ginza-dori by the elevated highway
+| phone=+81 3-3571-8008 | tollfree= | fax=
+| hours= | price=
+| content=One of the oldest and largest toy stores in Japan (it first opened in 1899), this is the place to go for all the latest cute and strange toys.
+}}
+* {{buy
+| name=Apple Store Ginza |alt=| url=https://www.apple.com/jp/retail/ginza/ | email=
+| address=angle of Chūō-dōri and Matsuya-dōri | lat= | long= | directions=
+| phone=+81 3-5159-8200 | tollfree= | fax=
+| hours= | price=
+|lastedit=2019-04-18| content=Easily recognized by its ultra-modern stainless steel paneled exterior.
+}}
+* {{buy
+| name=Tenshōdō | alt=天賞堂 | url=http://www.tenshodo.co.jp/ | email=
+| address=Ginza 4-3-9 | lat= | long= | directions=on Harumi-dōri
+| phone=+81 3-3562-0025 | tollfree= | fax=
+| hours= | price=
+| content=Jeweler and maker of luxury watches. The upper floors, however, are devoted to model trains, many of which match the watches in intricacy and price.
+}}
+* {{buy
+| name=Mikimoto | alt=ミキモト | url=http://www.mikimotoamerica.com/ | email=
+| address= | lat= | long= | directions=
+| phone=+81 3-3535-4611 | tollfree=
+| hours= | price=
+| content=The inventors of cultured pearls, has their inaugural shop located right next to Wako.
+}}
+* {{buy
+| name=Morioka Shoten | alt=森岡書店 | url= | email=
+| address=Suzuki Building, 1-28-15 Ginza, Chuo-ku, Tokyo | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=A tiny bookstore in a quiet street, it is unique and strange since it sells only one book that changes every week. Authors of the featured book sometimes come in to discuss about it.
+}}
+
+==Eat==
+[[File:Melonpan (26946924541).jpg|thumb|Digging into a melon-pan]]
+
+'''''Melon-pan''''' (メロンパン ''meronpan''), a fluffy sweet bun with a thick, cookie-like cross-hatched crust, was invented at the nearby Imperial Hotel and is now considered a Ginza icon, with Hotel Okura and Hotel Seiyou famous for their versions.  The name comes from the appearance, and the original recipe had no melon at all, but it's often melon-flavored these days and shops like Kimuraya sell melon-pan in special flavors such as coffee or orange.
+
+===Budget===
+* {{eat
+| name=Yoshinoya | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=One of a nationwide chain of rice bowl restaurants, the Ginza location is just north of the Apple Store on Chuo-dori.
+}}
+* Several cheap restaurants can be found in the alleys northwest of the main intersection (Ginza Yon-chome).  They may be difficult to find as they usually have a plain entrance or they are located in an alley between buildings.
+
+Walk along the sides of the Ginza station and around, there are many cheap places to eat and small places have vending machines and are happy to give you English menus and help out with the vending machine- you just have to ask. They are good places to eat and offer good variety. ¥350-900 for a good curry or bowl of ramen. Look for the little curtains and the sound of cooking!
+
+===Mid-range===
+* {{eat
+| name=Mitsukoshi and Matsuya Ginza's | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Basement floors offer a variety of foods at a reasonable price. Food ranges from pre-made bentos to bakeries to sandwich shops. You can also get a quick snack at no cost by trying the various samples that are offered. There are no areas to sit and eat and unless you can get a table on Chuo-dori on the weekend, you may have trouble eating the meals you've purchased.
+}}
+*{{eat
+| name=Nair's | alt= | url=https://www.ginza-nair.com/ | email=
+| address=Ginza 4-10-7 | lat= | long= | directions=
+| phone=+81 3 3541-8246 | tollfree=
+| hours= | price=
+| content=The oldest Indian restaurant in Japan, founded in 1949. The Murghee lunch is a favorite: sit back and let the waiter cut up the chicken for you on your plate.
+}}
+* {{eat
+| name=Nataraj | alt=ナタラジ | url=https://nataraj.co.jp/en/ | email=
+| address=7F,8F,9F | lat= | long= | directions=1 min from Ginza st. A2 exit
+| phone=+81 3-5537-1515 | tollfree=
+| hours=11:30-23:00, lunch to 14:30 | price=
+| content=A terrific Indian vegetarian restaurant in the midst of Ginza, offering an excellent lunch buffet for &yen;1050, and beautiful decor as well.
+}}
+* Ginza is also within walking distance of Yurakucho (for ''izakaya'' and cheap Western restaurants) and Tsukiji (for top-grade sushi).
+
+===Splurge===
+Ginza hosts many of Japan's most exclusive (and expensive) ''ryotei'', many of which require not just reservations but introductions before they'll grant you the privilege of paying up to ¥50,000 per person (excluding drinks) for your meal. The following options are somewhat more down to earth and at the very least accept reservations from the general public, provided you have the funds to pay for the meal.
+
+* {{eat
+| name=Chikuyōtei | alt=竹葉亭 | url=https://g201100.gorp.jp/ | email=
+| address=Ginza 8-14-7 | lat= | long= | directions=Higashi-Ginza stn
+| phone=+81 3-3542-0789 | tollfree=
+| hours=M-Sa 11:30-14:30, 16:30-20:00 | price=
+| content=The original store of Japan's best known ''unagi'' (eel) restaurant chain, serving up luscious ''kabayaki'' (grilled eel with sauce) since 1876. Full courses start from &yen;7350 and climb up to twice that (reservations required), but a basic ''unadon'' with soup is an almost reasonable &yen;2,625.
+}}
+* {{eat
+| name=Ginza Shiseido Parlour | alt=資生堂パーラー | url=http://parlour.shiseido.co.jp/ | email=
+| address=Shiseido Bldg 4-5F, Ginza 8-8-3, and several other nearby locations | lat= | long= | directions=
+| phone=+81 3-5537-6241 | tollfree=
+| hours= | price=
+| content=Operated by the cosmetics giant Shiseido, the Parlour (founded 1902) is one of the swankiest places for Japanese-style Western food. Lunch specials go for &yen;4,000, but the most famous item on the menu is the lobster and abalone curry for &yen;10,000.
+}}
+* {{eat
+| name=Sushi Kanesaka | alt=鮨かねさか | url=http://www.sushi-kanesaka.com/ | email=
+| address=B1/F Misuzu Bldg, 8-10-3 Ginza Chuou-ku | lat=35.667988 | long=139.762643 | directions=
+| phone=+81 3 5568-4411 | tollfree= | fax=
+| hours=11:30-13:00, 17:00-22:00 | price=¥5,000 (lunch), ¥20,000 (dinner)
+| lastedit=2015-12-21
+| content=The main branch of one of Japan's premier sushi restaurants with two Michelin stars, with another branch at the Palace Hotel, as well as two outposts in Singapore. Sushi is prepared fresh for you at the counter while you watch. Ordering dishes individually is not allowed, and the chef would select what he thinks are the best seasonal ingredients for customers. The restaurant is very small with limited seating, so reservations are essential well in advance. Limited English is spoken by the head chef.
+}}
+
+There is another restaurant in Ginza that may stand in a class of its own:
+* {{eat
+| name=Sukiyabashi Jiro | alt=すきやばし次郎 | url=http://www.sushi-jiro.jp/eng-index.html | email=
+| address=Tsukamoto Sogyo Building B1F, 2-15, Ginza 4-chome| lat= | long= | directions=
+| phone=+81 3 3535-3600 | tollfree= | fax=
+| hours=11:30-14:00, 17:30-20:30 (Closed Saturday evenings, Sundays, public holidays, New Year's holiday and mid-August) | price=¥30,000
+| lastedit=2016-10-18
+| content=This three Michelin star restaurant and its owner/chef, Jiro Ono, were immortalized in the 2011 documentary ''Jiro Dreams of Sushi''. The highly expensive course is ''omakase'' only - Jiro himself selects 20 nigiri pieces daily based on that day's catch from the Tsukiji fish market. You are not expected to use soy sauce, as many pieces are already brushed with it. The restaurant only has ten counter seats, and due to its popularity, advance reservations are required by telephone in Japanese. While reservations open on the first day of every month for the following month's seating, they almost always sell out the same day. Reservations via a concierge (hotel, American Express, etc.) may be the best way for foreign visitors to secure a seat.
+}}
+
+==Drink==
+
+===Coffee===
+* {{drink
+| name=Ginza Cafe Paulista | alt=カフェーパウリスタ | url=http://www.paulista.co.jp/ | email=
+| address=Nagasaki Center Bldg 1F, Ginza 8-9 | lat= | long= | directions=
+| phone=+81 3-3572-6160 | tollfree=
+| hours= | price=
+| content=One of the oldest cafes in Japan and a favorite of John Lennon and Yoko Ono, the Paulista opened in 1909 with beans imported directly from Santos, Brazil.
+}}
+
+===Bars and pubs===
+* {{drink
+| name=Three Hundred Bar | alt= | url=http://www.300bar.com/ | email=
+| address=three locations: Fazenda Bldg B1F, 5-9-11; Ginza Dai-Ni Column Bldg B1F, 8-3-12; and 1-2-14 Yurakucho | lat= | long= | directions=
+| phone=+81 3-3572-6300 | tollfree=
+| hours=M-Sa 17:00-02:00, Su holiday 17:00-23:00 | price=All drinks are ¥315
+| content=Both bars have a mixed foreign and Japanese clientele.
+}}
+
+==Sleep==
+Accommodation in Ginza itself is limited and expensive.  You can shave a fair bit off the price by heading around the corner to [[Tokyo/Shinbashi|Shinbashi]], which is a major train hub and has lots of serviceable mid-range and capsule hotels.
+
+===Budget===
+* {{sleep
+| name=Ginza Kokusai Hotel | alt= | url=http://www.ginkoku.co.jp/en/ | email=
+| address=8-7-13 Ginza Chuo-ku | lat=35.668000 | long=139.760421 | directions=use the JR Yamanote Line and the Ginza Subway Line, a 3- or 4-minute walk from the Shimbashi station
+| phone=+81 3-3574-1121 | tollfree= | fax=+81 3-3289-0478
+| checkin=13:00 | checkout=11:00 | price=
+| content=
+}}
+
+===Mid-range===
+* {{sleep
+| name=Hotel Monterey Ginza | url= | email=
+| address=2-10-2 Ginza | lat= | long= | directions=
+| phone=+81 3-3544-7111 | tollfree= | fax=
+| hours= | price=
+| checkin= | checkout=
+| content=This hotel, owned by a Japanese businesswoman, caters to women. Located in the heart of the Ginza district, the Monterey offers comfortable rooms and has a friendly front desk staff. Across the street is one of the many AM/PM convenience stores where a traveler may purchase needed items 24 hr a day.
+}}
+* {{sleep
+| name=Mercure Hotel Ginza | alt= | url=https://all.accor.com/hotel/5701/index.en.shtml | email=
+| address=2-9-4 Ginza | lat= | long= | directions=
+| phone=+81 3-43351111 | tollfree=
+| checkin=14:00 | checkout=11:00 | price=around ¥12,000 per night
+| content=Modern 4-star hotel by the Mercure chain. Though the rooms are quite small, the price in this area can't be beaten. 3min walk to the famous Louis Vuitton boutique on Ginza street.
+}}
+
+===Splurge===
+* {{sleep
+| name=Mandarin Oriental | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| checkin= | checkout=
+| content=This exclusive hotel has fabulous rooms, a world class spa and a Michelin 1 Star Signature Restaurant. The hotel also has fitness facilities that rival anything in Tokyo with views to match.
+}}
+* {{sleep
+| name=Royal Park Hotel in Tokyo | url=http://www.rph.co.jp/english/index.html | email=
+| address=2-1-1 Nihonbashi Kakigara-cho | lat= | long= | directions=
+| phone=+81 3-3667-1111 | tollfree= | fax=
+| hours= | price=
+| checkin= | checkout=
+| content=Five-star accommodation conveniently located in central Tokyo, ideal for business travelers and holiday makers. Easy accessible from Tokyo's Airport, Royal Park Hotel in Tokyo stands next door to the TCAT (Tokyo City Air Terminal) from where buses leave and arrive several times every hour to Narita International Airport.
+}}
+
+==Go next==
+
+* [[Tokyo/Chiyoda|Tokyo Station]] - the Marunouchi and Yaesu districts around Tokyo Station are a 20-minute walk north of Ginza's center
+* [[Tokyo/Chiyoda|Yurakucho]] - west of Ginza, this area houses a mix of commercial and reasonable shopping compared to Ginza's high end areas
+* [[Tokyo/Chuo|Hama-Rikyu Detached Palace Garden]] - south of the Ginza, these former Imperial pleasure gardens are an oasis of tranquility in a hectic city. Here you can catch a tour boat which will take you up the Sumida River to Asakusa. From the river, much of the Tokyo skyline is visible.
+* [[Tokyo/Chuo|Tsukiji]] - south-east of Ginza, this area is famous for the "outer market" of former wholesale fish market.
+* [[Tokyo/Chiyoda|Hibiya Park]] - just west of Ginza past the Sony Building and elevated highway, this park contains many different European styles. In May/June, the azaleas are in bloom.
+* [[Tokyo/Chiyoda|Imperial Palace]] - just north of Hibiya Park, making it an easy walk from Ginza.  Enjoy the open parks and venture a little into the public park area.
+
+{{usabledistrict}}
+{{IsPartOf|Tokyo}}
+{{geo|35.66682|139.76717}}

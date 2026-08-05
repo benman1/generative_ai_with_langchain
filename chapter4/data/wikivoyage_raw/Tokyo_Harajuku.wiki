@@ -1,0 +1,291 @@
+{{pagebanner|Mena-asia_default_banner.jpg}}
+For the fashionable teenager, spending time in '''Harajuku''' (原宿) on the weekends is practically a necessity. Older folks will want to visit too, to see '''Meiji Shrine''' (''Meiji Jingū'') and '''Yoyogi Park'''.
+
+==Understand==
+The broad, tree-lined avenue leading downhill from the southern end of the JR station is '''Omote-sandō''' (表参道), which leads to the upscale [[Tokyo/Aoyama|Aoyama]] district. The street is full of cafes and clothing stores. For teenagers, though, the place to be is '''Takeshita-dori''', which is a bustling narrow street several blocks to the north.
+
+Nearby '''Yoyogi Park''' (代々木公園 ''Yoyogi-kōen'') was the site of the first successful powered aircraft flight in Japan, on December 19, 1910, by Captain Yoshitoshi Tokugawa, following which it became an army parade ground. During the postwar occupation, it was the site of the Washington Heights residence for U.S. officers. It later was selected as the site for the 1964 Tokyo Olympics, and the distinctive Olympic buildings designed by Kenzo Tange are still nearby. In 1967, it was made into a city park.  Today, the park is a popular hangout, especially on Sundays, when it is used as a gathering place for people to play music, practice martial arts, etc. The park has a bike path, and bicycle rentals are available. As a consequence of Japan's long recession, there are several large, but surprisingly quiet and orderly, homeless camps around the park's periphery.
+
+==Get in==
+{{mapframe|35.671|139.703|zoom=14}}
+{{Mapmask|35.6689,139.6910|35.6678,139.6918|35.6682,139.6933|35.6684,139.6998|35.6693,139.7024|35.6645,139.7017|35.6638,139.7040|35.6613,139.7078|35.6630,139.7104|35.6642,139.7087|35.6652,139.7097|35.6658,139.7102|35.6670,139.7113|35.6672,139.7110|35.6698,139.7133|35.6705,139.7137|35.6719,139.7127|35.6733,139.7125|35.6757,139.7127|35.6746,139.7070|35.6777,139.7060|35.6795,139.7047|35.6805,139.7045|35.6800,139.7009|35.6810,139.6985|35.6809,139.6975|35.6801,139.6961|35.6797,139.6947|35.6773,139.6936|35.6742,139.6914|35.6697,139.6908|35.6689,139.6910}}
+{{Mapshapes|Q682894}} <!-- Tokyo Metro -->
+{{Mapshapes|Q247782}} <!-- Toei Subway -->
+{{Mapshape|title=Rinkai Line|wikidata=Q225095|type=geoline|stroke=#00b48d|stroke-width=4|stroke-opacity=1}}
+{{Mapshape|title=Tokyo Monorail|wikidata=Q8015774|type=geoline|stroke=#ff0000|stroke-width=4|stroke-opacity=1}}
+
+===By train===
+'''JR Harajuku Station''' on the Yamanote Line is the obvious way to get to Harajuku. The station is next to the entrance to Meiji Shrine and to the beginning of Omote-sandō.
+
+===By subway===
+'''Meiji-jingu-mae''' Station (on the Chiyoda and Fukutoshin subway lines) has exits onto Meiji-dori and right in front of the entrance to Meiji Shrine, next to JR Harajuku Station. The subway is better than JR for getting here from central Tokyo, but the Yamanote Line is easier if you are coming from Tokyo Station. The nearby '''Omotesando''' Station (on the Ginza and Hanzomon subway lines) is further down Omote-sandō near the intersection with Aoyama-dori. Omotesando station has a variety of boutiques and restaurants in the underground station complex named Echika Omotesando.
+
+===On foot===
+Harajuku is 15 minutes away from [[Tokyo/Shibuya|Shibuya]] by foot, just follow the train tracks along Koen-dori from the scramble crossing. (You should pass Tower Records on your right and the Yoyogi National Gymnasium on your left.)  If you have more time, see the suggested walking tour below.
+
+==Get around==
+
+==See==
+
+===Youth culture===
+[[File:View of Yoyogi Park & Meji Shrine.JPG|300px|right|thumb|View of Yoyogi Park and Meji Shrine from Shinjuku]]
+[[File:SpikedBlonde_Kneeling.JPG|thumb|Harajuku fashion in Yoyogi Park]]
+
+If it's Harajuku's '''youth culture''' you want to see, don't even bother unless it's a Sunday. Each group stakes out its territory around '''Yoyogi Park''' (代々木公園 ''Yoyogi-kōen''). Keep in mind that Harajuku is well known worldwide, so many tourists show up on Sundays. Best to be a bit early to avoid being stuck between big tourist groups.
+
+* The bridge across the train tracks sometimes has teenagers dressed up as '''Gothic Lolita''' and other extreme Japanese youth fashions. Besides just hanging out with friends, many come here to be snapped by the magazine photographers who mingle. Unfortunately, as of lately, the police seem to be cracking down on loitering, so they are becoming increasingly rare.
+* Over by the entrance to the park, people with greased hair listen to '''rockabilly''' music and dance in their vintage jeans. This subculture has been around since the early 1980s.
+* The sidewalks along the south side are usually occupied by '''junk vendors''' and loud '''rock bands'''. Both of these groups periodically get swept away by police crack-downs, though.
+* The tree-lined area leading from the south end of the park to Shibuya is filled with all sorts of '''street performers''', mostly folk-pop singers, but also including hip-hop dancing and street theater.
+
+===Shrines===
+[[File:MeijiShrine_Maiden.JPG|thumb|250px|Shrine maiden at Meiji Jingu, offering a bit of serenity among all the surrounding commerce]]
+[[File:Meiji Shrine, Barrels of sake.jpg|thumb|Meiji Shrine, barrels of sake]]
+
+* {{see
+| name=Meiji Shrine | alt=明治神宮 ''Meiji Jingū'' | url= | email=
+| address= | lat=35.676111 | long=139.699167 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=Free
+| content=Tokyo's grandest Shinto shrine, built in 1920 to commemorate the late Emperor Meiji, who oversaw Japan's rapid industrialization and rise to major world power status in the 19th and early 20th centuries. Like all of Japan's major shrines, it's large in scale but simple in structure, entered via a winding path and through a giant ''torii'' gate. On summer weekends you have a very good chance of catching a Japanese wedding in progress here; the shrine is also packed on New Year's Eve when people come here to celebrate the new year. An excellent place for those who wish to experience an oasis of tranquility among the hustle and bustle of the rest of the area. Also a popular and less controversial alternative to the [[Tokyo/Chiyoda#Yasukuni Shrine|Yasukuni Shrine]] for Japanese politicians to offer prayers at.
+}}
+* {{see
+| name=Yoyogi Park | alt=代々木公園 ''Yoyogi Kōen'' | url= | email=
+| address= | lat=35.6701 | long=139.6991 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| lastedit=2015-03-12
+| content=In springtime, Yoyogi Park is full of cherry blossoms and people partying under the trees. Due to massive littering, park administration has designed trash collection points. The later evening gets, the more intoxicated some party people may be.
+}}
+* {{see
+| name=Tōgō Jinja | alt=東郷神社 | url= | email=
+| address=1-5-3 Jingumae | lat=35.671409 | long=139.706441 | directions=5 minutes from Harajuku station
+| phone= | tollfree=
+| hours= | price=
+| content=This shrine was established for Admiral Tōgō Heihachirō, after his victory at the naval battle of Tsushima in 1905.
+}}
+
+==Do==
+===Walking tour: Harajuku to Shibuya via Omote-sando===
+An interesting and recommended walk will let you experience Harajuku and [[Tokyo/Shibuya|Shibuya]], and all of the trendy places in between.
+
+Starting from the Takeshita exit (竹下口) of JR Harajuku station, walk straight away from the station down Takeshita-dori (竹下通り), where you will almost certainly run into the mingling pedestrian crowds. When you reach the first major crossroad, Meiji-dori (明治通り), turn right.
+
+When you reach the tree-lined Omote-sandō, turn left. Omote-sandō is home to the highest of high-fashion stores, including Ralph Lauren, Coach, and Yves St. Laurent.
+
+The approximate half-way point is where Omote-sandō meets Aoyama-Dori (青山通り). There is very little of interest beyond this point, so one option is to walk back down Omote-sandō and return to Harajuku. If you elect to go forward then turn right on Aoyama-Dori and you will eventually pass United Nations University on your right, and Aoyama Gakuin University on your left, before continuing down and finishing up at Shibuya's world-famous pedestrian crossing.
+
+Allow yourself approximately two hours for this walk.
+
+===Bicycling===
+
+* {{do
+| name=Yoyogi Park | alt=代々木公園 Yoyogi-kōen | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Has a bike path and bicycle rentals are available.
+}}
+
+===Salons===
+
+Harajuku and Omote-sandō are home to many upscale beauty salons, with prices to match.
+
+* {{do
+| name=VIRGO | url=http://www.virgo-hair.com/ | email=
+| address=2-32-3 Jingumae | lat= | long= | directions=near the BEAMS Harajuku branch
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Actresses and models sometimes use this salon.
+}}
+
+==Buy==
+[[File:Takeshita SexyDynamite.JPG|thumb|Sexy Dynamite and more, at Takeshita-dōri]]
+[[File:OmotesandoHills Outside.JPG|thumb|Omotesando Hills, upscale shopping on Omote-sandō]]
+
+Harajuku has two major shopping streets, which couldn't be more different to each other: ''Takeshita-dōri'' and ''Omote-sandō''.
+
+The {{marker |type=buy | name=Takeshita-dōri | lat=35.67142 | long=139.70375}} (竹下通り) targets teens and preteens. This street is guaranteed to fill any adult's Hello Kitty quota in milliseconds. Lately it's been nudging towards an older age bracket though, and now also caters to angsty teens looking for frilly Victorian "Gothic Lolita" clothing or black lipstick. Runs from just outside the Takeshita exit of JR Harajuku station down to Meiji-dori.
+
+Second is {{marker |type=buy| name=Omote-sandō | alt= | lat=35.66744 | long=139.70755}} (表参道), a tree-lined upscale shopping street appealing to adult, or at least more expensive, tastes. It is sometimes compared to Champs-Élysées in Paris. Runs from JR Harajuku station towards Aoyoma, with the most expensive stores clustered towards the eastern Aoyama end.
+
+* {{buy
+| name=Harajuku-SoLaDo | alt=原宿ソラド | url=http://www.solado.jp | email=
+| address=1-8-2 Jingumae | lat=35.670352 | long=139.706076 | directions=
+| phone=+81 3-6440-0568 | tollfree= | fax=
+| hours=M-F 11:00-21:00, Sa Su 10:30-21:00 | price=
+| content=Shopping center in Harajuku with 11 clothes shops.
+}}
+* {{buy
+| name=Kiddy Land | url=http://www.kiddyland.co.jp/en/index.html | email=
+| address=6-1-9 Jingumae | lat=35.667687 | long=139.706537 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=A huge toy store on Omote-sandō, near the entrance to Cat Street.
+}}
+* {{buy
+| name=Laforet Harajuku | url=http://www.laforet.ne.jp | email=
+| address=1-11-6 Jingumae | lat=35.669137 | long=139.705376 | directions=
+| phone=+81 3-3475-0411 | tollfree= | fax=
+| hours=Daily 11:00-20:00 | price=
+| content=A large shopping mall owned by the same company that runs Omotesando Hills, but targeting a decidedly younger audience. In summer and winter, they have big sales.
+}}
+* {{buy
+| name=Omotesando Hills | alt= | url=http://www.omotesandohills.com/ | email=
+| address=4-12-10 Jingumae | lat=35.66725 | long=139.70874 | directions=
+| phone=+81 3-3497-0310 | tollfree= | fax=
+| hours= | price=
+| content=Designed by Tadao Ando and built by Mori Building of Roppongi Hills fame, this is a super-chic shopping mall that caters to those "independent, style-conscious urbanites" (to quote the site) who couldn't possibly wear anything except the latest fashions or eat chocolates not prepared by a famous Parisian ''patissier''. For the rest of us, it's still an interesting browse, and the restaurants on the top floor may be worth a splurge for a light lunch.
+}}
+* {{buy
+| name=Oriental Bazaar | alt= | url=http://www.orientalbazaar.co.jp/en/ | email=
+| address=5-9-8 Jingumae | lat=35.66729 | long=139.70746 | directions=
+| phone=+81 3-3400-3933 | tollfree=
+| hours= | price=
+| content=A kitschy Tokyo institution for tourists and expats alike, with four floors of shopping stocking everything from kamikaze T-shirts to foreigner-sized kimono. Still, this is definitely the easiest way to get your souvenir shopping done. The Bazaar is housed in an instantly recognizable building with a faux-Chinese temple roof.
+}}
+* {{buy
+| name=YM Square | url= | email=
+| address=4-31-10 Jingumae | lat=35.669040 | long=139.706285 | directions=just north of the Jingumae intersection along Meiji-dori
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Known for its two big used clothes shops: Kinji and Hanjiro.
+}}
+* {{buy
+| name=Tokyu Plaza Harajuku Harakado | alt=東急プラザ原宿「ハラカド」 | url=https://www.tokyu-plaza.com/harakado/ | email=
+| address=6 Chome−31−21, Jingumae | lat=35.668312 | long=139.704694 | directions=
+| phone= | tollfree=
+| hours=11:00 ~ 23:00 | price=
+| lastedit=2025-10-26
+| content=It is a shopping complex located in Harajuku. It features a bathhouse underground.
+}}
+
+==Eat==
+Omote-sandō has occasionally been dubbed the [[Paris/8th_arrondissement|Champs-Elysées]] of Tokyo, which is true at least for the general price level of the trendy cafes and eateries along the road.
+
+The must-eat item of Takeshita-dori is the '''Harajuku crêpe'''.  It's a treat of a fresh-made crêpe rolled into a cone and stuffed mostly with whipped cream and other goodies such as strawberries, chocolate, even whole slices of cheesecake; the more adventurous options including tandoori chicken. Just stroll down the street and you will see four or five different shops.  Most flavors cost around ¥500.
+
+In terms of eating a meal in Harajuku, the vast majority of restaurants serve Western or Indian food. If it's Japanese food you're looking for, you're probably best off eating before or after Harajuku.
+
+===Budget===
+* {{eat
+| name=Tenya | alt=てんや | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=&yen;500 for a bowl
+| content=This fast-food tempura chain has an outlet on Meiji-dori just to the north of the Meiji-dori/Omote-sandō intersection.
+}}
+* {{eat
+| name=Kebab Box J | url= | email=
+| address=1-8-8 Jingumae | lat= | long= | directions=on Meiji-dori between Takeshita-dori and Omote-sandō
+| phone=+81 3-3470-0706 | tollfree= | fax=
+| hours=10:30-21:00 | price=Chicken or beef kebabs &yen;500
+| content=Whereas most doner kebabs in Tokyo are served out of a van, Kebab Box J's store is firmly attached to the ground. Friendly staff wear cowboy hats.
+}}
+* {{eat
+| name=Kyushu Jangara | alt=九州じゃんがら | url= | email=
+| address=1-13-21 Jingumae | lat= | long= | directions=top of Omote-sandō street, right by the intersection
+| phone=+81 3-3404-5572 | tollfree= | fax=
+| hours= | price=
+| content=One of the best-known ''[[Japan#Noodles|tonkotsu ramen]]'' shops in Tokyo, where you can choose between five degrees of noodle thickness, three levels of soup texture, and three levels of soup fattiness.
+}}
+* {{eat
+| name=Sakuratei | alt=さくら亭 | url=http://www.sakuratei.co.jp/en/ | email=
+| address= | lat= | long= | directions=go down Takeshita street and make a left after the hair salon 2010 sign. It is behind the red Design Festa Art Gallery
+| phone= | tollfree= | fax=
+| hours= | price=An all you can eat course is around &yen;1300 for 2 hours
+| content=A great '''Okonomiyaki''' restaurant where many local artists work.
+}}
+* {{eat
+| name=Arms Burger | alt= | url=https://arms-burger.com/ | email=
+| address= | lat= | long= | directions=just outside of Yoyogi Park, near the dog park entrance
+| phone= | tollfree=
+| hours= | price=
+| content=This small, Americana-inspired eatery is nestled right off the main footpath, and serves lots of Western food, including a wide burger selection (try the avocado burger!) Also serves fries, chili dogs, and other non-Japanese fare. American beer selection available. The place fills up pretty fast, so swing by before a stroll in Yoyogi and put your name in it.
+}}
+* {{eat
+| name=JS Burgers Cafe | url= | email=
+| address=6-6-2 2F Jingumae | lat= | long= | directions=Above an Italian restaurant, next to TGI Friday.
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Clean, bright, upmarket burger chain. A set meal of burger, fries and a drink costs around &yen;1200. The thick chilli sauce is recommended.
+}}
+* {{eat
+| name=Eggs N' Things | alt= | url=https://www.eggsnthingsjapan.com/harajuku/ | email=
+| address=30-2, Jingumae 4-chome | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=American-style all-day breakfast joint from Hawaii. Eggs served every way imaginable - pancakes, Eggs Benedict, with sausage, etc. Wildly popular at lunchtime, with lines backing down the street, so go early or late (possibly after 19:00).
+}}
+* {{eat
+| name=R/O-426 | url= | email=
+| address=Jingumae 4-26-18 | lat= | long= | directions=Down the small walking street beside Ralph Lauren
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Small burger and beer joint with the kitchen housed inside a small, Airstream trailer. Outdoor patio seating just above a small walkway where you can watch wannabe models and photographers capture bright-eyed moments in the afternoon sun.
+}}
+
+===Mid-range===
+
+* {{eat
+| name=Cafe Studio | url=http://www.cafe-studio.jp | email=
+| address=4-31-10 Jingumae | lat=35.669079 | long=139.706142 | directions=
+| phone=+81 3-3478-0182 | tollfree= | fax=
+| hours=Daily 11:00-23:00 | price=
+| content=This restaurant/cafe often holds events including guest speakers and live shows. The hamburger menu is popular.
+}}
+
+===Splurge===
+
+* {{eat
+| name=Fonda de la Madrugada | url=http://www.fonda-m.com | email=
+| address=2-33-12 Jingumae | lat=35.673484 | long=139.708066 | directions=
+| phone=+81 3-5410-6288 | tollfree= | fax=
+| hours=M-Th Su 17:30-02:00, F Sa 17:30-05:00 | price=Expect to pay around &yen;5000 per person for food and drinks, plus a 10% service charge
+| content=Located in a cavernous basement, Fonda de la Madrugada is regarded as one of the best Mexican restaurants in Tokyo. Menu in English, Spanish and Japanese.
+}}
+
+==Drink==
+Takeshita-dori is full of heavily advertised '''animal cafes''' when you can play with increasingly exotic animals, ranging from cats and rabbits to hedgehogs and owls.  Yes, they're ''kawaii'', but do your research first: many of the animals are poorly cared for and visibly stressed out by being forced to interact with strangers constantly.
+
+==Sleep==
+
+==Stay safe==
+There are lots of touts around Takeshita-dori. Touting is almost always illegal and there are street enforcement teams in Takeshita-dori holding signs to remind visitors not to follow touts. But the enforcement teams have very impact on the touting activity. Simply don't follow any touts despite any promises of free drinks or free shows.  
+
+==Go next==
+* [[Tokyo/Shibuya|Shibuya]] is within walking distance if you're still in the mood for more teenybopping.
+
+{{routebox
+| image1=JR JY line symbol.svg
+| imagesize1=30
+| directionl1=N
+| majorl1=[[Tokyo/Toshima|Ikebukuro]]
+| minorl1=[[Tokyo/Shinjuku|Shin-Okubo]] ← [[Tokyo/Shinjuku|Shinjuku]]
+| directionr1=S
+| majorr1=[[Tokyo/Gotanda|Gotanda]]
+| minorr1=[[Tokyo/Shibuya|Shibuya]] → [[Tokyo/Ebisu|Ebisu]]
+
+| image2=Logo of Tokyo Metro Chiyoda Line.svg
+| imagesize2=30
+| directionl2=W
+| majorl2=[[Machida]]
+| minorl2=[[Tokyo/Setagaya|Shimo Kitazawa]] ← into [[File:Odakyu odawara.svg|30px]] ← [[Tokyo/Shibuya|Yoyogi Uehara]]
+| directionr2=E
+| majorr2=[[Tokyo/Bunkyo|Nezu]]
+| minorr2=[[Tokyo/Akasaka|Akasaka]] → [[Tokyo/Chiyoda|Nijubashimae]]
+
+| image3=Subway TokyoFukutoshin.png
+| imagesize3=30
+| directionl3=N
+| majorl3=[[Tokyo/Toshima|Ikebukuro]]
+| minorl3=[[Tokyo/Shinjuku|Shinjuku 3Chome]]
+| directionr3=S
+| majorr3=[[Tokyo/Meguro|Jiyūgaoka]]
+| minorr3=[[Tokyo/Shibuya|Shibuya]] → into [[File:Tokyu TY line symbol.svg|30px]] → [[Tokyo/Meguro|Naka Meguro]]
+
+}}
+
+{{usabledistrict}}
+{{IsPartOf|Tokyo}}
+{{geo|35.6683|139.7089}}

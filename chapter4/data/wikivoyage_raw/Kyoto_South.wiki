@@ -1,0 +1,304 @@
+{{pagebanner|Mena-asia_default_banner.jpg|unesco=yes}}
+'''Southern Kyoto''' ({{lang|ja|洛南}}) covers a large part of Japan's [[Kyoto|former capital]], stretching from the Ōharano area in the west to Fushimi-ku, Daigo, and the southern tip of Higashiyama-ku in the east.  The ancient city of [[Uji]] borders the district to the southeast.
+[[Image:Daigo-ji in autumn, Kyoto.jpg|thumb|300px|Autumn foliage at Daigo-ji]]
+Some of the district's better-known attractions include '''Daigo-ji''' - which is inscribed as a [[World Heritage Site]] within the group "Historic Monuments of Ancient Kyoto" - and the seemingly endless lines of torii stretching up the mountainside above '''Fushimi-Inari Shrine'''.
+
+==Get in==
+
+===By train===
+
+Originating from the city's main transport hub at Kyoto Station, the '''JR Nara Line''' is a convenient link for tourists travelling between [[Kyoto/Central|Central]] and Southeastern Kyoto.  Trains running on the '''Keihan Main Line''' fulfill a similar role, connecting [[Kyoto/Higashiyama|Eastern Kyoto]] to the south (although they do ''not'' stop at Kyoto Station).  '''JR Inari Station''' and '''Keihan Fushimi-Inari Station''' both put visitors almost at the doorstep of the Fushimi-Inari Shrine, one of the district's most famous attractions. The Keihan Line also provides easy access for those continuing on to [[Uji]] or [[Hirakata]]. The '''Kintetsu Kyoto Line''' runs west of the '''JR Nara Line''', and is convenient for going to the Nintendo Museum just over the border in [[Uji]].
+
+===By subway===
+
+From Central and Eastern Kyoto, the municipal subway system's '''Tōzai Line''' goes as far south as '''Rokujizō Station''' where passengers can transfer to the JR Nara Line.  The Tōzai Line stations '''Ono''' and '''Daigo''' bring travellers within reach of Zuishin-in and Daigo-ji, respectively.
+
+===By bus===
+To get to the Fushimi area by bus, take Bus 5 South (南5) to reach Tōfuku-ji (Tofukuji-michi) and Fushimi Inari Taisha (Inari Taisha-mae). Make sure you are on the South bus; the other number 5 bus will take you the opposite direction (through [[Kyoto/Higashiyama|Higashiyama]] all the way to [[Kyoto/North|Northern Kyoto]]).
+
+There are no direct buses to the Oharano area, so it's best to travel via Hankyu Railway to Higashimuko Station. From here, you can then take the Hankyu Bus to get closer to other attractions.
+
+==See==
+{{Mapframe|34.950|135.738|zoom=11}}
+===Southeast===
+
+[[File:Fushimi Inari Fox.jpg|thumb|250px|Fox guardian at Fushimi Inari Taisha]]
+*{{see
+| name=Fushimi Inari Taisha | alt=伏見稲荷大社 | url=http://inari.jp/ | email=
+| address= | lat=34.967222 | long=135.772778 | directions=Keihan Main Line train to Fushimi-Inari Station or JR Nara Line to Inari Station
+| phone=+81-075-641-7331 | tollfree= | fax=
+| hours=No opening or closing times are listed, but if you arrive before 08:00 you'll beat most of the crowds | price=Admission is free
+| wikipedia=Fushimi Inari-taisha | image=Hushimi-inari-taisha haiden.jpg | wikidata=Q714828
+| lastedit=2018-11-17
+| content=Another of Kyoto's jewels, located just south of Higashiyama in the Fushimi area. Dedicated to Inari, the Japanese fox goddess, Fushimi-Inari-taisha is the head shrine (''taisha'') for 40,000 Inari shrines across Japan. Stretching 230 meters up the hill behind it are hundreds of bright red ''torii'' (gates). A visitor could easily spend several hours walking up the hillside, taking in the beautiful views of the city of Kyoto and walking through the ''torii'', which appear luminescent in the late afternoon sun. Countless stone foxes, also referred to as Inari, are also dotted along the path. Watch your fingers as you go - the fox spirits are said to be able to possess people by slipping through their fingernails.
+}}
+*{{see
+| name=Fushimi Momoyama Castle | alt=桃山城, Momoyama-jō; officially 伏見城, Fushimi-jō | url= | email=
+| address= | lat=34.939501 | long=135.77686 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Fushimi Castle | image=FushimiCastle.JPG | wikidata=Q1196273
+| content=This castle was once a favorite of Toyotomi Hideyoshi. The original was dismantled in 1623, but a 1964 reconstruction went up in its memory with a small museum and gold-lined tea room.
+}}
+*{{see
+| name=Teradaya | alt=寺田屋 | url= | email=
+| address= | lat=34.930406 | long=135.759577 | directions=
+| phone= | tollfree= | fax=
+| hours=Daily 10:00-16:00 | price= ¥400
+| content=It was here at this inn where Ryōma Sakamoto, a famous samurai who wanted to overthrow the Tokugawa, was injured in an attack, although he escaped. Some pictures, his handgun, and other historical artifacts are viewable inside.
+}}
+
+*{{see
+| name=Tōfuku-ji | alt=東福寺 | url=http://www.tofukuji.jp/english/ | email=
+| address=15-778 Honmachi, Higashiyama-ku | lat=34.975707 | long=135.773676 | directions=
+| phone=+81 75-541-2565 | tollfree= | fax=
+| hours=Daily 09:00-16:00 (varies, see website) | price=Admission to grounds free; garden ¥400
+| wikipedia=Tōfuku-ji | image=TofukujiSanmon.jpg | wikidata=Q2166743
+| content=A large temple complex with many small and beautiful gardens nearby. Hordes of Japanese tourists visit during the fall months, when the leaves show a dazzling array of colors, but it's not as well known to foreigners. A pleasant side path through the woods connects it to the Fushimi Inari grounds. Provides beginner Zen meditation sessions on Sunday mornings.
+}}
+*{{see
+| name=Jōnan-gū Shrine | alt= | url=http://www.jonangu.com | email=
+| address=7 Nakashima Tobarikyū-chō, Fushimi-ku | lat=34.951119 | long=135.746556 | directions=
+| phone=+81 75-623-0846 | tollfree= | fax=
+| hours=Daily 09:00-16:30 | price=Entrance to the shrine grounds is free, but the garden costs ¥500 to enter
+| image=Jonangu shrine.jpg | wikidata=Q11426034
+| content=Although Jōnan-gū Shrine is rarely visited by foreign tourists, it is a beautiful shrine with extensive history. It was established by Emperor Kammu when Kyoto became the nation's capital. At the end of the Heian period, it became home to retired emperor Goshirakawa. As a result, the beautiful Rakusui-en Garden was constructed. As a former Imperial Villa, Jōnan-gū Shrine is a great alternative for those who are unable to secure reservations to Shugakuin or Katsura Imperial Villas, because no reservations are required to enter Jōnan-gū Shrine's garden.
+}}
+*{{see
+| name=Daigo-ji | alt=醍醐寺 | url=http://www.daigoji.or.jp/ | email=
+| address=22 Higashioji-cho, Daigo | lat=34.951111 | long=135.819444 | directions=
+| phone=+81 75-571-0002 | tollfree= | fax=
+| hours=The Garan and Sanbōin are open Mar-Nov: daily 09:00-17:00, and Dec-Feb: daily 09:00-16:00. The museum is open daily 09:00-16:00 | price=Each part costs ¥600 to enter however discount tickets can be purchased to see two (¥1000) or all three (¥1500)
+| wikipedia=Daigo-ji | image=DaigojiPagoda3242.jpg | wikidata=Q1157535
+| content=Daigoji is a large temple complex consisting of the garan (main complex), Sanbōin Garden, and Reihōkan Museum. The size and position of the temple, slightly removed from the city, creates a more peaceful, serene setting. As a registered [[World Heritage Site]], the temple has a lot of history, with the oldest remaining structure being the five-story pagoda built in 951. The Sanbōin is the temple's garden, and despite being rather pricey is truly beautiful. The museum houses many of the temple's treasures. Daigoji Temple is famous for being one of Kyoto's best places to view cherry blossoms in the spring and the leaves in the fall. Although the main temple complex is always worth visiting, those visiting in the autumn should consider paying the extra fee to see the Sanbōin garden, as it becomes especially beautiful with the vivid colors of the leaves (sadly pictures are not allowed in the Sanbōin).
+}}
+*{{see
+| name=Zuishin-in | alt=随心院 | url=http://www.zuishinin.or.jp/ | email=
+| address= | lat=34.959494 | long=135.816286 | directions=
+| phone=+81 75-571-0025 | tollfree= | fax=
+| hours=Daily 09:00-16:30 | price=¥400
+| image=Zuishinin Kyoto03s3s4592.jpg | wikidata=Q11658945
+| content=According to legend, this is where Ono no Komachi, one of Japan's famous femme fatales, resided. She made Prince Fukakusa agree to court her for 100 days before she would agree to marry him, but on the 99th day, he died, leaving her single and her beauty to fade.
+}}
+*{{see
+| name=Kajū-ji | alt=勧修寺 | url= | email=
+| address=27-6 Kanshujiniōdō-chō, Yamashina-ku | lat=34.961214 | long=135.807558 | directions=nearest station: Subway Tōzai Line's Ono Station
+| phone=+81 75-571-0048 | tollfree=
+| hours=Daily 09:00-16:00 | price=¥400
+| wikipedia=Kajū-ji | image=Shinden.JPG | wikidata=Q772598
+| content=A temple with a peaceful lily pond and a variety of cherry trees.
+}}
+
+===Oharano area===
+The Ōharano area, located in the Southwest, is named after Ōharano Shrine, one of the most famous sites in the area. While it is not really so far from the inner city, it does not reflect any of the stereotypical images one has when they think of Kyoto. The area is so rural, it feels as though the nearest city is hundreds of miles away. Most tourists are not even aware this area exists, so it can be a nice change of pace for those who have the time to explore the outer regions.
+
+[[Image:Shoboji Temple.JPG|thumb|300px|Zen garden at Shōbō-ji]]
+*{{see
+| name=Oharano Shrine | alt=大原野神社 Ōharano jinja | url=http://oharano-jinja.jp/ | email=
+| address=1152 Minami Kasuga-cho Oharano | lat=34.960278 | long=135.656111 | directions=
+| phone=+81 75-331-0014 | tollfree=
+| hours=Always open | price=Free
+| wikipedia=Ōharano Shrine | image=Oharano jinja Chumon.JPG | wikidata=Q3594020
+| content=The shrine is believed to have been moved to Nagaokakyo at the bidding of Empress Kammu, who made it the shrine of the Fujiwara family's guardian god. The Imperial Court made annual offerings at this shrine. The pond within the shrine precincts was once a popular place for writing poetry. The Sengan-zakura tree in the precincts is nicknamed "phantom cherry blossom", because it only blooms for just 2-3 days. Some say if you see it in bloom, it will bring you good luck. Because the area is removed from the inner city, the shrine is quite peaceful; it is not unusual to have the entire place to yourself.
+}}
+*{{see
+| name=Shōbō-ji | alt=正法寺 | url= | email=
+| address=1102 Kasuga-cho Oharano | lat=34.956917 | long=135.6555 | directions=on the opposite side of the road from Oharano Shrine
+| phone=+81 75-331-0105 | tollfree= | fax=
+| hours=Daily 09:00-17:00 | price=¥300
+| image=Shoboji Nishikyo-ku Kyoto Japan10n4380.jpg | wikidata=Q11123495
+| content=A Shingon sect temple featuring an impressive statue of the 3-faced thousand armed Kannon and a beautiful, well-kept Zen rock garden. Many of the rocks within the garden were chosen to resemble animals, like a rabbit and frog.
+}}
+* {{see
+| name=Shōji-ji | alt=勝持寺 | url= | email=
+| address=1194 Minamikasuga-cho Oharano | lat=34.960694 | long=135.651667 | directions=
+| phone=+81 75-331-0601 | tollfree= | fax=
+| hours=Daily 09:00-16:30PM | price= ¥400
+| image=Shojiji Kyoto Japan04s3s4592.jpg | wikidata=Q11400336
+| content=Nicknamed Cherry Blossom Temple (''hana no tera''), it hosts a beautiful display of blossoms in the spring.
+}}
+*{{see
+| name=Yoshimine-dera | alt=善峯寺 | url=http://www.yoshiminedera.com/ | email=
+| address=1372 Oshio-cho, Oharano | lat=34.938172 | long=135.644203 | directions=
+| phone=+81 75-331-0020 | tollfree= | fax=
+| hours=Daily 08:00-17:00 | price=¥400 (¥500 during special exhibit)
+| wikipedia=Yoshimine-dera | image=Yoshiminedera sanmon.jpg | wikidata=Q169621
+| content=In 1034 Emperor Go-Ichijo gave Yoshimine-dera imperial rank, so the head priest was a member of the imperial family for many years, although it is no longer so today. The 20th temple on the Saigoku Kannon Pilgrimage.
+}}
+
+==Do==
+*{{do
+| name=JRA Kyoto Racecourse | alt= | url=http://japanracing.jp/en/go-racing/jra-racecourses/j03.html | email=
+| address=32 Yoshijima-Watashibajima-cho, Fushimi-ku | lat=34.907042 |long=135.724625 | directions=just outside Keihan Yodo Station
+| phone= | tollfree=
+| hours= | price=
+| content=For those interested in horse races, Kyoto's racecourse is the biggest and most significant in the Kansai area.
+}}
+<!-- New URL, but no specific page for boats: http://kyoto-fushimi-kanko.jp/ , in Japanese only -->
+*{{do
+| name=Riverboat Cruises | url= | email=
+| address= | lat= | long= | directions=
+| phone = +81 75-623-1030 | tollfree= | fax=
+| hours=Call to make a reservation to schedule your ride. No tours are offered on Mondays | price= ¥1000 for adults, ¥500 for elementary school and younger
+| content=A peaceful ride down the canal past all of the historic sake breweries. It's a unique experience that is both scenic and affordable.
+}}
+
+==Buy==
+*{{buy
+| name=Ryomakan | alt=龍馬館 | url=http://ryomakan.com/ | email=
+| address=Chūō Ryoma-dōri | lat=34.930582 | long=135.76003 | directions=
+| phone=+81 75-602-2550 | tollfree= | fax=
+| hours=Daily 10:00-17:00  | price=
+| content=An interesting souvenir shop dedicated to the famous samurai Ryoma Sakamoto. Inside you'll find some of the typical tourist souvenirs, like Ryoma Sakamoto keychains, but there are also some interesting and unique finds. Those looking to purchase swords may find that this shop sells more authentic swords than those in Kyoto's larger tourist spots.
+}}
+
+==Eat==
+
+Local delicacies are sold at the roadside approaching '''Fushimi-Inari Shrine''', including barbecued sparrow (雀/すずめ/''suzume'') and ''inarizushi'' (sweetened sushi rice wrapped in fried tofu), which is said to be the favourite food of the fox. The ''suzume'' is still in a form that resembles the animal (essentially a barbecued bird on a skewer), so those not accustomed may be a bit squeamish. If you plan to walk the path around Fushimi Inari and you wish to sample inarizushi, you can save money by stopping at the small restaurant up the path within the grounds of the shrine. It also provides a great view of a line of the torii gates from above.
+*{{eat
+| name=Usagiya | url=http://kyotousagiya.web.fc2.com/ | email=
+| address= | lat= | long= | directions=near Subway Tozai Line's Ono Station
+| phone = +81 75-573-5523 | tollfree= | fax=
+| hours= 17:30-23:30, closed M | price=Ramen sells for ¥900
+| content=Serves a variety of delicious ramen dishes.
+}}
+*{{eat
+| name=Uosaburo | alt=魚三楼 | url=http://www.uosaburo.com/ | email=
+| address= | lat=34.932327 | long=135.764743 | directions=Just outside Keihan Fushimi Momoyama Station
+| phone=+81 75-601-0061 | tollfree= | fax=
+| hours=Daily 11:00-23:00 | price=From ¥7000-25000
+| content=A pricey restaurant serving local Kyoto cuisine with a variety of set options.
+}}
+*{{eat
+| name=Torisei | alt=鳥せい | url=http://www.torisei.com/shop/fushimi/ | email=
+| address=186 Kamiaburakake-cho, Fushimi-ku, Kyoto-shi, | lat=34.931 | long=135.7621 | directions=
+| phone=+81 75-622-5533 | tollfree=
+| hours=Daily 11:30-23:00, closed M | price=Individual portions from ¥500-730
+| lastedit=2017-01-30
+| content=Serves a variety of chicken and meat dishes.
+}}
+* {{eat
+| name=Ramen Factory Kyoto | alt=Ramen Factory | url=https://shinmiyazawam.wixsite.com/ramen-factory-kyoto | email=factory@fireramen.com
+| address=15-814-18 Honmashi, Higashiyama-ku | lat=34.980226 | long=135.771656 | directions=
+| phone=+81 50 3196 1740 | tollfree=
+| hours=Daily 11:00-20:00 | price=
+| lastedit=2017-11-02
+| content=Ramen Factory Kyoto consists of the Ramen Restaurant (for eating - tabemasu) which offers different types of ramen such as Miso, Shoyu (Soy sauce), Shio (Salt) and Ramen Experience (for experience - taiken) which is the only restaurant in Japan where you are able to make original ramen from scratch by your hand and enjoy its deliciousness. Ramen Factory has the root from “Menbakaichidai” which is famous as Fire Ramen with more than 30-year history. This place contains lots of information about ramen culture from the beginning, offers lots of types of experience for customers with its wide range of diversity.
+}}
+
+==Drink==
+* {{drink
+| name=Gekkeikan | alt=月桂冠 | url=http://www.gekkeikan.co.jp/english/index.html | email=
+| address=247 Minamihama-cho, Fushimi-ku | lat=34.929136 | long=135.76161 | directions=
+| phone=+81 75-623-2056 | tollfree=
+| hours=Tu-Su 09:30-16:30 | price=¥300
+| content=Founded in 1637, this local sake brewing company remains popular among Japanese even today. Many of the old breweries still exist and visitors can tour Gekkeikan and visit the attached museum to get a glimpse of how the sake is made.
+}}
+
+==Sleep==
+Lodging options are limited in this part of the city. More choices can be found in [[Kyoto/Central|Central Kyoto]], just a short train ride away.
+<!-- ===Budget=== -->
+<!-- === Midrange === -->
+<!-- === Splurge ===  -->
+*{{sleep
+| name=Hotel Kyoto Eminence | alt=ホテル京都エミナース eminaasu | url=http://www.k-eminence.com/ | email=
+| address= | lat= | long= | directions=
+| phone=+81 75-332-5800 | tollfree=
+| checkin=15:00 | checkout=10:00 | price=Prices start from ¥8750 for hotel rooms. For those who just want to take advantage of the onsen, you can enter for ¥800
+| content=A luxury hotel outside of the inner city in the Oharano area. There is an onsen attached, which can be enjoyed with or without hotel reservations.
+}}
+*{{sleep
+| name=Urban Hotel Kyoto | url=https://uh-urban.com/english/index.html | email=
+| address=4-59 Nishiura-cho, Fukakusa, Fushimi-ku | lat= | long= | directions=
+| phone = +81 75-647-0606 | tollfree= | fax=
+| hours= | price=Prices start from ¥7000 (single). A nice budget option for two people is the semi-double for ¥9000
+| checkin= | checkout=
+| content=A nice hotel in the heart of the Fushimi area, just a 15 minute walk away from Fushimi Inari Taisha.
+}}
+
+==Connect==
+
+==Go next==
+*[[Kyoto/Central|Central Kyoto]]
+*[[Kyoto/Arashiyama|Arashiyama]] (Western Kyoto)
+*[[Kyoto/Higashiyama|Higashiyama]] (Eastern Kyoto)
+*[[Kyoto/North|North Kyoto]]
+*The [[World Heritage Site|World Heritage Sites]] of Byōdō-in and Ujigami-jinja are in the neighbouring city of '''[[Uji]]''', just a few minutes away by train on either Keihan's Uji Line or the JR Nara Line.
+
+{{routebox
+| image1=JR Tokaido icon.png
+| imagesize1=100
+| directionl1=NE
+| majorl1=[[Kyoto/Central|Kyoto]]
+| minorl1=
+| directionr1=SW
+| majorr1=[[Osaka/Kita|Osaka]]
+| minorr1=[[Suita]] → [[Osaka/North|Shin Osaka]]
+
+| image2=KintetsuLogo.svg
+| imagesize2=30
+| directionl2=N
+| majorl2=[[Kyoto/Central|Kyoto]]
+| minorl2=
+| directionr2=S
+| majorr2=[[Nara|Kintetsu Nara]]
+| minorr2=[[Uji|Okubo]] → into Nara line
+
+| image3=Number prefix Keihan lines.png
+| imagesize3=35
+| directionl3=NE
+| majorl3=[[Kyoto/Higashiyama|Demachiyanagi]]
+| minorl3='''[[Kyoto/Higashiyama|Sanjō]]'''
+| directionr3=SW
+| majorr3=[[Osaka/Osaka castle|Kyobashi]]
+| minorr3=[[Hirakata|Hirakatashi]]
+
+| image4=Number prefix Keihan lines.png
+| imagesize4=35
+| directionl4=W
+| majorl4=END
+| minorl4=
+| directionr4=E
+| majorr4=[[Uji]]
+| minorr4=
+
+| image5=Number prefix Hankyu Kyoto line.png
+| imagesize5=30
+| directionl5=NE
+| majorl5=[[Kyoto/Central|Kawaramachi]]
+| minorl5=
+| directionr5=SW
+| majorr5=[[Osaka/Kita|Umeda]]
+| minorr5=[[Nagaokakyō|Nagaokatenjin]] → [[Ibaraki (Osaka)|Ibarakishi]]
+
+| image6=Meishin Expwy Route Sign.svg
+| imagesize6=100
+| directionl6=NE
+| majorl6=[[Otsu]]
+| minorl6=[[Kyoto/Higashiyama|Kyoto Higashi]]
+| directionr6=SW
+| majorr6=[[Suita]]
+| minorr6=[[Ibaraki]]
+
+| image7=Kyoto-Jukan Expwy Route Sign.svg
+| imagesize7=100
+| directionl7=N
+| majorl7=[[Amanohashidate|Amanohashidate Miyazu]]
+| minorl7=[[Maizuru]]
+| directionr7=S
+| majorr7=into [[File:Meishin Expwy Route Sign.svg|88px]]
+| minorr7=
+
+| image8=Daini Keihan Road Route Sign.svg
+| imagesize8=100
+| directionl8=N
+| majorl8=[[Kyoto/Higashiyama|Yamashina]]
+| minorl8=into [[File:Japanese Urban Expwy Sign 0008.svg|28px]]
+| directionr8=S
+| majorr8=into [[File:Kinki Expwy Route Sign.svg|88px]]
+| minorr8=[[Kyotanabe|Kyotanabe Matsui]]
+}}
+
+{{usabledistrict}}
+{{geo|34.962|135.748|zoom=13}}
+{{IsPartOf|Kyoto}}

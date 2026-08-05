@@ -1,0 +1,636 @@
+{{pagebanner|Nara_WV_banner.jpg|caption=Daibutsuden of the Todaiji temple|unesco=yes|dotm=yes|origin=0.5,0|toc=yes}}
+[[File:Nara 2008-11-22 (3187638263).jpg|thumb|225px|Todaiji from Isuien Garden]]
+'''Nara''' ({{lang|ja|奈良市}}) is an ancient capital city in [[Nara Prefecture]], [[Kansai]] region of [[Japan]]. Overshadowed by its more famous neighbor [[Kyoto]], Nara is omitted from many a time-pressed tourist's itinerary. However, Nara is home to many important scenic and historical sites, and today preserves its main sights much more attractively than Kyoto within '''Nara Park''' and neighborhoods like '''Naramachi'''. In addition to lovely foliage and many old buildings, Nara Park is famous for deer—hundreds of them that have become very comfortable around people and can be fed and petted.
+
+==Understand==
+Along with the development of '''Heijōkyō''' (平城京), the capital of Japan between 710-784 AD, Nara flourished under the influence of Buddhism, leading to the creation of an enormous number of cultural assets, buildings and books, many of which are preserved today. Nara has the most buildings designated National Treasures in Japan.
+
+While the Heijō Palace (平城宮) site turned into plain fields after the capital was moved to Kyoto, the shrines and temples were left on the east side of the palace (called Gekyo (外京)), and Buddhism remained influential throughout the following centuries. Another part of the area developed as a merchant town, notably in the Edo period, known as Naramachi (奈良町) today.
+
+Eight places in the old capital Nara have been inscribed to the  [[UNESCO]] World Heritage Site "Historic Monuments of Ancient Nara" since 1998, including five Buddhist temples, one Shinto shrine, an imperial palace and a primeval forest.
+
+===Visitor information===
+
+There are several tourist information centers.
+
+* {{listing
+| name=Nara City Tourist Information Center | alt=奈良市観光センター | url=https://narashikanko.jp/ | email=
+| address=上三条町２３−４ | lat=34.68213 | long=135.82592 | directions=On Sanjo-dori.
+| phone=+81 742 22-3900 | tollfree=
+| hours=09:00-21:00 | price=
+| content=
+}}
+* {{listing
+| name=Kintetsu Nara Station Tourist Information Center | alt=奈良市観光案内所近鉄奈良駅 | url= | email=
+| address=東向中町２８ | lat=34.68406 | long=135.82822 | directions=
+| phone=+81 742 24-4858 | tollfree=
+| hours=09:00-17:00 | price=
+| content=
+}}
+
+===Tourist information sites===
+*The local tourist association has a [https://narashikanko.or.jp/en/ multilingual guide site].
+* [https://www.city.nara.lg.jp/site/userguide/list397-1044.html City government] website
+
+==Get in==
+===By plane===
+Nara does not have its own airport; most visitors arrive via either [[Kansai International Airport]] ({{IATA|KIX}}) or [[Osaka]]'s Itami Airport ({{IATA|ITM}}), for domestic flights.
+
+From Kansai Airport, Airport Limousine buses run to the two Nara train stations every hour (90 min, ¥2100). More frequent service is available by rail: if you have a Japan Rail Pass, you can take the ''Haruka'' limited express to Tennoji station and then transfer to the Yamatoji line for the run to Nara (about 80 min, ¥2400 without a rail pass). Otherwise, it's cheaper to take the Nankai Railway's ''Kūkō-Kyūkō'' (空港急行) express train to Shin-Imamiya, and then take the JR Yamatoji line from there (about 95 min, ¥1500).
+
+From Itami Airport, it's easier to take a bus, which departs for Nara every 1-2 hours (60-70 min, ¥1510).
+
+===By train===
+[[Image:Kintetsu-Nara-eki-2007-8-30.JPG|thumb|300px|The Kintetsu railway station is the closest to Nara's major attractions]]
+From [[Kyoto]] Station, the '''JR Nara Line''' and the private '''Kintetsu Kyoto Line''' will get you to Nara quickly. The Kintetsu Nara Station is closer to Nara's main sights than the JR Nara Station, and all-reserved ''tokkyū'' (特急) limited express trains leave Kyoto twice an hour, making the run to Nara in 35 minutes. On slower but more-frequent ''kyūkō'' (急行) services, the trip takes about 50 minutes and you may need to change trains at Yamato-Saidaiji Station. The trip costs ¥640, plus ¥520 extra if using the limited express. 
+
+The JR route from Kyoto to Nara is a little slower, but is the most attractive option for Japan Rail Pass holders. Be sure to use the rapid services, known as ''Miyakoji Kaisoku'' (みやこ路快速), which run during midday hours and take 45 minutes. Regular local trains, on the other hand, can take around 80 minutes. Without a pass, the JR trip costs ¥720.
+
+A few '''Kyoto subway''' trains on the Karasuma line (running north-south) run directly to Kintetsu Nara, offering one-seat rides for those coming from the northern part of Kyoto city. These trains are designated as express trains to Nara - running local through the subway, then continuing to Nara as an express service. For example, a one-seat journey to Nara from Kyoto's Shijō subway station (connection with the Hankyu Railway) costs ¥900 and takes around 55-60 min.
+
+The fastest route from [[Osaka]] is to take the private '''Kintetsu Nara Line''' from Osaka-Namba Station, which also affords a pretty nice view of Osaka as it climbs out of the city. ''Kaisoku-Kyūkō'' (快速急行) trains run a few times per hour to Kintetsu Nara (35-40 min, ¥570). A few limited express services sometimes run over the route for an additional charge of ¥520. For Japan Rail Pass holders, JR runs up to three ''Yamatoji Kaisoku'' (大和路快速) trains each hour from Osaka, Tennōji, and intermediate stations on the Osaka Loop Line. The run to Nara is 45 minutes from Osaka Station and 30 minutes from Tennōji (¥810 and ¥470 respectively without a rail pass). From Shin-Osaka (the ''Shinkansen'' station), Nara can be reached in around 65 minutes via the JR Osaka Higashi Line with a change at Kyūhōji, or by taking a JR train to Osaka Station and transferring to the ''Yamatoji Kaisoku'' (¥940 without a rail pass).
+
+Hanshin offers services from [[Kobe]]-Sannomiya Station to Kintetsu Nara via the Hanshin Namba line. Direct ''Kaisoku-Kyūkō'' services leave three times per hour during most of the day. The trip takes 80-90 minutes and costs ¥980.
+
+If traveling between Kyoto, Nara and Osaka, consider purchasing the [https://www.surutto.com/kansai_rw/en/ Kansai Thru-Pass]{{Dead link|date=April 2026 |bot=InternetArchiveBot }} which enables unlimited travel for 2 or 3 days on private railways, buses and subways in the Kansai area (JR trains excluded).
+
+===By bus===
+
+A few companies operate direct overnight buses from [[Tokyo]] to Nara:
+*[https://www.kanto-bus.co.jp/english/nightway/ '''Kanto Bus'''] and [https://www.narakotsu.co.jp/language/en/express/ '''Nara Kotsu'''] make the run to/from [[Tokyo/Shinjuku|Shinjuku]] in around 7 hr 20 min with fares starting at ¥5980 each way.
+*'''Keisei Bus''' runs from [[Chiba]] (including Tokyo Disneyland), Tokyo SkyTree, [[Tokyo/Ueno|Ueno]] and [[Yokohama]]. Trips from Ueno start at ¥7700 each way and take around 8 hours.
+
+Other bus carriers, including '''JR Bus''' and '''Nightliner''', operate overnight services from Tokyo to Nara by way of [[Kyoto]], resulting in slightly longer travel times (8-9 hours). Some JR buses are '''Seishun (youth) buses''' with higher-capacity 2x2 seating configurations. These buses are much cheaper, with fares starting at ¥3500.
+
+If you are unable to book a bus to Nara, an alternative is travel instead to [[Kyoto]], where there are more options available. When you reach Kyoto, you can travel to Nara by train on either the JR Line or Kintetsu Line.
+
+From [[Nagoya]], Nara Kotsu runs five round-trips each day from the Meitetsu Bus Center (2 hr 30 min, ¥2700).
+
+==Get around==
+{{mapframe|34.6833|135.835|zoom=13}}
+===On foot===
+Once within Nara Park, you can walk to almost all the other major sites. The conventional round course (from Kintetsu Nara Station to Kōfuku-ji, Nara National Museum, Tōdai-ji, Kasuga Taisha and back to Kintetsu Nara Station) is about 6 km long, a pleasant walk for the typical tourist.
+
+===By bus===
+You can get a [https://www.narakotsu.co.jp/language/en/pass.html Nara Bus Pass] for unlimited travel on Nara Kotsu and Nara Gurutto buses plus discounts on museum admissions. 1-day bus pass covering most attractions in Nara area costs ¥500 for adults and ¥250 for child.
+* {{listing
+| name=Nara Kotsu Bus Service | url=http://www.narakotsu.co.jp/language/en/index.html | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours=Adults &yen;180, children 12 and under &yen;90 | price=¥220
+| content=The City Route Loop runs every 30 minutes.
+}}
+
+Several temples are on the outskirts of town. Tōshōdai-ji, Yakushi-ji, and [[Horyuji|Horyu-ji]] are accessible from JR and Kintetsu Nara train stations without change by Nara-Nishinokyo-Ikaruga Excursion Bus line (Line No. 97).
+
+* Tōshōdai-ji (E-8) from JR and Kintetsu Nara stations (E-6, E-7), ¥240.
+* Yakushi-ji (E-10) from JR and Kintetsu Nara stations (E-6, E-7), ¥320.
+* Hōryu-ji (E-15) from JR and Kintetsu Nara stations (E-6, E-7), ¥760.
+
+See also [[World Heritage Tour in Nara]].
+
+===By bicycle===
+Nara's flat, spread-out nature makes it a great fit for cycling.  [http://nara-rent-a-cycle.com/en/ Nara Rent-a-Cycle] near Kintetsu Nara stn is open 24/7 and rents out basic bikes from &yen;1000/day.
+
+===By taxi===
+Taxis are available at Nara but those who do not know Japanese may find it difficult to make the taxi driver understand where they want to go. You can hail a taxi through Uber app.
+
+==See==
+[[File:A deer at Nara Park, Japan.jpeg|thumb|199x199px|A Nara deer eagerly eating from tourists.]]
+If you only have one day to spend in Nara, focus on Nara Park. With more time, though, there's more to see.
+
+===Nara Park===
+[[Image:Japan 070416 Todaiji 10.jpg|thumb|200px|The Daibutsu inside Tōdai-ji]]
+Most of Nara's sights, including temples, shrines and famously mercenary deer, are concentrated in
+'''Nara Park''' (奈良公園 ''Nara-kōen''), a wide, pleasant space of greenery. According to legend, the god of the Kasuga Taisha came riding a white deer in the old days, so the '''deer''' enjoy protected status as envoys of the god; however, based on their current behavior, either the deer have lost the job, or the god has taken an extremely passionate interest in biscuits from tourists (¥200), empty food wrappers and harassing shopkeepers.
+{{infobox|Stones of Tōdai-ji|On your way into the Great Buddha Hall, you may notice the path is made of different-colored stones. The black stones in the middle were brought from India, the stones lining them on either side are from China, the next layer is from Korea, and the outer stones are from Japan. This pattern is designed to mirror the spread of Buddhism, from India via China and Korea to Japan.}}
+* {{see
+| name=Tōdai-ji | alt=東大寺 | url=https://www.todaiji.or.jp/en/ | email=
+| address= | lat=34.688985 | long=135.839816 | directions=
+| phone= | tollfree=
+| hours=Nov-Mar 08:00-17:00, Apr-Oct 07:30-17:30; museum opens at 09:30 | price=&yen;600; &yen;1000 to see the museum as well
+| wikipedia=Tōdai-ji | image=Daibutsu-den in Todaiji Nara02bs3200.jpg | wikidata=Q460367
+| lastedit=2019-03-15
+| content=Home to the famous '''Great Buddha''' (Daibutsu, 大仏), the largest Buddha statue in Japan and one of the largest in the world. The Daibutsu-den, which houses it, is said to be the largest wooden building in the world and is a [[UNESCO World Heritage]] site. The giant front gate, '''Nandai-mon''', is guarded by two fierce, awe-inspiring protectors. It's also swarmed by deer, who know this is the best place to come looking for a hand-out. Through the gate is a stone path leading to the outer walls surrounding the Daibutsu-den. Follow the signs to the left to enter the inner courtyard, and if you happen to have a stick of incense with you, join the crowd around the incense offerings before you head onward. The '''Daibutsu-den''' contains four other giant statues. Once you've taken in the Daibutsu itself, walk around it to the left to see the other statues, as well as a few old tiles and leftover relics. There's a stand inviting you to sponsor a tile in order to help with the upkeep of the temple, and English-language fortune scrolls (''omikuji'') are on sale year-round. Take a final look at the Daibutsu as you leave; don't let the souvenir stand be your last memory of this incredible sight. Just before the souvenir area, behind and to the right of the Daibutsu, is a wooden column with a small hole carved through the bottom. Enlightenment is reportedly promised to anyone who can squeeze through this hole. In practice, this means a lot of kids have enlightenment in store (thanks in part to other kids who kick their feet to "help" them through), and all but the skinniest adults can only look on in envy. To the right of the entrance to the Daibutsu-den is a statue of the '''Yakushi Nyorai'''. Though a bit scary-looking on first glance, it's actually a Buddha of medicine and healing. Touching a part of the Yakushi Nyorai and then the corresponding part of your own body is said to heal any ailments you have there.
+}}
+[[Image:naralanterns.jpg|thumb|200px|Lanterns at Kasuga Taisha]]
+* {{see
+| name=Kōfuku-ji | alt=興福寺 | url=https://www.kohfukuji.com/english/ | email=
+| address=登大路町４８ | lat=34.682883 | long=135.832227 | directions=
+| phone=+81 742 22-7755 | tollfree=
+| hours=09:00-17:00 | price=Eastern Golden Hall &yen;500
+| wikidata=Q1070863
+| lastedit=2019-03-15
+| content=This temple has a three-story and a five-story pagoda; historically, the latter has contended with [[Kyoto]]'s Toji for the title of Tallest Pagoda in Japan, although Kofuku-ji seems to have surrendered for now.
+}}
+* {{see
+| name=Sarusawa Pond | alt=猿沢の池 | url= | email=
+| address=登大路町４９ | lat=34.681464 | long=135.830972 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=This small pond at the east end of Sanjō-dōri with Nara Park behind or Naramachi to its south is a very popular viewing spot for Kōfukuji.
+}}
+* {{see
+| name=Nara National Museum | alt=奈良国立博物館 | url=https://www.narahaku.go.jp/english/ | email=
+| address=50 Noborioji-cho | lat=34.6837 | long=135.8364 | directions=
+| phone=+81 742 22-7771 | tollfree=
+| hours=09:30-17:00 | price=&yen;500; special exhibitions up to &yen;2000
+| wikipedia=Nara National Museum | image=Nara national museum01s3200.jpg | wikidata=Q147312
+| content=This museum has one of the world's best collections of Buddhist art and changing exhibitions. The National Treasure Hall has an impressive collection of statues. There are "English Guides" inside the museum however, they do not guide you through the museum; instead they are there to answer questions. The guides are highly knowledgeable, so if you can think of questions that require explanation, you can learn a lot more about the exhibits, Buddhism, and Buddhist art. Each year for about 2 weeks in late October - early November (dates vary) the museum hosts on a rotating basis a part of the collection of Shōsōin, the Tōdai-ji treasury (which is closed to the public). Expect enormous queues, as this is a notable event in the cultural calendar of the country, and tourists from all over Japan converge on Nara at this time.
+}}
+* {{see
+| name=Himuro Shrine | alt=氷室神社 Himuro Jinja | url=http://www.himurojinja.jp/ | email=
+| address= | lat=34.684411 | long=135.837882 | directions=10-minute walk from the Kintetsu Nara station; across the street from the Nara National Museum
+| phone=+81 742 23-7297 | tollfree= | fax=
+| hours=07:00-17:00 | price=
+| content=A shrine dating from 1217 and home to several fine cherry trees. Although the architecture is unremarkable, the trees in front of the shrine explode into beautiful clouds of pale pink and white blossoms in spring (late March-early April).
+}}
+* {{see
+| name=Ukimidō | alt=浮見堂 | url= | email=
+| address= | lat=34.680147 | long=135.838638 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=A hexagonal building built on Sagiike Pond in Nara Park so that it appears to float on water.
+}}
+* {{see
+| name=Kasuga Taisha | alt=春日大社 | url=http://www.kasugataisha.or.jp/ | email=
+| address=春日野町１６０ | lat=34.68138 | long=135.848386 | directions=
+| phone=+81 742-22-7788 | tollfree= | fax=
+| hours= | price=Grounds free, inside of shrine &yen;500, treasure hall &yen;400
+| content=Worth a visit for the beautiful approach, through the Kasuga-yama Primeval Forest (see below), more than the temple itself. What [[Kyoto]]'s Fushimi Inari Taisha is for ''torii'', Kasuga Taisha is for stone lanterns. Notice the giant rack of sake barrels near the front gate and the fountain-statue of a giant buck. The temple is occasionally closed for services, but a walk around the outside is likely to be no less rewarding.
+}}
+* {{see
+| name=Kasuga-yama Primeval Forest | alt=春日山原生林 | url= | email=
+| address= | lat=34.683056 | long=135.862778 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| image=Kasugayama Primeval Forest 02.jpg | wikidata=Q5367406
+| content=A gorgeous hill of wild, undeveloped forest leading to Kasuga Taisha and some of the other sights in Nara Koen. The path is clearly marked, though, so don't worry about getting lost. It's a quiet walk at any time of day. If you're determined to feed some deer, save your biscuits for the ones out here instead of the loafers by Todai-ji.
+}}
+* {{see
+| name=Isui-en Garden | alt=依水園 | url=https://www.isuien.or.jp/en/index.html | email=
+| address=水門町７４ | lat=34.685697 | long=135.83767 | directions=between Kasuga Taisha and Kintetsu Nara Station
+| phone=+81 742 25-0781 | tollfree=
+| hours=09:30-16:00 | price=&yen;900
+| image=Isuien and Nandaimon.JPG
+| lastedit=2019-03-15
+| content=Enjoy the magnificently arranged garden with full of flowers, surrounded by all the rest of Nara Park. Restaurant on site.
+}}
+* {{see
+| name=Yoshikien Garden | alt=吉城園 | url=http://yoshikien.blog.fc2.com/ | email=
+| address=60-1, Noborioji-cho, Nara City 630-8213 | lat=34.685181 | long=135.837331 | directions=between Kasuga Taisha and Kintetsu Nara Station; beside the Isui-en Garden
+| phone=+81 742-22-5911 | tollfree= | fax=
+| hours=09:00-17:00 | price=&yen;250; free for foreigners
+| wikipedia=Yoshiki-en | image=Nara Yoshikien Ike Garden.jpg | wikidata=Q23825091
+| lastedit=2019-03-15
+| content=Really nice garden that is worth a visit because it is free. Can be coupled with the Isui-en Garden as the entrances are right beside each other.
+}}
+* {{see
+| name=Shin-Yakushi-ji | alt=新薬師寺 | url=http://www.shinyakushiji.or.jp/ | email=
+| address=高畑町１３５２ | lat=34.675866 | long=135.846177 | directions=it can be reached through the primeval forest; follow the signs from Kasuga Taisha
+| phone=+81 742 22-3736 | tollfree= | fax=
+| hours=09:00-17:00 | price=Adults &yen;600, JHS-HS students &yen;350, children &yen;150
+| wikipedia=Shin-Yakushi-ji | image=Shin-Yakushiji03s3200.jpg | wikidata=Q3080305
+| content=It's a single hall with twelve ferocious warrior statues (each with his own collection plate) standing guard by a Buddha of healing. The statues are quite impressive &mdash; this is as well-protected a Buddha as you're likely to find.
+}}
+
+===Other sights===
+[[File:Naramachii02n4592.jpg|thumb|250px|Historic buildings in Naramachi]]
+* {{see
+| name=Nara City Museum of Photography | alt=奈良市写真美術館 | url=https://naracmp.jp/home_en | email=
+| address=600-1 Takabatake-chō | lat=34.675589 | long=135.845425 | directions=near Shin-Yakushi-ji, a couple blocks outside Nara Park
+| phone=+81 742 22-9811 | tollfree=
+| hours=09:30-17:00 | price=&yen;300
+| content=The steel-and-glass building sits as if reflected upon the linear pond that surrounds it. Inside, there are reasonably interesting exhibits of photography on local subjects like the Mount Wakakusa Fire Festival (see below).
+}}
+* {{see
+| name=Yakushi-ji | alt=薬師寺 | url=http://www.nara-yakushiji.com/ | email=
+| address=457 Nishinokyo-chō | lat=34.668647 | long=135.784567 | directions=a short walk from Nishinokyo Station and Toshodai-ji
+| phone=+81 74 233-6001 | tollfree= | fax=
+| hours=08:30-17:00 | price=&yen;800
+| content=Although most of the temple was reconstructed in the 1970s after a fire, Yakushi-ji is still worth the visit. The Buddhist Yakushi trinity housed in the ''hondo'' is a great work, and the two pagodas on each side of the temple make it a unique and recognizable complex. The east pagoda has survived and dates back to 730 AD. Like Gango-ji, Yakushi-ji was one of the seven top temples in the city during the Nara Period.
+}}
+* {{see
+| name=Gangō-ji | alt=元興寺 | url=http://www.gangoji.or.jp/ | email=
+| address=11 Chuin-chō | lat=34.677799 | long=135.831298 | directions=in Nara-machi, near Kofuku-ji
+| phone=+81 74 223-1377 | tollfree= | fax=
+| hours=09:00-17:00 | price=&yen;400
+| content=It was considered to be one of the seven most important temples in Nara when Nara was the nation's capital. The original temple burned down in the 18th century, but the architectural style remains true to the original, with its unique Korean-style roof. The mandala within the temple is one of the most famous in the nation. Around the outside of the temple there are many Buddhist statues, but perhaps more interesting are the various demon statues scattered about among them. While the Buddhist statues are quite typical and obviously religious, the demon statues are comical and seem out-of-place. Some even appear sacrilegious, with a demon doing Zen meditation among the Buddhist statues and another in a rather erotic centerfold-like pose. There is a story that supposedly associates the demons with the temple. For visitors, it is fun to try to spot them all.
+}}
+
+[[File:Heijokyo Suzakumon 05.JPG|thumb|Heijokyo Suzakumon]]
+* {{see
+| name=Heijōkyū Palace Site | alt=平城宮跡 | url=https://www.nabunken.go.jp/english/ | email=
+| address=2-9-1 Nijo-chō | lat=34.69071 | long=135.794281 | directions=
+| phone=+81 74 230-6752 | tollfree=
+| hours= | price=
+| content=The '''Suzaku Gate''' (朱雀門) is a replica, along with the newly built '''Daigoku-den''' (大極殿). In the center of this large expanse of land you'll find the best preserved excavation area, with some foundation structures on the site. On the rest of the grounds, you can still see where structures once stood by looking at the elevated and sunken areas. On opposite ends of the site there are museums where you can learn about the history of the palace, see artifacts recovered from the excavation, and learn about the excavation process.
+}}
+* {{see
+| name=Tōshōdai-ji | alt=唐招提寺 | url= | email=
+| address=13-46 Gojo-chō, | lat=34.675561 | long=135.784833 | directions=a short walk from Nishinokyo Station and Yakushi-ji
+| phone=+81 74 233-7900 | tollfree= | fax=
+| hours=08:30-17:00 | price=&yen;600, &yen;700 with treasure house
+| content=A temple that was important in helping to spread Buddhist teachings in Japan, Toshodai-ji is where the great Chinese priest Ganjin preached. His grave is within the precincts of the temple.
+}}
+* {{see
+| name=Nara Centennial Hall | alt=なら100年会館 | url=http://www.nara100.com/ | email=
+| address=7-1 Sanjo Miyamae-machi | lat=34.680294 | long=135.81648 | directions=next to JR Nara station
+| phone=+81 74 234-0100 | tollfree=
+| hours= | price=
+| content=Hosts a variety of events, concerts, and musicals. Sometimes a flea market is held in front of the hall.
+}}
+* {{see
+| name=Japanese Tattoo Art Gallery | alt= | url= | email=
+| address=Higashimuki Shopping Street | lat=34.682520 | long=135.828684 | directions=
+| phone= | tollfree= | fax=
+| hours=Th-Tu 12:00–22:00 | price=
+| lastedit=2018-11-17
+| content=A little gallery with photos of traditional Japanese tattoos, run by a tattoo artist who will talk to visitors about the difficult social and legal status of tattoos in modern Japan.
+}}
+
+==Do==
+
+* {{do
+| name=Mount Wakakusa Fire Festival | alt=若草山焼き Wakakusa-yamayaki | url= | email=
+| address=Wakakusayama, Nara Park | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours=The night before the 2nd Monday in January. In case of bad weather the date may change, so call to check | price=
+| content=Great fireworks and the dry grass on the slopes of this mountain is set on fire by two temples. The size of the burn depends on how dry the grass is.
+}}
+* {{do
+| name=Nara Visitor Center & Inn | alt= | url=https://www.sarusawa.nara.jp/ | email=
+| address=3 Ikeno-cho | lat=34.680499 | long=135.831687 | directions=
+| phone= | tollfree= | fax=
+| hours=10:00-17:00 | price=Free
+| lastedit=2018-11-16
+| content=Learn basic Japanese calligraphy or origami. They'll pick out kanji that match the sound of your name so you can learn to write them with a calligraphy brush pen. Or you can learn to make an origami deer, something you're not likely to find outside of Nara. The teachers are charming, and the center has other cultural activities as well, and all the other information you'd expect from a visitor center.
+}}
+* {{do
+| name=Shuni-e (Omizu-tori) | alt=修二会 (お水取り) | url= | email=
+| address=Nigatsu-dō, Todai-ji | lat=34.689236 | long=135.844263 | directions=
+| phone= | tollfree=
+| hours=Mar 1-14, evening | price=
+| content=An annual Buddhist memorial service that has been carried out first in 752 AD and continues today without a year off. Priests run around the Nigatsu-dō carrying large flaming torches.
+}}
+* {{do
+| name=Nara Tōka-e | alt=なら燈火会 | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours=Aug 6-15 | price=
+| content=An annual light festival. 10,000 candles illuminate the area around Nara Park and major temples.
+}}
+* {{do
+| name=Deer-horn Cutting Ceremony | url= | email=
+| address=Rokuen, Nara Park | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours=October | price=
+| content=Deer have their horns cut to prevent people from being injured.
+}}
+* {{do
+| name=Naramachi | alt=奈良町 | url= | email=
+| address= | lat= | long= | directions=10 minutes on foot south of Kintetsu Nara station
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikidata=Q11274524
+| content=The neighborhood, founded in the 8th century when Heijōkyō was the capital of Japan, today contains several small museums, ''machiya'' (町家) (traditional Japanese merchant houses from Edo Period), unique cafes and restaurants. (David Bowie is rumored to have owned a house here.) It's well worth the time to stop and do a tasting at Harushika (春鹿), Naramachi's fabulous Nihon-shu (sake) brewery.
+}}
+
+===Walking tours===
+* {{do
+| name=Saturday Walking Tour | url=http://www.eonet.ne.jp/~naramachiwalk | email=
+| address= | lat= | long= | directions=meet the guide and fellow walkers by 09:55 in front of the Tourist Information Center on the ground floor of Kintetsu Nara Station
+| phone= | tollfree= | fax=
+| hours=Apr-Jul, Sep-Nov: Sa 10:00-13:00 | price=Adults &yen;2000, children under 15 free
+| content=This tour is led by a professional English-speaking local guide. You will see old "machiya" houses and lively local alleys full of interesting sights. The tour ends near Kasuga Shrine and Todai-ji Temple so that you can visit these major sights of Nara afterwards.
+}}
+* {{do
+| name=Nara Walk | alt= | url=http://www.narawalk.com/nara-park-classic-tour/ | email=
+| address= | lat= | long= | directions=meet the guide at JR Nara Station
+| phone= | tollfree= | fax=
+| hours=Mar - Sep: daily 10:00 | price=&yen;3000
+| lastedit=2017-10-16
+| content=Tour covers popular destinations around Nara Park: Great Buddha, Todaiji Temple, Kofukuji Temple, Deer Park and Kasuga Grand Shrine. Reservations not necessary for regular tours. Private tours or tours in French available with reservation.
+}}
+* {{do
+| name=Nara YMCA Goodwill Guides | url= | email=
+| address= | lat= | long= | directions=
+| phone=+81 742 45-5920 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+* {{do
+| name=Nara Student Guide | url= | email=
+| address= | lat= | long= | directions=
+| phone=+81 742 26-4753 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+* {{do
+| name=Nara S.G.G. Club | url= | email=
+| address= | lat= | long= | directions=
+| phone=+81 742 22-5595 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+
+==Work==
+There are many English conversation schools near Kintetsu Station.
+
+==Buy==
+[[File:Narazuke from Aichi by daveyll in Ginza.jpg|thumb|A selection of ''narazuke'' pickles]]
+
+'''Narazuke''' (奈良漬), a local specialty pickle made of various vegetables and fruit and traditionally melon cucumber, is quite popular.  The distinctive strong flavor comes from the use of ''sakekasu'', the sediment of sake fermentation, and sweet ''mirin'' cooking wine. The pickle also has some residual alcohol.
+
+Nara is also famous for its '''calligraphy brushes''', called ''narafude'' (奈良筆), which are available in the specialist stores on Sanjō-dōri Avenue. However, as these brushes are made with a special kind of animal hair, they are expensive and rare, and customers will need to make a specific request for them. Other brushes sold in the specialist stores will be less expensive than ''narafude'', but still generally of reputable quality. Suitably, the city also has a famous tradition in producing '''ink sticks''', or ''narasumi'' (奈良墨); in fact, [https://www.visitnara.jp/venues/S01072/ Kobaien] is considered to be the oldest ink shop in the country (founded 1577), and runs ink-making workshops where you can mix your own (it will be mailed to you once the drying process is complete). Lastly, '''Nara sarashi''' (奈良晒), or Nara fabrics are a local specialty.  They used to be made of boehmeria variation plants in the older ages, but cotton has become the major material since Edo Period.  Towels, handkerchiefs, blankets, blinds and many other cloth products can be found in stores on Mochiidono Shopping Street or in the Naramachi area.
+
+One other unusual local specialty is chopsticks and other small objects carved from the sawn-off horns of the Nara Koen deer. They should be readily available from any tourist stall in the park, but for best selection and prices travel east from Todai-ji until you bump against the barren side of Wakakusa-yama and turn right - the entire right-hand side of the street is taken up by two-story shops, with souvenirs on the ground floors and ''shokudo'' (Japanese fast food restaurants) up top. Just follow the throngs of students being herded there for a bite after seeing the sights.
+
+===Central City===
+* {{buy
+| name=Higashimuki Shopping Street | alt=東向商店街 | url=https://higashimuki.jp/index_en.html | email=
+| address= | lat=34.68318 | long=135.82876 | directions=starts at Kintetsu Nara Station and stretches about 250 m south
+| phone= | tollfree=
+| hours= | price=
+| content=A covered shopping arcade with many souvenir shops and restaurants.
+}}
+* {{buy
+| name=Yamazaki-ya | alt=山崎屋 | url=https://www.yamazakiya.jp/ | email=
+| address=5 Higashimuki Minamimachi | lat=34.68242 | long=135.82882 | directions=along the covered Higashimuki Shopping Street
+| phone=+81 742 22-8039 | tollfree=
+| hours=10:00-20:00 | price=
+| content=A well-known purveyor of ''narazuke''.
+}}
+* {{buy
+| name=Mochiidono Shopping Street | alt=餅飯殿（もちいどの）商店街 | url=https://www.mochiidono.com/ | email=
+| address= | lat=34.68081 | long=135.82904 | directions=ends at the center of Naramachi, and connects to Higashimuki Shopping Street
+| phone= | tollfree=
+| hours= | price=
+| content=Another covered arcade.
+}}
+* {{buy
+| name=Sanjō-dōri Avenue | alt=三条通り | url= | email=
+| address= | lat=34.68201 | long=135.82341 | directions=between JR Nara Station and the south end of Higashimuki Shopping Street
+| phone= | tollfree=
+| hours= | price=
+| content=Many souvenir shops, traditional writing brush and ink stores, ''narazuke'' stores as well as various bars and restaurants are located on this avenue. Most major banks have a branch here.
+}}
+* {{buy
+| name=je êt nous | alt=ジュエヌ | url=https://je-et-nous.com/ | email=
+| address=53 Suimon-chō, Nara | lat=34.68655 | long=135.83661 | directions=near Todai-ji Temple
+| phone= | tollfree=
+| hours=W-Su 11:30–17:00 | price=
+| content=An independent accessory shop in Nara, located in a renovated 100-year-old Japanese townhouse (machiya). Specializing in handmade, deer-themed jewelry and small artisanal accessories with an emphasis on artistic design.
+}}
+
+===Outskirts===
+* {{buy
+| name=Nara Family | alt=ならファミリー | url=https://narafa.jp/ | email=
+| address=2-4-1 Saidaiji Higachi-cho | lat=34.69531 | long=135.78523 | directions=3 minutes walk from Yamato-Saidaiji Station.
+| phone= | tollfree=
+| hours=10:00-21:00 | price=
+| content=One of the largest shopping malls in Kansai.
+}}
+
+==Eat==
+[[File:Kakinohazusi.jpg|thumb|''Kaki-no-ha zushi'' wrapped in persimmon leaves]]
+[[File:Senjuan Yoshimune warabimochi.jpg|thumb|Two types of ''warabimochi'' bracken jelly at Senjuan Yoshimune]]
+
+A local specialty is ''kaki-no-ha zushi'' (柿の葉ずし), which is sushi (usually mackerel or salmon) wrapped in persimmon leaves, and originates from nearby [[Yoshino]].
+
+Kudzu, also from Yoshino, is a very renowned product of Nara, which is used for making various food ranging from kudzu noodles (葛切り ''kuzu-kiri'') to Japanese sweets (和菓子 ''wagashi''). Somen (thin wheat noodles) from Miwa region (三輪そうめん ''Miwa sōmen'') have a history as old as Nara. The noodles are served either hot or cold.
+
+Another well-known culinary product is ''shika-senbei'', a rice cracker sold around Nara Park. Don't try eating it yourself though &mdash; it's meant for the deer!
+
+* {{eat
+| name=Sanshū-tei | alt=三秀亭 | url= | email=
+| address=In the Isui-en Garden (依水園) | lat=34.68568 | long=135.83703 | directions=
+| phone= | tollfree=
+| hours=W-M 11:30-15:30 | price=
+| content=It's worth a visit more for the attractive old house and garden than the menu, which consists of two very traditional dishes: ''mugi tororo'' (plain rice with ground yam, &yen;1200), and ''unagi tororo'' (the same with grilled eel, &yen;2500).
+}}
+* {{eat
+| name=Hiraso | alt=平宗 | url=https://kakinoha.co.jp/ | email=
+| address=30-1 Imamikado-cho | lat=34.6801 | long=135.83046 | directions=south of Sarusawa Pond
+| phone=+81 742 22-3900 | tollfree=
+| hours=Tu-Su 10:00-20:00 | price=Around &yen;2500
+| content=A nice sampling of local foods such as ''kakinohazushi'' and ''chagayu'' (tea gruel, which tastes better than it sounds) are included in dinner sets ''miyoshino'' and ''heijou''. An English picture menu available.
+}}
+* {{eat
+| name=Okaru | alt=おかる | url= | email=
+| address=13 Higashimuki-Minamimachi | lat=34.68292 | long=135.82884 | directions=inside Higashimuki Shopping Street arcade
+| phone=+81 742 24-3686 | tollfree=
+| hours=Th-Tu 11:00-21:00, open on W if it's a holiday | price=&yen;530-1500
+| content=A restaurant specialized in [[:Wikipedia:Okonomiyaki|okonomiyaki]] (お好み焼き), a pan-fried cabbage cake with selection of meat. ''Okonomiyaki'' is definitely shortlisted on Kansai people's most beloved dishes. A choice of western or traditional Japanese tables are available. English menu available.
+}}
+* {{eat
+| name=Totogin | alt=ととぎん | url=https://totogin.com/ | email=
+| address= | lat=34.68398 | long=135.82901 | directions=inside Higashimuki Shopping Street arcade off the south-east entrance near the Kintetsu Nara stop
+| phone=+81 742-20-1010 | tollfree=
+| hours=11:00-22:00 | price=starting at &yen;126 per sushi plate
+| content=A conveyor-belt sushi restaurant that won't break your wallet. Sushi is handmade and prepared fresh; just watch out as the different plates correspond to different prices so read the menu (both sides) carefully before chowing down.
+}}
+* {{eat
+| name=Yatagarasu | alt=やたがらす | url= | email=
+| address=13-1 Hayashi-kōji-cho | lat=34.68239 | long=135.82621 | directions=
+| phone=+81 742 20-0808 | tollfree=
+| hours=Daily 17:00-00:00 | price=Around &yen;2500 depending on your appetite
+| content=Fresh poultry from local farms cooked and served in many different ways (eg. grilled, fried, even raw) with a variety of either local or other regional sake available.
+}}
+* {{eat
+| name=Maguro Koya | alt=まぐろ小屋 | url=https://magurokoyanara.com/ | email=
+| address= | lat=34.68546 | long=135.82899 | directions=exit Kintetsu Nara station, and you'll see a fountain of a Buddhist monk; cross the lights to the other side of the big street there, and go into the small street that runs perpendicular to the big street. Walk a couple hundred meters, passing an am/pm convenience store on your right, and you will see an Asahi beer sign on the road, with the words まぐろ小屋 written on it on your left side
+| phone= | tollfree=
+| hours= | price=
+| content=A tiny hole-in-the-wall place that specializes in tuna. Tekka-don (rice bowl with raw slices of tuna and thinly sliced nori), tuna karaage (breaded deep fried pieces of tuna), tataki (seared on the outside, raw on the inside slices of tuna), and many other methods of preparations. For most meals you can choose a maguro (tuna), honmaguro toro (Japanese fatty tuna), or chuutoro (fatty tuna) version of the dish. The proprietor is an ojiisan (elderly gentleman) who seems to really like what he's doing, is friendly and welcoming.
+}}
+* {{eat
+| name=Senjuan Yoshimune | alt=千壽庵吉宗 | url=https://www.senjyuan.co.jp/ | email=
+| address=39‐1 Oshiagecho | lat=34.6885 | long=135.8345 | directions=10 min west of Todaiji
+| phone= | tollfree=
+| hours=Daily 10AM-6PM | price=Warabimochi set ¥680, shaved ice from ¥1000
+| lastedit=2022-10-05
+| content=On your way back from Todaiji, stop for a snack in the traditional tatami-matted tea room of this lovely little Japanese confectionery shop famous for two things. One is very traditional: ''warabimochi'' (わらび餅), a gooey jelly painstakingly prepared the old way from bracken (fern) roots and served with a dusting of sweet soybean powder (kinako). The other is more modern: piles of ''kakigori'' (かき氷) shaved ice the size of a baby's head, laden with fresh seasonal fruits, much lighter and more refreshing than the usual sickly sweet industrial syrup variety.
+}}
+
+==Drink==
+''Yamato-cha'' (大和茶) is the locally produced Japanese green tea which is healthy and tasty. There are also numerous sake brands, among which is ''Harushika'' brand, produced by one of the oldest existing sake breweries in Japan.
+
+* {{drink
+| name=Kuramoto Hoshuku | alt=蔵元 豊祝 | url= | email=
+| address=28 Higashimuki (Nara Kintetsu Bldg B1F) | lat=34.68452 | long=135.82828 | directions=in the Kintetsu Nara Station concourse
+| phone=+81 742-26-2625 | tollfree=
+| hours=Daily 11:30-14:00, 16:00-21:00 | price=Sake test set of 3 small glasses &yen;350, snack and either sake or beer &yen;500
+| content=Operated by a local brewery, Nara Toyosawa. A popular drop-by place for people commuting back home on Kintetsu lines.
+}}
+* {{drink
+| name=Harushika Brewery | alt=春鹿 | url=https://www.harushika.com/ | email=
+| address=24-1 Fukuchiincho | lat=34.67703 | long=135.83434 | directions=
+| phone=+81 742-23-2255 | tollfree=
+| hours= | price=
+| lastedit=2016-06-17
+| content=A highlight of Naramachi neighbourhood. Taste six sake flavors distilled here with accompanying narazuke for ¥500. The brewery will guide you through the different taste profiles (with varying dryness and fruitiness).
+}}
+* {{drink
+| name=Nara Izumi Yūsai | alt=なら泉勇斎 | url=http://www.naraizumi.jp/ | email=
+| address=22 Nishiterabayashichō | lat=34.679673 | long=135.829348 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=Tastings from &yen;200
+| lastedit=2018-11-22
+| content=A small sake bar/liquor store where you can stand at the counter and join the Japanese businessmen coming in for after-work drinks. English menu available.
+}}
+
+==Sleep==
+As usual throughout Japan, make your reservation as early as possible for August (the time of yearly vacations and Bon festivals, when it is customary for the Japanese to travel to their and their ancestors' birthplaces) and around Christmas and New Year, and also in early November, when Shosoin treasures are on display at the National Museum. Cheaper accommodation may sell out or raise prices.
+
+===Budget===
+* {{sleep
+| name=Ryokan Matsumae | alt=旅館松前 | url=http://www.matsumae.co.jp/ | email=hanami626@yahoo.co.jp
+| address=28-1 Higashi-Terabayashi-cho | lat=34.67976 | long=135.83079 | directions=off Sanjo-dori, close to Sarusawa Pond and Gango-ji; about 7 minutes from Kintetsu Nara Station and 15 minutes from JR Nara
+| phone=+81 742 22-3686 | tollfree= | fax=+81 742 26-3927
+| checkin=15:00-21:00 | checkout=10:00 | price=Single with shared bath ¥5,000, single with private bath ¥10,000, double with shared bath ¥10,000, double with private bath ¥12,000, larger rooms available as well
+| image=Ryokan Matsumae in Nara.jpg
+| lastedit=2018-11-16
+| content=The owners profess to be familiar with Buddha statue carving and calligraphy. Free wifi. No dinner, but you can get a Japanese breakfast for ¥900—reserve it the night before. (A Western breakfast is available too.)
+}}
+
+===Mid-range===
+* {{sleep
+| name=Nara Washington Hotel Plaza | alt=奈良ワシントンホテルプラザ | url=https://washington.jp/nara/ | email=
+| address=31-1 Shimosanjō-cho | lat=34.682243 | long=135.823105 | directions=on Sanjō Avenue
+| phone=+81 742 27-0410 | tollfree= | fax=+81 742 27-0484
+| checkin= | checkout= | price=Singles &yen;6900
+| content=Nationwide western-style hotel chain. Rooms have internet at no extra charge.
+}}
+* {{sleep
+| name=Tempyō Ryokan | alt=天平旅館 | url=https://tenpyo.com/en/ | email=
+| address=9 Higashimuki-Nakamachi | lat=34.68368 | long=135.82894 | directions=in the Higashimuki Shopping Street Arcade
+| phone=+81 742 22-0551 | tollfree= | fax=+81 742 22-0553
+| checkin= | checkout= | price=&yen;6500-8000
+| content=Japanese and western-style rooms available.
+}}
+
+===Splurge===
+* {{sleep
+| name=Kikusuirō | alt=菊水楼 | url= | email=
+| address=1130 Takabatake-cho | lat=34.68176 | long=135.83425 | directions=
+| phone=+81 742-23-2001 | tollfree= | fax=+81 742 26-0025
+| checkin= | checkout= | price=&yen;40,000 depending on days and season
+| content=Deluxe Japanese-style ''ryokan'' inn.
+}}
+* {{sleep
+| name=Nara Hotel | alt=奈良ホテル | url=http://www.narahotel.co.jp/eng/ | email=
+| address=1096 Takabatake-cho | lat=34.67995 | long=135.83354 | directions=
+| phone=+81 742-26-3300 | tollfree= | fax=+81 742 23-5252
+| checkin= | checkout= | price=Room for &yen;22,000-90,000
+| wikidata=Q6965236
+| lastedit=2017-10-16
+| content=Classic western-style hotel of deluxe class, since 1909.
+}}
+* {{sleep
+| name=Hotel Nikko Nara | alt=ホテル日航奈良 | url=https://www.okura-nikko.com/japan/nara/hotel-nikko-nara/ | email=
+| address=8-1 Sanjō-Hommachi | lat=34.68157 | long=135.81839 | directions=close to JR Nara Station
+| phone=+81 742 35-8831 | tollfree= | fax=+81 742-35-6868
+| checkin= | checkout= | price=&yen;10,500-27,000/room
+| content=A Japan Airlines group chain hotel.
+}}
+
+==Stay safe==
+[[File:Nara Japan 1.jpg|thumbnail|Deer too enjoy cherry blossoms]]
+The deer in Nara Park tend to be friendly and perhaps overly eager to eat ''shika-senbei'' biscuits from the hands of tourists - simply possessing some will inevitably attract a small crowd of five or six deer, whose extreme and single-minded interest in these biscuits and accompanying lack of respect for your personal space may well be a bit startling when experienced en masse. Don't be fooled by the publicity shots of the deer being happily petted: they can sometimes be aggressive in pursuit of those who have food while thoroughly uninterested in anyone who doesn't have any. Small children in particular may be frightened to have the suddenly manic deer coming after them, so it may be best to feed the deer yourself and let the kids watch. While in the Kasuga-yama forest, steer clear of any deer which still have their antlers. They can be aggressive and their antlers can injure you.
+
+If you are allergic to pollen, beware: the heaviest cedar pollen fluctuation in this area is usually from mid-February to April.
+
+==Connect==
+
+==Go next==
+As the center of a plain dense with history, Nara makes a good hub for exploring the vicinity.
+
+* If you have three days, consider doing the [[World Heritage Tour in Nara]], which goes to [[Asuka]], [[Hōryūji]], and [[Yoshino]].
+* [[Kashihara]] &mdash; the site of Japan's capital city, Fujiwarakyo (藤原京), before Nara.
+* [[Tenri]]
+* [[Ikoma]]
+* [[Uda]]
+* [[Sakurai]]
+* [[Yamatokoriyama]]
+* [[Kizugawa]]
+* [[Kasagi]]
+* [[Minamiyamashiro]]
+
+{{routebox
+| image1=JR Kansai icon.png
+| imagesize1=100
+| directionl1=W
+| majorl1=[[Osaka]]
+| minorl1=[[Horyuji]]
+| directionr1=E
+| majorr1=[[Nagoya]]
+| minorr1=[[Iga]]
+
+| image2=JRW kinki-U.svg
+| imagesize2=28
+| directionl2=N
+| majorl2=END
+| minorl2=
+| directionr2=S
+| majorr2=[[Kashihara|Unebi]]
+| minorr2=[[Tenri]]
+
+| image3=KintetsuLogo.svg
+| imagesize3=30
+| directionl3=W
+| majorl3=[[Osaka/Minami|Osaka Nanba]]
+| minorl3=[[Ikoma]]
+| directionr3=E
+| majorr3=END
+| minorr3=
+
+| image4=KintetsuLogo.svg
+| imagesize4=30
+| directionl4=N
+| majorl4=[[Kyoto/Central|Kyōto]]
+| minorl4=[[Uji|Ōkubo]] ← [[Kyotanabe|Shin Tanabe]]
+| directionr4=S
+| majorr4=END
+| minorr4=
+
+| image5=Daini Hanna Toll Road Route Sign.svg
+| imagesize5=100
+| directionl5=W
+| majorl5=[[Osaka/Osaka castle|Higashi Senba]]
+| minorl5= in to [[File:Hanshin Urban Expwy Sign 0013.svg|25px]] ← [[Ikoma]]
+| directionr5=E
+| majorr5=END
+| minorr5=
+
+| image6=Meihan Expwy Route Sign.svg
+| imagesize6=100
+| directionl6=W
+| majorl6=[[Osaka (prefecture)|Osaka]]
+| minorl6= in to [[File:Nishi-Meihan Expwy Route Sign.svg|88px]] ← [[Tenri]]
+| directionr6=E
+| majorr6=[[Kameyama]]
+| minorr6=[[Iga]]
+
+| image7=Japanese National Route Sign 0024.svg
+| imagesize7=30
+| directionl7=N
+| majorl7=[[Kyoto]]
+| minorl7=[[Uji]]
+| directionr7=S
+| majorr7=[[Kashihara]]
+| minorr7=[[Yamato Koriyama|Yamato Kōriyama]]
+
+| image8=Japanese National Route Sign 0370.svg
+| imagesize8=30
+| directionl8=N
+| majorl8=END
+| minorl8=
+| directionr8=S
+| majorr8=[[Yoshino]]
+| minorr8=[[Uda]]
+}}
+
+{{Guidecity}}
+{{geo|34.6833|135.8000}}
+{{isPartOf|Nara_(prefecture)}}

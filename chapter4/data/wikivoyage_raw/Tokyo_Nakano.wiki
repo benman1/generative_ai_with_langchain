@@ -1,0 +1,110 @@
+{{pagebanner|Nakano Wikivoyage banner.jpg}}
+'''Nakano''' (中野) ward (often called Nakano city in English), adjacent to [[Tokyo/Shinjuku | Shinjuku]], is the near edge of the endless urban sprawl of western Tokyo.
+
+==Understand==
+===Tourist Information Site===
+The ward has an [https://www.city.tokyo-nakano.lg.jp/kanko/index.html official Japanese-only guide site] with integrated machine translation.
+==Get in==
+{{Mapframe|35.70651|139.65891|zoom=13}}
+{{Mapshape}}
+{{Mapshapes|Q682894}} <!-- Tokyo Metro -->
+{{Mapshapes|Q247782}} <!-- Toei Subway -->
+
+Nakano is well connected by various train lines, both above and under ground.
+
+The most important stop is Nakano on the JR Chuo and JR Chuo-Sobu lines, where JR Chuo rapid (orange) and JR Chuo-Sobu local (yellow) trains stop. Additionally, there are also local trains on the JR-Chuo line during peak hours. Nakano is also the terminal stop for trains on the Tokyo Metro Tozai subway line (sky blue, stop T01). Nevertheless, some trains of the Tozai line will continue on the JR Chuo line as Chuo-Sobu local trains after reaching Nakano. Travelers reach Nakano quickest with JR Chuo line rapid trains which operate on a frequent schedule from Shinjuku station (1 stop, 5 minutes, ¥150) and Tokyo station (5 stops, 20 minutes ¥210). Nakano's main commercial area (i.e. most shops and restaurants, including Nakano Sunmall and Nakano Broadway) are just north of the station.
+
+Please pay attention to the actual service before you board a JR Chuo rapid train. The most frequent service, called rapid (orange), as well as the commuter rapid (purple) and the Ome special rapid (green) are the only ones stopping in Nakano. But the special rapid (pale turquoise), the commuter special rapid (pink), and the Chuo and Ome liners (both pale orange) pass Nakano. Given in parentheses are the signature colors on the service diagrams (not to be confused with the line colors), which can be found on the station platforms and show what service stops/passes what stations. 
+
+Also on the JR Chuo line is Higashi Nakano (東中野, meaning "East Nakano") but only just JR Chuo-Sobu local trains stop there.
+
+Further north of the ward Arai Yakushi-mae (新井薬師前), Numabukuro (沼袋), Nogata (野方), Toritsu Kasei (都立家政) and Saginomiya (鷺宮) are stops on the Seibu Shinjuku line, which does not terminate at Shinjuku (as the name might suggest to some) but at Seibushinjuku, i.e. Seibu's own station a bit north of Shinjuku station.
+
+The south of the ward is connected by Tokyo Metro Marunouchi line with trains stopping in Nakano Sakaue (中野坂上) where the line is split and most trains continue to Shin-Nakano (新中野) but some continue on the Honancho branch to Nakano Shimbashi (中野新橋, featured in ''You Only Live Twice'' as the entrance to the villain's underground hideout) and Nakano Fujimicho (中野富士見町) instead. Trains run to Shinjuku and Tokyo stations from all these stops.
+
+Additionally to these east-west bound lines, there's one south-north bound line. The Toei Oedo line stops at the already mentioned Nakano Sakaue and Higashi Nakano station as well as at Shin-Egota (新江古田). Once again, trains on this line also stop at Shinjuku station.
+
+Further stations of various (including not previously mentioned) lines stop just outside of the ward, providing additional connections to places close to the ward's border. Ochiai (落合) station on the Tozai line, while situated in neighboring Shinjuku ward, even has exits in Nakano ward.
+
+==See==
+* {{see
+| name=Baishoin | alt=梅照院 | url=http://www.araiyakushi.or.jp/ | email=
+| address=5-3-5 Arai, Nakano | lat=35.714535 | long=139.6675846 | directions=From Nakano station, follow the main street north until you reach a pedestrian bridge. Don't cross the bridge but turn right into the park / temple area instead. It's a 15-minute walk (~1km), so you might choose to take one of the many buses that follows the same route. Get out at Kitano-jinja (北野神社) and keep walking in the same direction until you reach said pedestrian bridge. During sakura season, there's pink lanterns and white cherry trees lining the street from Nakano station to the temple grounds. The lanterns continue to the northern border of Nakano, so don't follow them to the end. Last but not least, you can also make the first half of the walk there more enjoyable by walking through Sunmall and Broadway (see below) and then turn left to again join said main street for the second half of the trip.
+| phone= | tollfree= | fax= 
+| hours= | price=
+|lastedit=2018-08-25| content=51 weeks of the year, this is just a small, unimportant and uninteresting temple connected to an equally uninteresting park / playground. But during one week in the year, in early April, this is where Nakano celebrates hanami. There are lots of white cherry trees on the way there already, and some more sakura can be seen on the grounds. At this time, there are also lots of food stalls and even a small stage with some traditional singing and dancing going on. If you want to be amazed by the sheer number or size of cherry trees (or hanami parties), there are better places in Tokyo. But if you're in Nakano anyway, it's a nice place to see how the local people enjoy the sakura season and grab some typical Japanese bites.
+}}
+
+==Do==
+* {{do
+| name=Nakano Shiki-no-mori Park | alt=中野四季の森公園 | url=https://www.nakano-shikinomoripark.jp/ | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2024-03-19
+| content=Medium-sized park in the northwest of Nakano station, with a water playing area added in summer. Adjacent buildings (confusingly named Nakano Central Park) has many restaurants and fast food outlets. Shiki-no-mori means "forest of four seasons". Opened in 2012.
+}}
+
+==Buy==
+* {{buy
+| name=Nakano Sunmall | alt= | url= | email=
+| address= | lat=35.706477 | long=139.663581 | directions=opposite JR Nakano station's north exit
+| phone= | tollfree=
+| hours=Many of the shops are not open until late morning or early afternoon, especially on weekends. Most shops are open at least 10:00-20:00 | price=
+| wikidata=Q11367445
+| content=The center of Nakano's commercial area is an over 200-m-long covered shopping street (arcade) featuring a wide variety of shops, cafes and restaurants. Branching off to the east are several side-streets with various additional restaurants, including many Izakaya.
+}}
+* {{buy
+| name=Nakano Broadway and the Broadway Arcade | alt= | url=https://nakano-broadway.com/ | email=
+| address=5-52-15 Nakano | lat=35.709167 | long=139.665556 | directions=enter Nakano Sunmall (see above), and continue for about five minutes
+| phone= | tollfree=
+| hours=Many of the shops are not open until late morning or early afternoon, especially on weekends. Most shops are open at least 10:00-20:00 | price=
+| image=Nakano broadway entrance.JPG | wikidata=Q10856007
+| content=On the 2nd and 3rd floor of this otherwise typical suburban shopping complex is the Broadway Arcade. Renowned throughout Tokyo and beyond for its jam-packed stores catering to the "otaku" culture of comics, anime, collectible toys, and the like. If you're looking for two-meter-high Godzilla figure, this is where you'll find it. There are also some used and specialty audio and video equipment stores, along with a wide variety of other stores catering towards the general public mainly on the lower levels. Note, that no escalators go to the 2nd and 4th floor but there's several staircases.
+}}
+
+==Eat==
+* {{eat
+| name=Various Eateries | alt= | url= | email=
+| address= | lat= | long= | directions=Inside Nakano Sunmall (see above) and in the side streets just west of it.
+| phone= | tollfree= | fax= 
+| hours=Early-late | price=
+| content=While you probably won't find any outstanding restaurants in Nakano, there's lots of options if you get hungry while there. There are lots of restaurants (mostly chains) in Nakano Sunmall and dozens of eateries and izakaya in the side streets next to it. There's something for every taste, e.g. ramen, sushi, soba, curry, pizza, and burgers.
+}}
+* {{eat
+| name=Marui's Restaurant Floor | alt= | url=https://www.0101.co.jp/001/ | email=
+| address=5F Marui Nakano 3-34-28 Nakano | lat=35.704766 | long=139.665138 | directions=Just south of Nakano station on the main street.
+| phone= | tollfree=
+| hours=10:30-20:30 | price=
+| content=A couple of typical department store restaurants, offering both Japanese and overseas food. Also has a good food section in the basement.
+}}
+
+==Drink==
+
+==Sleep==
+
+==Connect==
+==Go next==
+{{routebox
+| image1=JR Chuo icon.png
+| imagesize1=100
+| directionl1=W
+| majorl1=[[Hachioji]]
+| minorl1=[[Kokubunji]]
+| directionr1=E
+| majorr1=[[Tokyo/Shibuya|Shibuya]]
+| minorr1=[[Tokyo/Shinjuku|Shinjuku]]→into [[File:JR JY line symbol.svg|30px]]
+
+| image2=JR JB line symbol.svg
+| imagesize2=30
+| directionl2=W
+| majorl2=[[Mitaka]]
+| minorl2=[[Kichijoji]]
+| directionr2=E
+| majorr2=[[Tokyo/Sumida|Ryogoku]]
+| minorr2=[[Tokyo/Akihabara|Akihabara]]
+|directionl3=W|directionr3=E|image3=Subway TokyoTozai.png|imagesize3=30|majorl3=[[Mitaka]]|majorr3=[[Tokyo/Chuo|Nihonbashi]]|minorr3=[[Tokyo/Shinjuku|Takadanobaba]]|monorl3=[[Kichijoji]]|minorl3=[[Kichijoji]]}}
+
+{{outlinedistrict}}
+{{geo|35.707397|139.663836}}
+{{IsPartOf|Tokyo}}

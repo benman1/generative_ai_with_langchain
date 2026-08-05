@@ -1,0 +1,164 @@
+[
+  {
+    "question": "Do I need a visa to visit Iceland on a UK passport?",
+    "gold_answer": "No. UK passport holders can visit Iceland (Schengen) visa-free for up to 90 days in any 180-day period.",
+    "gold_doc_ids": [
+      "visa_schengen"
+    ],
+    "query_type": "factual_lookup"
+  },
+  {
+    "question": "What's the best time to see the northern lights in Tromso?",
+    "gold_answer": "Late September to early April, when the nights are dark.",
+    "gold_doc_ids": [
+      "dest_tromso"
+    ],
+    "query_type": "paraphrase"
+  },
+  {
+    "question": "I have three days in Stockholm, what should I do?",
+    "gold_answer": "Mix facets: Vasa Museum, Gamla Stan old town, an archipelago boat tour, Skansen/Djurgarden, and the SoFo design district.",
+    "gold_doc_ids": [
+      "dest_stockholm"
+    ],
+    "query_type": "multi_facet"
+  },
+  {
+    "question": "If the airline cancels my flight, do I get a refund?",
+    "gold_answer": "Yes, a full refund or free rebooking, and possibly statutory compensation depending on cause and notice.",
+    "gold_doc_ids": [
+      "refund_cancellation"
+    ],
+    "query_type": "factual_lookup"
+  },
+  {
+    "question": "Do I need any jabs for Bali?",
+    "gold_answer": "No COVID vaccination is required; hepatitis A and typhoid are commonly recommended. No mandatory vaccines as of 2025.",
+    "gold_doc_ids": [
+      "health_current"
+    ],
+    "query_type": "stale_trap"
+  },
+  {
+    "question": "How much is a checked bag?",
+    "gold_answer": "40 GBP each way in advance for a 23 kg bag (55 GBP at the airport).",
+    "gold_doc_ids": [
+      "baggage_current"
+    ],
+    "query_type": "stale_trap"
+  },
+  {
+    "question": "Do I need a visa for Japan?",
+    "gold_answer": "No, short-stay tourism up to 90 days is visa-free for most nationalities.",
+    "gold_doc_ids": [
+      "visa_japan"
+    ],
+    "query_type": "factual_lookup"
+  },
+  {
+    "question": "When is the best time to visit Kyoto?",
+    "gold_answer": "Spring (late March to April) for cherry blossom and autumn (November) for maple leaves.",
+    "gold_doc_ids": [
+      "dest_kyoto"
+    ],
+    "query_type": "paraphrase"
+  },
+  {
+    "question": "Can I get a refund if I cancel because I changed my mind?",
+    "gold_answer": "It depends on fare class: Basic is non-refundable, Flex refunds as travel credit minus a fee, Premium is fully refundable up to 14 days before.",
+    "gold_doc_ids": [
+      "refund_cancellation",
+      "fare_conditions"
+    ],
+    "query_type": "factual_lookup"
+  },
+  {
+    "question": "What does the travel insurance cover?",
+    "gold_answer": "Medical emergencies and repatriation, cancellation for covered reasons, missed departure, and lost/delayed baggage; winter sports need the activity extension.",
+    "gold_doc_ids": [
+      "travel_insurance"
+    ],
+    "query_type": "factual_lookup"
+  },
+  {
+    "question": "How do I get around Copenhagen?",
+    "gold_answer": "By bike (rentals and city bikes everywhere) and the 24-hour driverless metro.",
+    "gold_doc_ids": [
+      "dest_copenhagen"
+    ],
+    "query_type": "factual_lookup"
+  },
+  {
+    "question": "What is there to do in Reykjavik?",
+    "gold_answer": "Blue Lagoon, the Golden Circle, harbour and Sun Voyager, Hallgrimskirkja tower, whale watching, south-coast day trips.",
+    "gold_doc_ids": [
+      "dest_reykjavik"
+    ],
+    "query_type": "multi_facet"
+  },
+  {
+    "question": "Do I need a visa for Bali?",
+    "gold_answer": "Yes, a Visa on Arrival (about 500,000 IDR, 30 days, extendable once).",
+    "gold_doc_ids": [
+      "visa_bali"
+    ],
+    "query_type": "factual_lookup"
+  },
+  {
+    "question": "What's the baggage allowance on a package holiday?",
+    "gold_answer": "One 8 kg cabin bag is included; checked baggage is an add-on (40 GBP for 23 kg in advance).",
+    "gold_doc_ids": [
+      "baggage_current"
+    ],
+    "query_type": "factual_lookup"
+  },
+  {
+    "question": "How long can I stay in Norway without a visa?",
+    "gold_answer": "Up to 90 days in any 180-day period across the Schengen area (Norway is in Schengen).",
+    "gold_doc_ids": [
+      "visa_schengen"
+    ],
+    "query_type": "factual_lookup"
+  },
+  {
+    "question": "What are the best months to visit Helsinki?",
+    "gold_answer": "June to August for the archipelago and terraces.",
+    "gold_doc_ids": [
+      "dest_helsinki"
+    ],
+    "query_type": "paraphrase"
+  },
+  {
+    "question": "What excursions do you offer in the Norwegian fjords?",
+    "gold_answer": "Fjord sightseeing cruises, the Flam railway, and Holmenkollen from Oslo/Bergen.",
+    "gold_doc_ids": [
+      "excursion_suppliers",
+      "dest_oslo"
+    ],
+    "query_type": "multi_facet"
+  },
+  {
+    "question": "Can I change my booking dates?",
+    "gold_answer": "Free on Premium, a change fee plus fare difference on Flex, not permitted on Basic; within 48 hours must be by phone.",
+    "gold_doc_ids": [
+      "booking_changes"
+    ],
+    "query_type": "factual_lookup"
+  },
+  {
+    "question": "Is the tap water safe to drink in Bali?",
+    "gold_answer": "No, drink bottled or filtered water in Bali (tap water is safe in the Nordic cities and Japan).",
+    "gold_doc_ids": [
+      "health_current"
+    ],
+    "query_type": "factual_lookup"
+  },
+  {
+    "question": "Do I need a COVID vaccination to travel to Iceland now?",
+    "gold_answer": "No. As of 2025 no COVID vaccination or test is required (the 2021 rule is superseded).",
+    "gold_doc_ids": [
+      "health_current"
+    ],
+    "query_type": "stale_trap"
+  }
+]

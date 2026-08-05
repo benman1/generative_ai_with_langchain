@@ -1,0 +1,577 @@
+{{pagebanner|Sapporo_banner_Susukino_district.jpg|caption=Susukino district|unesco_cc=yes}}
+'''Sapporo''' (札幌) is the capital and largest city of the northern island of [[Hokkaido]]. One of Japan's newest and most orderly cities, it has little in the way of traditional architecture. But what it lacks in "Japanese-ness" it makes up for with its lovely open, tree-filled boulevards to enjoy in summer and excellent snow (and facilities to cope with said snow) in the long winter. Its name means “the great dry field” in the Ainu language.
+
+==Understand==
+[[Image:Skyline Sapporo Hokkaido Japan.jpg|thumb|350px|right|Sapporo Skyline]]
+Sapporo's population has grown from seven in 1857 to nearly 2 million in 2021.
+
+[https://www.sapporo.travel/en/ Welcome to Sapporo] is the city's official multilingual guide site.
+
+Tipping is not customary here. Excellent service is the norm, and service charges are often already included in the bill
+
+===Climate===
+{{climate chart
+|Sapporo
+|-6.4 |-0.4 |108.4
+|-6.2 |0.4 |91.9
+|-2.4 |4.5 |77.6
+|3.4 |11.7 |54.6
+|9.0 |17.9 |55.5
+|13.4 |21.8 |60.4
+|17.9 |25.4 |90.7
+|19.1 |26.4 |126.8
+|14.8 |22.8 |142.2
+|8.0 |16.4 |109.9
+|1.6 |8.7 |113.8
+|-4.0 |2.0 |114.5
+|jansnow=1370.0 |febsnow=1160.0 |marsnow=740.0 |aprsnow=60.0 |maysnow=0.0 |junsnow=0.0 |julsnow=0.0 |augsnow=0.0 |sepsnow=0.0 |octsnow=10.0 |novsnow=300.0 |decsnow=1130.0
+|maxprecip=1478.4
+|float=right
+|clear=right
+|source=[[:w:Sapporo]]
+| description =
+}}
+
+Sapporo has four distinct seasons. Temperatures are generally cool and pleasant during summer, making it a popular place to escape the heat that grips much of the rest of Japan. Summer days here start longer and earlier than the rest of Japan, with sunrise as early as 03:55, and the latest sunsets in June are only around 19:15. 
+
+Winters are harsh by Japanese standards, though not as harsh as the likes of [[Harbin]] or [[Chicago]]. Sapporo is one of the snowiest cities in the world (about 6 meters of snowfall each year, three times as much as in Montreal), and the city makes full use of this by hosting the world-renowned Sapporo Snow Festival in February every year. During the winters, the sun rises at around 07:00 and sets as early as 16:00.
+
+==Get in==
+Sapporo is Hokkaido's main transport hub.
+
+===By plane===
+Sapporo ({{IATA|SPK}} for all airports) is served by two airports. Most international and inter-island flights to go the larger but further away New Chitose Airport, while most intra-island flights go to the smaller but closer Okadama Airport.
+
+* {{marker|type=go|name=New Chitose Airport (新千歳空港) |url=https://www.hokkaido-airports.com/en/new-chitose/|lat=42.7878 | long=141.6817}} {{IATA|CTS}}, SE of the city in [[Chitose]], best reached by train or shuttle bus. All international and inter-island flights land here. The route from [[Tokyo]], particularly [[Tokyo Haneda Airport|Haneda]], is one of the most heavily traveled in the world. Direct international service to Sapporo is limited to Asian countries such as [[China]], [[Hong Kong]], [[Taiwan]] and [[South Korea]]; seasonal flights operate from cities in [[Australia]], [[Canada]] and the [[United States]]. JAL and ANA provide nonstop service from Japan's other major airports with regular international flights. JR Hokkaido’s '''Airport Rapid''' runs every 15 minutes or so from New Chitose to Sapporo Station (45 min, ¥1230 for a non-reserved seat in 2025).  JR operates an information desk at the airport from 08:30-19:00 daily where Japan Rail Pass vouchers can be exchanged. Limousine Buses run frequently to several destinations in downtown Sapporo, with one-way fares starting at ¥1000. Door-to-door shuttle van companies include '''[https://www.skyexpress.jp/ Sky Express]'''.
+* {{go
+| name=Okadama Airport | alt={{IATA|OKD}} 丘珠空港 | url=http://www.okadama-airport.co.jp/eng/index.html | email=
+| address=東区丘珠町 | lat=43.1175 | long=141.381389 | directions=north of the city
+| phone=+81 11 785-7871 | tollfree=
+| hours= | price=
+| wikidata=Q2902013
+| lastedit=2023-02-15
+| content=The smaller and more centrally located Okadama airport is the hub for regional airline Hokkaido Air System. This regional airline flies ATR 42 propeller aircraft to six airports in Hokkaido, including [[Hakodate]] and [[Kushiro]] as well as [[Misawa]] airport in Aomori. Toki Air also flies ATR propeller aircraft between here and [[Niigata]] and Fuji Dream Airlines flies small Embraer jets between here and [[Nagoya]] on a seasonal basis.
+}}
+
+If traveling by plane, you may wish to consider one of the air passes for foreigners sold by Japan Airlines and ANA, including the [https://www.world.jal.co.jp/world/en/japan_explorer_pass/lp/ Japan Explorer Pass]{{Dead link|date=July 2026 |bot=InternetArchiveBot }} and [https://www.ana.co.jp/en/us/promotions/share/experience_jp/ Experience Japan Fare], respectively.
+
+===By train===
+[[Image:Sapporostation_south.jpg|thumb|250px|right|JR Sapporo Station]]
+
+{{Marker|type=go|name=JR Sapporo station|wikidata=Q801404}} is the main railway station of Sapporo. It sees regular local service from [[Otaru]] and New Chitose Airport as well as limited express services from the rest of Hokkaido.
+
+Those not using a national rail pass may wish to consider the '''[https://www.jreast.co.jp/multi/en/pass/easthokkaido.html JR East-South Hokkaido Rail Pass]''' for ¥35,370 (2025) which covers unlimited travel on the shinkansen from Tokyo to [[Hakodate]], express trains from Hakodate to Sapporo, as well as other JR East lines in the [[Tohoku]] region and around Tokyo. This pass can be used for 6 consecutive days.
+
+==== From Tokyo, Hakodate ====
+Travelling to Sapporo from the rest of Japan is time consuming and expensive. First take the Tohoku/Hokkaido Shinkansen ''Hayabusa'' (はやぶさ) to Shin-Hakodate-Hokuto, then change for the ''Hokuto'' (ほくと) limited express to Sapporo (~8 hr, ¥29,680 in 2025). If eight hours is too much to spend on trains, you may wish to split up your journey; stop to visit another city along the way, or simply find a station where you can find cheap accommodation. The latter is beneficial to Rail Pass holders.   
+
+From Hakodate, you should also take the ''Hokuto'' (3 hr 45 min).  
+
+Seat reservations are essential on ''Hayabusa'' and ''Hokuto'' services as there all seats are reserved on these services. 
+
+On select days in September the limited express ''Niseko'' (二セコ 号 ) runs from Hakodate to Sapporo by the historic, but slower, Hakodate Main Line via Otaru (5 hr 30 min). Seat reservations are mandatory - you cannot board without one.
+
+==== From Muroran, Noboribetsu ====
+From [[Muroran]], take the limited express ''Suzuran'' (すずらん), taking 1 hr 40 min, or take a local shuttle services to Higashi-Muroran the change for the ''Hokuto''. From [[Noboribetsu]], take either the ''Suzuran'' or the ''Hokuto'' (1 hr 10 min). 
+
+==== From Niseko, Otaru ====
+From [[Niseko]], take either the once daily rapid ''Niseko Liner'' (二セコライナー) taking 2 hr 12 min or, in Sep only, take the limited express ''Niseko'' (2 hr 14 min). You can also take one of the sparse local trains, although some may require a change at [[Kutchan]], and all require you to change in Otaru. From Otaru, hourly ''Airport Rapid'' or the frequent local services take just under 1 hr to Sapporo.
+
+==== From Asahikawa, Abashiri, Wakkanai ====
+Frequent limited express ''Lilac'' (ライラック) and ''Kamui'' (カムイ) trains run from [[Asahikawa]]: once every 30 min in the morning and evening, hourly at other times. Journey time is 1 hr 30 min. Local trains take much longer, sometimes exceeding 3 hours, requiring 1-2 changes along the way. If you're on a tight budget consider taking a bus instead.
+
+For travel from [[Wakkanai]] and [[Abashiri]], either take the direct limited express trains: the once daily ''Soya'' (宗谷) from Wakkanai; the twice daily ''Okhotsk'' (オホーツク) from Abashiri; or take a train to Asahikawa and change for a train to Sapporo: the limited express ''Sarobetsu'' (サロベツ) from Wakkanai; the rapid express ''Taisetsu'' (大雪) from Abashiri. Journey time from Wakkanai is 5 hr direct, and from Abashiri is 5 hr 15 min direct.
+
+==== From Kushiro, Obihiro ====
+11 daily limited express ''Ōzora'' (おおぞら) and ''Tokachi'' (とかち) services run from [[Obihiro]] (2 hr 50 min). Of these, 6 limited express ''Tokachi'' services start further east at [[Kushiro]] (4 hr). All seats on these services are reserved.
+
+=== By bus ===
+Express buses connect to most points in Hokkaido.  The main terminal is next to the Bus Center-Mae station of the subway Tōzai line.
+
+[https://www.donanbus.co.jp/en/ Donan Bus]{{Dead link|date=May 2026 |bot=InternetArchiveBot }} operates a number of intercity buses to Sapporo. Buses depart/arrive at {{Listing
+   | type = go
+   | name = Sapporo station
+   | lat = 43.06472953003589
+   | long = 141.35086427965004
+   | alt = Sapporo-eki-mae
+   | lastedit = 2025-09-15
+}}. Buses operate from Noboribetsu (1 hr 30 min), Noboribetsu-onsen (1 hr 50 min, ¥2,500 in 2025), and Muroran (2 hr 40 min, ¥2,500).
+
+===By ferry===
+
+Although Sapporo is inland, there are two major ferry ports nearby: [[Otaru]] and [[Tomakomai]]. Both have scheduled car and passenger ferry service to points outside Hokkaido.
+
+See [[Hokkaido#By_ferry|Hokkaido]] for routes and ports near Sapporo or the [[Japan#get_around_by_boat|section]] in the main Japan article for general Japanese ferry information.
+
+==Get around==
+{{mapframe|43.06136|141.35439|zoom=13}}
+{{mapshapes|Q736098}}
+
+[[Image:Sapporo Tower.JPG|thumb|Sapporo TV Tower at night]]
+Most unusually for a Japanese city, Sapporo is logically organized thanks to its strict grid system.  The main thoroughfare, the leafy '''Ō-Dōri''' (大通り, literally "Big Street"), runs east-west across the city and divides the city into North and South, while '''Sōsei-Gawa''' (創成川, literally "Creation River") divides the city into West and East, running under the main street '''Eki-Mae-Dōri''' (駅前通, literally "In Front of the Train Station Road").  The address of every block in the center is thus of the type "'''North X West Y'''" (prominently signposted at all intersections), making navigation a snap. However, most businesses provide maps to their location, building names or landmarks, because the address "North X West Y" or the like simply means that the place you are trying to find will be ''somewhere'' in the block, and blocks in the center of the city can be quite large!
+
+Two public transportation smart cards are sold in the Sapporo area; JR Hokkaido's '''[https://www.jrhokkaido.co.jp/global/english/ticket/kitaca/index.html Kitaca]''' and the  Sapporo City Transportation Bureau's '''[https://www.sapica.jp/en/ SAPICA]'''. While the Kitaca can be used on the buses, subway and streetcars, the SAPICA ''cannot'' be used on JR trains, making the Kitaca the better choice for most visitors. If you are coming from elsewhere in Japan, the major smart cards from other regions such as Kanto's Suica and PASMO, and Kansai's ICOCA are ''fully interchangeable'' with Kitaca, meaning that you do not need to purchase an extra smart card.
+
+===By train===
+The JR above-ground trains are reasonably priced and a good option for traveling in Sapporo and surroundings.  The trains arrive and depart at specific times. You'll most likely want to take a train to and from the airport.
+
+===By subway===
+Sapporo has three subway lines, all converging at '''Ōdōri Station''' at the center of the grid.  The Namboku Line ("North-South") runs north-south, the Tōzai Line ("East-West") runs along Odori east-west.  Only the Tōhō Line breaks the mold by running in a C-shaped curve from northeast to southeast.  Single fares are charged by distance and cost ¥210–380, and with a choice between subway-only tickets or transfer (subway, bus and streetcar) tickets, which cost up to ¥540 for the longest trips (as of July 2025). Child tickets are half-price, rounded up to the next ¥10. The simplest option is the ''With You'' stored value card (lowest denomination ¥1000).  On weekends and public holidays, the ''Donichika-Kippu'' (ドニチカキップ) allows unlimited 1-day subway travel for ¥520 (child ¥260). On weekdays, the ''One-Day Ticket'' allows the same, but costs ¥830 (child ¥420). There is also a ''Bus and Subway Transfer One-Day Ticket'', which allows unlimited 1-day travel on buses, subways, and streetcars (¥1000).
+
+===By streetcar===
+[[File:On the Sapporo Streetcar.jpg|thumb|240x240px|On the Streetcar in Sapporo]]
+A streetcar of relatively little utility to most visitors trundles around the southwestern side of Sapporo, connecting to the subway at Susukino. Its most important stops are probably the Chuo Library (Main Public Library in Sapporo) and the Mt. Moiwa Ropeway. It's most useful in winter, when walking the icy footpaths to get to the library or otherwise less-accessible south-western areas of the city becomes quite treacherous. Single-trip tickets cost ¥200 (child ¥100), as of July 2025. They also sell a "Do-san-ko Pass" on weekends and holidays which allows you to ride all you want for a day for ¥300. Since it costs less than the cost of 2 normal trips, it is usually advisable to buy this if you are going to make a round trip on an eligible day.
+
+===By car===
+You could try to drive in the city, but parking is problematic. Generally speaking, using the subways and buses is recommended. There are countless pay parking lots in Sapporo. One of the largest ones is about 100 m south of the Susukino South Toyoko Inn, and it's a short walk from the subway.
+
+==See==
+[[Image:Clock1xSmall.jpg|thumb|125px|Tokeidai, Sapporo's icon]]
+
+* {{see
+| name=Clock Tower | alt=時計台 Tokeidai | url= | email=
+| address= | lat=43.062602 | long=141.353681 | directions=Close to Ōdōri Station.
+| phone= | tollfree= | fax=
+| hours= | price=¥200
+| content=This rather diminutive building has become a symbol of Sapporo, mostly by being the oldest building still standing. It was constructed in 1878 for the Sapporo Agricultural College (now the Hokkaido University) and would not look out of place in "Smalltown U.S.A." The inside has a small retrospective of its history. Visitor beware, as this is for some reason a mecca for Japanese tourists coming to Sapporo who feel that no trip to Sapporo would be complete without a photo in front of the Tokeidai, but has been rated as Japan's third "most disappointing" tourist attraction!
+}}
+* {{see
+| name=Shiroi Koibito Park | alt=白い恋人パーク | url=http://www.shiroikoibitopark.jp/ | email=
+| address= | lat=43.08883 | long=141.27132 | directions=
+| phone= | tollfree=
+| hours= | price=¥600 for a tour, free entrance to the premises
+| lastedit=2018-01-06
+| content=Formerly "Ishiya Chocolate Factory". The factory has an incredibly corny, but fun, tour building up to a view of the actual chocolate making floor, and ending with a random toy museum. Also there are two restaurants, a souvenir store, and an hourly robot show complete with annoying music. Famous for its white chocolate, which is sold under the brand "White Lovers" (白い恋人 ''shiroi koibito''), and is only available in Hokkaido; if you are working in Japan, your colleagues will expect some White Lovers chocolate as souvenirs if you visit Hokkaido. There is also a cake buffet available at the restaurant on the top floor for "&yen;1,500" but reservations must be made 3 days in advance.
+}}
+* {{see
+| name=Ōdōri Park | alt=大通公園, ōdōri-kōen | url= | email=
+| address= | lat=43.059722 | long=141.346389 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| lastedit=2018-01-06
+| content=Sapporo's most famous park, it is in the center of town and is considered to be a symbol of Sapporo. Although quite narrow (one might argue that it is a nice boulevard), the park is quite long, stretching over fifteen blocks across downtown Sapporo. Filled with (during the summer) numerous flowers, trees, and fountains, Ōdōri Park provides a welcome respite from the maddening crowds of the surrounding city. In winter, there's not much to see.
+}}
+* {{see
+| name=Sapporo TV Tower | alt=さっぽろテレビ塔 | url=http://www.tv-tower.co.jp/en/ | email=
+| address= | lat=43.061111 | long=141.356389 | directions=at the eastern end of Ōdōri
+| phone= | tollfree= | fax=
+| hours= | price=¥700
+| content=A tourist trap carbon copy of the Eiffel Tower with an observation deck 90 m high.
+}}
+* {{see
+| name=Sapporo Beer Museum | alt=サッポロビール博物館 Sapporo Biru Hakubutsukan | url=http://www.sapporobeer.jp/english/guide/sapporo/ | email=
+| address=North 7, East 9 | lat=43.071666 | long=141.368836 | directions=next to the Ario Shopping Center; on the Loop 88 Factory bus line from the Ōdōri Subway Station; close to JR Naebo Station (ask the attendant there for a map)
+| phone=+81 1-1731-4368 | tollfree= | fax=
+| hours=Daily 09:00-18:00 | price=Beer sample ¥300-350, 3 samples ¥800
+| lastedit=2019-10-10
+| content=Run by the Sapporo Brewing Company, offers free self-guided tours or "premium" guided tours (only in Japanese, ¥500) covering the history of beer in Japan and the process of brewing. The museum is not very big and while the printed descriptions on the displays are in Japanese, cards are provided offering English translations. Two short movies about the history of the brewery also have English subtitles. At the end of the tour you can taste all the different beers. Finish off the tour with more beers at the Beer Garden next door (see [[#Eat|Eat]]).
+}}
+[[File:Sapporo beer museum.jpg|thumb|Sapporo beer museum]]
+* {{see
+| name=Hokkaido Pioneer Village | alt=開拓の村 | url= | email=
+| address= | lat=43.048278 | long=141.497056 | directions=JR Bus from Sapporo or Shin-Sapporo station
+| phone= | tollfree=
+| hours= | price=¥630
+| content=A large historical village on the outskirts of Sapporo, offers a snapshot of Japan in the newly-industrialised age. The front gate (an old railway station) opens up into a series of opens alleys and buildings of the style pre-20th century. Also a variety of different gardens and shrines. Don't expect costumed performers however &mdash; everything is self-guided. An English map is available.
+}}
+* {{see
+| name=Moiwayama | alt=藻岩山 | url= | email=
+| address= | lat=43.022139 | long=141.322111 | directions=can be reached by cable car, or with a car, the summit (and tourist center) can be reached directly
+| phone= | tollfree= | fax=
+| hours= | price=An entrance fee is charged for cars
+| content=This mountain, also called Moiwa Mountain, overlooks the city and is especially worthwhile at night to observe the city lights.
+}}
+
+[[Image:Asahiyama1xSmall.jpg|thumb|125px|View from Asahiyama overlooking Sapporo city]]
+* {{see
+| name=Asahiyama Park | alt=旭山記念公園 Asahiyama Kinen Kōen | url= | email=
+| address= | lat=43.039667 | long=141.315028 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=Free.
+| content=A beautiful flower garden and natural park that overlooks the city center. Noted for being a good place for romance, and is particularly good for cherry blossoms in spring and autumn colors, and local wildlife such as squirrels and foxes (somewhat of a feral pest around Sapporo).
+}}
+* {{see
+| name=Hokkaido Shrine | alt=北海道神宮 Hokkaidō Jingū | url=http://www.hokkaidojingu.or.jp/ | email=
+| address= | lat=43.054235 | long=141.307705 | directions=
+| phone= | tollfree=
+| hours= | price=Free
+| content=
+}}<!--
+-->[[Image:Jozakei1.jpg|thumb|125px|Autumn at Houkaikyou Dam, Jozankei]]
+* {{see
+| name=Jōzankei | alt=定山渓 | url= | email=
+| address= | lat=42.915833 | long=141.153611 | directions=on the southern outskirts of Sapporo (but still in the city), a 40- to 60-minute drive
+| phone= | tollfree= | fax=
+| hours= | price=
+| lastedit=2018-01-05
+| content=This area is famous for its onsen (due perhaps to proximity to Sapporo), and for the very beautiful autumn colours (especially around the Hōheikyō Dam). Accessible by public bus from the JR Sapporo station with multiple departures daily for ¥830 one-way.
+}}
+*{{see
+| name=JR Tower | alt=JRタワー | url=http://www.jr-tower.com/ | email=
+| address= | lat=43.06813 | long=141.352528 | directions=
+| phone= | tollfree= | fax=
+| hours=Daily 10:00-23:00, last entry 22:30 | price=observatory: adults ¥700, middle and high school students ¥500, elementary school students ¥300
+| wikipedia=Sapporo JR Tower | image=JR Sapporo Sta07s3s2790.jpg | wikidata=Q3041894
+| lastedit=2017-04-03
+| content=The redeveloped building near JR Sapporo Station marks the center of the city. It is higher than the TV tower observatory is. Affording panoramic views. As a bonus for men, the observation level has a men's room with a view!
+}}
+*{{see
+| name=Hokkaido Museum of Modern Art | alt=北海道立近代美術館 | url=https://artmuseum.pref.hokkaido.lg.jp/knb | email=
+| address=North 1 West 17, Chuo | lat=43.060062 | long=141.330378 | directions=from Nishi 18 Station on the Tozai Line, 5 minutes on foot, located in a small park
+| phone=+81 11 644-6881 | tollfree=
+| hours=Tu-Su 10:00-17:00 | price=Adults &yen;250, university students &yen;150
+| content=A modern museum filled with collections of contemporary works and especially glass objects, Pascin of École de Paris, as well as temporary exhibits. The main hall is the center of exhibits of works owned by the museum and the special facility is reserved for "expo" of foreign and Japanese arts. Each summer the museum holds a special course for children.
+}}
+* {{see
+| name=Snow Brand Milk Products Historical Museum | alt= | url= | email=
+| address= | lat=43.07195 | long=141.38492 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2021-05-06
+| content=Large museum on the premises of Snow Brand Milk Products factory, where the company first produced butter in 1925. After learning about dairy farming and milk products, visitors can sample ice cream and milk made at the factory.
+}}
+* {{see
+| name=Sapporo Art Park | alt=札幌芸術の森, sapporo geijutsu no mori | url=http://www.artpark.or.jp/ | email=
+| address=南区芸術の森２丁目７５ | lat=42.940166 | long=141.340849 | directions=west of Highway 453, several kilometers south of central Sapporo
+| phone=+81 11 592-5111 | tollfree= | fax=
+| hours= | price=
+| content=Containing over 74 modern and contemporary sculptures, this art park makes for a great day trip.
+}}
+* {{see
+| name=Moerenuma Park | alt=モエレ沼公園, Moerenuma Kōen | url=http://moerenumapark.jp/ | email=
+| address= | lat=43.124 | long=141.43 | directions=take the Toho Line to Kanjo-dori-higashi, then the Higashi 69 or 79 bus to Chuo Bus Kita Satsunae Line to Moere Koen Higashiguchi; doing so allows you to enter the park from the east entrance
+| phone= | tollfree= | fax=
+| hours= | price=free
+| image=MoereYama.jpg | wikidata=Q1298335
+| content=A popular excursion for Japanese families, this park offers several acres of carefully manicured grass and monumental landscape installations. Highlights include a 5-story glass pyramid and a man-made mountain, from which one can see all of Sapporo. Rental of bicycles is available, from 07:00-19:00.
+}}
+*{{see
+| name=Hokkaido University Botanic Garden | alt=北海道大学植物園 Hokkaido Daigaku Shokubutsuen | url=https://www.hokudai.ac.jp/fsc/bg/index_e.html | email=
+| address=North 3 West 8, Chuo | lat=43.063667 | long=141.342472 | directions=from JR Sapporo train station, go south 3 blocks and west 5 blocks
+| phone=+81 11 221-0066 | tollfree= | fax=
+| hours=Daily 09:00-16:00 | price=16 year old or older: ¥420; 7~15: ¥300; younger: free
+| content=A large botanical garden. There are two rock gardens, a rose garden, a lilac display, a greenhouse, and various other gardens. There's a small museum in the garden with artifacts from Hokkaido, some dating back to the Meiji period (no extra cost). In the winter, only the greenhouse and museum are of interest.
+}}
+*{{see
+| name=Former Hokkaido Prefectural Government Building | alt=北海道府旧本府舎 | url= | email=
+| address=Chuo-ku N3 W6 | lat=43.06431 | long=141.34683 | directions=two minutes walk from Sapporo station, in between Ōdōri Park and Sapporo Station
+| phone=+81 11 231-4111 | tollfree=
+| hours= | price=Free
+| content=This beautiful western-style red brick building is a famous site of Sapporo and worth taking a quick look, as it is in the center.
+}}
+
+==Do==
+
+[[Image:YukiMatsuri2xSmall.jpg|thumb|125px|Edo-jo recreated from snow/ice at Yuki Matsuri]]
+[[Image:YukiMatsuri1xSmall.jpg|thumb|125px|Historical theme of Perry arriving in Japan at Yuki Matsuri]]
+
+* {{do
+| name=Sapporo Snow Festival | alt=雪祭り Yuki Matsuri | url=http://www.snowfes.com/english/index.html | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours=First week of Feb | price=
+| content=This is Sapporo's largest event. The festival is best known for the '''ice sculpture competition''' attracting artists from around the world, competing to create the largest and most elaborate artworks from ice and snow. The festival is focused on Odori Koen, in the centre of Sapporo. It consists of a combination of large-scale replicas and artistic sculptures; children-aimed attractions; and a separate section for world-wide competitors (where you can see a wide range of smaller artistic sculptures). The festival should be enjoyed both in the day -- but particularly at night when the sculptures (especially the larger ones) are lit up. When the weather is warmer and there's a bit of melting, the smaller sculptures are literally remade every night to ensure that they are in perfect condition the next day. Book accommodation early, because Sapporo gets booked out during the festival.
+}}
+* {{do
+| name=Mt. Teine | alt=手稲山 Teineyama | url= | email=
+| address= | lat=43.0767 | long=141.19263 | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=A ski mountain within easy drive from most of Sapporo. This ski mountain featured in the 1972 Winter Olympics. Offers a good mix of beginner and experienced slopes (in two distinct parks; Highlands and Olympia which are connected). You can purchase a Skip (スキップ ''sukippu'', ski + trip) ticket at any JR ticket office for roughly ¥4500 (depending on which station you start from) that includes roundtrip train tickets to JR Teine station, roundtrip bus tickets from Teine station to the ski area, and a four-hour lift ticket. At Teine Station, make sure to exit at South gate #3 to find the correct bus.
+}}
+* {{do
+| name=Skiing | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=As befits a former Winter Olympics site, Sapporo is famous for its ski resorts, which are easily accessible by bus. [[Niseko]], one of Japan's top destinations for powder, is two hours away by bus.
+}}
+* {{do
+| name=Hoheikyo Onsen | alt=豊平峡温泉 | url=http://www.hoheikyo.co.jp/sp/ | email=
+| address=〒061-2301 札幌市南区定山渓608番地2 | lat=42.94958 | long=141.15597 | directions=
+| phone=+81 11-598-2410 | tollfree=
+| hours= | price=¥1000
+| lastedit=2018-01-05
+| content=Probably the most beautiful outdoor hotspring that is easily accessible from Sapporo. Separate areas for male and female guests offer an indoor bathing area and a large outdoor pool with mountain view. Massage, a beer bar and a restaurant (Indian curry or Japanese soba) are available on site. A free shuttle bus departs daily from Makomanai subway station (in front of the middle school) at 10:00 and returns from Hoheikyo to Makomanai at 15:00 (Service stopped since Oct 22, 2022 according to their website). Public buses (Rapid 7, Rapid 8 and Kappa Liner) also run regularly from Sapporo JR Station for ¥840.
+}}
+
+==Buy==
+
+For those living in Japan who have an ''omiyage'' (souvenir) obligation to fill in your Japanese office when you return from your Hokkaido holiday, the best ''omiyage'' to buy in Sapporo is the ubiquitous ''Shiroi Koibito'' (白い恋人, "White Lovers"). It is a chocolate slice sandwiched in two wafers of sweet biscuit, individually wrapped and available boxed in a range of different quantities &mdash; tasty enough, but rather bland, and few Westerners would associate the taste with Japan.  The original flavour is white chocolate sandwiched in plain sweet biscuit, but there is also a dark chocolate version.  It's available in every souvenir store in the city (try the Sapporo JR area or Tanuki Koji Shopping Arcade when shopping for souvenirs), and also most souvenir stores around the island.
+
+Being a wintery kind of place for a good part of each year, Sapporo also has many stores selling all manner of snow goods. At the beginning and end of each season, many good deals on the previous year's gear can be found, often at discounts of up to 60% off, sometimes more! Also, there are several sports recycle stores in the city and suburbs where good deals on barely-used gear can be found, thanks to the Japanese fondness for having new gear every season. Ask Tourist Information to help you locate second-hand sports and snow-gear stores. One such second-hand chain is Hard Off, which can be found all across Japan. Generally, the more remote the Hard Off is, the more likely you are to find a treasure!
+
+==Eat==
+Sapporo is famous for '''hairy crab''' (毛蟹 ''kegani''), an expensive treat available at any seafood restaurant, and '''miso ramen''' (味噌ラーメン), a local variation of the ubiquitous noodle dish with ''miso'' paste added to the stock, and one of [[Japan's Top 3#Ramen|Japan's top three ramen]]. The ramen in particular will warm you up nicely on a chilly winter day. Sapporo '''soup curry''' (just what it sounds like) is also increasingly famous.
+
+As elsewhere in Hokkaido, you can also enjoy dairy products (milk, cheese, butter, chocolate and ice cream), seafood (especially as sushi), fruits (honeydew melon, strawberries) and meat (sausages, ham, bacon and beef).
+
+'''Kuwanomi''' (桑の実) is a popular mulberry. It is red or black in color and sweet. Preserved ''kuwanomi'' can be made into jam, which is a traditional food. In elementary schools, students make kuwanomi jam every year.
+
+* {{eat
+| name=Nijō Ichiba | alt=二条市場 | url=https://nijomarket.com/ | email=
+| address=South 2-3, East 1-2 | lat=43.058306 | long=141.358472 | directions=5 min from Odori Stn
+| phone= | tollfree=
+| hours=07:00-18:00 | price=
+| content=Sapporo's equivalent to Tokyo's famed Tsukiji Fish Market, this is where the best of Hokkaido's catch is traded &mdash; and like its Tokyo counterpart, there are many restaurants here offering top-quality, cut-price sushi and sashimi. Popular with locals and tourists alike.
+}}[[File:Ramen Alley Sapporo Japan.jpg|thumb|The entrance to Ramen Alley in Sapporo]]
+* {{eat
+| name=Aji No Tokeidai | alt=味の時計台 | url=http://www.ajino-tokeidai.co.jp/english/ | email=
+| address= | lat=43.10586 | long=141.33326 | directions=
+| phone= | tollfree=
+| hours= | price=¥600-1000
+| content=The best-known ''ramen'' noodle chain in Sapporo, now franchised around the country. Many famous people have eaten here including former Japanese prime minister, Tomiichi Murayama. Miso ramen is the most popular dish, but if you want something special, order the ''batā-kōn'' ramen, a Hokkaido specialty made with a hearty broth of corn and butter.
+}}
+* {{eat
+| name=Ramen Yokochō | alt=ラーメン横丁 | url=http://www.ganso-yokocho.com/ | email=
+| address= | lat=43.05466 | long=141.35434 | directions=just east of Susukino Station.
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Also known as ''Ramen Gai'', this alley is chock full of ramen shops of all varieties. Get butter corn ramen, crab ramen, and even scallop ramen. It's touristy but fun, and locals come here as well.
+}}
+* {{eat
+| name=Sapporo Beer Garden | url= | email=
+| address= | lat=43.07133 | long=141.36907 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=At the same location as the Beer Museum is the Beer Garden, an incredibly popular Genghis Khan (mutton barbeque) restaurant. Even though the dining rooms span three large buildings, come early and expect to wait. The restaurant offers a 100-minute all-you-can-eat-and-drink plan, as well as à la carte. Bibs are provided, because the food can get rather messy.
+}}
+* {{eat
+| name=Romantei | alt= | url=http://romanntei.com/ | email=
+| address= | lat=43.01647 | long=141.36822 | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=One of the most popular sweets shops. Famous for its '''Chocolate Mont Blanc''', a delicious concoction of sponge cake, whipped cream and ganache. Other delectables include cream puffs, apple pie, and strawberry Bavarian. Located at Moiwa Mountain. There is also a takeaway shop at Tokyu Department Store, right outside Sapporo Station. A second dine-in shop is located at Sumikawa Station.
+}}
+* {{eat
+| name=Cafe Phyton | alt= | url= | email=
+| address=South 2 East 1 | lat=43.058747 | long=141.358498 | directions=just north of Nijō Ichiba, on the other side of the street that bounds the northern edge
+| phone= | tollfree= | fax=
+| hours=M-F 08:00-00:00, Sa Su 08:00-20:00 | price=
+| content=This small coffee shop has freshly made specialty coffees and a few Belgian beers by the bottle.
+}}
+* {{eat
+| name=Soup Curry Garaku | alt= | url=https://s-garaku.com/ | email=
+| address=Chuo, Minami 2 Jonishi, 2 Chome−６−1 B1F | lat=43.0581 | long=141.355 | directions=
+| phone= | tollfree=
+| hours=Daily 11:30-15:30, 17-21 | price=¥1200
+| lastedit=2022-09-23
+| content=The original outlet of Sapporo's most famous soup curry chain, now franchised worldwide. The soup is here is complex and aromatic, and even the basic bowl is packed to overflowing with a whole chicken leg and vegetables. You can customize your spice level between 1 and 40. Vegetarians beware: while there are 'vegetable' options on the menu, the soup itself is made from pork bones.
+}}
+* {{eat
+| name=Yakiniku Dining MEGUMI Minamihachijoten | alt= | url=https://ha4e500.gorp.jp/ | email=
+| address=3-7-40, Minami 8 Jo Nishi, Chuo-ku | lat=43.051128 | long=141.354636 | directions=
+| phone=+81-11-590-6708 | tollfree=
+| hours=11:30-23:00 | price=¥7000
+| lastedit=2025-09-09
+| content=
+}}
+
+==Drink==
+The drink of choice when in Sapporo is obviously '''Sapporo Beer''', and a good option for this is the Beer Museum (see [[#See|See]]).
+'''Susukino''' (すすきの), to the south of the center, is one of Japan's largest nightlife (and red-light) districts, which was created to keep labourers in [[Hokkaido]]. It has a somewhat unsavory reputation due to heavy yakuza involvement in the business, but is safe for travelers not looking for trouble. Get there on the subway Namboku line, Susukino station.
+
+* {{drink
+| name=Paul's Cafe | url= | email=
+| address=North 5 West 5 | lat=43.06682 | long=141.34828 | directions=next to the railway station, in Century Royal Hotel Building
+| phone= | tollfree= | fax=
+| hours=11:00-22:00 | price=
+| content=Belgian beer and rotisserie grill chicken. While you wait for your train, Paul will delight you with his wonderful beer selection.
+}}
+
+==Sleep==
+
+===Budget===
+* {{sleep
+| name=Auto Resort Takino | alt=オートリゾート滝野 | url=https://www.takinopark.com/autoresorttakino/ | email=
+| address=247 Takino, Minami-ku | lat=42.91296 | long=141.38975 | directions=Near the Art Park in Minami-ku
+| phone=+81 11 594-2121 | tollfree=
+| checkin= | checkout= | price=¥1000 per site, plus ¥800 per person
+| content=From approximately the last week of April through the first week of November, there is a campground in Takino with the facilities you would expect in a suburban campground: a playground, restrooms, a cooking area, water, public phones, vending machines, showers, a store, and a laundromat. According to Outdoor Japan, "There are some beautiful waterfalls to hike around in Takino Suzuran Koen and the campsite is large and comfortable.".
+}}
+* {{sleep
+| name=DK House Sapporo | url=https://www.e-guesthouse.com/eng/sapporo/ | email=
+| address=South 5, West 13-2-8, Chuo-ku | lat=43.05259 | long=141.33757 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=Cheap rooms with fridge and AC for &yen;45,000/month, en-suites for &yen;55,000/month
+| checkin= | checkout=
+| content=A guest house where many international students stay. Service is friendly and it's only 15 minutes from Susukino.
+}}
+* {{sleep
+| name=Ino's Place | alt= | url=https://inos-place.com/e/ | email=inos.place@gmail.com
+| address=Higashi Sapporo 3-4-6-5, Shiroishi-ku | lat=43.0489 | long=141.39099 | directions=7 minutes from Ō-Dōri station on the Tōzai line in Shiroishi
+| phone= | tollfree=
+| checkin= | checkout= | price=Dorm beds &yen;2900
+| content=Describes itself as a backpackers hostel and is a very friendly, open and clean place. Private rooms are available as well, as are discounts for long-term stays. Several 24-hr showers and a Japanese-style bath, free to use kitchen, a comfy living area and free internet access make this one a sure winner.
+}}
+
+===Mid-range===
+*{{sleep
+| name=Comfort Hotel Sapporo | alt=コンフォートホテル札幌 | url=https://www.choicehotels.com/it-it/japan/sapporo-city/comfort-inn-hotels/jp091 | email=
+| address=South 3 West 9 | lat=43.055741 | long=141.344647 | directions=Near Susukino
+| phone=+81 11 5134111 | tollfree=
+| checkin=15:00 | checkout=10:00 | price=
+| content=Midrange western-style rooms with bathroom. There is a computer with internet for use in the lobby.
+}}
+*{{sleep
+| name=Hotel Sapporo Mets | alt=ホテルサッポロメッツ | url=http://www.hotelmets.co.jp | email=
+| address=北区北17条西5丁目2番50号 | lat=43.081024 | long=141.345014 | directions=From the Kita 18-jo subway stop, go a block west. The hotel entrance is next to Lawson.
+| phone=+81 11 726-5511 | tollfree= | fax=
+| hours= | price=Singles &yen;4,580, doubles &yen;7,200 but in the off season it can be as little as &yen;3000 per night
+| checkin=14:00 | checkout=10:00
+| content=A nice hotel with reasonable prices. The hallway carpets have some light stains, but the rooms are clean, and have a bathroom and a fridge. The breakfast buffet is included with stay.
+}}
+* {{sleep
+| name=Toyoko Inn Sapporo Susukino South | alt=東横INN札幌すすきの南 | url=http://www.toyoko-inn.com/hotel/00014/index.html | email=
+| address=South 6 East 2 1-1 | lat=43.054533 | long=141.360169 | directions=
+| phone=+81 11 551-1045 | tollfree= | fax=+81 11 561-2045
+| hours= | price=
+| checkin= | checkout=
+| content=A reliable business hotel. This is a subway ride (or long walk) from the train station, so it doesn't fill up as quickly as the other Sapporo branches.
+}}
+* {{sleep
+| name=HOTEL MSTAYS Sapporo Nakajima Park | alt=ホテルマイステイズ札幌中島公園 | url=https://iconia.co.jp/en-us/hotel-mystays-sapporo-nakajima-park-hokkaido/ | email=
+| address=1 Chome-1-20 Minami 14 Jonishi, Chuo Ward | lat=43.042562 | long=141.356858 | directions=10 min walk from Horohirabashi station.
+| phone=+81-11-531-0550 | tollfree=
+| checkin=1500 | checkout=1100 | price=
+| lastedit=2025-09-09
+| content=Small business hotel with good breakfast.
+}}
+
+===Splurge===
+* {{sleep
+| name=Sapporo Grand Hotel | url=https://grand1934.com/en/ | email=
+| address=North 1, West 4, Chuo-ku | lat=43.06268 | long=141.35095 | directions=
+| phone=+81-11-261-3311 | tollfree= | fax=
+| hours= | price=
+| checkin= | checkout=
+| content=This hotel was built in 1934 and is a historical monument in itself. Although some of the rooms are rather aged, it is a stylish hotel.
+}}
+
+==Stay safe==
+
+* {{listing
+| name=No smoking | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+|lastedit=2021-11-24| content=Downtown Sapporo is a smoke-free area.  Smoking on public streets and in public buildings will get you fined, should the police be inclined, so please use smoking areas in cafes.  Relatedly, cigarette vending machines require a special ID card. These TASPO cards are free, but require an address in Japan and several weeks to receive in the mail.
+}}
+
+==Connect==
+Traveler SIM cards can be bought in BIC Camera stores, e.g. in the ground floor of Esta Mall in the east wing of Sapporo JR Station. The cheapest choice is a 30-day/1GB data-only SIM card for ¥2460. Bring your passport when purchasing the card!
+
+=== Internet Cafe ===
+There are quite a few internet cafes in the city, ask at the International Plaza (in Sapporo JR or near the Clock Tower) for current information and directions.
+* {{listing
+| name=i-cafe | alt=アイ・カフェ | url=http://www.i-cafe.ne.jp/sapporocrh/ | email=
+| address=North 5 West 5 | lat=43.066772 | long=141.348177 | directions=just west of Sapporo Station, south of Kinokuniya Books
+| phone=+81 11-221-3440 | tollfree= | fax=
+| hours=24 hr | price=
+| content=A large internet cafe with relax chairs, pair booths, drink bar, manga, food, and shower.
+}}
+* {{listing
+| name=Biz Cafe | alt= | url= | email=
+| address= | lat= | long= | directions=2-minute walk from the North exit of Sapporo Station on 2F behind the Hokuyo Bank
+| phone= | tollfree=
+| hours=M-F 10:00-20:00 | price=&yen;500
+| content=Open tables with fast LAN and wireless. Unlimited internet, tea, coffee and soft drinks.
+}}
+* {{listing
+| name=YahooBB Park | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=This place has permanently '''closed''', though many guidebooks still list it as open.
+}}
+* {{listing
+| name=Tully's Coffee | alt= | url= | email=
+| address= | lat=43.0749 | long=141.35189 | directions=6th floor of Stellar Plaza Central, attached to JR Sapporo Station
+| phone= | tollfree=
+| hours= | price=
+| content=Free WiFi and a great view.
+}}
+
+==Cope==
+
+===Consulates===
+* {{flag|Australia}} {{listing
+| name=Australia | url=http://www.australia.or.jp/ | email=
+| address=17th Floor, Sapporo Centre Building, North 5, West 6-2, Chuo-ku | lat= | long= | directions=
+| phone=+81 11-242-4381 | tollfree= | fax=+81 11-242-4383
+| hours= | price=
+| content=
+}}
+* {{flag|China}} {{listing
+| name=China | url=http://www.china-embassy.or.jp/ | email=
+| address=5-1. South 13, West 23, Chuo-ku | lat= | long= | directions=
+| phone=+81 11-563-5563 | tollfree= | fax=+81 11-563-1818
+| hours= | price=
+| content=
+}}
+* {{flag|South Korea}} {{listing
+| name=Republic of Korea | alt= | url= | email=
+| address=1-4. North 2, West 12, Chuo-ku | lat= | long= | directions=
+| phone=+81 11-218-0288 | tollfree= | fax=+81 11-218-8158
+| hours= | price=
+| content=
+}}
+* {{flag|Russia}} {{listing
+| name=Russian Federation | alt= | url= | email=
+| address=2-5, South 14, West 12, Chuo-ku | lat= | long= | directions=
+| phone=+81 11-561-3171 | tollfree= | fax=+81 11-561-8897
+| hours= | price=
+| content=
+}}
+* {{flag|United States}} {{listing
+| name=United States | alt= | url=https://jp.usembassy.gov/embassy-consulates/sapporo/ | email=
+| address=North 1 West 28, Chuo-ku | lat= | long= | directions=
+| phone=+81 11 641-1115, +81 11 641-3444 (ACS) | tollfree= | fax=+81 11 643-1283
+| hours= | price=
+| content=
+}}
+
+==Go next==
+* [[Otaru]], approximately 60 minutes by car (shorter by expressway). A very pleasant small town located on the coast, and famous (within Japan) for its attractive canal which is very European in design. Also famous for its seafood, music box museum (with associated tourist shop) and glass works. Also famous for being the setting of the movie Love Letter.
+* [[Niseko]], arguably Japan's top destination for powder skiing and snowboarding, is two hours away by bus.
+* The hot springs and mossy canyons of [[Shikotsu-Toya National Park]] are within easy striking distance of Sapporo.
+* [[Asahikawa]]'s [https://www.japan-guide.com/e/e6892.html Asahiyama Zoo] is the most famous and most visited zoo in Japan, despite it being 2 hours away by train. Its most famous exhibits are the penguins which walk around the park twice a day, and the seals that you can see swim vertically through a large transparent pipe. It also features polar bears, wolves, Japanese deer, big cats, different kinds of monkeys and more. It's most impressive in winter when it's covered in snow (have you ever seen a giraffe walking in snow?) but a few of the exhibits are also closed during this season.
+* Ebetsu
+* [[Yubari]]
+* [[Hidaka]]
+* [[Noboribetsu]]
+* [[Toyako]]
+* [[Kutchan]]
+
+{{routebox
+| image1=JR Hakodate icon.png
+| imagesize1=100
+| directionl1=N
+| majorl1=[[Asahikawa]]
+| minorl1=[[Iwamizawa]]
+| directionr1=S
+| majorr1=[[Hakodate]]
+| minorr1=[[Otaru]]
+
+| image2=Hokkaido Expwy Route Sign.svg
+| imagesize2=100
+| directionl2=N
+| majorl2=[[Shibetsu (Kamikawa)|Shibetsu]]
+| minorl2=[[Iwamizawa]]
+| directionr2=S
+| majorr2=[[Muroran]]
+| minorr2=[[Chitose]] JCT [[Image:Doto Expwy Route Sign.svg|88px]] '''[[Yubari|E]]'''
+
+| image3=Sasson Expwy Route Sign.svg
+| imagesize3=100
+| directionl3=W
+| majorl3=[[Otaru]]
+| minorl3=
+| directionr3=S
+| majorr3=END
+| minorr3=
+}}
+
+{{usablecity}}
+{{isPartOf|Central Circuit}}
+{{geo|43.06136|141.35439|zoom=13}}

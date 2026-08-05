@@ -1,0 +1,281 @@
+{{pagebanner|Odaiba wikivoyage banner.jpg|pgname=Odaiba}}
+[[File:FujiTV Building.JPG|thumb|Fuji TV headquarters]]
+
+'''Odaiba''' (お台場) is a large artificial island in [[Tokyo]], featuring many hypermodern and just plain strange buildings memorably described as the result of an acid-soaked pre-schooler's architecture class.  Administratively a part of the [[Tokyo/Minato|Minato]], [[Tokyo/Koto|Koto]] and [[Tokyo/Shinagawa|Shinagawa]] wards, the area is a very popular shopping and entertainment destination.
+
+==Understand==
+In 1853, the Tokugawa shogunate built a series of 6 fortresses in the Tokyo Bay in order to protect Tokyo from attack by sea, the primary threat being Commodore Matthew Perry's Black Ships, which had arrived in the same year.  ''Daiba'' in [[Japanese phrasebook|Japanese]] refers to the cannon batteries placed on the islands.
+
+In 1928, the 3rd ''daiba'' was refurbished and opened to the public as a small park, which remains open to this day as the Daiba Park (the small square connected by a narrow causeway in the map below).
+
+The modern development of '''Odaiba''' (お台場, with the honorific prefix) started after the success of Expo '85 in [[Tsukuba]].  The Japanese economy was riding high, and Odaiba was to be a showcase as futuristic living, built at a cost of over US$10 billion near the historic 3rd ''daiba''. Unfortunately the "bubble economy" burst in 1991, and by 1995 Odaiba was a virtual wasteland, underpopulated and full of vacant lots.
+
+In 1996, the area was rezoned from pure business to allow also commercial and entertainment districts, and the area started coming back to life as Tokyo discovered the seaside it never had.  Hotels and shopping malls opened up, several large companies (including Fuji TV) moved their headquarters to the island, and transportation links improved.
+
+Odaiba kicked off another wave of redevelopment in 2022, with the enormous Palette Town complex and many popular attractions in it (VenusFort, Zepp, Toyota Mega Web, Ferris wheel, etc) '''closing for good'''.  A new set of shopping and attractions is set to be unveiled in 2025-26, but in the meantime Odaiba will be quieter than usual.
+
+[https://www.tokyo-odaiba.net/en/ Tokyo Odaiba Net] is a great source of information in English on Odaiba.
+
+==Get in==
+{{Mapframe|35.62637|139.77692|zoom=14|height=400|width=400}}
+{{Mapshape}}
+{{Mapshapes|Q682894}} <!-- Tokyo Metro -->
+{{Mapshapes|Q247782}} <!-- Toei Subway -->
+{{mapshape|wikidata=Q225095|type=geoline|stroke=#00b48d|stroke-width=4|stroke-opacity=1}} <!-- Rinkai Line -->
+
+{{infobox|Web links to major transportation companies... some only in Japanese.|
+* [http://www.jreast.co.jp/e/nex/ Narita Express] (airport train)
+* [http://www.keisei.co.jp/keisei/tetudou/skyliner/us/index.php Keisei Skyliner] (airport train)
+* [http://www.limousinebus.co.jp/en/ Airport Limousine] (airport bus)
+* [http://www.yurikamome.tokyo/ Yurikamome] (main transport in Odaiba)
+* [http://www.twr.co.jp/ Rinkai Line] (direct connection to city center)
+* [http://www.tokyometro.jp/en/ Tokyo Metro] (subway lines in Tokyo)
+* [http://www.kotsu.metro.tokyo.jp/english/ Toei lines] (subway and buses in Tokyo)
+|}}
+
+Odaiba is linked to Tokyo proper by many bridges and tunnels, including the scenic '''Rainbow Bridge'''.
+
+===By plane===
+====From Narita Airport====
+From Narita Airport, take the [http://www.keisei.co.jp/keisei/tetudou/skyliner/us/index.php Keisei Skyliner] to [[Tokyo/Ueno|Ueno]] station, then take the Ginza Subway Line (a [http://www.tokyometro.jp/en/ Tokyo metro] line) to Shinbashi where you can transfer to the Yurikamome for service to Odaiba (about 1 hour 45 minutes to Daiba station, ¥2,390).
+
+Regular and potentially-crowded Keisei ''tokkyu'' trains to Ueno station in place of the Skyliner increase the journey time slightly, but reduce the fare to ¥1,470. An easier alternative is to change at Aoto for the [https://www.kotsu.metro.tokyo.jp/eng/ Toei subway] Asakusa line to Shinbashi, where you can pick up the Yurikamome.
+
+'''Japan Rail Pass''' holders can take the [http://www.jreast.co.jp/e/nex/ JR Narita Express] to Tokyo Station, then wait on the same platform and take a Yokosuka Line local train one stop to Shinbashi to get the Yurikamome. It takes about 90 minutes to Daiba station, and Rail Pass users only have to pay the Yurikamome fare (¥310 in this case). Non-pass users must pay a total of ¥3,420.
+
+Infrequent [http://www.limousinebus.co.jp/en/bus_services/narita/takeshiba_odaiba.html Airport Limousine buses]{{Dead link|date=May 2025 |bot=InternetArchiveBot }} (six per day) run from the airport directly to the major hotels on Odaiba (about 70–75 minutes depending on traffic, ¥2,700).
+
+====From Haneda Airport====
+Take the [http://www.tokyo-monorail.co.jp/english/ Tokyo Monorail] to Tennozu Isle and change to the Rinkai Line for direct access to Odaiba. A transfer to the Yurikamome can be made at Tokyo Teleport or Kokusai-Tenjijo stations (25 minutes to the latter, ¥660).
+
+For the longer but scenic route over the Rainbow Bridge, take a [https://www.haneda-tokyo-access.com/en/ Keikyu] line train, running through to the Toei Asakusa subway line, and change at Shinbashi to the Yurikamome (50 minutes to Daiba station, ¥920).
+
+[http://www.limousinebus.co.jp/en/bus_services/haneda/odaiba_ariake.html Airport Limousine buses]{{Dead link|date=May 2025 |bot=InternetArchiveBot }} depart once per hour (2-4 times between 14:00 and 16:00) for Tokyo Big Sight (about 25−30 minutes) and the major hotels on Odaiba (about 15–20 minutes, ¥500-600).  Departures from 08:00-17:30 depending on location.
+
+===By train===
+Most visitors arrive in Odaiba via the automated '''[http://www.yurikamome.tokyo/ Yurikamome]''' "new transit system", a cross between a train and a bus, from [[Tokyo/Shimbashi|Shimbashi]] on the Yamanote line (or Shiodome station on the Toei Ōedo Line subway).  An attraction in itself, the driverless elevated trains cross the Rainbow Bridge with a 270-degree loop for some great views of Tokyo bay.  One-way from Shimbashi to Daiba station will set you back ¥330 (any station farther will be ¥390), or you can buy a one-day pass for ¥820.
+The other option is to take the '''Tokyo Waterfront Area Rapid Transit''' (Rinkai Line [https://www.twr.co.jp/en/tabid/233/Default.aspx]) from Ōsaki on the JR Yamanote Line or Shin-Kiba on the Metro Yurakucho line.  Many of the trains connect directly from Ōsaki to [[Tokyo/Shinjuku|Shinjuku]], [[Tokyo/Shibuya|Shibuya]], [[Tokyo/Ikebukuro|Ikebukuro]], Ōmiya, and [[Kawagoe]] via the JR-East Saikyō Line.  While slightly faster, the train travels mostly underground and doesn't provide much in the way of views.
+
+===By bus===
+[https://tobus.jp/blsys/navi?LCD=e Toei city buses] provide cheaper (¥210 per ride) if slower access to Odaiba. 海01(KM01) connects to Monzennaka-cho and 東16 connects to Tokyo station from Tokyo Big Sight.  A few special bus services to other destinations are available weekends only. The private bus company Keikyu operates buses to Oimachi and Omori stations. Odaiba Rainbow Bus (\220) connects Shinagawa and Tamachi stations to northern areas of Odaiba via the Rainbow Bridge.
+
+===By boat===
+* {{go
+| name=Tokyo International Cruise Terminal | alt=東京国際クルーズターミナル | url=https://www.tptc.co.jp/terminal/guide/cruise | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q65271262
+| lastedit=2022-11-16
+| content=Opened 2020, this is Tokyo's new gateway for visiting cruise ships.  Next to the Yurikamome station of the same name.
+}}
+
+'''[http://www.suijobus.co.jp/en/ Suijobus Ferries]''' also operate between Hinode Pier (on the Yurikamome line) and several stops in Odaiba.  ¥400 one way. Tokyo Mizube Line (Japanese only) offers general transportation and special cruises.
+
+Some of the boats connect to [[Asakusa]] along the Sumida river and to Kasai Rinkai Park near [[Tokyo Disney Resort]].
+
+===On foot===
+You can cross the Rainbow Bridge on foot for free, it takes about 30 minutes. If you come by bicycle you will have to walk with it, the guards will actually have you place small wheels on your bicycle so that you don't ride it on the bridge.
+
+The view over the Port of Tokyo is nice especially around sunset, though in winter (Nov to Mar), you have to enter by 17:30 and to exit by 18:00. In other months you can enter the pedestrian part of the road from 09:00-20:30 (30 minutes before you have to exit). Closed on the 3rd Monday every month and 29-31 Dec.
+
+The Shibaura-side entrance can be hard to find, and that you have to choose which side to walk beforehand.
+
+The northern side is recommended if you wish to look at buildings in the city center from above the port. The southern side is recommended for views on Odaiba.
+
+==Get around==
+The central areas of Odaiba can be covered by foot or by bus. The Yurikamome and Rinkai line also has several stations looping through Odaiba. Yurikamome has a one-day pass ([https://www.yurikamome.co.jp/ticket/coupon.html?type=pass Odaiba-Ariake Kaiyu Pass]) for 8 stations in Odaiba and Ariake areas at \500.
+
+==See==
+* {{see
+| name=Fuji TV Building | alt= | url=https://www.fujitv.co.jp/ | email=
+| address=2-4 Daiba, Minato-ku | lat=35.62668 | long=139.77418 | directions=Yurikamome Daiba or Rinkai Tokyo Teleport stations
+| phone= | tollfree= | fax=
+| hours= | price=Going to the observatory usually costs ¥500
+| content=An Odaiba landmark which looks like it's built of tinkertoys. The studio tour is of limited interest unless you speak Japanese and/or are familiar with Fuji's programming, but you can visit the second-highest story for free for some nice views.
+}}
+* {{see
+| name=Giant Gundam robot | alt= | url= | email=
+| address= | lat=35.6244 | long=139.77543 | directions=in front of DiverCity Tokyo Plaza mall
+| phone= | tollfree=
+| hours= | price=free
+| content=An impressive 1:1 scale robot from the [[:Wikipedia:Gundam|''Gundam'']] animation series. A must-see if you are passing by.
+}}
+* {{see
+| name=Miraikan | alt=日本科学未来館 | url=http://www.miraikan.jst.go.jp/en/ | email=
+| address=2-41 Aomi, Koto-ku | lat=35.61918 | long=139.77662 | directions=Yurikamome Telecom Center stn
+| phone=+81 3-3570-9151 | tollfree=
+| hours=10:00-17:00, longer during main seasons | price=&yen;600
+| content=Japan's National Museum of Emerging Science and Innovation, created by Japan's Science and Technology Agency. As the name indicates new technologies like robots, space modules etc. are presented here as well as demonstrations and physical experiments for the inquiring mind are given.
+}}
+* {{see
+| name=Museum of Maritime Science | alt=船の科学館 Fune no kagakukan | url=http://www.funenokagakukan.or.jp/ | email=
+| address=3-1 Higashi-Yashio, Koto-ku | lat=35.6206 | long=139.77296 | directions=Yurikamome Tokyo Int'l Cruise Terminal stn
+| phone=+81 3-5500-1111 | tollfree=
+| hours=10:00-17:00 | price=Free
+| lastedit=2023-12-22
+| content=It was a six-story museum shaped like a full-sized ocean liner. Being the oldest significant building on Odaiba, demolition of the main building started in February 2024. Now only Sōya, the first polar explorer ship for Japan (and WWII veteran, still in active use for training purposes!) can be seen.
+}}
+* {{see
+| name=Odaiba Statue of Liberty | alt= | url= | email=
+| address=1-4 Daiba, Minato-ku | lat=35.627841 | long=139.771825 | directions=3 min northeast of Daiba station
+| phone= | tollfree=
+| hours=24 hours daily | price=Free
+| lastedit=2020-02-11
+| content=Small scale replica of the Statue of Liberty from New York City given to Japan to commemorate its ties with France. It is set against a backdrop of the Tokyo Tower, Tokyo Bay, and the Rainbow Bridge.
+}}
+* {{see
+| name=Tokyo Trick Art Museum 
+| alt=東京トリックアート迷宮館 
+| url=https://www.trickart.info. 
+| directions=[[#Decks Tokyo Beach]], Seaside Mall 4F.
+| wikidata=Q139250219
+| lastedit=2026-04-12
+| content=[[w:Trompe-l'œil]] (Trick Art) [[w:art museum]].
+}}
+* If you are a fan of the Digimon anime, you may notice that a lot of the scenes took place at various locations around Odaiba
+
+==Do==
+One of Odaiba's top attractions, the Ōedo Onsen Monogatari hot spring complex, closed permanently in 2021.  Try LaQua in [[Tokyo/Bunkyo|Korakuen]] or Mangekyo in [[Urayasu]] instead.
+
+* {{do
+| name=Odaiba Marine Park | alt=お台場海浜公園, Odaiba Kaihin Kōen | url=http://www.tptc.co.jp/en/tabid/846/Default.aspx | email=
+| address=1-4 Daiba, Minato-ku | lat=35.63084 | long=139.77672 | directions=Yurikamome Daiba or Odaiba-kaihin-kōen station
+| phone=+81 3-5500-2455 | tollfree= | fax=
+| hours= | price=
+| content=Features one of two beaches in mainland Tokyo, but swimming is forbidden and not recommended anyway as the water is rather polluted. Along the beach runs a boardwalk dotted with couples, as this is considered the most romantic spot in Tokyo. The park also contains a copy of the Statue of Liberty, more popular than one might think. Have a picnic on ''Dai-San Daiba'' (第三台場 ''No. 3 Battery''), nearby and now turned into a pleasant little park.
+}}
+* {{do
+| name=Shiokaze Park | alt=潮風公園, Shiokaze Kōen | url=http://www.tptc.co.jp/en/shiokaze/tabid/1375/Default.aspx | email=
+| address=1-2 Higashi-Yashio, Shinagawa-ku | lat=35.623944 | long=139.76875 | directions=Yurikamome Odaiba-kaihin-kōen station
+| phone=+81 3-5500-2455 | tollfree= | fax=
+| hours= | price=
+| content=Next to Nikkō and Le Meridien hotels this park is the largest in the area. The southern corner, close to the ventilation tower of the highway, features a barbecue place highly popular during the warmer season. Barbecue equipment and tools as well as ingredients available for rent, reservation may be required during main seasons (see phone number). The park farther to the south is Higashi-yashio Park (東八潮公園), home to the Fune no kagakukan maritime museum.
+}}
+* {{do
+| name=Joypolis | url=https://tokyo-joypolis.com/language/english/ | email=
+| address=1-6-1 Daiba, Minato-ku | lat=35.628508 | long=139.775161 | directions=Decks Tokyo Beach, Yurikamome Daiba station
+| phone=+81 3-5500-1801 | tollfree= | fax=
+| hours= | price=
+| content=A giant game center and amusement arcade.
+}}
+* {{do
+| name=Immersive Fort Tokyo | alt=イマーシブ・フォート東京 | url=https://immersivefort.com/en/ | email=
+| address=1-3-15 Aomi | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2024-03-06
+| content=World's first theme park on immersive experiences. Opened in March 2024.
+}}
+
+==Buy==
+Odaiba is an unabashed paean to commercialism and features more malls than you can shake a stick at. Prices are somewhat higher than on the mainland.
+
+A large commercial redevelopment kicked off in 2022, closing perhaps Odaiba's most famous mall, the Vegas-meets-Italy VenusFort. Its successor is set to reopen around 2025.
+
+* {{buy
+| name=Decks Tokyo Beach | alt=デックス東京ビーチ | url=http://www.odaiba-decks.com/en/ | email=
+| address=1-6-1 Daiba, Minato-ku | lat=35.62912 | long=139.77598 | directions=Yurikamome Odaiba Kaihin Kōen station
+| phone=+81 3-3599-6500 | tollfree=
+| hours=11:00-21:00, some restaurants until 23:00 | price=
+| content=Features the '''Sega Joypolis''' gaming center (10:00-23:00), retro-themed arcade, a 1960s-style store, gift shops, 2nd-hand western clothing stores, fine home accessories.
+}}
+* {{buy
+| name=Aqua City Odaiba | alt=アクアシティお台場 | url=https://www.aquacity.jp/ | email=
+| address=1-7-1 Daiba, Minato-ku | lat=35.627806 | long=139.773556 | directions=Yurikamome Daiba station
+| phone=+81 3-3599-4700 | tollfree=
+| hours=11:00-21:00 (including 1F food court), restaurants till 23:00 though some bars until early morning | price=
+| content=Fashion for all ages, goods, etc. Restaurants in 4th, 5th, and 6th floors and a food court in the 1st floor. There is also a Toys'R'Us (including baby foods and goods, and children can touch and play with the toys there!) on 1F, and a small Shinto shrine on 9F.
+}}
+* {{buy
+| name=Wanza Ariake Bay Mall | alt=ワンザ有明ベイモール | url= | email=
+| address=3-1 Ariake, Koto-ku | lat= | long= | directions=Yurikamome Kokusai-tenjijō-seimon station
+| phone=+81 3-5530-5010 | tollfree= | fax=
+| hours= | price=
+| content=Restaurants and a few shops north of the Tokyo Big Sight exhibition center.
+}}
+* For the self-caterers a sufficient number of convenience stores is available. A Maruetsu supermarket (1-5-3 Daiba, Minato-ku, +81 3-5531-0781, 10:00-22:00) is near ''Odaiba-kaihin-koen'' station and a 99-yen shop (1-3-5-105 Daiba, Minato-ku, +81 3-3570-0599, 24 hours; food, stationery, etc.) just a few steps farther north. Two 100-yen shops (souvenirs, kitchen supply, stationery, etc.) are available: one in 1F of ''Aqua City Odaiba'' and the other in ''Wanza Ariake Bay Mall''. Finally, there is a small shop (''The Wholesalers Market Towers Odaiba'') with expensive import foods and wines in ''The Towers Odaiba'' building (2-2 Daiba, Minato-ku) just east of ''Odaiba-kaihin-koen'' station.
+
+==Eat==
+There are plenty of eating options in Odaiba's shopping malls and attractions, although prices are generally a little higher than on the mainland.
+
+==Drink==
+Odaiba's top nightlife spot, Zepp, closed in 2022.
+
+==Sleep==
+There is a cluster of luxury hotels near Yurikakome Daiba station.
+
+* {{sleep
+| name=Hilton Tokyo Odaiba | alt= | url=http://hiltonhotels.jp/hotel/kanto/hilton-tokyo-odaiba | email=
+| address=1-9-1 Daiba, Minato-ku | lat= | long= | directions=Yurikamome Daiba station
+| phone=+81 3-5500-5500 | tollfree= | fax=
+| checkin= | checkout= | price=Rates range from around &yen;24,000 per night for a single room, to around &yen;36,000 for a triple (this will vary by season)
+| content=A new seaside luxury hotel popular for weddings and honeymoons.
+}}
+* {{sleep
+| name=Grand Nikko Tokyo Daiba | alt= | url=https://www.tokyo.grandnikko.com/ | email=
+| address=2-6-1 Daiba, Minato-Ku | lat= | long= | directions=Yurikamome Daiba station
+| phone=+81 3-5500-6711 | tollfree=
+| checkin= | checkout= | price=
+| content=Another nice hotel next to a huge shopping mall (Aqua City Odaiba) with plenty of restaurants.
+}}
+* {{sleep
+| name=Tokyo Bay Ariake Washington Hotel | alt= | url=https://washington-hotels.jp/ariake/ | email=
+| address=3-1-28 Ariake, Koto-ku | lat= | long= | directions=Tokyo Big Sight station on Yurikamome or Kokusai-tenjijō-mae station on Rinkai Line
+| phone=+81 3-5564-0111 | tollfree=
+| checkin= | checkout= | price=Rates ranging from &yen;9,950 (single) to &yen;18,000 (twin)
+| content=The third hotel in the area (just north of the Tokyo Big Sight exhibition center). Targeting business travelers it is the cheapest hotel in the area.
+}}
+
+==Connect==
+
+==Go next==
+{{routebox
+| image1=Rinkai Line symbol.svg
+| imagesize1=30
+| directionl1=W
+| majorl1=[[Tokyo/Shibuya|Shibuya]]
+| minorl1=into [[File:JR JA line symbol.svg|30px]] ← [[Tokyo/Shinagawa|Ōsaki]] ← [[Tokyo/Shinagawa|Tennōzu Isle]]
+| directionr1=E
+| majorr1=[[Tokyo/East|Shin Kiba]]
+| minorr1=
+
+| image2=Yurikamome line symbol.svg
+| imagesize2=30
+| directionl2=W
+| majorl2=[[Tokyo/Shinbashi|Shinbashi]]
+| minorl2=[[Tokyo/Shiodome|Shiodome]] ←[[Tokyo/Minato|Takeshiba]]
+| directionr2=S
+| majorr2=[[Tokyo/East|Toyosu]]
+| minorr2=
+
+| image3=Shuto Urban Expwy Sign 0011.svg
+| imagesize3=30
+| directionl3=N
+| majorl3=into [[File:Shuto Urban Expwy Sign 1-Haneda.svg|30px]]
+| minorl3=[[Tokyo/Minato|Shibaura]]
+| directionr3=S
+| majorr3=END
+| minorr3=
+
+| image4=Shuto Urban Expwy Sign B.svg
+| imagesize4=30
+| directionl4=S
+| majorl4=[[Yokohama]]
+| minorl4=[[Kawasaki]] ← [[Tokyo Haneda Airport|Haneda Airport]]
+| directionr4=E
+| majorr4=[[Ichikawa|Chidoricho]]
+| minorr4=[[Tokyo/East|Shin Kiba]] → [[Tokyo Disney Resort|'''Urayasu''']]
+
+| image6=Japanese National Route Sign 0357.svg
+| imagesize6=30
+| directionl6=S
+| majorl6=[[Tokyo Haneda Airport|Haneda Airport]]
+| minorl6=[[Tokyo/Shinagawa|Ōi Horse Race Course]]
+| directionr6=E
+| majorr6=[[Chiba]]
+| minorr6=[[Tokyo Disney Resort|'''Urayasu''']] → [[Ichikawa]]
+}}
+{{usabledistrict}}
+{{IsPartOf|Tokyo/Minato}}
+{{geo|35.63|139.775}}

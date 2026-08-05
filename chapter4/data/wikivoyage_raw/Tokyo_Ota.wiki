@@ -1,0 +1,280 @@
+{{pagebanner|Ota Wikivoyage banner.jpg|pgname=Ota}}
+'''Ōta''' (大田) Ward is a suburban area of [[Tokyo]], between [[Tokyo/Shinagawa|Shinagawa]] and [[Kawasaki]].
+
+==Understand==
+
+The name "Ota" is a combination of '''<u>O</u>mori''' ('''大'''森) and '''Kama<u>ta</u>''' (蒲'''田'''), two former wards which merged to form Ota Ward. Omori and Kamata remain the major urban centers in the ward.
+
+===Tourist Information===
+The ward has an official bilingual information site for visitors, [https://unique-ota.city.ota.tokyo.jp/en/ Unique Ota].
+
+==Get in==
+{{Mapframe|35.57049|139.73442|zoom=12|width=500|height=300}}
+{{Mapshape}}
+{{Mapshapes|Q682894}} <!-- Tokyo Metro -->
+{{Mapshapes|Q247782}} <!-- Toei Subway -->
+{{Mapshape|title=Rinkai Line|wikidata=Q225095|type=geoline|stroke=#00b48d|stroke-width=4|stroke-opacity=1}}
+{{Mapshape|title=Tokyo Monorail|wikidata=Q8015774|type=geoline|stroke=#ff0000|stroke-width=4|stroke-opacity=1}}
+{{mapshapes|Q1322206}} <!-- Keikyu -->
+
+===By plane===
+Ota is home to {{go
+| name=[[Tokyo Haneda Airport|Tokyo International Airport]] | alt=[[Haneda Airport]] | url= | email=
+| address= | lat=35.553333 | long=139.781111 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=Haneda Airport | image=HND Airport Office Building 1.jpg | wikidata=Q204853
+| content=Haneda is one of the busiest airports in Asia.
+}}
+
+The Keikyu Airport Line offers a quick connection from Haneda to Keikyu Kamata, with onward connections available to central [[Tokyo]] and [[Yokohama]]. The train stops running between 00:20 and 05:30, but taxis are still available.
+
+===By train===
+The main train stations in Ota are {{marker|type=go| name=Omori | lat=35.58839 | long=139.72785 }} (JR Keihin-Tohoku), {{marker|type=go|name=Kamata|lat=35.56188|long=139.71512}} (JR Keihin-Tohoku, Tokyu Ikegami and Tokyu Tamagawa lines) and {{marker|type=go| name=Keikyu Kamata|lat=35.56130|long=139.72416}} (Keikyu Main Line and Keikyu Airport Line).
+
+The eastern, predominantly industrial side of the ward is served by the Tokyo Monorail, which runs from Haneda Airport to Hamamatsucho Station in [[Tokyo/Minato|Minato Ward]].
+
+The western side of the ward is served by Toei Asakusa and Ikegami subway lines.
+
+==See==
+* {{see
+| name=Tamagawadai tumulus | alt=多摩川台古墳群, Tamagawadai Kofungun | url= | email=
+| address= | lat=35.590033 | long=139.666836 | directions=In Tamagawadai park
+| phone= | tollfree= | fax=
+| hours= | price=Free
+| wikidata=
+| lastedit=2015-09-27
+| content=Zenpō-Kōenfun tumulus (前方後円墳). Built during the 4th and 5th centuries, many tumulus can be seen throughout several parks around Tamagawa station. A free small museum shows replicas of swords and other objects found in the graves, get the free English pamphlet before going around the tumulus, as you might miss them: they just look like small hills.
+}}
+[[File:Five-story Pagoda of Ikegami Honmon-ji Temple.jpg|thumbnail|Ikegami Honmon-ji]]
+* {{see
+| name=Ikegami Honmon-ji | alt=池上本門寺 | url=http://honmonji.jp/foreign/en.html | email=
+| address= | lat=35.578889 | long=139.705167 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=Free | image=Five-story Pagoda of Ikegami Honmon-ji Temple.jpg
+| wikidata=Q1537312
+| lastedit=2015-10-13
+| content=A large temple with a five-story pagoda. It hosts a lantern festival called O-Eshiki every year from 11 to 13 October.
+}}
+* {{see
+| name=Jonanjima Seaside Park | alt=城南島海浜公園 | url=https://seaside-park.jp/park_jonan/ | email=
+| address= | lat=35.5789 | long=139.7851 | directions=
+| phone=+81 3-3799-6402 | tollfree=
+| hours= | price=1 day adults ¥900
+| wikidata=Q11426038
+| content=Reservations requested by phone, can BBQ, and camping.
+}}
+* Both of the major Japanese airlines (Japan Airlines and All Nippon Airways) offer behind-the-scene tour of their maintenance hangars and museum of their respective companies. Online reservation is mandatory and opens one month at 09:30 in advance of the tour date. All tours are conducted in Japanese, though non-Japanese speaking tourists are welcome. Presenting ID is required upon arrival.
+** {{see
+| name=JAL Sky Museum | alt= | url=https://www.jal.com/ja/kengaku/en/ | email=
+| address=JAL Maintenance Center 1, 3-chōme-5-1 Haneda Airport | lat=35.5423 | long=139.7891 | directions=Take Tokyo monorail local train to Shin Seibijo Station. Exit the station to ground level. The building to enter is on your right. Enter via the entrance on the main road.
+| phone=+81 3-5460-3755 | tollfree=
+| hours=Tours runs on M, Tu, Th, Sa and Su at 09:30, 10:45 and 14:45 (increasing to M, Tu, Th-Su at 09:30, 10:45, 13:30, 14:45 and 16:30 on 1 November 2025) | price=Free (increasing to ¥1000 on 1 November 2025)
+| lastedit=2025-09-18
+| content=You are allowed to enter the building only at the reserved time. They will first let you explore JAL Museum with exhibits, try on JAL pilot or flight attendant uniform, followed by brief video information session about Haneda airport and JAL operations. They will also go over safety rules before going on a guided tour to the maintenance hangar. Whole experience takes about 2 hours.
+}}
+** {{see
+| name=ANA Blue Hangar Tour | alt= | url=https://www.anahd.co.jp/group/tour/ana-blue-hangar/ | email=kengaku@ana.co.jp
+| address=ANA Component Maintenance Building, 3-chōme-5-5 Haneda Airport | lat=35.5372 | long=139.7936 | directions=Take Tokyo monorail local train to Shin Seibijo Station. Exit the station to ground level. Walk to the main road and locate the building with the Family Mart convenience store. The free shuttle bus stops in front of this building. This shuttle bus runs twice, at 25 mins and 15 mins prior to each scheduled tour.
+| phone= | tollfree=
+| hours=Tu-Sa at 09:30, 11:00, 13:30 and 15:00 | price=Free
+| lastedit=2024-11-10
+| content=Upon arrival, you will sit in a seminar room and they show a video about Haneda airport, ANA maintenance operation and safety rules. Afterwards, you can try out their business class and premium economy seats. The guide will take you to the ANA maintenance hangar. After the hangar tour, you can explore ANA museum for approximately 30 mins before boarding the free shuttle bus that takes you back to the bus stop near Shin Seibijo Station. Whole experience takes about 90 mins.
+}}
+
+==Do==
+* {{do
+| name=Tamagawa River | alt= | url= | email=
+| address= | lat=35.559515 | long=139.685598 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=Free
+| lastedit=2015-09-27
+| content=It stretches from Haneda Airport to Kawasaki city and beyond. A great place for a jog or a bicycle ride with the locals. Best time to see it is in spring when all the cherry trees are in bloom.
+}}
+* {{do
+| name=Kamata Onsen | alt= | url=http://island-clinic.com/kamataonsen/index.html | email=
+| address=2 Chome-23-2 Kamatahoncho | lat=35.556 | long=139.7181 | directions=
+| phone=+81 3-3732-1126 | tollfree=
+| hours=10:00-01:00 | price=12 years old and up ¥450, 6-12 years old ¥180, under 6 years old ¥80
+| lastedit=2024-12-26
+| content=Ota has the most number of onsens within Tokyo 23 wards. This particular onsen is famous for having black hotspring water from plant organic matter dissolving into the water.
+}}
+
+==Buy==
+
+*{{buy
+| name=Granduo Kamata | alt= | url=https://www.granduo.jp/kamata/ | email=
+| address= | lat=35.562476 | long=139.716027 | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=Inside JR Kamata Station and split into East and West buildings, Granduo is a typical department store that has some good and reasonably priced restaurants and take-home food on the top and basement floors.
+}}
+* {{buy
+| name=Don Quijote | alt= | url=http://www.donki.com/ | email=
+| address= | lat=35.563146 | long=139.715631 | directions=Located right outside the West Exit of JR Kamata Station
+| phone= | tollfree=
+| hours= | price=
+| content=A 24-hour discount store that sells everything from grocery items to clothing, bicycles, electronics, jewelry, and gag gifts.
+}}
+
+==Eat==
+Ota is a good place to try reasonable non-chain restaurants because of proximity to wholesale markets: vegetable and fish market in the ward and meat market in adjacent Shinagawa ward.
+* {{eat
+| name=Kitchin Naoki | alt=キッチン直樹 | url=https://kitchen-naoki.com/ | email=
+| address=4 Chome-5-9 Kamata | lat=35.5617 | long=139.7223 | directions=
+| phone=+81 3-6424-8338 | tollfree=
+| hours= | price=
+| lastedit=2024-03-23
+| content=An upscale Western restaurant.
+}}
+* {{eat
+| name=Jinenbo | alt=自然坊 | url=http://www.tonkatsu-zinenbou.com | email=
+| address=4 Chome-19-24 Kugahara | lat=35.57946 | long=139.68944 | directions=
+| phone=+81 3-5700-5330 | tollfree=
+| hours= | price=
+| lastedit=2024-03-23
+| content=A restaurant known for its cutlets, ''tonkatsu'', dishes.
+}}
+* {{eat
+| name=Haneda Innovation City | alt=羽田イノベーションシティ | url=https://haneda-innovation-city.com/en/ | email=
+| address= | lat=35.548197 | long=139.755675 | directions=Take Tokyo Monorail or Keikyu Airport Line to Tenkubashi Station
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q97159113
+| lastedit=2024-12-26
+| content=Several restaurants are located in this commercial and research complex. There is a rooftop where you can watch planes or enjoy a foot bath.
+}}
+
+==Drink==
+
+Labeled a "widely known secret", Kamata has transformed itself into an entertainment hub with a ton of drinking establishments clustered around JR Kamata station.
+
+* {{drink
+| name=Select Bar | url= | email=
+| address=5-45-1 YM Building 1F, Kamata | lat= | long= | directions=East exit of Kamata station, head south and turn right at third crossing. Second building to the left
+| phone=+81 3-3737-5016 | tollfree= | fax=
+| hours=Opens at 17:00 daily, closed on Sundays and public holidays | price=
+| content=One of the most popular 'standing bars' and frequented by Japanese and foreigners alike. All drinks and food is priced ¥300. They serve great meatloaf which fits well with a couple of beers.
+}}
+
+Apart from Kamata, you'll mostly find small bars serving the locals, those having a few beers before going home. If you're looking for a wild night out, then you're in the wrong neighborhood. However, there is a good atmosphere and prices are reasonable.
+
+* {{drink
+| name=Shot Bar St. Elmo's | alt= | url= | email=
+| address=2-3-4 2F, Sanno | lat= | long= | directions=West side of Omori station, across the street and 100 m left. On second floor
+| phone=+81 3-5709-3172 | tollfree=
+| hours=M-Sa 18:00-03:00 | price=
+| content=A low-key bar in Omori serving excellent drinks, free traditional bar snacks are usually served.
+}}
+
+==Sleep==
+The main reason to stay in Ota is if you have an early flight out from Haneda Airport.  There are many hotels designed for this purpose within walking distance of 
+'''Anamori-inari''' (穴守稲荷), '''Ōtorii''' (大鳥居) and Keikyu-Kamata stations, less than 10 min away from the airport with frequent services on the Keikyu Airport Line.  Many of these hotels also operate free shuttle buses, but schedules are limited.  Taxis to/from the airport cost around ¥2,000.
+
+See [[Haneda Airport]] for hotels located within the airport itself.
+
+===Budget===
+* {{sleep
+| name=328 Hostel & Lounge | alt= | url=http://hanedahostel.com/?lang=en | email=
+| address=3-2-8, Haneda | lat=35.54781 | long=139.74537 | directions=
+| phone=+81 3-6423-8530 | tollfree=
+| checkin=18:00 | checkout=10:00 | price=¥3,280 single, ¥7,600 double
+| lastedit=2017-06-18
+| content=This hostel contains dormitory rooms with bunk beds. Single travelers share a room with other people of the same gender, while two travelers can use a private dorm room. From Haneda Airport, take a Keikyu train marked as a Local (普通) or Express (急行) to Anamori-Inari Station and walk south for about 500 meters.
+}}
+
+===Mid-range===
+* {{sleep
+| name=APA Hotel Keikyu Kamata-Ekimae | alt= | url=https://www.apahotel.com/hotel/syutoken/tokyo/keikyukamata-ekimae/ | email=
+| address=4-18-24 Kamata Ota-ku | lat=35.5626 | long=139.7229 | directions=two minutes on foot from Keikyu Kamata Station (West Exit), ten minutes from Haneda airport
+| phone=+81 3-5713-3939 | tollfree= | fax=+81 3-6662-8441
+| checkin=15:00 | checkout=10:00 | price=From ¥12,000 single, ¥18,000 double
+| content=95 rooms.
+}}
+* {{sleep
+| name=JAL City Haneda Tokyo | alt= | url=https://www.haneda.jalcity.co.jp/en/ | email=info-j@jal-haneda.jp
+| address=4-11 Hanedaasahicho | lat=35.551613 | long=139.748156 | directions=
+| phone=+81 3 5735 2525 | tollfree=
+| checkin= | checkout= | price=From ¥12,000 single, ¥15,000 double
+| lastedit=2018-06-29
+| content=The closest reasonable hotel to Haneda Airport, overlooking the maintenance facilities on the west side of the airfield. Walking distance to Keikyu Anamoriinari train station, regular free shuttle bus to the airport. The hotel has a separate "West Wing" building about 100 meters down the road; check which one you're staying at!
+}}
+* {{sleep
+| name=Henn na Hotel Tokyo Haneda | alt=変なホテル東京羽田 | url=https://tokyo-haneda.hennnahotel.com/ | email=
+| address=2-11-18 Higashikojiya | lat=35.55445 | long=139.74104 | directions=400m from Otorii stn
+| phone=+81 3-3744-2700 | tollfree=
+| checkin=16:00 | checkout=11:00| price=From ¥7,000/12,000 single/double
+| content=It's not called the "Strange Hotel" for nothing: if you've ever wanted to check-in with an animatronic dinosaur or a creepy humanoid robot, here's your chance. The rooms are comparatively un-wacky but get the job done. Laundry facilities (paid), free hourly airport shuttle bus.
+}}
+* {{sleep
+| name=Urbain Tokyo Haneda Kamata | alt= | url=http://www.urbain-hotels.com/tkm/en/index.html | email=
+| address=7-25-10, Nishi-Kamata | lat=35.5636 | long=139.71294 | directions=two minutes on foot from Keikyu Kamata Station (turn left at the West Exit, then turn right at the line of taxis and head down the part of the road that the 7-Eleven is on; it's on the right side of the street), ten minutes from Haneda airport
+| phone=+81 3-3732-5123 | tollfree=
+| checkin=16:00 | checkout=11:00 | price=standard rate is ¥8000 for a single room, however, booking through Rakuten Travel brings down the rate to ¥6000
+| content=
+}}
+
+===Splurge===
+* {{sleep
+| name=Mercure Tokyo Haneda Airport | alt=メルキュール東京羽田エアポート | url=https://www.mercure-tokyo-haneda-airport.com/en | email=
+| address=1-2-11 Haneda | lat=35.551977 | long=139.74328 | directions=100m from Otorii stn
+| phone=+81-3-3741-5271 | tollfree=
+| checkin= | checkout= | price=From ¥17,000/double
+| lastedit=2024-05-06
+| content=Opened 2023, this designer hotel is a cut above the average for the area, although the stylish black-and-gray color palette with accents of red and purple extends into the guest rooms and makes the entire place feel rather dark.  Free shuttle bus with frequent service.
+}}
+
+==Connect==
+
+==Go next==
+{{routebox
+| image1=JR JK line symbol.svg
+| imagesize1=30
+| directionl1=W
+| majorl1=[[Yokohama]]
+| minorl1=[[Kawasaki]]
+| directionr1=E
+| majorr1=[[Tokyo/Ueno|Ueno]]
+| minorr1=[[Tokyo/Shinagawa]] → [[Tokyo/Shinbashi|Shinbashi]]
+
+| image2=Subway TokyoAsakusa.png
+| imagesize2=30
+| directionl2=W
+| majorl2=END
+| minorl2=
+| directionr2=E
+| majorr2=[[Tokyo/Chuo|Nihonbashi]]
+| minorr2=[[Tokyo/Gotanda|Gotanda]] → [[Tokyo/Shinbashi|Shinbashi]]
+
+| image3=Number prefix Keikyū.PNG
+| imagesize3=30
+| directionl3=W
+| majorl3=[[Yokosuka]]
+| minorl3=[[Yokohama]]
+| directionr3=E
+| majorr3=[[Tokyo/Minato|Sengakuji]]
+| minorr3=[[Tokyo/Shinagawa|Shinagawa]]
+
+| image4=Tokyu TY line symbol.svg
+| imagesize4=30
+| directionl4=W
+| majorl4=[[Yokohama]]
+| minorl4=[[Kawasaki|Musashi Kosugi]]
+| directionr4=E
+| majorr4=[[Tokyo/Shibuya|Shibuya]]
+| minorr4=[[Tokyo/Meguro|Jiyūgaoka]] → [[Tokyo/Meguro|Naka Meguro]]
+
+| image5=Tokyu IK line symbol.svg
+| imagesize5=30
+| directionl5=W
+| majorl5=END
+| minorl5=
+| directionr5=E
+| majorr5=[[Tokyo/Gotanda|Gotanda]]
+| minorr5=
+
+}}
+
+{{usabledistrict}}
+{{IsPartOf|Tokyo}}
+{{geo|35.561388889|139.71611111}}

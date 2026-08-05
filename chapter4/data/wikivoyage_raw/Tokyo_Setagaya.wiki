@@ -1,0 +1,359 @@
+{{pagebanner|Mena-asia_default_banner.jpg}}
+
+'''Setagaya''' (世田谷) is in western [[Tokyo]], and is the most populous and the second largest of the city's 23 wards.
+
+==Understand==
+[[Image:gotokuji-manekineko.jpg|thumb|240px|Cat statues at Gotokuji]]
+
+Setagaya has a reputation as an upscale residential district, and features many areas of greenery. People get to experience the sophisticated yet wild atmosphere in the huge park called '''Setagaya Park''' (世田谷公園) which is approximately 15-minute-walk from '''Sangenjaya''' (三軒茶屋). The funky shopping and nightlife area of '''Shimokitazawa''' (下北沢), which is popular with students and young adults, is also located in the ward. Setagaya is also home to the shopping districts of '''Sangenjaya''' (三軒茶屋) and the revitalized '''Futako-Tamagawa''' (二子玉川), locally known as ''Nikotama''. Some areas around '''Jiyūgaoka''' (自由が丘) also fall within Setagaya.
+
+===Tourist information site===
+The local tourist association has a [https://www.kanko-setagaya.jp/en/ multilingual guide site, Enjoy! Setagaya]{{Dead link|date=April 2026 |bot=InternetArchiveBot }}.
+
+==Get in==
+{{Mapframe|35.63750|139.63249|zoom=12|height=400|width=400}}
+{{Mapshape}}
+{{Mapshapes|Q682894}} <!-- Tokyo Metro -->
+{{Mapshapes|Q247782}} <!-- Toei Subway -->
+
+'''Shimokitazawa''' is on the Odakyū and Keio Inokashira train lines, just a quick hop from [[Tokyo/Shinjuku|Shinjuku]] and [[Tokyo/Shibuya|Shibuya]] respectively.  Most of the action is around the South Exit.
+
+'''Sangenjaya''' and '''Futako-Tamagawa''' are on the Tōkyū Den-en-Toshi train line from [[Tokyo/Shibuya|Shibuya]]. '''Komazawa-Daigaku''' is also along this line and near Sangenjaya, and the Komazawa University campus is a few minutes from the station.
+
+'''Jiyūgaoka''' is a transfer point for the Tōkyū Tōyoko and Ōimachi train lines. The Tōyoko Line is your best bet for getting into the southern sections of Setagaya from [[Tokyo/Shibuya|Shibuya]] or Central [[Yokohama]]. The Ōimachi Line, which originates in Ōimachi near [[Tokyo/Shinagawa|Shinagawa]], continues northward from Jiyūgaoka to '''Futako-Tamagawa''' to meet with the Den-en-Toshi line.
+
+==Get around==
+===By train===
+The main train lines serving Setagaya are the '''Odakyu''' from [[Shinjuku]] to [[Odawara]], the '''Keio''' line from [[Shinjuku]] to [[Hachioji|Takao-san]], and the Keio '''Inokashira''', Tokyu '''Toyoko''', and Tokyu '''Denentoshi''', all originating in Shibuya. Since all of these rail lines run generally westward from hubs on the Yamanote line, it can be difficult to travel north-south without going in to a hub and back out. Many bus lines exist for this purpose.
+
+Also, select '''Tokyo Metro Chiyoda''' line trains (generally every thirty minutes) through-run from [[Ayase]] in Adachi Ward.
+
+The only major connector line in the ward is the Tokyu '''Ōimachi''' line, which primarily serves residential communities to the extreme south located along the Tama River and Tokyo's #8 Ring Road (Kampachi-dori). The line can be used to connect between the '''Toyoko''' and '''Denentoshi''' lines without going back to Shibuya. [https://www.tokyu.co.jp/global/railway/ticket/value_ticket/triangle_ticket/ Tokyu Triangle Pass] allows riding on the three lines (Shibuya-Futakotamagawa-Jiyugaoka-Shibuya) for nearly one day (until 22:30) at only \470.
+
+The Tokyu '''Setagaya''' line between Sangenjaya and Shimo-takaido (on Keio Line) is one of only two remaining streetcar lines in Tokyo.
+
+==See==
+[[File:Todoroki Keikoku 02.JPG|thumbnail|Todoroki ravine]]
+
+* {{see
+| name=Carrot Tower | alt=キャロットタワー | url= | email=
+| address=太子堂 4 chome 1-1 | lat=35.64376 | long=139.66908 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q5046710
+| content=This is the tallest building in Setagaya and contains a free observation deck on the 26th floor and Gamefreak Co. on the 22nd floor.
+}}
+* {{see
+| name=Gotokuji Temple | alt=豪徳寺 Gōtokuji | url= | email=
+| address=Gōtokuji 2 chome 24-7 | lat=35.648772 | long=139.647417 | directions=take the Odakyu line to Gotokuji Station or the Setagaya line to Miyanosaka Station
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q11634381
+| content=The origin of the ''maneki-neko'' or beckoning-cat statuettes that bring good fortune to Japanese merchants the world over.
+}}
+* {{see
+| name=Hanegi Park | alt=羽根木公園 Hanegi-kōen | url=https://www.city.setagaya.lg.jp/mokuji/kusei/012/015/001/010/d00004240.html | email=
+| address=Daita 4 chome 38-52 | lat=35.658056 | long=139.655 | directions=take the Odakyu line to Umegaoka Station or the Inokashira line to Higashimatsubara Station
+| phone=+81 3-5431-1822 | tollfree=
+| hours= | price=
+| wikidata=Q11610224
+| content=A public park, where kids can play freely with the Play Park facility.
+}}
+* {{see
+| name=Kinuta Park | alt=砧公園 Kinuta-koen | url=http://www.tokyo-park.or.jp/park/format/index004.html | email=
+| address=Kinuta-koen 1-1 | lat=35.630216 | long=139.620266 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=A public park with a museum of modern art.
+}}
+* {{see
+| name=Komazawa Olympic Park | alt=駒沢オリンピック公園 Komazawa orinpikku koen | url=http://www.tef.or.jp/kopgp/ | email=
+| address=Komazawa koen 1 | lat=35.62515 | long=139.661889 | directions=15-minute walk from Komazawa-Daigaku station
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q2021485
+| content=A large public park, built for the 1964 Tokyo Olympics.
+}}
+* {{see
+| name=Machiko Hasegawa Museum | alt=長谷川町子美術館 Hasegawa machiko bijutsukan | url=http://www.hasegawamachiko.jp | email=
+| address=1-30-6 Sakurashinmachi | lat=35.62799 | long=139.64362 | directions=7-minute walk from Sakura-Shinmachi station
+| phone=+81 3 3701 8766 | tollfree=
+| hours=Tu-Su 10:00-17:30, last entry at 17:00 | price=Adults &yen;600, college and high school students &yen;500, junior high and elementary school students &yen;400
+| wikidata=Q3788646
+| content=Art museum dedicated to the works of Machiko Hasegawa, creator of ''Sazae-san'', one of Japan's longest running comic strips and cartoons. Showcases include original drawings, clay dolls, and paintings.
+}}
+* {{see
+| name=Setagaya Art Museum | alt=世田谷美術館 Setagaya bijutsukan | url=http://www.setagayaartmuseum.or.jp | email=
+| address=1-2 Kinutakoen | lat=35.631758 | long=139.621935 | directions=15-minute walk from Yoga Station on the Den-en Toshi Line
+| phone=+81 3 3415-6011 | tollfree= | fax=
+| hours=Tu-Su 10:00-18:00, last entry 17:30, closed at New Years | price=Adults &yen;200, college students &yen;150, children and senior citizens &yen;100
+| content=Houses works by artists from the Primitivist School, such as Henri Rousseau.
+}}
+* {{see
+| name=Tamagawadaishi | alt=玉川大師 | url=http://www.nikotama-kun.jp/fuukei_temple_tamagawadaishi.htm | email=
+| address=4 Chome-13-3 Seta | lat=35.618790 | long=139.627179 | directions=get off at Futako-Tamagawa on the Tokyu Den-en-Toshi Line (from Shibuya) and walk 10 minutes along the highway from Takashimaya Department Store
+| phone=+81 3-3700-2561 | tollfree= | fax=
+| hours=09:00-17:00 | price=
+| content=A Buddhist temple, and a branch of [[Kawasaki#See|Kawasaki Daishi]]. It isn't very large and the location is in a nondescript residential area, but its curious attraction is hidden: an underground passageway that snakes its way under the building. There are statues and altars with lighting at various points, but much of the tunnel is in absolute darkness. It symbolizes a passage through the intestines of the Buddha (better not to dwell too much on the symbolism!) while the 88 Buddha statues in one of the chambers also symbolize the famous [[88 Temple Pilgrimage]] in [[Shikoku]].
+}}
+* {{see
+| name=Todoroki ravine | alt=等々力渓谷 | url=http://home.catv.ne.jp/dd/ohmura/ | email=
+| address= | lat=35.605005 | long=139.64579 | directions=take the Tokyu Oimachi line to Todoroki Station.
+| phone= | tollfree= | fax= | image=Todoroki Keikoku 02.JPG
+| hours= | price=
+| content=A natural canyon nestled in urban surroundings. With a small river and lush vegetation, it offers a pleasant natural environment.
+}}
+* {{see
+| name=Setagaya Park | alt=世田谷公園 Setagaya-koen | url=http://www.city.setagaya.lg.jp/shisetsu/1217/1271/d00004239.html | email=
+| address=Ikejiri 1-5-27 | lat=35.644167 | long=139.681249 | directions=
+| phone=+81 3 3412-7841 | tollfree= | fax=
+| hours= | price=
+| content=A public park with a pool, tennis courts, baseball grounds and so on. There is a mini steam train and a retired full-size steam locomotive for children to play on.
+}}
+* {{see
+| name=Saitama's Apartment | alt= | url=https://onepunchman.fandom.com/wiki/Saitama%27s_Apartment | email=
+| address= | lat=35.67025 | long=139.65195 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2024-02-14
+| content=Real-life inspiration for the house where Saitama from the One Punch Man manga lived.
+}}
+
+==Do==
+* {{do
+| name=Tollywood | alt=トリウッド | url=http://tollywood.jp/ | email=
+| address=Daizawa 5-32-5 2F | lat= | long= | directions=Three minutes from Shimokitazawa south exit
+| phone=+81 3-3414-0433 | tollfree=
+| hours= | price=
+| wikidata=Q28684231
+| content=This small theater (46 seats) specializes in independent short films, mostly Japanese. The films aren't dubbed or subtitled of course, but they're so offbeat and often bizarre that you're sure to have a good time anyway.
+}}
+* {{do
+| name=Okuraland | url= | email=
+| address=Sakura 3-24-1 | lat= | long= | directions=5 minutes from Kamimachi station of Tokyu-Setagaya line
+| phone=+81 3-3420-0271 | tollfree= | fax=
+| hours= | price=
+| content=Here you can go bowling or practice your golf swing. There are also batting cages.
+}}
+* {{do
+| name=Kuhonbutsu River Green Street | alt=グリーンストリート・九品仏川緑道 | url= | email=
+| address= | lat=35.606899 | long=139.669704 | directions=Near Jiyūgaoka Sta. South Exit
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Take a date, canine friend, or both for an afternoon stroll from Jiyugaoka to Kuhonbutsu. Lined with cherry trees (wonderful in spring), benches, shops and sidewalk cafes.
+}}
+
+==Buy==
+
+===Northern Setagaya===
+
+'''Shimokitazawa''' has many quirky shops:
+
+*{{buy
+| name=Ex | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Sells artistic designed stuff like photo stands, postcards, clocks, accessories and so on.
+}}
+*{{buy
+| name=Setagaya Boro-Ichi | alt=世田谷ボロ市 | url= | email=
+| address= | lat= | long= | directions=Take the Setagaya line to Setagaya or Kamimachi and follow the crowds
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=A flea market that's held on the 15th and 16th of December and January each year. It's been drawing shoppers from all over Tokyo since it started in 1578. The main attraction is used clothing (such as kimono) and antiques.
+}}
+
+===Central and Southern Setagaya===
+
+What '''Futako-Tamagawa''' perhaps lost in old-school charm and character it has gained in modernity and selection that rivals other major shopping areas in Tokyo. This revitalized station-front shopping area, which seems to have taken a peculiar design cue from nearby Tama Plaza, is anchored by two main shopping areas:
+
+*{{buy
+| name=Tamagawa-Takashimaya S.C. | alt=玉川高島屋Ｓ・Ｃ (=Shopping Center) | url=http://www.tamagawa-sc.com/english/index.html | email=
+| address= | lat= | long= | directions=west of Futako-Tamagawa Sta. along Tamagawa-dori
+| phone= | tollfree=
+| hours= | price=
+| content=The original anchor, now renovated to keep up with its reputation as a fashion center, is home to many of the same international brand name boutiques you'd find in Ginza, Omotesandou, or Roppongi Hills. Many of its annexes are connected via pedestrian bridges or garden walkways.
+}}
+**The '''Main Wing''', '''South Wing''', and '''West Wing''' along with '''Hanamizuki Court''' are across the street from the train station, and are home to numerous upscale brands such as Gucci, Burberry, and Lacoste. There is also a branch of Books Kinokuniya which, like its other locations across Japan, typically carries a decent selection of international publications.
+**The '''East Wing''', '''Keyaki Court''', '''Garden Island''' and '''Marronnier Court''' are up the street on the same side of the station, and contain stores such as muji and Gap.
+*{{buy
+| name=Futako-Tamagawa Rise | alt=二子玉川ライズ | url=http://www.rise.sc/ | email=
+| address= | lat= | long= | directions=Connected to and east of Futako-Tamagawa Sta.
+| phone= | tollfree=
+| hours= | price=
+| content=A complex of shopping centers and offices on the eastern end of the station. Rakuten Corporation has their headquarters right outside the station. Also has a bridge connected to a park.
+}}
+**'''Rise Shopping Center''' and '''Dogwood Mall''' house many major domestic and international brand name stores, including H&M, Loft, Uniqlo, Oshman's, The North Face, and Francfranc.
+**'''Oak Mall''', '''Bird's Mall''', and '''Plaza Mall''' are more local in flavor and are the new, modern homes for many of the businesses that were displaced by the redevelopment.
+
+'''Jiyūgaoka''' has for a long time carried a somewhat trendy if not upscale caché. Some of its street-front stores include independent and chain apparel stores (most of which cater to women), and various ''zakka'' (variety shop) establishments.
+
+==Eat==
+
+===Northern Setagaya===
+
+'''Shimokitazawa''' is your best option for restaurants and bars.
+* {{eat
+| name=La Befana | url= | email=
+| address=5-31-3 Daita | lat= | long= | directions=30-second walk from Shimokitazawa West Exit
+| phone=+81 3-3411-9500 | tollfree= | fax=
+| hours=Daily 12:00-14:00, 17:30-22:30 | price=
+| content=Good pizza from wood-fired stone oven, something you will be missing if you are staying for a long time in Japan. The lunch menu is excellent.
+}}
+* {{eat
+| name=Setagaya | alt=せたが屋 | url=https://www.setaga-ya.com/store/setagaya/ | email=
+| address=Nozawa 2-1-2 1F | lat= | long= | directions=
+| phone=+81 3-3418-6938 | tollfree=
+| hours=17:00-22:30 | price=
+| content=A famous ramen restaurant. Also has a branch at Haneda Airport Terminal 3.
+}}
+* {{eat
+| name=Shiro-Hige’s Cream Puff Factory | alt=白髭のシュークリーム工房 | url=http://www.shiro-hige.net/main/ | email=
+| address=5-3-1 Setagaya-Daita | lat=35.65907 | long=139.66266 | directions=3 minutes from Setagaya-Daita station, 7 minutes from Shimokitazawa station. Just east (right, around corner) of north end of pedestrian bridge over east side of Setagaya-Daita station. From Shimokitazawa station west exit, go south (left) on main road. Turn west (right) when it bends at the tracks, then turn south (left) at second street on your left, then walk to the bend. From Setagaya-Daita station west exit, turn north (right), skip first small street right next to station and turn east (right) on next street, then walk until it turns. ([http://www.shiro-hige.com/new-map.html map])
+| phone=+81 3-5787-6221 | tollfree=
+| hours=10:30–19:00 (closed Tu) | price=around ¥600 each
+| content=Bakery specializing in adorable Totoro-shaped [http://www.shiro-hige.net/cream_puffs/ cream puffs], cookies and cakes.
+}}
+* {{eat
+| name=Sunday Brunch | url=http://www.sundaybrunch.co.jp/index.html | email=
+| address=Kitazawa 2-29-2 2F | lat= | long= | directions=
+| phone=+81 3-5453-3366 | tollfree= | fax=
+| hours= | price=
+| content=The French toast is very tasty.
+}}
+*{{eat
+| name=Village Vanguard Diner | alt= | url=https://www.vv-diner.jp/shop/shimokitazawa/ | email=
+| address=Daita 6-3-1 | lat=35.662535 | long=139.665718 | directions=
+| phone= | tollfree=
+| hours=11:30-02:00 | price=¥660
+| content=Hamburger shop that has many kinds of very delicious hamburgers. Run by Village Vanguard, a chain of variety & bookstores.
+}}
+* {{drink
+| name=Ushi Tora | alt= | url=http://blog.ushitora.jp/ | email=ushixtora@gmail.com
+| address=Kitazawa 2-9-3 2F | lat= | long= | directions=South exit, Odakyu Line, east, south, east
+| phone=+81 3-3485-9090 | tollfree=
+| hours=17:00-23:30 | price=
+| content=Two bars. One with tables & chairs, allows tobacco smoking, and accepts a credit card. One space over, a standing bar with more beers on tap, is non-smoking, and takes only cash.
+}}
+* {{eat
+| name=Universal Bakes | alt= | url=https://universalbakes.jp/ | email=
+| address= | lat=35.66379 | long=139.67047 | directions=
+| phone= | tollfree=
+| hours=W-Su 08:30-18:00 | price=
+| lastedit=2024-03-11
+| content=Vegan bakery selling coffee, bread and doughnuts.
+}}
+
+===Central and Southern Setagaya===
+
+'''Komazawa''' and surroundings
+* {{eat
+| name=Botero | url= | email=
+| address=Komazawa 1-17-17 | lat= | long= | directions=
+| phone=+81 3-3410-5922 | tollfree= | fax=
+| hours= | price=
+| content=Regular holiday is Tuesday.
+}}
+* {{eat
+| name=Patisserie Naoki | url= | email=
+| address=Komazawa 1-4-12 1F | lat= | long= | directions=
+| phone=+81 3-3422-3167 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+
+'''Futako-Tamagawa''' is home to both high-brow and casual cuisine alike, most of it concentrated around the train station's shopping areas. As is the case with many other shopping areas across Japan, the restaurants on the higher floors offer supreme dining experiences with great views, and the prices to match.
+
+*{{eat
+| name=Kua'Aina | alt=クア・アイナ | url=http://www.kua-aina.com/ | email=
+| address=Dogwood Plaza 7F | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Branch of the Hawaiian-American burger joint found in on both sides of the Pacific.
+}}
+*{{eat
+| name=Moti | alt=モティ | url= | email=
+| address=Dogwood Plaza 7F | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Moderately priced Indian food with a great view. Vegetarian options.
+}}
+*{{eat
+| name=Starbucks | url= | email=
+| address=Dogwood Plaza 1F | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=While its ubiquity usually negates any need of mentioning, this particular location somewhat breaks from typical cookie-cutter mold through its unique seating arrangement and indoor garden setting.
+}}
+
+'''Jiyūgaoka''' is fairly well-known for its mom-and-pop establishments, especially bakeries and pastry shops.
+
+*{{eat
+| name=Jiyugaoka Burger | alt=自由が丘バーガー | url=https://www.jiyugaokaburgers.com/ | email=
+| address=Jiyugaoka 1-3-15 4F, Meguro-ku | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=Sets from ¥1100
+| content=Domestically-sourced, organic and thick burgers in a lush balcony setting.
+}}
+*{{eat
+| name=Jiyugaoka Sweets Forest | alt=自由が丘スイーツ・フォレスト | url=https://sweets-forest.cake.jp/ | email=
+| address=Midorigaoka 2-25-7, Meguro-ku | lat= | long= | directions=5-min walk from Jiyūgaoka Sta. South Exit
+| phone= | tollfree=
+| hours= | price=
+| content=Cheerfully themed modern food park of sorts that brings together all kinds of ''kawaii''-inspired sweets in one place.
+}}
+*{{eat
+| name=Kochoo | alt=コチュ | url=https://www.instagram.com/kochoo.jiyugaoka/ | email=
+| address=Okusawa 6-22-12 | lat= | long= | directions=3-min walk from Kuhonbutsu Station; 8-min walk from Jiyūgaoka Sta.
+| phone= | tollfree=
+| hours= | price=
+| content=Specializes in ''sundubu'', a Korean stew which actually has roots in Los Angeles. All-you-can-eat banchan, which is common practice in Korea but rare in Japan!
+}}
+
+==Drink==
+* {{drink
+| name=Bear Pond Espresso | alt= | url=https://bearpondespresso.com/ | email=
+| address=2-36-12 Kitazawa | lat=35.66403 | long=139.6679 | directions=From Shimokitazawa station, walk north until you reach the main east-west shopping arcade, and it’s just across from the Lawson convenience store (on a corner). (From the north exit, take the left street, which goes straight to the east-west street.)
+| phone=+81 3-5454-2486 | tollfree=
+| hours=10:30–18:00 (closed Tu), espresso 10:30–13:00 Th–M | price=
+| content=World-class espresso (very short ristretto with “sticky” texture) and excellent coffee, in a stylish, NY-style space. Ok to buy cupcakes from across the street. Ask before taking pictures.
+}}
+* {{drink
+| name=Ushi-Tora | alt=うしとら | url=http://blog.ushitora.jp/ | email=info@ushitora.jp
+| address=2-9-3 Kitazawa | lat= | long= | directions=
+| phone=+81 3-3485-9090 | tollfree= | fax=
+| hours=Daily 17:00-04:00 | price=
+| content=Seemingly in direct competition to Kura Kura, Ushi-Tora also offers a wide selection of Japanese and U.S. microbrews on tap.
+}}
+* {{drink
+| name=Mother | url=http://www.rock-mother.com/info_m.html | email=
+| address=Daizawa 5-36-14 | lat= | long= | directions=3 min from Shimokitazawa South Exit, on the corner just before Gyoza-no-Osho
+| phone=+81 3-3421-9519 | tollfree= | fax=
+| hours= | price=
+| content=Multi-ethnic food and an interesting selection of imported beers, in a cave-like, Gaudi-inspired setting. If you come for food, make sure you have time to kill, as the kitchen works at a rather leisurely pace.
+}}
+
+==Sleep==
+* {{sleep
+| name=The B Sangenjaya | alt=ザ・ビー三軒茶屋 | url=https://en.theb-hotels.com/theb/sangenjaya | email=
+| address=2-17-9 Taishido | lat= | long= | directions=two-minute walk from Sangenjaya station North Exit A on Tokyu Denentoshi Line, two-minute walk from Sangenjaya station on Tokyu Setagaya Line
+| phone=+81 3 3795-0505 | tollfree= | fax=+81 3-3419-0690
+| checkin=15:00 | checkout= | price=
+| content=A business style hotel convenient to transport.
+}}
+* {{sleep
+| name=Mustard Hotel | alt= | url=https://mustardhotel.com/shimokitazawa/ | email=info_shimokita@mustardhotel.com
+| address=3-9-19 Kitazawa | lat=35.664 | long=139.671 | directions=
+| phone=+81 3 6407 9077 | tollfree=
+| checkin=14:00-23:00 | checkout=10:00 | price=
+| wikidata=Q133076543
+| lastedit=2024-03-11
+| content=Modern hotel with different room types, all of which have a record player and records that can be borrowed free of charge. The reception area features Sidewalk Coffee Roasters, serving coffee and bagels.
+}}
+
+==Connect==
+
+{{usabledistrict}}
+{{geo|35.646572|139.653247}}
+{{IsPartOf|Tokyo}}

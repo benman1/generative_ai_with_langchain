@@ -1,0 +1,156 @@
+{{pagebanner|Akasaka banner Japan National Route 246 -05.jpg|pgname=Akasaka}}
+{{confused|[[Tokyo/Asakusa|Asakusa]], almost 7&nbsp;km (4 miles) away in the downtown [[Tokyo/Taito|Taito]] ward}}
+'''Akasaka''' (&#x8d64;&#x5742;) is one of [[Tokyo]]'s central business districts, full of corporate headquarters and expensive hotels. The area is directly adjacent to [[Tokyo/Chiyoda|Nagatacho]], one of Tokyo's prime concentrations of bureaucracy, and only a stone's throw from the Imperial Palace in [[Tokyo/Chiyoda|Chiyoda]].
+
+==Get in==
+
+===By train===
+{{Mapframe|35.67094|139.73552|zoom=15|width=500}}
+{{Mapshape}}
+{{Mapshapes|Q682894}} <!-- Tokyo Metro -->
+{{Mapshapes|Q247782}} <!-- Toei Subway -->
+
+'''Akasaka-Mitsuke''' station on the Metro Ginza and Marunouchi subway lines is at the northeastern edge of Akasaka. The station is connected by a handy, if rather long, tunnel to '''Nagatacho''' station on the Namboku, Hanzomon and Yurakucho lines.
+'''Tameike-Sanno''' (Namboku/Ginza) is also in the area and a good access point for '''Hitotsugi-dori''', the main thoroughfare through the Akasaka district.
+
+Travelers from [[Narita Airport]] can take the Keisei Skyliner to Ueno, then transfer to the Ginza subway line (&yen;2,110, 90 min.), or add 15 minutes but lower the cost to &yen;1,190 by taking the limited express instead of the Skyliner. The Narita Express isn't cost-effective unless you hold a rail pass, in which case you can travel to Tokyo Station and change for the Marunouchi line (85 min. total), paying only the subway fare of &yen;160. [[Haneda]] Airport passengers can take the Keikyu line to Shimbashi, changing there for the Ginza line (&yen;720, 40 min.).
+
+Many of the tourist attractions can also be reached by getting off at {{marker|type=go|name=''Roppongi station''|lat= 35.6636|long=139.7319|image=Roppongi Station Hibiya Line Platform 2013.jpg}}.
+
+===By bus===
+The Airport Limousine Bus makes convenient hourly runs (sometimes twice an hour) between Narita and major hotels in Akasaka (&yen;3,000, approx. 80-120 minutes).
+
+==See==
+[[File:Hie shrine.JPG|thumbnail|Akasaka seen from Hie shrine]]
+In 2007, Akasaka Sacas opened to great fanfare. Much like the nearby competing Roppongi Hills or Tokyo Midtown, Akasaka Sacas is made up of Akasaka Biz Tower, chock-full of eateries and several shops, Akasaka BLITZ and ACT Theatre, and of course the iconic TBS (Tokyo Broadcasting System) building.
+
+*{{see
+| name=Nogi's house and shrine | alt=乃木神社 | wikidata=Q11368830 | url=http://www.nogijinja.or.jp | email=
+| address=Akasaka 8-11-27 | lat=35.66836 | long=139.72787 | directions=Nogizaka stn, exit 1
+| phone=+81 3 3478-3001 | tollfree= | fax=+81 3-3478-3005 | image=House_of_Maresuke_Nogi.jpg
+| hours=Daily 06:00–18:00 | price=Free
+| content=General Nogi's house is a great example of Western architecture constructed during the Meiji period (19th century), mixing Japanese and Western elements. The general killed himself here after the Meiji Emperor's death. Descend the stairs to reach the shrine that was dedicated to him in 1917. Lonely place, very photogenic.}}
+
+===Tokyo Midtown===
+* {{see
+| name=Tokyo Midtown | alt= | url=http://www.tokyo-midtown.com/ | email=
+| address=9-7-1 Akasaka | lat=35.665833 | long=139.731111 | directions=Roppongi station, exit 4A, 8; Nogisaka station, exit 3
+| phone= | tollfree=
+| hours=Daily 11:00–24:00 | price=
+| wikipedia=Tokyo Midtown | image=Tokyo Midtown.2.JPG | wikidata=Q1364393
+| content=Opened in April 2007, this competitor to Roppongi Hills boasts Tokyo's second tallest office building, a Ritz-Carlton and yet more endless acres of shopping and eating. Still, Midtown favors wood paneling and greenery over raw concrete and feels a little more human than Hills do. The main gallery (and the floor under) always have open Japanese art exhibits.
+}}
+**{{see
+| name=21_21 Design Sight | alt= | url=http://www.2121designsight.jp/en/ | email=
+| address=Midtown Hinokichō Park | lat=35.6675 | long=139.73027 | directions=
+| phone=+81 33475 2121 | tollfree= | fax=
+| hours=10:00-19:00 (last entrance 18:30); Tu off | price=
+| wikipedia=21 21 Design Sight | image=21 21 DESIGN SIGHT.jpg | wikidata=Q863044
+| content=Changing exhibitions devoted to the latest and greatest in Japanese design.
+}}
+**{{see
+| name=Fujifilm Square | url=http://fujifilmsquare.jp | email=
+| address=Akasaka 9-7-3, Midtown West | lat=35.665401 | long=139.730268 | directions=
+| phone=+81 3 6271-3350 | tollfree= | fax= |image=Tokyo Midtown West.JPG
+| hours=Daily 10:00–19:00 | price=Free
+| content=Fujifilm's exhibition space for the latest and greatest in photography. Exhibits are usually free and well worth a visit.}}
+**{{see
+| name=Suntory Museum of Art | alt= | url=http://www.suntory.co.jp/sma/ | email=
+| address=Midtown Garden | lat=35.666389 | long=139.730278 | directions=
+| phone= | tollfree= | fax=
+| hours=Su–Th 10:00–18:00, F,Sa 10:00–20:00 | price=c. ¥1300
+| wikipedia=Suntory Museum of Art | image=Tokyo-Midtown-Suntory-Museum-of-Art-01.jpg | wikidata=Q11249110
+| content=Hosts changing art exhibitions.
+}}
+
+==Do==
+
+==Buy==
+
+==Eat and drink==
+At night corporate Akasaka loosens its tie and comes to life: the blocks bounded by '''Sotobori-dori''' (&#x5916;&#x5800;&#x901a;&#x308a;) and '''Hitotsugi-dori''' (&#x4e00;&#x30c3;&#x6728;&#x901a;&#x308a;) are packed full of expensive restaurants and nightclubs, second only to the [[Tokyo/Ginza|Ginza]] in swankiness. Both Japanese and international cuisine are very well represented, with places like '''Tenichi''' for tempura and '''Shabuzen''' for shabu-shabu, and others representing Indonesian, French, Mexican, Russian, Indian, Italian cuisines... If you name it, you'll probably find it.
+
+Most restaurants cater mostly to the expense account set and are correspondingly expensive at dinner time (&yen;10000 and up is not uncommon). The best deals in Akasaka are therefore at '''lunch''', since no matter how high their prices go in the evening, ''all'' these restaurants offer excellent lunch menus for &yen;1000 or so.
+
+* {{eat
+| name=Ninja Akasaka | alt= | url=http://www.ninjaakasaka.com/ | email=
+| address=2-14-3 Nagata-cho, Akasaka Tokyu Hotel Plaza 1F | lat=35.677900 | long=139.737171 | directions=
+| phone=+81 3-5157-3936 | tollfree= | fax=
+| image=Ninja waiter.jpg
+| hours= | price=
+| content=The entrance is a little difficult to find, but what do you expect from a restaurant designed like a hidden ninja fortress? Navigate through dark corridors, over bridges and trap doors to your hidden room, where ninja waiters attend to your needs while performing tricks and illusions. The food is delicious as well as being presented in unique ways that are sure to entertain. Pre-set menus (usually 7-10 courses) run anywhere from &yen;7,000 up to &yen;20,000, but items can also be ordered à-la-carte.
+}}
+* {{eat
+| name=Akasaka umaya | alt=赤坂うまや | url= | email=
+| address= | lat=35.6758753 | long=139.7353371 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| lastedit=2016-05-19
+| content=
+}}
+* {{eat
+| name=Rokuhara | alt=六波羅 | url= | email=
+| address=Akasaka 4-2-2, B1 | lat=35.676086 | long=139.735714 | directions=
+| phone= | tollfree=
+| hours= | price=
+| image=串 at 京串 六波羅.jpg
+| lastedit=2018-07-25
+| content=Specializes in kushiage, counter in a very Japanese cozy atmosphere.
+}}
+
+Akasaka is famous for its Korean restaurants:
+
+* {{eat
+| name=Ichiryu Bekkan | alt= | url= | email=
+| address=Akasaka 2-13-17 1st floor | lat=35.672331 | long=139.738328 | directions=
+| phone=+81 3-3582-7008 | tollfree=
+| hours=24 hours | price=¥1620
+| image=Seolleongtang at Ichiryu bekkan, Akasaka.jpg
+| lastedit=2016-05-18
+| content=Their speciality (and only dish) is the Seolleongtang soup, a white broth with beef, served with many side dishes including kimchi. Add salt and pepper yourself to the soup at your convenience.
+}}
+
+If you are on a budget try the lunch box from a supermarket.
+
+* {{eat
+| name=Preece Premium | url=http://www.tokyo-midtown.com/jp/restaurants/SOP0000136/ | email=
+| address=Tokyo Midtown Basement | lat=35.66561 | long=139.72994 | directions=
+| phone=+81 3 5413-5109 | tollfree= | fax=
+| hours=24 hours daily | price=Somewhat expensive even for Tokyo standards
+| content=Very good selection of imported foods.
+}}
+
+==Sleep==
+[[File:Tokyo-Midtown-Tower-02.jpg|200px|thumb|Tokyo Midtown, on top of which is Tokyo's priciest hotel]]
+
+Akasaka's hotels are all in the business/luxury category and charge a premium for their location.
+
+* {{sleep
+| name=InterContinental ANA Tokyo | alt= | url=http://www.ihg.com/intercontinental/hotels/gb/en/tokyo/tyohc/hoteldetail | email=
+| address=1-12-33 Akasaka | lat=35.66808 | long=139.74065 | directions=between the Tameike-Sanno and Roppongi Ichome subway stations
+| phone=+81 3-35051111 | tollfree=
+| checkin=15:00 | checkout=12:00 | price=
+| content=An international hotel and all staff can speak English. The rooms are a decent size compared to most American hotels. There is also a limousine bus connecting the ANA Hotel to Narita Airport - it takes approximately two hours and is available to both guests of the hotel and people with other accommodation.
+}}
+* {{sleep
+| name=Hotel Asia Center of Japan | url=http://www.asiacenter.or.jp/eng/ | email=
+| address=Akasaka 8-10-32 | lat=35.67065 | long=139.72804 | directions=a 10-min walk or one metro stop away from Roppongi at Aoyama itchome on the Oedo, Ginza, and Hanzomon lines
+| phone=+81 3 3402-6111 | tollfree= | fax=+81 3 3402-0738
+| hours= | price=¥8000
+| checkin=14:00 | checkout=11:00
+| content=Excellent budget hotel – no amenities like a gym or spa, but friendly staff, small but well-appointed rooms, restaurant. Free high-speed internet in room, coin internet in lobby. Laundry available.
+}}
+* {{sleep
+| name=Ritz-Carlton Tokyo | alt= | url=http://www.ritzcarlton.com/en/hotels/japan/tokyo | email=rc.tyorz.leads@ritzcarlton.com
+| address=9-7-1 Akasaka | lat=35.6663290 | long=139.7313616 | directions=in Tokyo Midtown
+| phone=+81 3 3423-8000 | tollfree= | fax=+81 3 3423-8001
+| checkin= | checkout= | price=Probably Tokyo's priciest hotel, with room rates starting from ¥60,000
+| image=Ritz-carlton 01.jpg
+| content=A strong contender for the hotly contested title of Tokyo's most expensive hotel, the Ritz-Carlton is perched atop Tokyo's tallest building, the hip Tokyo Midtown complex, with even the lobby on the 45th floor. Heated pool, a selection of saunas, Michelin-star French dining and more.
+}}
+
+==Connect==
+
+{{usabledistrict}}
+{{IsPartOf|Tokyo/Minato}}
+{{geo|35.6723|139.7365}}

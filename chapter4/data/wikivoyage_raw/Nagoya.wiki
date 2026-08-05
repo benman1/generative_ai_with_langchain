@@ -1,0 +1,1034 @@
+{{pagebanner|Nagoya-banner-new.jpg|dotm=yes|unesco_cc=yes}}
+: ''For the city in Batam, Indonesia, see [[Nagoya (Indonesia)]].''
+
+'''Nagoya''' (名古屋) is the capital and largest city of [[Aichi]] prefecture, in the [[Chubu]] region of [[Honshu]]. It's not one of Japan's top tourist draws as most tourists just zip through on the bullet train on their way between Tokyo and Kyoto.  But if you do decide to stick around, there are plenty of car-related attractions, a restored castle, an ancient shrine, and a surprisingly happening nightlife.
+
+==Understand==
+The hub of Aichi prefecture, Nagoya is Japan's fourth-largest city after [[Tokyo]], [[Yokohama]], and [[Osaka]] and one of the nation's major economic centers. In terms of manufacturing, as home to auto-making giants Toyota, Honda, and Mitsubishi Motors, Nagoya is to Japan what [[Detroit]] is to the [[United States]] &mdash; and it was completely flattened during World War II.
+
+===History===
+[[File:Nagoya Castle 7.jpg|thumb|Nagoya Castle]]
+[[File:Jorakuden1.jpg|thumb|Honmaru Palace]]
+Now a modern metropolis, Nagoya gets its name from an old manor called ''Nagono'' which was built in the area in the 12th century. The manor prospered for two hundred years, and people began to refer to the area by the manor's name. Over time, the pronunciation of the Chinese characters in the name "Nagono" shifted to "Nagoya", by which the city is now known.
+
+Three famous local figures later helped to put Nagoya firmly on the map of Japan. Oda Nobunaga, Toyotomi Hideyoshi and Tokugawa Ieyasu all hailed from around Nagoya, and all shared the ambitious goal of unifying Japan under one government. Tokugawa finally succeeded in 1603 after winning in the Battle of Sekigahara, and established the Tokugawa Shogunate, which would rule Japan for the next 250 years.
+
+Soon after uniting the country, Tokugawa Ieyasu ordered the construction of Nagoya Castle for his son. He then ordered the people of nearby Kiyosu (on the outskirts of Nagoya) to move to the area around the castle, and a town soon came into being. Cotton, ceramics and lumber were the main industries sustaining the town as it grew into a small city.
+
+Following Japan's opening to the world during the Meiji era, Nagoya rapidly industrialized and established transportation links with the rest of Japan that would allow it to easily export its goods. During World War I, Nagoya became known for its foundries as well as its machinery and heavy industry exports, which would continue to grow throughout the 1930s.
+
+The 1920s marked the beginning of the automotive industry in Nagoya, which continues in importance to the current day. At the heart of the industry is the Toyota Motor Corporation. Starting from humble beginnings as a loom-making company, Toyota entered the automobile business in the 1930s. It now stands as the world's largest automaker, and continues to dominate the local economy along with the car-making giants Honda and Mitsubishi.
+
+During World War II, much of Nagoya's manufacturing infrastructure turned to the production of military goods, making it a prime target for bombing raids. Almost 25% of the city was destroyed during the war, with almost half the population fleeing to the countryside to avoid the attacks.
+
+{{infobox|Hello, long time no see?|The 1980s were not good for Nagoya. They lost a bid to [[Seoul]] for the 1988 Olympics that they were supposed to win, and local industry suffered from the rise of the Yen exchange rate. As a result, morale in Nagoya was pretty low at the time. To encourage locals, a song boasting Nagoya was released in 1985, known as "名古屋はええよ!やっとかめ" (lit, "Nagoya is good! Long time no see!"), and has become widely known in the 2000s for various memes about the song.
+
+The song mentions some of the most interesting parts of Nagoya, such as Higashiyama Zoo, Hisaya-odori Avenue (which is very large), fried shrimp, and delicious ''Tenmusu''. You can enjoy almost half of Nagoya when visiting or doing what the song mentions. }}
+The end of the war marked a new start for Nagoya. Car-friendly, wide streets and boulevards were bulldozed through the rubble of war, making for the city of today.
+
+Nagoya now ranks as one of the nation's economic powerhouses, and is home to the head offices of Toyota Motor Corporation, Brother Industries, Daido Steel, Makita, Denso Corporation, INAX, Noritake, NGK Insulators and many others. Unlike other parts of Japan, which borrowed heavily for elaborate and expensive public works projects in the bubble years of the 1980s, ''kechi'' ("miserly") Nagoya held to a pay-as-you-go philosophy, and has not been as adversely affected by the post-bubble recession as other major centers.
+
+The booming economy has also brought many foreigners to the area, and the region now hosts a thriving community of Japanese-descent Brazilian immigrants, who help to keep the wheels of the local economy spinning. With its strong economy and growing population, Nagoya is a city to watch in the coming years.
+
+===Climate===
+{{climate chart
+|Nagoya
+|1.1 |9.3 |50.8
+|1.4 |10.5 |64.7
+|4.6 |14.5 |116.2
+|9.7 |20.1 |127.5
+|14.9 |24.6 |150.3
+|19.4 |27.6 |186.5
+|23.5 |31.4 |211.4
+|24.7 |33.2 |139.5
+|21.0 |29.1 |231.6
+|14.8 |23.3 |164.7
+|8.6 |17.3 |79.1
+|3.4 |11.7 |56.6
+|jansnow=40.0 |febsnow=50.0 |marsnow=0.0 |aprsnow=0.0 |maysnow=0.0 |junsnow=0.0 |julsnow=0.0 |augsnow=0.0 |sepsnow=0.0 |octsnow=0.0 |novsnow=0.0 |decsnow=30.0
+|float=right
+|clear=right
+|source=[[:w:Nagoya]]
+|description=
+}}
+Nagoya's climate varies greatly throughout the year, with average temperatures ranging from a low of 4&nbsp;°C (39.2&nbsp;°F) in January to a high of 27&nbsp;°C (80.6&nbsp;°F) in August. The city is known for its incredibly hot and humid summers like many cities in Japan, with high temperatures routinely surpassing 30&nbsp;°C (86&nbsp;°F) in August, so those with an aversion to heat would be better off visiting in the milder temperatures of the spring or autumn.
+
+===Orientation===
+While divided into 16 wards or ''ku'' (区), the focal points of this sprawling agglomeration are '''Nagoya Station''' (名古屋駅) to the north, '''Sakae''' (栄) to the east and '''Kanayama''' (金山) to the south.
+
+===Tourist information===
+* {{listing
+| name=Nagoya Convention and Visitors Bureau | url=http://www.nagoya-info.jp/en/icenter/ | email=
+| address=Nagoya Chamber of Commerce & Industry Bldg. 11F, 2-10-19 Sakae, Naka-ku | lat=35.16555 | long=136.89877 | directions=
+| phone=+81 52 202-1143 (Tourism Dept) | tollfree= | fax=
+| hours= | price=
+| content=Operates three tourist information centers across the city:
+}}
+** {{listing
+| name=Nagoya Station Tourist Information | url=http://www.nagoya-info.jp/en/icenter/#a0006359 | email=
+| address=1-1-4 Meieki, Nakamura-ku | lat=35.17115 | long=136.88333 | directions=JR Nagoya Station Central Concourse (towards Sakura-dori side)
+| phone=+81 52-541-4301 | tollfree= | fax=+81 52-571-1669
+| hours=Daily 09:00-19:00, closed Dec 29-Jan 1 | price=
+| content=
+}}
+** {{listing
+| name=Kanayama Tourist Information | url=http://www.nagoya-info.jp/en/icenter/#a0006360 | email=
+| address=LOOP Kanayama 1F, 1-17-18 Kanayama, Naka-ku | lat=35.14385 | long=136.90046 | directions=at the N exit of Kanayama Station.
+| phone=+81 52-323-0161 | tollfree= | fax=+81 52-323-0162
+| hours=Daily 09:00-20:00, closed Dec 29-Jan 1 | price=
+| content=
+}}
+** {{listing
+| name=Sakae Tourist Information | url=http://www.nagoya-info.jp/en/icenter/#a0006361 | email=
+| address=Oasis 21 B1F, 1-11-1, Higashisakura, Higashi-ku | lat=35.17091 | long=136.90953 | directions=by subway, get off at Sakae Station and take exit 4A; in Oasis 21 underground shopping concourse.
+| phone=+81 52-963-5252 | tollfree= | fax=+81 52-963-5262
+| hours=Daily 10:00-20:00 | price=
+| content=
+}}
+
+===Tourist information site===
+The local tourist association has a [https://www.nagoya-info.jp/en/ multilingual guide site].
+
+==Get in==
+
+===By plane===
+{{infobox|Not arriving via Centrair Airport?|*If you happen to arrive in Japan at Osaka's [[Kansai International Airport]], Nagoya can be reached in two hours by taking the ''Haruka'' limited express train to Shin-Osaka station, then changing to the Tokaido Shinkansen.
+*A few air flights operate daily from Tokyo's [[Narita Airport]] to Centrair Airport, for the benefit of international passengers. Otherwise, Nagoya is three hours away by taking the ''Narita Express'' limited express train to Tokyo's Shinagawa station, then changing to the Tokaido Shinkansen.}}
+[[File:Chubu Centerair international Airport , 中部国際空港 - panoramio (1).jpg|thumb|Mall beyond the check-in counters at Chubu Centrair international Airport]]
+* {{go
+| name=[[Chubu Centrair International Airport]] | alt=中部国際空港 Chūbu Kokusai Kūkō, {{IATA|NGO}} | url=http://www.centrair.jp/ | email=
+| address= | lat=34.858333 | long=136.805278 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Chubu Centrair International Airport | image=Chubu Central Airport aerial view.jpg | wikidata=Q679345
+| content=[[Japan]]'s third major international gateway is on an artificial island 30 minutes south from the center of town. Facilities include two hotels, restaurants, a shopping concourse, and an ''onsen'' spa with views of the runways.
+}}
+
+The best way of connecting between Centrair Airport and central Nagoya is the '''Meitetsu Airport Line'''. The fastest trains are the all-reserved "μSKY" trains, which depart for Nagoya every 30 minutes. The journey takes 28 minutes at a cost of ¥1230. Slower Limited Express trains offer first class (reserved) and ordinary class (non-reserved) seating and take 37 minutes for the run to Nagoya - the standard fare is ¥870. Japan Rail Passes are not valid for the Meitetsu, though you can exchange your rail pass voucher at either the airport or at Nagoya station.
+
+'''Buses''' run hourly from Centrair Airport to the Meitetsu Bus Terminal, taking about 1 hr 20 min at a cost of ¥1200. The bus also stops at a few major hotels, including the Nagoya Tokyu, Nagoya Kanko and Hilton Nagoya.
+
+For large groups, Tsubame Airport Limousine offers private '''van service''' between Nagoya and Centrair Airport. Vans seat between six and nine passengers, and the cost for the service depends on the destination. As an example, trips to Nakamura-ku, where Nagoya Station is located, cost ¥12000.
+
+Slightly more expensive than the van is a '''taxi'''. A trip to Nagoya station will run ¥15000-16000.
+
+====Nagoya Airport====
+[[File:Nagoya Airport 20160410A.JPG|thumb|Nagoya Airport in Komaki]]
+* {{go
+| name=Nagoya Airport | alt=also known as '''Komaki Airport''', {{IATA|NKM}} | url=http://www.nagoya-airport-bldg.co.jp/en/ | email=
+| address= | lat=35.255 | long=136.924444 | directions=to the north of the city
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Nagoya Airfield | image=Nagoya airfiled201304.JPG | wikidata=Q1322497
+| content=While all other companies have moved to Chubu, regional flights by [http://www.fujidream.co.jp/ Fuji Dream Airline] still use the old [http://www.nagoya-airport-bldg.co.jp/en/ Nagoya Airport] ({{IATA|NKM}}). Flights are available from a number of domestic destinations: [[Aomori]], [[Iwate]], [[Niigata]], [[Kochi (Shikoku)|Kochi]], [[Fukuoka]], [[Kitakyushu]], [[Kumamoto]], and [[Yamagata]]. Most flights are code-shared with Japan Airlines. Shuttle buses connect to Nagoya station in 30 minutes for ¥700.
+}}
+
+===By train===
+[[File:Hikari shinkansen arriving at Nagoya JR station.jpg|thumb|Nagoya Train Station]]
+* {{go
+| name=Nagoya Station | alt=名古屋駅 Nagoya-eki | url= | email=
+| address= | lat=35.170772 | long=136.881603 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=Nagoya Station | wikidata=Q49381
+| lastedit=2020-06-14
+| content=Nagoya Station is the confluence of all the major train lines and long-distance passenger bus services in the city. Underground and adjacent to the JR train station are the stations of the Nagoya Railway (Meitetsu Nagoya) and the Kintetsu Railway (Kintetsu Nagoya)
+}}
+====Shinkansen====
+Nagoya is along the Tokaido Shinkansen route between [[Tokyo]], [[Kyoto]] and [[Osaka]]. To the west are [[Gifu]] and [[Kyoto]], and to the east are [[Hamamatsu]] and [[Shizuoka]].
+
+The fastest service on the Tokaido Shinkansen is the ''Nozomi''. With the Nozomi you can travel from Tokyo in 1 hr 40 min (¥11090), Kyoto in 35 min (¥5800) and Shin-Osaka in 50 min (¥6560).
+
+Users of the Japan Rail Pass can only use the ''Nozomi'' with a surcharge, but the slightly slower ''Hikari'' services that run through Nagoya twice every hour are included. The all-stations ''Kodama'' services operate to/from Tokyo twice per hour.
+
+Thru ''Nozomi'' trains from western Japan reach Nagoya from [[Okayama]] (1 hr 40 min, ¥11290), [[Hiroshima]] (2 hr 20 min, ¥14230) and Hakata station in [[Fukuoka]] (3 hr 20 min, ¥18540). If using the slower ''Hikari'' or ''Sakura'' you will need to change trains at least once, either at Okayama, Shin-Kobe, or Shin-Osaka. Note that while there are three direct ''Hikari'' trains that leave Nagoya in the morning towards Hiroshima and Fukuoka, there are no such direct ''Hikari'' trips from these cities to Nagoya.
+
+If you wish to sacrifice travel speed for savings, you can take advantage of the '''[https://travel.jr-central.co.jp/top/onewaysitetop/ Puratto (Platt) Kodama Ticket]''', which offers a discount for Kodama services if you purchase at least one day in advance. You get a reserved seat and a coupon for a free drink (including beer) which can be redeemed at a "Kiosk" convenience counter inside the station. With this ticket a trip to Nagoya costs ¥8300 from Tokyo (3 hr; 2 trains per hour), ¥4300 from Kyoto (1 hr; 1 train per hour) and ¥4400 from Shin-Osaka (1 hr 15 min; 1 train per hour). A few early-morning Kodama trains cannot be used with this ticket.
+
+Discounted tickets can also be purchased in advance through Japan Railways' official '''[https://smart-ex.jp/en/ SmartEX App]''', available in English and other languages - look for ''Hayatoku'' fares.
+
+====Limited Express Services====
+Nagoya serves as the terminal point for the hourly ''Wide View Shinano'', a JR Chuo Line limited express train to the mountain resort town of [[Nagano]] (3 hr) via [[Matsumoto]] (2 hr). The ''Wide View Hida'' JR Takayama Line limited express connects Nagoya with [[Takayama]] (2 hr 30 min), with some runs continuing to [[Toyama]] (4 hr).
+
+Local trains (which can be used with the [[Seishun 18 Ticket]]) take about 6 hours from Tokyo (¥6260), 2 hr 15 min from Kyoto (¥2590) and 2 hr 45 min from Osaka (¥3350). Multiple train transfers are required (three at minimum when traveling from Tokyo, at Numazu, Hamamatsu, and Toyohashi, and one in Maibara at minimum when coming from Kyoto or Osaka, although more are often required if travel is not optimally timed), and travel times do not include rest stops.
+
+Nagoya is also served by the [http://www.meitetsu.co.jp/eng/ '''Meitetsu''' (名鉄)] and [http://www.kintetsu.co.jp/foreign/english/index.html '''Kintetsu''' (近鉄)] private railways. If coming to Nagoya from [[Osaka]], a travel option that comes cheaper than the Shinkansen is a Kintetsu limited express service called the ''Urban Liner'' (アーバンライナー), which runs from Osaka-Namba station. The Urban Liner departs at 0 and 30 minutes past the hour, covering the journey in about 2 hr 15 min at a cost of ¥4260. (The shinkansen, by comparison, makes the run from Shin-Osaka to Nagoya in under an hour for ¥6560.) Japan Rail Passes are not valid for the Urban Liner.
+
+===By bus===
+{{Mapframe|35.185556|136.898611|zoom=12}}
+{{Mapshapes|Q1144874}}
+{{mapshape|wikidata=Q6810427|type=geoline|stroke=#7fc342|stroke-width=4|stroke-opacity=0.7|title=Meietsu Toyota Line}}
+{{mapshape|wikidata=Q6788786|type=geoline|stroke=#ffc0cb|stroke-width=4|stroke-opacity=0.7|title=Meietsu Komaki Line}}
+{{mapshape|wikidata=Q6810411|type=geoline|stroke=#ff0000|stroke-width=4|stroke-opacity=0.7|title=Meietsu Inuyama Line}}
+{{mapshape|wikidata=Q911774|type=geoline|stroke=#00008b|stroke-width=4|stroke-opacity=0.7|title=Aonami Line}}
+{{mapshape|wikidata=Q1329642|type=geoline|stroke=#00008b|stroke-width=4|stroke-opacity=0.7|title=Linimo}}
+
+Many day and overnight buses run to Nagoya from other locations throughout Japan. They can be cheaper than the shinkansen or local trains. Some of the main bus operators include Nagoya-based [http://www.meitetsu-bus.co.jp/english/index.html '''Meitetsu Bus'''] and '''[https://www.jrtbinm.co.jp/ JR Tokai Bus]''', along with '''[http://willerexpress.com/en/ Willer Express]'''. In addition to major cities such as [[Tokyo]], [[Kyoto]], [[Osaka]] and [[Kobe]], highway buses run from places including 
+[[Sendai]], [[Fukushima]], [[Koriyama]], [[Utsunomiya]], [[Tokyo Disneyland]], [[Takasaki]], [[Maebashi]], [[Kofu]], [[Fujiyoshida]], [[Niigata]], [[Toyama]], [[Takaoka]], [[Kanazawa]], [[Fukui]], [[Nagano]], [[Matsumoto]], [[Iida]], [[Ina]], [[Shirakawa-go]], [[Takayama]], [[Shingu]], [[Okayama]], [[Kurashiki]], [[Yonago]], [[Matsue]], [[Izumo]], [[Hiroshima]], [[Miyoshi (Hiroshima)|Miyoshi]], [[Takamatsu]], [[Tokushima]], [[Matsuyama]], and [[Fukuoka]].
+
+Most buses will pick up and discharge passengers around Nagoya station, either near the station's shinkansen exit or at the nearby [https://www.meitetsu-bus.co.jp/rosen/meibc/ Meitetsu Bus Center]. An exception is Willer Express, which will use either Sasashima Live south of Nagoya station or Noritake 1-chome west of Nagoya station.
+
+Buses between Tokyo and Nagoya are very frequent.  Direct trips take 5–6 hours, but some trips could take up to nine hours depending on the route and stops. Buses charge in the range of ¥3500-5000 for daytime trips and ¥4000-6500 for overnight trips. Discounted fares are sometimes available based on the date of purchase.
+
+Many buses also operate from the [[Kansai]] region: Meishin Expressway buses leave several times per hour, operating from Kyoto (2 hr 30 min, ¥2550), Osaka (3 hr, ¥3000) and Kobe (4 hr 15 min, ¥3400). A few buses also travel from [[Nara]] (2 hr 30 min, ¥2550). Discounts are given on round-trip purchases.
+
+Willer Express bus journeys can be booked online in English, and Willer's '''Japan Bus Pass''' is valid on all of their routes with some exceptions. Willer also sells tickets for Meitetsu Bus and other bus operators on their website, but these trips are not valid with Willer's Japan Bus Pass. Both the Willer and Meitetsu buses leave from the '''Shinjuku Highway Bus Terminal''' (''Busta Shinjuku''), above the JR tracks at Shinjuku Station, which is served by many of Japan's highway bus operators.
+
+JR Bus reservations can be made in English through their '''[https://www.kousokubus.net/JpnBus/en Kousoku Bus Net]''' web site. You can also make reservations in train stations at the same "Midori-no-Madoguchi" ticket windows used to reserve seats on trains. Buses depart from '''Tokyo Station''' - Yaesu Exit (八重洲口) and from ''Busta Shinjuku''.
+
+===By boat===
+[[File:Meiko West Bridge 20160910C.jpg|thumb|SS Ishikari traveling under the Meiko West Bridge]]
+* {{go
+| name=Taiheiyo Ferry | alt=太平洋フェリー Taiheiyō Feri | url=http://www.taiheiyo-ferry.co.jp/english | email=
+| address=Ferry Terminal, 40 Sorami-cho, Minato-ku, Nagoya | lat=35.060063 | long=136.845063 | directions=
+| phone=+81 52-398-1023 | tollfree=
+| hours= | price=
+| wikipedia=Taiheiyō Ferry | wikidata=Q11443966
+| lastedit=2020-06-14
+| content=Offers overnight car ferries from [[Sendai]] (21 hr 40 min) and [[Tomakomai]]  in southern [[Hokkaido]] (40 hr) on the SS Ishikari and SS Kitakami from the [http://www.nptc.co.jp/en/ferry/ Nagoya Ferry Terminal].
+}}
+====Ferry Port Access====
+A Meitetsu shuttle bus to the ferry is available from the downtown Meitetsu Bus Center (名鉄バスセンター) next to Nagoya Station. The bus departs from platform 22 on the 4th floor at 17:20 and arrives at the ferry terminal at around 17:55 (Adults: ¥550 Children: ¥280).
+
+The ferry terminal is also accessible by train and city bus. Take the Aonami line (あおなみ線 ''Aonami-sen'') south to Noseki stn (野跡駅). From there, you can board a city bus bound for the Feri futo (フェリーふ頭) bus stop (takes 7 to 10 min).
+
+More details are available on the [https://www.taiheiyo-ferry.co.jp/english/koro/nagoya.html Taiheiyo Ferry access page].
+
+==Get around==
+
+Nagoya is a big automotive industry center, and it shows. The street network is extensive and even downtown locations can be easily reached by car. On the downside, trains and subways are less convenient than in Tokyo or Kansai, and more expensive. If you're travelling with a JR Rail Pass, the train network doesn't have many stations in the city and you'll probably find yourself using the bus or subway a lot, something your pass won't cover. A city ordinance requires commuters to '''stand still''' on escalators. Walking or running on escalators is prohibited to prevent accidents.
+
+===By subway===
+[[File:Nagoya Subway Network.png|thumb|Map of Nagoya City Subway]]
+There are 6 subway lines:
+* The red '''Sakuradōri Line''' (桜通線, S) curves southwest from Nagoya Station.
+* The purple '''Meijō Line''' (名城線, M) runs in a loop around the eastern side of the city, connecting Sakae and Kanayama.
+* The '''Meikō Line''' (名港線, E) spur branches from Kanayama to Nagoya Port.
+* The yellow '''Higashiyama Line''' (東山線, H) connects Nagoya, Fushimi, Sakae, and [[Fujigaoka]].
+* The blue '''Tsurumai Line''' (鶴舞線, T) connects Fushimi and Osu Kannon, then goes south.
+* The pink '''Kamiiida Line''' (上飯田線, I) is the shortest line in the system, with only two stations: Kamiiida and Heian-dori.
+
+Subways run every several minutes between about 05:30 until about 00:30. Fares range from ¥200 to ¥320. One day passes can be bought for ¥620 (bus), ¥760 (subway), and ¥870 (bus & subway).
+
+If you are visiting on a weekend, public holiday, or the 8th of the month, buy the 'Donichi Eco Kippu'. It allows unlimited rides on city buses and subways for just ¥620, which is cheaper than the standard 24-hour pass.
+
+On Saturdays, Sundays and public holidays you can also take advantage of the cheaper ''Donichi-Eco-Kippu'' (ドニチエコきっぷ)  one-day subway ticket which offers unlimited subway travel for ¥620. This pass is available from ticket machines, or can be purchased in person from a station employee at the ticket gate.
+
+City transportation one day passes also offer discounted entry at various attractions in Nagoya, including Nagoya Castle and the Toyota Museum.
+
+More information about public transportation in Nagoya can be found on the official website of the [http://www.kotsu.city.nagoya.jp/english/index.html Nagoya Transportation Bureau]{{Dead link|date=April 2026 |bot=InternetArchiveBot }}.
+
+===By taxi===
+[[File:Nagoya, Aichi Prefecture - Japan (14087552478).jpg|thumb|Taxis in Nagoya]]
+Taxis are a viable option in this car city, especially as the '''basic fee is only ¥500'''. The catch is that the basic fee only takes you 1.01&nbsp;km compared to 2&nbsp;km in most other parts of Japan. But for shorter distances within the city, a taxi is not only much more convenient than descending to those dark, unappealing subway stations, but also as cheap as the subway if there are at least two of you.
+
+===By bicycle===
+Most parts of central Nagoya were built on landfill just above sea level, making it a relatively flat city and seemingly easy to traverse by bicycle. However, downtown Nagoya is also known throughout Japan for its wide streets, fast moving traffic and crazy drivers. So it's no surprise that you will find most of the city's cyclists (especially mothers riding with young children and the elderly) riding on the sidewalk. Riding on the sidewalk is legal on most city streets in Japan (unless marked). However, the sidewalks can be bumpy, crowded and far from ideal for two-wheeled transport - leading an increasing number of riders to brave the city's roads.
+
+{{cautionbox|On wide roads, there are often parked cars in the left lane that force you to merge right into faster traffic. Be sure to signal whenever changing lanes and look behind and to the right for quickly approaching cars. If merging to the right is not safe, it is sometimes safer to get on the sidewalk rather than risking life and limb on the street with cars that may not yield. Beware especially of taxis, as they may make stops in front of you without much warning.}}
+
+Secondary roads can be more enjoyable to ride and there are some major roads with protected cycling lanes - although these are rare and sometimes seem to have been designed without rhyme or reason. Cyclists have also been known to park their bicycles on some of the lesser sidewalk-adjacent "paths" downtown, making them largely impassible.
+
+====Parking====
+
+Bicycle parking near train and subway stations is strictly limited to designated and (usually paid) areas. Paid locking bike racks with fare collection machines are common and most charge around ¥100 for a day's worth of parking. There is also usually a window of free parking time (15–30 minutes) for cyclists making brief stops. Near the main train stations there are also attended and unattended indoor areas to park with short term and long term facilities. Be sure not to park in one of the long term facilities by mistake, as you will probably be fined more than it costs to park in a short-term area.
+
+====Cycle sharing====
+Nagoya has a cycle sharing service called [https://www.cariteco-bike.com/ Cariteco Bike]{{Dead link|date=August 2024 |bot=InternetArchiveBot }} (run by the Meitetsu train company). It requires returning bicycles to the nearest docking station. As of May 2024, there are 410 docking stations around the city. The service offers registration and information only in Japanese, so they are probably not a practical option for most visitors with limited Japanese ability.
+
+====Tours====
+* {{do
+| name=Nagoya Adventure Cycle | alt= | url=https://nagoyaadventurecycle.wixsite.com/website? | email=nagoyaadventurecycle@gmail.com
+| address= | lat= | long= | directions=tours meet just outside Exit 4 of Kurokawa Station on the Nagoya City Subway Meijo Line
+| phone= | tollfree=
+| hours= | price=¥5,500-8,500
+| wikipedia= | wikidata=
+| lastedit=2020-05-03
+| content=Offers cycle rentals and tours of Nagoya in English.
+}}
+
+===By car===
+
+==See==
+[[File:Atsuta Shrine.jpg|thumb|Atsuta Jingū]]
+[[File:Noritake garden2.jpg|thumb|Noritake Garden with its old factory]]
+[[File:Toyotasangyoukinen8.JPG|thumb|Toyota Commemorative Museum of Industry and Technology]]
+[[File:Osukannon.jpg|thumb|Ōsu Kannon]]
+*{{see
+| name=Port of Nagoya Aquarium | alt=名古屋港水族館 Nagoya-kō-suizoukan | url=http://www.nagoyaaqua.jp/ | email=
+| address= | lat=35.0906 | long=136.8782 | directions=a short walk from Subway Nagoyakō Stn. (Meikō line)
+| phone=+81 52 654-7080 | tollfree= | fax=
+| hours=Daily 09:30-17:00 (until 20:00 Jul 21-Aug 31) | price=Adults ¥2,000
+| wikipedia=Port of Nagoya Public Aquarium | image=Nagoya Port Aquarium 01.JPG | wikidata=Q7231211
+| content=(site in Japanese) Large aquarium featuring a number of different marine environments, including killer whales.
+}}
+*{{see
+| name=Toyota Commemorative Museum of Industry and Technology | alt=トヨタ産業技術記念館 Toyota-sangyō-gijutsu-kinenkan | url=http://www.tcmit.org/english/ | email=
+| address=4-1-35 Noritake Shinmachi, Nishi-ku | lat=35.1832 | long=136.876 | directions=3 minute walk from Meitetsu Sako Stn (Nagoya line), 10-minute walk from exit 2, Subway: Kamejima Station (Higashiyama Line)
+| phone=+81 52-551-6115 | tollfree=
+| hours=Tu-Su 09:30-17:00 (last admission 16:30), (restaurant open until 21:00), closed M (Tu if M is a holiday), New Year's holidays | price=Adults ¥1000, Jr. & Sr. high school students: ¥300, Elem. School Students: ¥200
+| wikipedia=Toyota Commemorative Museum of Industry and Technology | image=Toyotasangyoukinen1.JPG | wikidata=Q7830774
+| content=Built on the site of one of Toyota's original loom factories, this museum tells the story of the Toyota corporation, from its beginnings as an industrial loom manufacturer to its transformation into one of the world's largest car manufacturers. Includes large loom machinery and car display halls as well as a hands-on "Technoland" with interactive science exhibits. Museum also includes a library, video library with personal viewing booths, restaurant, cafe, and gift shop. Displays, brochures, and audioguides available in English and several other languages. Barrier-free access for disabled visitors. Freespot Wi-Fi access available.
+}}
+*{{see
+| name=Nagoya City Art Museum | alt=名古屋市美術館 Nagoya-shi-bijutsukan | url=http://www.art-museum.city.nagoya.jp/en | email=
+| address=2-17-25 Sakae, Naka-ku | lat=35.163889 | long=136.901111 | directions=8 min on foot S of Fushimi stn (Higashiyama, Tsurumai Line), exit 5
+| phone=+81 52-212-0001 | tollfree= | fax=
+| hours=Tu-Th Sa Su 09:30-17:00, F 09:30-20:00 (last admission 30 min before closing), closed M (Tu when M is a national holiday), Dec 29-Jan 3 | price=Permanent collection: adults ¥300, students over 16 ¥200, under 15 free
+| wikidata=Q469573
+| content=Collection of 2,000 works including pieces by Modigliani, Laurencin, and Utrillo, as well as those of local artists, such as Takanori Ogisu and Tamiji Kitagawa.
+}}
+* {{see
+| name=Nagoya Castle | alt=名古屋城 Nagoya-jō | url=http://www.nagoyajo.city.nagoya.jp/13_english/index.html | email=
+| address= | lat=35.185555 | long=136.898611 | directions=Subway: Shiyakusho Stn (Meijo line); 5 min walk from exit 7
+| phone=+81 52-231-1700 | tollfree= | fax=
+| hours=Daily 09:00-16:30, closed Dec 29-Jan 1 | price=Adults ¥500, Jr. high school students and younger free
+| wikidata=Q648629
+| content=Trumpeted as a famous landmark, particularly the two golden carp (金の鯱 ''kin-no-shachi'') on the roof. The original castle was home to Oda Nobunaga, one of Japan's famous warlords. Largely destroyed during World War II, the main keep was rebuilt in concrete in 1959, but is being demolished to make way for a more faithful reconstruction using traditional materials and methods. The ''honmaru goten'', the main palace of the castle's lords, was reconstructed using traditional materials and methods in 2018. Free English tours with volunteer English-speaking Japanese guides are sometimes available. See also [[Japanese castles]].
+}}
+* {{see
+| name=Atsuta Shrine | alt=熱田神宮 ''Atsuta Jingū'' | url= | email=
+| address= | lat=35.1275 | long=136.908333 | directions=Jingūmae station
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikidata=Q482065
+| content=This shrine houses the sacred ''Kusanagi no mitsurugi'' (草薙神剣) sword, one of the three Imperial regalia of Japan &mdash; but unfortunately nobody but the emperor and a few high priests get to see it. There are some 4,400 other artifacts on the grounds though and the shrine hosts some 70 festivals every year.
+}}
+* {{see
+| name=Shirotori Garden | alt=白鳥庭園, ''Shirotori Teien'' | url= | email=
+| address= | lat=35.125878 | long=136.900898 | directions=Jingūnishi station, located relatively near Atsuta Shrine
+| phone= | tollfree= | fax=
+| hours= | price=Adults ¥300, middle-schoolers and younger free
+| image=Sirotoriteien.JPG | wikidata=Q11580565
+| content=In this Japanese garden you can see and feed koi fish in large ponds, take a look at the tea ceremony house, and also view the beautiful waterfall. On spring the plum trees bloom beautifully and on autumn you can enjoy the night illumination.
+}}
+* {{see
+| name=Nittai-ji Temple | alt=覚王山日泰寺, kakuōzan nittai-ji | url=http://www.nittaiji.jp/sodo/senmon/e_index.html | email=
+| address=nittai-ji, 1-1 Hōhōchō, Chikusa-ku | lat=35.171667 | long=136.955278 | directions=
+| phone=+81 52-751-2121 | tollfree= | fax=
+| hours= | price=
+| wikipedia=Nittai-ji | image=Nittaiji 01.jpg | wikidata=Q3342235
+| content=Among the 165,000 m² of temple grounds is the 15 meter Gandhara-style Taian Pagoda, which houses '''relics of the Buddha''' that were presented to Japan by the king of Thailand. Unlike any other temple in Japan, Nittai-ji does not belong to a particular sect, and is instead managed by a different sect every 3 years.
+}}
+* {{see
+| name=Shirakawa Park | alt=白川公園, shirakawa-kōen | url= | email=
+| address= | lat=35.163992 | long=136.900022 | directions=south of Fushimi subway station
+| phone= | tollfree=
+| hours= | price=
+| image=Northwest Entrance of Shirakawa Park in Nagoya, Aichi.JPG | wikidata=Q11579701
+| content=Beautiful trees, Nagoya Science and Modern Art Museums.
+}}
+* {{see
+| name=Tokugawa Art Museum | alt=徳川美術館 | url=http://www.tokugawa-art-museum.jp/ | email=
+| address=1017, Tokugawa-cho, Higashi-ku | lat=35.183692 | long=136.933189 | directions= 10 minutes on foot from the South exit of JR Ōzone stn; (JR Chuo line), or a 15-minute walk from exit 3 of Ōzone Subway Station (Meijo line)
+| phone=+81 52-935-6262 | tollfree= | fax=
+| hours=Daily 10:00-17:00 (last admission 16:30) | price=
+| wikipedia=Tokugawa Art Museum | wikidata=Q3077236
+| content=Displays some treasures of the Tokugawa family. Located next door to the beautiful [https://www.tokugawaen.aichi.jp/english/index.html Tokugawa-en] Japanese gardens (additional admission charge required).
+}}
+* {{see
+| name=Kōshō-ji Temple | alt=興正寺 | url= | email=
+| address= | lat=35.140556 | long=136.9625 | directions=5 min walk from Subway Yagoto stn (Meijo, Tsurumai lines)
+| phone=+81 52-832-2801 | tollfree= | fax=
+| hours= | price=
+| wikipedia=Kōshō-ji, Nagoya | image=Koshoji Yagoto Nagoya 3.JPG | wikidata=Q3201314
+| content=Koshoji Temple was established in the 17th century by the Tokugawa family. The temple hosts the annual "1,000 Lantern Festival." There are numerous restaurants and universities surrounding the Koshoji Temple area.
+}}
+* {{see
+| name=Shiroyama Hakusan Shrine | alt=城山八幡宮, shiroyama hachiman-gū | url= | email=
+| address= | lat=35.1675 | long=136.959722 | directions=5 min walk uphill N of Motoyama stn (Higashiyama, Meijo lines)
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Shiroyama Hachimangū | image=Shiroyama6.JPG | wikidata=Q3482375
+| content=Formerly the Suemori Castle, the present day Shrine hosts festivals that feature Japanese dance and music.
+}}
+* {{see
+| name=Tōgan-ji Temple | alt=桃巌寺 | url= | email=
+| address= | lat=35.1613 | long=136.965 | directions=Motoyama stn. (Higashiyama, Meijo lines)
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Dating back to the 16th century, this temple features a statue of the seated Buddha and has many ties to Hindu religion, particularly a temple honoring the Goddess Saraswati, who is honored in a Benzaiten Festival every May 7–8. Toganji also contains a huge wood block said to purge past sins if touched with one hand.
+}}
+* {{see
+| name=Nagoya City Science Museum | alt=名古屋市科学館, Nagoya-shi Kagakukan | url=http://www.ncsm.city.nagoya.jp/en/ | email=
+| address= | lat=35.1647722 | long=136.8996667 | directions=Fushimi stn., exit 5
+| phone= | tollfree= | fax=
+| hours=Tu-Su 09:30-17:00; closed Monday, third Friday every month, and Dec 29-Jan 3 | price=¥400 (¥800 incl. planetarium)
+| content=Located in the city centre, this museum houses loads of interactive exhibitions and a planetarium. It's mostly geared towards children and there is very little information in English, although they offer a guide app.
+}}
+* {{see
+ | name    = SCMAGLEV and Railway Park | alt = リニア・鉄道館 Rinia-Tetsudōkan | url = https://museum.jr-central.co.jp/en/ | email = 
+ | address = 3 Chome-2-2 Kinjofuto, Minato Ward | lat =  | long =  | directions = 
+ | phone   =  +81 52-389-6100 | tollfree = | fax = 
+ | hours   = 10:00-17:30 (last entry 17:00), closed Tu (next day if holiday) & Dec 28-Jan 1 | price = Adults {{JPY|1200}}
+ | wikidata = Q5362576
+ | lastedit =
+ | content = Train museum highlighting the evolution of Japan's high-speed rail. 
+}}
+*{{see
+| name=Arako Kannon Temple | alt=荒子観音 | url= | email=
+| address=Arako-cho, Nakagawa-ku | lat=35.1365694 | long=136.8582250 | directions=SE of Takabata subway station (Higashiyama line); walk S from the major crossroads with Yagumo-dori; follow the sign to reach the temple, which is a few hundred meters down the street, on the S side
+| phone=+81 52-361-1778 | tollfree= | fax=
+| hours= | price=
+| content=This small temple is the oldest building in Nagoya, with original construction on the site dating from the Heian Period (8th century). Despite several fires which destroyed older portions of the temple, the Tahoto pagoda on site remains intact after 472 years.
+}}
+*{{see
+| name=Ōsu Kannon Temple | alt=大須観音 | url=http://www.ohsu.co.jp/kan_e.html | email=
+| address=21-47 Osu 2-chome, Naka-ku | lat=35.1598 | long=136.9 | directions=S of Osu Kannon subway stn. (Tsurumai line), exit 2
+| phone=+81 52-231-6525 | tollfree= | fax=
+| hours= | price=
+| content=Founded in the Kamakura era (1192-1333), this temple was moved to its current location by Tokugawa Ieyasu in 1612. The present main temple on the site was reconstructed in 1970. Check out the main hall or buy an お守り (omamori) charm in the gift shop for good luck. The grounds in front of the temple are host to a small flea market twice every month.
+}}
+* {{see
+| name=Fujigaoka | alt= | url= | email=
+| address= | lat=35.1822 | long=137.0220 | directions=by train, 65 min from the airport (¥1400); using the Higashiyama (yellow) subway line, it's 26 min from Nagoya Station and 21 minutes to Sakae -- it is the last stop on this line
+| phone= | tollfree=
+| hours= | price=
+| wikipedia= | wikidata=
+| lastedit=2018-05-09
+| content=Fujigaoka is known for its cherry blossoms (sakura) trees in the spring lining the streets. It is close to the site of the [[Wikivoyage:Past events/Expo 2005|2005 World Expo]] held in [[Nagakute]], a 15-min linear motor car (Linimo) train ride from Fujigaoka station. This quaint little area at the edge of town has a plethora of shops, boutiques, patisseries and coffee shops. They also hold a market the 3rd Sunday of every month.
+}}
+
+* {{see
+| name=Danpusan Kofun | alt=断夫山古墳 | url=https://www.atsutajingu-park.com/enjoy/danpusan/index.html | email=
+| address=1 Chome-10-45 Hataya, Atsuta Ward | lat=35.751 | long=136.5411 | directions=a short walk from atsutajingunishi station
+| phone=+81 52-954-6783 | tollfree=
+| hours=00:00-24:00 | price=
+| wikipedia=Danpusan Kofun | wikidata=Q5221001
+| lastedit=2025-09-23
+| content=The Dampusan Kofun is a large keyhole-shaped kofun burial mound located within the grounds of the Atsuta Shrine.
+}}
+===Sakae===
+[[File:Nagoya TV Tower.jpg|thumb|Nagoya TV Tower viewed from Oasis 21]]
+*{{see
+| name=Nagoya TV Tower | alt=名古屋テレビ塔 Nagoya-terebi-tō | url=http://www.nagoya-tv-tower.co.jp/index.html | email=
+| address=Hisaya-ōdōri kōen, Naka-ku | lat=35.1724 | long=136.908 | directions=Subway: Hisaya Odori Station (Meijo line/Sakura-dori line)
+| phone=+81 52-971-8546 | tollfree= | fax=+81 52-961-0561
+| hours=Daily 10:00-21:00 | price=Adult ¥1300, child ¥800
+| wikipedia=Nagoya TV Tower | wikidata=Q283373
+| content=Standing 180 meters tall, the Nagoya TV Tower is Japan's oldest - predating even the Tokyo Tower. Take an elevator to the 100-m-high sky balcony for great views of Hisaya-odori park and Sakae. Under the tower is a small terrace with tables and a number of small food stands.
+}}
+* {{see
+| name=Hisaya-Odori Park | alt=久屋大通公園, hisaya-ōdōri kōen | url= | email=
+| address= | lat=35.1687083 | long=136.9083833 | directions=Sakae or Hisaya-Odori subway exits
+| phone= | tollfree= | fax=
+| hours= | price=
+|lastedit=2020-11-26| content=Nice trees and fountains, Nagoya TV Tower observation deck. On weekend afternoons and evenings, local musicians set up in and around the park and strut their stuff for the passers-by. Shops and restaurants can be found around the area as well.
+}}
+*{{see
+| name=Aichi Prefectural Museum of Art | alt=愛知県美術館 Aichi-ken-bijutsukan | url=http://www-art.aac.pref.aichi.jp/eng/index.html | email=
+| address=Aichi Arts Center, 10F, 1-13-2 Higashisakura, Higashi-ku | lat=35.1711500 | long=136.9113083 | directions=3-min walk via Oasis 21 park from Sakae stn. (Higashiyama, Meijo lines) or Sakaemachi station (Meitetsu Seto Line)
+| phone=+81 52-971-5511 | tollfree= | fax=
+| hours=Tu-Th Sa Su 10:00-18:00; F 10:00-20:00 (last admission: 30 min before closing), closed M (or Tu if M is a public holiday), Dec 28-Jan 3 | price=Permanent collection: ¥500; high-school/college students: ¥300; high-school groups, junior high-school students, children 12 and under, disabled visitors and escorts: free
+| content=Collection features international and Japanese 20th century art, including works by Pablo Picasso, Henri Matisse, Gustav Klimt, Paul Klee, Joan Miro, Max Ernst, German Expressionists, Surrealists, and postwar US artists. Japanese collection features the art of Yuichi Takahashi, Ryuzaburo Umehara, Sotaro Yasui, Taikan Yokoyama, and Shunso Hishida. Two private collections donated to the museum also include Edo-period paintings and traditional crafts.
+}}
+
+==Do==
+
+* Ride the gold and white '''[https://www.kotsu.city.nagoya.jp/jp/sp/BUS/TRP0001336.htm Nagoya Sightseeing Bus ''Me-Guru'']'''  (メーグル) past many of the city's main attractions. Operates T-Su. Offers hop-on-hop-off hourly service Tu-F from 09:30-17:30, and Sa Su every half hour. Closed M, year-end holidays. Daypass: adults ¥500, children ¥250. (includes discount on featured attractions). Single ride: adults ¥200, children ¥100. Daypasses may be purchased getting on the bus. 1-day transport passes also accepted.
+* Catch a traditional Japanese ''Noh'' play at the '''Nagoya Noh Theatre'''. (''Subway: Shiyakusho stn.'')
+* Go for a jog (or a walk) around beautiful '''Meijo Park''' (名城公園 ''Meijo Koen''), one of Nagoya's largest green spaces, and take in the great view of Nagoya Castle (''Subway: Meijo-Koen station, Meijo line''). Showers and lockers available.
+* '''Higashiyama Park''' (東山公園 ''Higashiyama-koen''). (''Higashiyama-koen station'').  Features a zoo, conservatory, monorail, roller coasters, "sky tower" and a great deal of open space.
+
+===Events===
+[[File:Sumo, Nagoya - 22.jpg|thumb|Nagoya Sumo Tournament]]
+[[File:Nagoyamatsuri7.JPG|thumb|Nagoya matsuri]]
+[[File:Tokugawaendashizoroe1.JPG|thumb|Tsutsui-chō/Dekimachi tennōsai]]
+* {{do
+| name=Nagoya Sumo Tournament | alt=大相撲名古屋場所 Ō-zumō-Nagoya-basho | url=http://www.chunichi.co.jp/event/sumo/ | email=
+| address=Aichi Prefectural Gymnasium, 1-1 Ninomaru, Naka-ku | lat=35.183086 | long=136.902561 | directions=a short walk from Shiyakusho stn. (Meijo Line)
+| phone=+81 52-221-0737 | tollfree= | fax=+81 52 221-0739
+| hours=15 days mid-July | price=
+| content=Watch the big boys of Japanese sumo battle it out in Nagoya. An annual tradition. Tickets are generally available at the counter unless it is the first or last day. Ticket prices start at ¥3,200 and up. The cheapest seats are fine for first-time sumo watchers and are not much worse than the ¥4,700 seats.
+}}
+* {{do
+| name=Osu Summer Festival | alt=大須夏祭り Osu Natsu-matsuri | url=http://www.osu.co.jp/ | email=
+| address= | lat= | long= | directions=Short walk from Osu Kannon Stn (Tsurumai line) exit 1
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Yearly street festival held in the shopping streets around Osu Kannon temple. Featuring live stage performances, street performers, Brazilian samba parade and cosplay parade.
+}}
+* {{do
+| name=World Cosplay Summit | alt=世界コスプレサミット ''Sekai-kosupure-samitto'' | url=http://www.worldcosplaysummit.jp/en/ | email=
+| address= | lat= | long= | directions=Parade: Osu Kannon (Tsurumai line) exit 1, World Cosplay Championship: Oasis 21, Sakae stn. exit 4A
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=An ''otaku's'' dream come true. Watch as anime fans from around the world dress up as their favorite characters and parade around the streets of Nagoya. The Summit culminates with the World Cosplay Championship (世界コスプレチャンピオンシップ ''Sekai-kosupure-championshippu''), pitting teams from a number of countries as they show off their costumes and perform stage shows. Cheer on your nation's entry or just stare in wonderment at the strangeness of it all.
+}}
+* {{do
+| name=Nagoya Castle Summer Night Festival | alt=名古屋城宵まつり Nagoya-jo-yoi-matsuri | url=https://www.nagoya-info.jp/en/event/detail/113/ | email=
+| address= | lat= | long= | directions=Nagoya Castle, Subway: Shiyakusho stn.
+| phone=+81 52-231-1700 | tollfree= | fax=+81 52-201-3646
+| hours= | price=¥500, ¥400 if wearing a yukata, free for middle-school students and younger
+| content=A traditional-style summer festival, complete with lanterns, numerous styles of traditional ''bon-odori'' (盆踊り) circle dancing (to honour family ancestors), festival stalls, and a beer garden under an illuminated Nagoya castle.
+}}
+
+===Movies===
+* {{do
+| name=Midland Square Cinemas | alt=ミッドランドスクエア・シネマ | url=http://www.midland-sq-cinema.jp/top | email=
+| address=Midland Square Bldg. 5F, Meieki 4 chome 7-1, Nakamura-ku | lat=35.16988 | long=136.8852 | directions=across from JR Nagoya Stn. (Subway: Nagoya Stn.)
+| phone=+81 52-527-8808 | tollfree=
+| hours= | price=
+| content=On the 5th floor of the towering Midland Square building, this complex boasts 7 screens with stadium seating, and shows a range of popular Hollywood and Japanese mainstream movies.
+}}
+* {{do
+| name=109 Cinemas Nagoya | url=http://www.109cinemas.net/nagoya/ | email=
+| address=La Vamo Sasashima 2F, 4-60-14 Hiraike-cho, Nakamura-ku | lat=35.16264 | long=136.88480 | directions=13-min walk south of JR Nagoya stn. or 5-minute walk from Sasashima Raibu stn (JR Aonami line)
+| phone=+81 52 541-3109 | tollfree= | fax=
+| hours= | price=
+| content=Located in a relatively new entertainment complex, this large movie theater contains 10 cinemas with stadium seating and shows a mix of Hollywood and mainstream Japanese films.
+}}
+
+===Sports===
+[http://www.dragons.jp/ The '''Chūnichi Dragons''' (中日ドラゴンズ　''Chūnichi-doragonzu'') ], winners of the 2007 Japan Series, play in the Central League of Japanese Professional Baseball. Check out one of their games at the {{marker|type=do|name=Nagoya Dome|url=http://www.nagoya-dome.co.jp/| lat=35.18671 | long=136.94774 }} (Japanese) in Ōzone, northeast of downtown. (''15 min walk E of JR Ōzone stn. (Chūō line) via S exit, Subway: Nagoya-dome-mae-yada (Meijō line)'')
+
+
+==Buy==
+
+===Shopping areas===
+[[File:Osu1.JPG|thumb|Ōsu Shopping Arcade]]
+* {{buy
+| name=Ōsu Shopping Arcade | alt= | url= | email=
+| address= | lat=35.15899 | long=136.90342 | directions=subway Ōsu Kannon exit 2 (''straight ahead one block, turn left into the temple grounds and go straight on through the gravelled temple area'')
+| phone= | tollfree=
+| hours= | price=
+| wikidata=
+| lastedit=2022-05-29
+| content=A series of old style shopping arcades packed with mom-and-pop stores, ¥100 shops, traditional crafts, used computers and a fantastic range of clothing stores. There is a little bit of everything. Ōsu is the shopping area and Osu Kannon the temple just to the west side. In fact, the shopping area extends from Ōsu Kannon temple in the west to Banshō-ji (万松寺) temple and Ōtsu-dōri street (大津通り) in the east. Outside of the main shopping arcade, there are also a number of streets with a wide array of different specialty shops.
+}}
+**'''Akamon-dōri''' (赤門通り) is known for the bright red banners hung along the street, and hosts a variety of stereo and electronics stores as well as used record shops. On the 28th of every month, Daikō-in temple (大光院) hosts a small temple festival (縁日 ''ennichi'') on Akamon-dori with traditional street food stalls and lots of burning incense.
+**'''Ōtsu-dōri''' (大津通り) 　marks the eastern boundary of the Ōsu shopping area. On the lively stretch of Otsu-dori north of Kamimaezu subway station you will find the Ōsu 301 Building (大須301). The building is known for its small dragon sculpture and Chinese theme, and contains a number of small shops. Continuing north on Ōtsu-dōri, you will also find the small but funky Gatten-shōchi  (合点承知)  building, a mini-mall featuring fashion accessories, food stands, and various fortune tellers.
+[[File:Ferris Wheel at Sakae.jpg|thumb|Ferris Wheel at Sakae]]
+* '''Sakae''' offers good department store shopping, restaurants and night-life. Take a walk atop the rooftop promenade of the Oasis 21 shopping arcade and get a nice view of the TV Tower.
+
+===Books===
+* {{buy
+| name=Maruzen | alt=丸善 | url= | email=
+| address= | lat=35.16720 | long=136.90564 | directions=Subway: Sakae stn. (Higashiyama, Meijo Lines). Next to the Maruei department store
+| phone= | tollfree= | fax=
+| hours=M-F 09:00-20:00, Sa Su 09:00-19:00 | price=
+| content=Offers a reasonable selection of English books, magazines, and newspapers on the 3rd floor, including travel guidebooks, maps, a wide array of books on Japan, and Japanese language study materials.
+}}
+* {{buy
+| name=Sanseido Books | url= | email=
+| address=11F, JR Central Towers above JR Nagoya Station | lat=35.17216 | long=136.88287 | directions=Subway: Nagoya stn (Sakura-dori, Higashiyama, Tsurumai lines). From inside the station, walk towards the Sakura-dori exit and turn right before the exit. You will see a bank of express elevators. Board an express elevator to the 12th floor. Exit the elevator and head towards the open area with windows overlooking Nagoya. You will notice an escalator descending to Sanseido Books on the 11th floor.
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Offers a corner with English books, magazines and newspapers. Features books on Japan plus a decent selection of current nonfiction titles and business books. A small selection of guidebooks are also available.
+}}
+
+===Electronics===
+
+Best bets for cameras and electronics include '''Bic Camera''', a massive 5 story camera and electronics megastore across the street from Nagoya station (on the Taikō-dōri side). Ōsu Market also has a number of large and small electronics shops, including '''Goodwill''' (computers and peripherals - ''otaku'' culture fans will also want to check out the maid cafe in the basement), '''DOS Para''' and others. Unfortunately, some of the electronics shops in Osu (such as Goodwill) are not located on the main shopping streets, and you may have to ask around to find them.  There are also two '''Eiden''' electronics superstores located in Fushimi and near JR Ōzone stn on the JR Chūō Line.
+
+==Eat==
+[[File:Misokatsu Teishoku 20200328-02.jpg|thumb|Misokatsu]]
+[[File:Hitsumabushi1.jpg|thumb|Hitsumabushi]]
+Nagoya is big on ''miso'', a sauce made from fermented soybeans and grain.  The preferred style is red miso (赤味噌 ''akamiso''), fermented up to two years for a stronger taste than the usual "white" miso, with Hatchō miso (八丁味噌) particularly famous.
+
+Classic Nagoya dishes include:
+* ''misokatsu'' (味噌カツ), fried pork cutlet with a rich miso sauce
+* ''miso nikomi udon'' (味噌煮込みうどん), a thick miso and chicken stew perfect for winter
+* ''tenmusu'' (天むす), shrimp ''tempura'' wrapped up in rice and dried seaweed and turned into a handy portable package
+* ''tebasaki'' (手羽先), fried chicken wings marinated in a sweet sauce 
+* ''kishimen'' (きしめん), a flat, broad type of ''udon'' wheat noodle often served in a miso or soy sauce broth. Available in most ''restaurant-gai'' in shopping centres or close to major railway stations.
+* ''ankake supa(=spaghetti)'' (あんかけスパ), spaghetti with a starchy gravy-like tomato-based sauce with a kick of black pepper. Often with onions, green peppers, and ham, bacon, or sausage. 
+* ''hitsumabushi'' (ひつまぶし), an eel dish served with rice in a small box. It can be eaten three ways: first, just the eel and rice; second, with green onions and nori, and third, with tea or soup stock poured over it.
+* ''uirō'' (外郎), a confectionery made out of rice flour and sugar; a little firmer than gelatin but not as sticky as mochi.  Many different flavors are available, including red bean (小豆 ''azuki'')  and green tea (抹茶 ''matcha'') .
+* ''doteni'' (どて煮), Beef tendons and pork intestine are simmered for a long time in ''soybean miso'' such as ''Haccho miso'' and ''mirin''.
+
+===Budget===
+* {{eat
+| name=Café de Metro | alt= | url= | email=
+| address=1F Kanayama station (''North Exit'') | lat=35.14414 | long=136.90134 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=
+| lastedit=2022-05-25
+| content=Serves up basic curry and ''donburi'' dishes, including a decent misokatsu, for ¥480 with coffee/tea, or ¥680 with miso soup and pickles.
+}}
+* {{eat
+| name=Jerry's UNO | alt= | url= | email=
+| address= | lat=35.15832 | long=136.90445 | directions=near Fureai Plaza in the Osu shopping district, to the giant ''manekineko'' statue's left (your right if you are facing the statue)
+| phone= | tollfree=
+| hours= | price=
+| wikidata=
+| lastedit=2022-05-25
+| content=It's a nice little taco shop that will run you about ¥500 per taco.  They also have a nice selection of international beers.
+}}
+
+===Mid-range===
+* {{eat
+| name=Yabaton | alt= | url= | email=
+| address=Osu, 3−6-18 | lat=35.1616771 | long=136.9062466 | directions=SW of Yabacho subway stn. (Meijo line)
+| phone=+81 52-252-8810 | tollfree= | fax=
+| hours=11:00-21:00 | price=¥1200-1800
+| content=The place to try another Nagoya specialty - ''misokatsu'', pork cutlet with red miso. The standard set is ''teppan tonkatsu'', and it comes to your table on a sizzling hotplate over a bed of shredded cabbage; then a special person performs the ritual of drowning it in sauce. If you're really hungry, go for the ''waraji'' (straw sandals) - a huge portion of pork loin flattened before frying so that it overhangs the plate (sometimes it'll come cut in half, as two cutlets). From the subway station, go under the highway overpass and look for the building with the sumo champion pig stenciled on its side, to your right. This is the head store; there are five more around the city, including two at the Nagoya station.
+}}
+* {{eat
+| name=Desperados | alt=デスペラードス | url=https://www.dosdesperados.com | email=
+| address=Fujimatsu Building 2 FL, 1-8-11 Shinsakae, Naka-ku | lat=35.16838 | long=136.91833 | directions=SW of Shinsakae subway stn. (Higashiyama line)
+| phone=+81 52-264-0663 | tollfree=
+| hours=Tu-Sa 18:00-00:00 (kitchen closes at 23:00) Closed Su, M | price=
+| content=Mexican and Tex-Mex restaurant and bar operated by Mexican-born and American-raised owner Rudy and his wife Takako. Features a variety of Mexican dishes and a selection of premium tequilas.
+}}
+
+===Splurge===
+Nagoya's ''nouveaux riches'' are catered for by several luxury department stores and many first-class restaurants, which are sometimes difficult find for auto-less tourists.
+
+* {{eat
+| name=Antica Roma | alt= | url=http://www.anticaroma.jp/ | email=info@anticaroma.jp
+| address=Daikancho 39-18, Higashi-ku | lat=35.17448 | long=136.92212 | directions=Subway: Kurumamichi Stn. (Sakura-dori line). 5 minute walk west of Exit 1 (towards Sakae) on N side of Sakura Dori street
+| phone=+81 52-930-2770 | tollfree= | fax=+81 52-930-2771
+| hours=Cafe 14:00-16:00 (Terrazza, Pizzeria); dinner 17:30-23:30 (last order 22:30) | price=The course menus start at ¥4,000, the pizzas at ¥1,500, a half-bottle of house wine is ¥2,500
+| content=Excellent high-class Italian food (like seafood risotto, broccoli pasta or herb-stuffed pork rolls), but also delicious oven-baked pizzas. All this in three superbly furnished rooms. The main room is baroque-style with chandeliers and has not only a live pianist, but also a '''live opera singer''' every night (dress code for this room).
+}}
+* {{eat
+| name=Garden Restaurant Tokugawa-en | alt=ガーデンレストラン徳川園 | url=https://gr-tokugawa.zetton.co.jp/?utm_source=googlemb&utm_medium=google&utm_campaign=website | email=info@gr-tokugawa.jp
+| address=1001 Tokugawa-cho, Higashi-ku | lat=35.18431 | long=136.93216 | directions=10-min walk from South Exit of JR Ozone Station (JR Chuo line). 15 min. walk from Exit 3 of Ozone Subway Station (Meijo line).
+| phone=+81 52-932-7887 | tollfree=
+| hours=Restaurant: 11:00-14:00 (last order), 17:00-22:30 (last order). Bar & Lounge 10:00-17:00, 19:00-00:00 | price=¥10,000-15,000
+| content=This eatery serves Japanese-French cuisine with views of the beautiful Tokugawa-en Japanese gardens located next door.
+}}
+
+==Drink==
+[[File:Night view of Sakae, Nagoya, Aichi 20150124-1.JPG|thumb|Night view of Sakae, Nagoya, Aichi]]
+Around Nagoya station, there are a lot of places for cheap drinking. Sakae is the big nightlife district, in a loose triangle formed by the Sakae, Yaba-cho and Osu Kannon stations. Sakae has a large red light district as well, but as with most of Japan, there's no sense of danger so don't worry about drifting around. There are countless izakayas around Kanayama station, both cheap chains and more upscale places.
+
+If the bar and club scene is not for you, try '''Nagoya Friends''' and their bimonthly international parties. Always a dynamic mix of foreigners and Japanese. At the party it's all you can drink and eat (~¥3000).
+
+*{{drink
+| name=Serge Gen's Restaurant Group Nagoya | alt= | url=https://nishiki.gensg.jp/4F/ | email=
+| address=11-26 Nishiki 3-Chome, Naka-ku | lat=35.17057 | long=136.90223 | directions=
+| phone=+81 52-209-2333 | tollfree=
+| hours=11:00-03:00 | price=¥3000
+| content=Five top-quality restaurants in the heart of Nagoya, Japan. From Italian cafe, Yakiniku, Sushi, to catered party events.
+}}
+===Bars===
+* {{drink
+| name=Shooters Sports Bar & Grill | alt=シューターズ スポーツバー＆グリル | url=https://www.shooters-nagoya.com | email=info@shooters-nagoya.com
+| address=Pola Building 2F, Sakae 2-9-26, Naka-ku | lat=35.16659 | long=166.89806 | directions=S of Fushimi subway stn. (Higashiyama, Tsurumai lines) exit 5
+| phone=+81 52-202-7077 | tollfree=
+| hours=M-Th 17:00-02:00, F 17:00-02:00, Sa 11:30-02:00, Su 11:30-00:00 | price=
+| content=American and international food and drinks. A friendly, neighborhood sports bar with a mixed crowd and live music on Sundays. 
+}}
+* {{drink
+| name=Yama-chan | alt=山ちゃん | url=http://www.yamachan.co.jp/index.html | email=
+| address= | lat= | long= | directions=35 locations in and around Nagoya
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=(Japanese) Known for its ''tebasaki'' (手羽先) fried chicken wings (one of Nagoya's specialties), this seemingly ubiquitous chain of izakayas is one of Nagoya's favorites. English menu available.
+}}
+* {{drink
+| name=Cigar Club Kanou | alt= | url=http://www.cigarclub-kanou.com | email=
+| address=Montesharine Bldg. 1F, Sakae 1 chome 10-30, Naka-ku | lat=35.16616 | long=136.89522 | directions=near Fushimi Stn. (Higashiyama, Tsurumai Lines), exit via exit 7 and continue W to the Hilton Hotel, turn left in front of the Hilton and continue S, the bar is on the left side of the street
+| phone=+81 52-231-5534 | tollfree= | fax=+81 52-231-5534
+| hours=Tu-Sa 16:30-01:00 | price=
+| content=Near the Hilton hotel, Cigar Club Kanou offers food, drink and a wide array of cigars (with a walk-in humidor.)
+}}
+* {{drink
+| name=The Hub | alt= | url=http://www.pub-hub.com | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=This nationwide chain of affordable British-style pubs has two locations across the city, offering cocktails, bar food/pub grub, an English menu and some basic service in English.
+}}
+** {{drink
+| name=Sakae | alt= | url= | email=
+| address=Ark Building 1F, 3-22-7, Nishiki, Naka-ku | lat=35.16942 | long=136.90406 | directions=3-min walk from Sakae subway stn. exit 8; W of the Kokusai hotel
+| phone=+81 52-962-8682 | tollfree= | fax=
+| hours=Su-Th 16:00-01:00, F Sa and day before holiday 16:00-05:00. Happy hour daily 16:00-19:00 | price=
+| content=
+}},
+** {{drink
+| name=Nagoya Station Area (Meieki) | alt= | url= | email=
+| address=M-san Dainingu Biru 1F, Meieki 3-15-11, Nakamura-ku | lat=35.17274 | long=136.88450 | directions=2 min walk E of Nagoya Station (Sakura Dori side); N of the Royal Park Inn Nagoya
+| phone=+81 52-533-4882 | tollfree= | fax=
+| hours=M-Th 12:00-00:00, F 13:00-02:00, Sa 17:00-02:00, Su and holidays 17:00-23:30. Happy hour daily 17:00-19:00 | price=
+| content=
+}}
+* {{drink
+| name=Shinchan | alt=しんちゃん | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2022-05-25
+| content=This is a chain izakaya located all around Nagoya. They sell great chicken wings and mugs of beer for ¥320.
+}}
+** {{drink
+| name=Kanayama | alt= | url= | email=
+| address= | lat=35.14319 | long=136.90286 | directions=Washington Hotel plaza 2nd floor
+| phone=+81 120-29-5688 | tollfree=
+| hours= | price=
+| content=
+}}
+** {{drink
+| name=Sakae | alt= | url= | email=
+| address= | lat=35.16805 | long=136.90326 | directions=A few doors away from iD Bar
+| phone=+81 120-77-1868 | tollfree=
+| hours= | price=
+| content=
+}}
+
+====Sakae====
+* {{drink
+| name=The Rock Aussie Sports Bar & Grill | alt=ザ・ロック オージースポーツバー&グリル | url=https://www.therockjapan.com/nagoya | email=nagoya@therockjapan.com
+| address=Aster Plaza Bldg. 2F, 4-14-6 Sakae, Naka-ku | lat=35.1677 | long=136.91014 | directions=Subway: Sakae stn. (Higashiyama, Meijo lines), directly behind the Chunichi Building, a short walk SE of Sakae subway exit 13
+| phone=+81 52-262-7893 | tollfree=
+| hours=Su-Th 17:30-00:00, F, Sa 17:30-01:00 | price=
+|lastedit=2026-07-22| content=Australian food; they even have crocodile and kangaroo items on the menu. Free Wi-fi. Offers Happy Hour weeknights from 17:30. Live music some Sunday nights.
+}}
+
+===Nightclubs===
+
+Nagoya has some good clubs. A lot of the DJs who play Tokyo also pass through Nagoya. Many of the most popular clubs are located in '''Sakae''' and '''Shin-sakae-machi''' (just east of Sakae and south of the Naka ward office).
+
+Even on week-ends, on less popular nights, clubs empty or even close early (02:00-03:00) in Nagoya. This is a sharp contrast to Tokyo, where most people come by train and have to stick around for good or for bad until the first train in the morning. In auto-city Toyota, however, many people come by car; they can and will go home early if they are bored.
+
+'''Gay and lesbian''' dance events are held monthly by the {{marker|type=drink|name=Nagoya Metro Club|lat=35.16966|long=136.91630}} at LOVER: z across from the CBC-TV building in Shinsakae-machi.
+
+* {{drink
+| name=Maverick | alt= | url=https://mavericknagoya.jp/ | email=
+| address= | lat=35.17058 | long=136.90521 | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=In Fushimi, it attracts foreigners and Japanese for weekend dance events. Entry fee is usually ¥2000-3000, with a couple of drinks included.
+}}
+
+====Sakae====
+* {{drink
+| name=ID club | alt= | url=http://www.idcafe.info/ | email=
+| address=3-1-15 Sakae, Naka-ku | lat=35.16802 | long=136.90326 | directions=
+| phone=+81 52-251-0382 | tollfree=
+| hours=Th-Su 20:00-closing (closed at 01:00 on a Friday night) | price=Entry M-Th ¥1000 (2 drinks), F ¥2000 (4 drinks), Sa ¥3000 (4 drinks), Su ¥2000 (4 drinks)
+| content=The most popular and well-known club in Nagoya. Nagoya's largest club, 5 different floors of style and music. R & B, Hip Hop, Reggae, Hard House, All Mix, 1970s & 80s disco.
+}}
+* {{drink
+| name=STEPS | alt= | url=http://www.steps-nagoya.net/ | email=
+| address=Hasegawa Bldg. 2F, 3-2-29 Sakae, Naka-ku | lat=35.16770 | long=136.90370 | directions=close to subway Sakae stn. (Higashiyama, Meijo lines) opposite ID Cafe, around 100 m S of Sakae Tokyu Inn Hotel on the left
+| phone=+81 52-242-7544 | tollfree= | fax=
+| hours=M-Sa 18:00-06:00, closed Su | price=
+| content=Food and drinks from ¥500 including pasta, hamburgers, and steak dishes. TVs covering live sports events. Music from noon with DJs, occasional live music. Hip Hop, Reggae, R&B.
+}}
+* {{drink
+| name=Club JB's | alt= | url=http://www.club-jbs.jp/ | email=
+| address= | lat=35.16815 | long=136.91160 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Another good Nagoya club, around the corner from Club Daughter.
+}}
+* {{drink
+| name=Club Mago | alt= | url=http://www.club-mago.co.jp/ | email=
+| address= | lat=35.16932 | long=136.92044 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=In Shin-Sakae on the basement level of the Flex-building. Great for house, techno, electro-clash, progressive house. ¥2500-3000 cover.
+}}
+* {{drink
+| name=Jazz Inn Lovely | alt= | url=http://www.jazzinnlovely.com/ | email=info@jazzinnlovely.com
+| address=1-10-15 Higashisakura, Higashi-ku | lat=35.17261 | long=136.91014 | directions=Subway: Hisaya-odori stn. (Sakura-dori, Meijo lines). Exit the subway for
+| phone=+81 52-951-6085 | tollfree= | fax=
+| hours= Daily 18:00-03:00 | price=Cover charge varies per artist. From ¥1500 to ¥5000
+| content=Jazz club featuring Japanese and international jazz artists.
+}}
+* {{drink
+| name=Club Quattro Nagoya | alt=クラブクアトロ Kurabu-kuatoro | url=http://www.club-quattro.com/access_nago.html | email=
+| address=Nagoya Parco Department Store East Building (東館 ''Higashi-kan''), 8F, 3-29-1 Sakae, Naka-ku | lat=35.16371 | long=136.90833 | directions=Subway: Yaba-cho stn. (Meijo line); in the east building of the Parco Department Store
+| phone=+81 52-264-8211 | tollfree= | fax=
+| hours=Concerts in early evening (17:30-20:00 start) | price=Ticket price varies per artist
+| content=One of Nagoya's main live houses, featuring a wide array of Japanese and international rock and pop music acts.
+}}
+
+==Sleep==
+
+===Budget===
+* {{sleep
+| name=Kyoya Ryokan | alt=京屋旅館 | url=http://kyoya.to/e/ | email=
+| address=2-11-4 Habashita | lat=35.17822 | long=136.89167 | directions= near Meido-cho, where the North-South freeway joins with the East-West counterpart. English directions supplied by the hostel are unclear; best advice is to grab a map from the tourist center. Kyoya is labelled. About a 15-minute walk from JR Nagoya station
+| phone=+81 52-571-2588 | tollfree= | fax=+81 52-571-2580
+| checkin=15:00 | checkout=10:00 | price=Dorm beds from ¥2500
+| content=Awesome ryokan-style hostel with a great vibe. Offers internet access, air conditioning, and security lockers. The hostel has a nice garden in the background and an onsen-style bath.
+}}
+* {{sleep
+| name=Toyoko Inn | alt=東横イン | url=http://www.toyoko-inn.com/eng/index.html | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| checkin=16:00 | checkout=10:00 | price=
+| content=The popular no-frills Toyoko Inn chain operates six hotels in Nagoya. Toyoko Inn Club members can check in from 15:00.
+}}
+:* {{sleep
+| name=Nagoya Marunouchi | alt=名古屋丸の内 | url=http://www.toyoko-inn.com/e_hotel/00025/index.html | email=
+| address=1-4-20 Marunochi, Naka-ku | lat=35.17645 | long=136.89577 | directions=2-minute walk from No. 8 exit of Marunochi Station on the Tsurumai and Sakura-Dori Subway Lines
+| phone=+81 52-223-1045 | tollfree= | fax=+81 52-223-1046
+| checkin= | checkout= | price=Singles &yen;5800-6300, doubles &yen;6800-7800, twins &yen;7800. Weekly rate &yen;5000 per night
+| content=
+}}
+:* {{sleep
+| name=Nagoya Nishiki | alt=名古屋錦 | url=http://www.toyoko-inn.com/e_hotel/00013/index.html | email=
+| address=3-9-3 Nishiki, Naka-ku | lat=35.17224 | long=136.90342 | directions=5-minute walk from No. 4 exit of Hisaya Odori Station on the Sakuradori Subway Line
+| phone=+81 52-953-1045 | tollfree= | fax=+81 52-951-2045
+| checkin= | checkout= | price=Singles &yen;6000, doubles/twins &yen;8000
+| content=
+}}
+:* {{sleep
+| name=Nagoya-eki Sakuradori-guchi Honkan | alt=名古屋駅桜通口本館 | url=http://www.toyoko-inn.com/e_hotel/00022/index.html | email=
+| address=3-16-1 Meieki, Nakamura-ku | lat=35.17365 | long=136.88559 | directions=5-minute walk from Sakura-dori Exit of JR Nagoya Station
+| phone=+81 52-571-1045 | tollfree= | fax=+81 52-561-1046
+| hours= | price=Singles &yen;5900-6300, doubles/twins &yen;8300
+| checkin= | checkout=
+| content=
+}}
+:* {{sleep
+| name=Nagoya-eki Shinkansen-guchi | alt=名古屋駅新幹線口 | url=http://www.toyoko-inn.com/e_hotel/00094/index.html | email=
+| address=7-16 Tsubaki-cho, Nakamura-ku | lat=35.16954 | long=136.87971 | directions=3-minute walk from Taiko-Dori (Shinkansen) Exit of JR Nagoya Station
+| phone=+81 52-453-1047 | tollfree= | fax=+81 52-453-1046
+| hours= | price=Singles &yen;6300-6380, doubles &yen;7300, twins &yen;8300
+| checkin= | checkout=
+| content=
+}}
+:* {{sleep
+| name=Nagoya Shin Sakae-machi | alt=名古屋新栄町 | url=http://www.toyoko-inn.com/e_hotel/00207/index.html | email=
+| address=2-22-21 Higashi-Sakura, Naka-ku | lat=35.16990 | long=136.91647 | directions=6 minute walk from Shin Sakae-machi Station on the Higashiyama Subway Line
+| phone=+81 52-934-1045 | tollfree= | fax=+81 52-934-1046
+| hours= | price=Singles &yen;5800-6300, doubles &yen;7000-7800, twins &yen;7800
+| checkin= | checkout=
+| content=
+}}
+* {{sleep
+| name=Sauna and Capsule Fuji Sakae | alt= | url=http://fto.co.jp/english | email=
+| address=3-22-31, Nishiki, Naka-Ku | lat=35.169120 | long=136.903470 | directions=very close to Sakae station
+| phone=+81 52-962-5711 | tollfree=
+| checkin= | checkout= | price=¥3200
+| content=Huge capsule hotel right in the middle of Sakae. Excellent spa facilities, clean and cheap. Booking online might be a problem; look it up on a map and just show up. Credit cards accepted. Very limited English understood. Larger hand luggage can be kept by the hotel staff. Fridays and Saturdays might mean no vacancies and a higher price. If you want to experience a real capsule hotel not targeted to foreign tourists this is a very good one to try. Only males allowed, no tattoos. If you are body conscious and fear being naked around other people including some female staff, then you should avoid the spa/onsen. Later checkout than usual at capsules (1PM). Wi-Fi everywhere. No electrical sockets in capsule.
+}}
+
+===Mid-range===
+* {{sleep
+| name=APA Hotel Nagoya Nishiki | alt= | url=http://www.apahotel.com/hotel/toukai/01_nagoyanishiki/ | email=
+| address=3-15-30 Nishiki, Chuo-ku | lat=35.17128 | long=136.90735 | directions=Sakae subway station, exit 2, one block forward
+| phone=+81 52-953-5111 | tollfree= | fax=+81 52-951-7269
+| price= | checkin= | checkout=
+| content=This business hotel is in the middle of the Sakae dining and shopping district. The rooms are comparatively clean and the staff speaks English; internet access is included. ¥9800/single.
+}}
+* {{sleep
+| name=Daiichi Fuji Hotel | alt= | url= | email=
+| address=13-17 Tsubaki-cho, Naka-ku | lat=35.16893 | long=136.87965 | directions=Nagoya train station, Shinkansen side, cross street 1 block south of Bic Camera, pass one alley, then turn left
+| phone=+81 52-452-1111 | tollfree= | fax=+81 52-452-1762
+| price= | checkin= | checkout=
+| content=This business hotel is a few blocks from train station on a street lined with business hotels. The rooms are very small; internet access is included if you have an Ethernet cable. ¥6200/single, ¥9450/twin.
+}}
+* {{sleep
+| name=Meitetsu Inn Nagoya Kanayama | alt=名鉄イン名古屋金山 | url=https://www.m-inn.com/en/hotel/ | email=
+| address=1-11-7 Kanayama, Naka-ku | lat=35.14527 | long=136.90076 | directions=Kanayama subway station, exit 6. Turn right at Daiei, left at Coco, look for the blue-and-white Japanese sign
+| phone=+81 52-324-3434 | tollfree= | fax=+81 52-324-3435
+| checkin= | checkout= | price=
+| content=This business hotel was built in 2005 and has very clean rooms; in-room internet access and breakfast is included. The staff has some limited English ability. ¥6800/10,800/13,000 for single/small double/double.
+}}
+* {{sleep
+| name=Mielparque-Nagoya | alt= | url=http://www.mielparque.jp/nagoya/en/ | email=
+| address=3-16-16 Aoi, Higashi-ku | lat=35.17123 | long=136.92889 | directions=Chikusa subway station, exit 1, right across the street
+| phone=+81 52-937-3535 | tollfree= | fax=+81 52-937-3673
+| price= | checkin= | checkout=
+| content=In-room internet access. The staff has some limited English ability. Large breakfast buffet, Western & Japanese, ¥1,000/adult, ¥800/child, 07:00-09:30. Rooms: ¥6,300 single, ¥12,390/15,540 twin for two/three, ¥23,520/29,400 Japanese-style for three/five.
+}}
+
+===Splurge===
+* {{sleep
+| name=Marriott Associa Hotel | alt= | url=https://www.marriott.com/hotels/travel/ngodt-nagoya-marriott-associa-hotel/ | email=
+| address=Nagoya Station | lat=35.17084 | long=136.88293 | directions=directly above Takashimaya Department Store
+| phone= | tollfree= | fax=
+| price= | checkin= | checkout=
+| content=A 3-minute walk from a Nozomi Shinkansen train to a well-marked elevator portal takes you to the 15th floor check-in level. This often-full five-star hotel (¥20,000-70,000/night) is equipped with ten good restaurants, which tend to be jammed, but the adjacent office tower also has more than 20 restaurants on two levels ranging from inexpensive noodle eateries to high-end sushi places. Note that if you have a concierge room reservation, you need to go to the concierge level (35th floor) to check in. Rooms are extremely clean and comfortable.
+}}
+* {{sleep
+| name=Nagoya Kanko Hotel | alt=名古屋観光ホテル | url=http://www.nagoyakankohotel.co.jp/en/ | email=
+| address=19-30, Nishiki 1-chome, Naka-ku | lat=35.16878 | long=136.89552 | directions=Fushimi station, exits 8, 9 or 10, 2-minute walk
+| phone=+81 52-231-7711 | tollfree= | fax=+81 52-231-7719
+| price= | checkin= | checkout=
+| content=Founded in 1936 as the Nagoya State Guest and still going strong. Rooms from standard (¥15,015) to suite (¥346,500). Free parking.
+}}
+
+===Rental===
+* {{sleep
+| name=Freebell Apartments | alt= | url=https://www.freebell.co.jp/ | email=
+| address= | lat=35.17667 | long=136.88012 | directions=exit Nagoya Station Sakura-dori side entrance and turn left. Continue past the post office, the building will be on your left
+| phone=+81 52-571-5055 | tollfree=
+| checkin= | checkout= | price=
+| content=Provides monthly furnished and non-furnished apartments for a range of budgets. Popular with longer-term visitors seeking to avoid the hefty deposits required by traditional Japanese landlords.
+}}
+
+==Cope==
+[[File:Nagoya International Center Building01.JPG|thumb|Nagoya International Center]]
+* {{listing
+| name=Nagoya International Center | alt=名古屋国際センター Nagoya kokusai sentaa | url=http://www.nic-nagoya.or.jp/ | email=info@nic-nagoya.or.jp
+| address=1-47-1 Nagono, Nakamura-ku | lat=35.17281 | long=136.89019 | directions=Subway: Sakura-dori line, Kokusai Center stn.
+| phone=+81 52-581-0100 | tollfree=
+| hours=Tu-Su 09:00-19:00; closed M, Dec 29-Jan 3, 2nd Su of Aug and Feb | price=free
+| content=This city-run center for newcomers to Nagoya provides useful information about upcoming local events through their free monthly publication ''The [http://www.nic-nagoya.or.jp/en/ Nagoya Calendar]'' (available at numerous locations around the city) and offers various multilingual services for foreigners on longer stays or taking up residence in the city. Their headquarters near Nagoya Station also includes a lending library with books on numerous topics in English and other languages.
+}}
+
+===Banking===
+
+As elsewhere in Japan, ATM machines at post offices and 7-Elevens allow international cash withdrawals.
+
+====Foreign exchange====
+* {{listing
+| name=Mitsubishi Tokyo UFJ Bank Foreign Exchange Shop | alt=三菱東京UFJ銀行外貨両替ショップ笹島店 Mitsubishi-Tokyo-UFJ-Gaika-ryougai-shoppu-sasajima-ten | url= | email=
+| address=1-2-4 Meieki, Nakamura-ku | lat=35.16866 | long=136.84441 | directions=1st flr. of Nagoya station near the Meitetsu Bus Terminal
+| phone=+81 52-541-6330 | tollfree=
+| hours=M-F 10:00-19:30, Sa Su holidays 10:00-17:00, Dec 30: 10:00-15:00. Closed Dec 31-Jan 3 | price=
+| content=(Website in Japanese).
+}}
+
+===Consulates===
+
+* {{flag|Brazil}} {{listing
+| name=Brazil | alt=ブラジル総領事館 Burajiru-souryoujikan | url=http://nagoia.itamaraty.gov.br/ | email=cg.nagoia@itamaraty.gov.br
+| address=Shirakawa Daihachi Bldg 2F, 1-10-29 Marunouchi, Naka-ku | lat= | long= | directions=
+| phone=+81 52-222-1077, +81 52-222-1078, +81 90-3483-6949 (Emergency), +81 80-6637-6131 (Emergency) | tollfree= | fax=+81 52-222-1079
+| hours= M-F 09:00-13:00 | price=
+| content=Provides consular services for Brazilians and issues Brazilian visas for foreign visitors to Brazil
+}}
+* {{flag|Canada}} {{listing
+| name=Canada | alt=カナダ領事館 Kanada-ryoujikan | url=http://www.canadainternational.gc.ca/japan-japon/offices-bureaux/nagoya.aspx?lang=eng | email=ngoya@international.gc.ca
+| address=Nakato Marunouchi Bldg 6F, 3-17-6 Marunouchi, Naka-ku | lat= | long= | directions=Subway Hisaya-odori stn (Meijo, Sakura-dori lines) Exit 1. Walk 2 blocks N on Otsu-dori to Uonotana-dori. The consulate is at the intersection of Otsu-dori and Uonotana-dori and directly across the street from Circle K convenience store
+| phone=+81 52-972-0450 | tollfree= | fax=+81 52-972-0453
+| hours= | price=
+| content=Offering limited consular services for Canadians in Nagoya.
+}}
+* {{flag|United States}} {{listing
+| name=United States | alt=アメリカ領事館 Amerika-ryoujikan | url=https://jp.usembassy.gov/embassy-consulates/nagoya/ | email=
+| address=Nagoya Kokusai Center Bldg 6F, 1-47-1 Nagono, Nakamura-ku | lat= | long= | directions=Subway Kokusai Center (Sakura-dori line)
+| phone=+81 52-581-4501 | tollfree= | fax=+81 52-581-3190
+| hours= | price=
+| content=Doesn't provide American citizen services. For those, contact the consulate in [[Osaka]] or the embassy in [[Tokyo]].
+}}
+
+===Publications===
+*'''''[https://www.seekjapan.jp/ Japanzine]''''' Monthly tabloid-style magazine published in Nagoya featuring a section on local events, concerts, job listings, and a restaurant/bar map and guide. Available free at numerous businesses catering to foreign residents, and at Maruzen bookstore in Sakae.
+*'''''RAN Magazine''''' A magazine focused on life in Nagoya and the city's culture and arts scene. Features articles on a wide array of topics. Available online and for free at businesses catering to foreigners around the Nagoya area.
+*'''''[http://www.nic-nagoya.or.jp/en/ Nagoya Calendar]''''' Monthly magazine featuring event information, daily-living advice, movie & TV listings, and a community bulletin board. Available free at International Center, the Maruzen Bookstore in Sakae, and several subway stations.
+*'''''[http://www.et-people.com/ ET People]''''' Small monthly magazine aimed at English learners. Offers restaurant/bar map and listings in English. Available free at numerous bars and restaurants around the city.
+Like other major cities in Japan, you can also pick up the (Tokyo-centric) English dailies '''''[http://www.japantimes.co.jp/ The Japan Times]''''' and '''''[http://the-japan-news.com/ Japan News]{{Dead link|date=July 2025 |bot=InternetArchiveBot }}''''' (by the Yomiuri Shimbun) at selected bookstores and convenience stores around the city (or read them for free at the International Center library).
+
+==Go next==
+[[File:Inuyamajo3.JPG|thumb|Inuyama Castle]]
+[[File:Tsushimatennosai1.JPG|thumb|Owari Tsushima Tennōsai(eve)]]
+[[File:Kōrankei.jpg|thumb|Asuke]]
+* [[Inuyama]], with its picturesque castle, kinky fertility shrines, and nearby Meiji Village, is a short day trip from the city. From [http://www.meitetsu.co.jp/eng/ Meitetsu Nagoya station] next to Nagoya station, there are express trains (around a 30-minute ride) to Inuyama station or Inuyamayuen station. From either station, Inuyama castle is about a 20-minute walk to the west and is on the south side of the river. The entrance is on the south side of the castle grounds.
+* [[Gifu]] - Visit Gifu castle (take a bus from the train station).  Ride the cable car up the mountain (or hike), feed the squirrels (they jump on your arm and eat from your hand), visit the museum, enjoy the amazing view from the top of the castle.  See the Nagaragawa fireworks display during the summer festival.
+* [[Nagakute]], former home of Expo 2005, now hosting the whimsical Ghibli Park and the Toyota Museum
+* [[Tokoname]], on the first express train stop from Nagoya airport, is a ceramic centre dating back from the 9th-century Heian period. The old town by the hill next to the train station features streets decorated with industrial ceramic pieces and pottery shops with pottery displays inside old brick furnaces.
+* [[Okazaki]] - Take in the castle, tour the miso factory and enjoy the fresh suburban air.
+* [[Ise]], home to Japan's holiest shrine, is within striking distance.
+* [[Tsushima (Aichi)|Tsushima]] - Visit Tenno River park in the spring to see amazing cherry blossoms and wisteria.
+* [[Tajimi]] - Visit Eihoji Zen Temple.  A beautiful walk down to the river.  Be sure to see the bamboo grove (takebayashi).
+* [[Hida-Takayama]] - Check out the Edo-era atmosphere of this famous historic town.
+* [[Kiso Valley]] - Walk the historic Nakasendo highway, an old post road running through the valley's beautiful green hills and well-preserved towns.
+
+=== Hiking ===
+
+* [[Asuke]], where you can visit the Korankei Gorge and enjoy the changing of leaves in autumn and blossoms in spring.
+* [[Gujo Hachiman]], an idyllic town where 80% of Japan's plastic food replicas are created.
+* [[Magome]] to [[Tsumago]], a nice hike between the two historic villages in the Nagiso/Nakatsugawa area.
+* [[Tadachi]], a nice hike along many waterfalls.
+* [[Yoro]] - Waterfalls, fancy onsen and Japan's most bizarre park.
+
+{{routebox
+| image1=Tokaido Shinkansen icon.png
+| imagesize1=100
+| directionl1=W
+| majorl1=[[Osaka]]
+| minorl1=[[Gifu|Gifu-Hashima]]
+| directionr1=E
+| majorr1=[[Tokyo]]
+| minorr1=Mikawa-Anjō → [[Toyohashi]]
+
+| image2=JR Chuo icon.png
+| imagesize2=100
+| directionl2=W
+| majorl2=END
+| minorl2=
+| directionr2=E
+| majorr2=[[Shiojiri]]
+| minorr2=[[Kiso Valley|Kiso Fukushima]]
+
+| image3=JR Kansai icon.png
+| imagesize3=100
+| directionl3=W
+| majorl3=[[Nara]]
+| minorl3=[[Kuwana]]
+| directionr3=E
+| majorr3=END
+| minorr3=
+
+| image4=JR Tokaido icon.png
+| imagesize4=100
+| directionl4=W
+| majorl4=[[Gifu]]
+| minorl4=[[Ichinomiya]]
+| directionr4=E
+| majorr4=[[Hamamatsu]]
+| minorr4=[[Okazaki]]
+
+| image5=NP-NH.svg
+| imagesize5=30
+| directionl5=W
+| majorl5=[[Inuyama]]
+| minorl5=into [[File:NP-IY.svg|30px]] ← Kiyosu
+| directionr5=E
+| majorr5=[[Toyohashi]]
+| minorr5=[[Okazaki]]
+
+| image6=Chuo Expwy Route Sign.svg
+| imagesize6=100
+| directionl6=W
+| majorl6=END
+| minorl6=
+| directionr6=E
+| majorr6=[[Tokyo]]
+| minorr6=[[Tajimi]]
+
+| image7=Higashi-Meihan Expwy Route Sign.svg
+| imagesize7=100
+| directionl7=W
+| majorl7=[[Kameyama]]
+| minorl7=[[Kuwana]] ← Yatomi
+| directionr7=E
+| majorr7=END
+| minorr7=
+
+| image8=Isewangan Expwy Route Sign.svg
+| imagesize8=100
+| directionl8=W
+| majorl8=[[Yokkaichi]]
+| minorl8=[[Kuwana|Kuwana-Minami]]
+| directionr8=E
+| majorr8=[[Toyota]]
+| minorr8=
+
+| image9=Meishin Expwy Route Sign.svg
+| imagesize9=100
+| directionl9=W
+| majorl9=[[Kyoto]]
+| minorl9=[[Ichinomiya]]
+| directionr9=E
+| majorr9=END
+| minorr9=
+
+| image10=Tomei Expwy Route Sign.svg
+| imagesize10=100
+| directionl10=W
+| majorl10=END
+| minorl10=
+| directionr10=E
+| majorr10=[[Tokyo]]
+| minorr10=[[Toyota]]
+
+}}
+
+{{isPartOf|Aichi}}
+{{geo|35.181389|136.906111|zoom=11}}
+{{guidecity}}
+
+{{related|UNESCO_Creative_Cities}}

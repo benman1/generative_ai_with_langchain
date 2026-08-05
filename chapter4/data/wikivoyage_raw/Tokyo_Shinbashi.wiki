@@ -1,0 +1,174 @@
+{{pagebanner|Shinbashi banner Japanese-stream-locomotive-C11-292-Shimbashi-station-1.jpg|pgname=Shinbashi|caption=Steam locomotive in the station square}}
+'''Shinbashi''' (also romanized as '''Shimbashi''') (新橋) is a district of central [[Tokyo]] which is a significant business center and commercial area, although not quite as busy as [[Shinjuku]] or [[Shibuya]] to the west.
+
+Shinbashi is directly adjacent to [[Tokyo/Shiodome|Shiodome]], and within a slightly longer walking distance of [[Tokyo/Ginza|Ginza]] and [[Tokyo/Tsukiji | Tsukiji]].
+
+==Get in==
+
+{{Mapframe|35.66487|139.75697|height=600|width=500|zoom=16}}
+{{Mapshape}}
+{{Mapshapes|Q682894}} <!-- Tokyo Metro -->
+{{Mapshapes|Q247782}} <!-- Toei Subway -->
+
+===By train===
+Shimbashi Station is on the JR Yamanote, Keihin-Tōhoku, Yokosuka, and Tokaido Lines. It is also a connection point to the Toei Asakusa subway line for Haneda Airport (Keikyu through trains, ¥610, 30 min.), plus the [[Tokyo/Ginza|Ginza]] subway line and the Yurikamome line to [[Tokyo/Odaiba|Odaiba]].  The multitude of lines makes it easy to reach from [[Narita Airport]] via the Keisei Skyliner and Yamanote lines (Yamanote line, change at Nippori, ¥2,080, 75 min.), Keisei limited express and Asakusa lines (Toei Asakusa line, change at Aoto, ¥1,100, 90 min.) or Narita Express and Yokosuka lines (change at Tokyo, ¥2,910, 75 min.).
+
+Nearby Hamamatsucho station connects directly to Haneda Airport (¥470) via the Tokyo Monorail.
+
+==See==
+* {{see
+| name=Shinbashi Steam Locomotive Square | alt=新橋SL広場 | url= | email=
+| address=2-7 Shinbashi | lat=35.667071 | long=139.757591 | directions=Outside Shinbashi station Hibiya exit
+| phone= | tollfree=
+| hours=Daily 24hrs | price=Free
+| image=JNR C11 292 Shinbashi Sta 20080213.jpg
+| lastedit=2020-01-25
+| content=Historic steam locomotive displayed in the middle of the square. A popular meeting point. During the year end holiday season, the train is lit up with colorful lights with light and sound shows throughout the day.
+}}
+* {{see
+| name=Karasumori Shrine | alt=烏森神社 | url=http://karasumorijinja.or.jp/ | email=
+| address=2-15-5 Shinbashi | lat=35.666683 | long=139.756748 | directions=1 minute west walking from Shinbashi station Hibiya exit
+| phone= | tollfree=
+| hours= | price=Free
+| lastedit=2020-01-25
+| content=Small Shinto shrine tucked between the commercial buildings surrounding Shinbashi station. Built during the Heian period to commemorate a victory by Fujiwara no Hidesato.
+}}
+* {{see
+| name=Shiogama Shrine | alt= | url= | email=
+| address=5-19-7 Shinbashi | lat=35.663020 | long=139.754892 | directions=7 minute walk south of Shinbashi station
+| phone= | tollfree=
+| hours= | price=Free
+| lastedit=2020-01-25
+| content=Small Shinto shrine with a surrounding park in the middle of a quiet residential neighbourhood. It is a remnant of a Date samurai clan household.
+}}
+
+==Do==
+* {{do
+| name=Yurikamome elevated train | alt=ゆりかもめ | url=https://www.yurikamome.co.jp/ | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=max ¥390 each way; \820 one day pass
+| lastedit=2024-03-04
+| content=Take the Yurikamome elevated train across the bay bridge from Shimbashi station to the bayside Odaiba district, and take in the scenic view of the metropolis, including a giant Unicorn Gundam robot statue. A great experience during the day or night. Each of the train provides a large window with a clearer view. Good for also visiting the famous Fish Market at Toyosu. 16 stations in all from Shinbashi to Toyosu.
+}}
+
+==Buy==
+* {{buy
+| name=New Shinbashi Building | alt=ニュー新橋ビル (NEW しんばしビル on entrance) | url=http://www.shinbashi.net/01/ | email=
+| address=2−16−1 Shinbashi | lat=35.666278 | long=139.757361 | directions=Directly south of Shinbashi station Hibiya exit
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2020-01-25
+| content=Building filled with shops catering to the salarymen that work in the offices nearby with the nickname "''Oyaji-biru'' (middle-aged men building)". There are restaurants, menswear stores, massage parlors, and discount ticket stores (kinken shops) inside.
+}}
+* {{buy
+| name=Tamiya Plamodel Factory | alt=タミヤプラモデルファクトリー | url=https://www.tamiya-plamodelfactory.co.jp/ | email=
+| address=4-7-2 Shinbashi, Minato-ku | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2024-03-04
+| content=Official shop of Tamiya, famous manufacturer of plastic model kits, "mini 4WD" slot racers and RC cars. Large slot racing course on the second floor.
+}}
+
+==Eat==
+The area around Shinbashi and Yurakucho is, thanks to its hordes of office workers, full of lunchtime bargains. You can easily get a filling ''teishoku'' lunch for under ¥700.
+
+===Budget===
+* The Shinbashi area has outlets of most major fast food chains:
+** '''Tenya''' (てんや). Shinbashi 2-15-12 (''JR Shimbashi, Karasumori exit''). An outlet of everybody's favorite fast-food tempura chain, with tempura bowls starting from ¥500.
+**'''Yoshinoya''', the Japanese fast-food chain has several (at least two) restaurants close to the station, and '''Matsuya''' also has two restaurants near Shinbashi; get a bowl of rice and meat for ¥300-500. Very crowded at lunch-time (around 1pm).
+* The '''New Shinbashi Building''', the triangular (and certainly not new-looking) building on the west side of JR Shimbashi station, has a multitude of dark, smoky, cramped ''izakayas'' in its basement levels. Not recommended if you don't like the smell of broiled fish.
+
+===Mid-range===
+* {{eat
+| name=Don Blanco | alt= | url=http://www.donblanco.com | email=
+| address=Shimbashi 3-18-7, 3F | lat=35.665073 | long=139.757144 | directions=2 min southwest of JR station
+| phone=+81 3-5401-2066 | tollfree= | fax=
+| hours= | price=
+| content=Tucked away among Korean hostess bars, a cozy joint with some of the most authentic Mexican food you're likely to find in Japan -- the owner makes regular trips to Mexico. Excellent selection of tequilas, home-made tortillas, and ''lucha libre'' wrestling masks for guests.
+}}
+
+===Splurge===
+* {{eat
+| name=Daigo | alt=醍醐 | url=https://www.atago-daigo.jp/ | email=
+| address=2-3-1 Atago | lat=35.663489 | long=139.748965 | directions=nearest station Onarimon
+| phone=+81 3-3431-0811 | tollfree=
+| hours=Daily 11:30-14:00, 17:00-20:00 | price=Lunch ¥12000 Dinner ¥15000+
+| content=The name means "essence of milk", a reference to the Buddha's highest teachings, and this restaurant aims for the highest standards of ''shōjin-ryori'' (精進料理), the purely vegetarian version of Japan's refined ''kaiseki'' cuisine. Located within the grounds of the Seishōji temple, all meals here are elaborate, ten-course affairs served in private rooms with a view of the lovely temple garden. With dinner courses priced at &yen;15,000-19,000 per person (plus drinks, tax and service), the experience doesn't come cheap, but it just might be worth it for an unforgettable occasion &mdash; and this is still only a third of what [[Tokyo/Ginza|Ginza]]'s ''kaiseki'' joints charge. Reservations obligatory.
+}}
+
+==Drink==
+
+A large number of drinking establishments, some distinctly dodged, can be found around JR Shinbashi station.
+
+==Sleep==
+
+===Mid-range===
+* {{sleep
+| name=Check In Shinbashi |alt=| url=http://www.checkin.co.jp/shinbashi/ | email=
+| address=2-15-17 Shinbashi | lat=35.666453 | long=139.756161 | directions=3 min from JR Shimbashi Karasumori exit
+| phone=+81 3-3501-5100 | tollfree= | fax=
+| hours= | price=Singles from &yen;7500, doubles from &yen;10000 (weekend rates, weekdays are slightly higher)
+| checkin= | checkout=
+|lastedit=2020-01-25| content=Cramped but quite tolerable and fully-equipped rooms. Free LAN in every room.
+}}
+* {{sleep
+| name=Tokyu Stay Shinbashi |alt=| url=https://www.tokyustay.co.jp/e/hotel/SHI/ | email=
+| address=4-23-1 Shinbashi | lat=35.663525 | long=139.757089 | directions=
+| phone=+81 3-54011109 | tollfree= | fax=+81 3-5401-1107
+| hours= | price=Singles start at &yen;9,450, doubles at &yen;17,850 per night. Slight discounts are offered for extended stays
+| checkin= | checkout=
+|lastedit=2020-01-25| content=Part of the Tokyu Stay chain, these hotels are popular with business travelers. The small kitchenettes, washer/dryers, and free LAN access in all rooms makes these good value.
+}}
+* {{sleep
+| name=Shiba Park Hotel |alt=| url=http://www.shibaparkhotel.com/en/ | email=
+| address=1-5-10 Shiba-koen | lat=35.658822 | long=139.751900 | directions=8 min from JR Hamamatsucho Station, 4 min from Daimon Station, 2 min from Onarimon Station
+| phone=+81 3-3433-4141 | tollfree= | fax=
+| hours= | price=
+| checkin= | checkout=
+|lastedit=2020-01-25| content=
+}}
+* {{sleep
+| name=Shinbashi Atagoyama Tokyu Inn | alt= | url=https://www.tokyuhotelsjapan.com/en/hotel/TR/TR_ATAGO/index.html | email=
+| address=1-6-6, Atago | lat=35.665285 | long=139.749400 | directions=7 min from Toranomon station, 7 min from Kamiyacho station, 7 min from Onarimon station
+| phone=+81 3-3431-0109 | tollfree= | fax=
+| checkin= | checkout= | price=
+|lastedit=2020-01-25| content=
+}}
+
+===Splurge===
+* {{sleep
+| name=Hotel 1899 Tokyo | alt= | url=https://1899.jp/hotels/tokyo/en/ | email=info.hotel1899tokyo@ryumeikan.co.jp
+| address=6-4-1 Shinbashi | lat=35.662388 | long=139.753860 | directions=10 minute walk south of Shinbashi Station
+| phone=+81 3-3432-1899 | tollfree=
+| checkin=15:00 | checkout=12:00 | price=Doubles ¥17000+
+| lastedit=2020-01-25
+| content=Boutique hotel that also has a cafe on the first floor. Conceptually, it is based around Japanese tea culture with tea ware inspired decor and tea based toiletries. Cafe food likewise builds upon the tea concept with matcha green tea baked goods, ice cream and beer. Free tea is served daily for guests in the afternoon.
+}}
+
+==Go next==
+
+Shinbashi is right next to the [[Tokyo/Shiodome|Shiodome]] high-rise area, and a short taxi ride (or moderate walk) away from [[Tokyo/Chuo|Tsukiji]], where you can enjoy some of the best sushi in Tokyo.
+
+{{routebox
+| image1=Tokaido Shinkansen icon.png
+| imagesize1=100
+| directionl1=W
+| majorl1=[[Yokohama]]
+| minorl1=[[Tokyo/Shinagawa|Shinagawa]]
+| directionr1=E
+| majorr1=END
+| minorr1=[[Tokyo/Chiyoda|Tokyo Station]]
+| image5=JR JK line symbol.svg
+| imagesize5=30
+| directionl5=N
+| majorl5=[[Tokyo/Ueno|Ueno]]
+| minorl5=[[Tokyo/Chiyoda|Tokyo]]
+| directionr5=S
+| majorr5=[[Kawasaki]]
+| minorr5=[[Oimachi]] → [[Tokyo/Ota|Kamata]]
+}}
+
+{{usabledistrict}}
+{{IsPartOf|Tokyo/Minato}}
+{{geo|35.6660|139.7615}}

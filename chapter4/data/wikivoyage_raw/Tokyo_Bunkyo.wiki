@@ -1,0 +1,285 @@
+{{pagebanner|Shin-Edogawa Tokyo Wikivoyage banner.jpg|caption=Shin-Edogawa Garden}}
+[[File:Tokyo_Wikivoyage_locator_maps_-_Bunkyo.png|120px|thumb|right|Location of Bunkyo in Tokyo]]
+
+'''Bunkyō''' (文京) is in [[Tokyo]], north of the Imperial Palace.  The name means roughly "Capital of Culture" and, indeed, it's best known as the home of the sprawling '''University of Tokyo''' and a series of aristocratic '''parks and villas'''.
+
+==Understand==
+The ward's Tourist Association has a [https://b-kanko.jp/ Japanese-only guide site] with [https://b-kanko.jp/pamphlet some downloadable maps in English].
+
+==Get in==
+{{Mapframe|35.7183|139.7452|zoom=13}}
+{{Mapshape}}
+
+There are six subway lines running through the district with a total of 20 stations.
+
+* '''Chiyoda:''' Nezu, Yushima, Sendagi
+* '''Marunouchi:''' Myogadani, Korakuen, Hongo Sanchome, Ochanomizu
+* '''Yurakucho:''' Gokokuji, Edogawabashi
+* '''Namboku:''' Korakuen, Todaimae, Honkomagome
+* '''Oedo:''' Iidabashi, Kasuga, Hongo Sanchome
+* '''Mita:''' Suidobashi, Kasuga, Hakusan, Sengoku
+
+Komagome, while just over the line in neighboring [[Tokyo/Toshima|Toshima]], has been included in this guide.
+
+==See==
+
+===Gardens===
+[[Image:Koishikawa Korakuen - Benzai-Tenno-Miya.jpg|thumb|Koishikawa Korakuen]]
+* {{see
+| name=Koishikawa Kōrakuen | alt=小石川後楽園 | url=https://www.tokyo-park.or.jp/teien/en/koishikawa/index.html | email=
+| address=1-6-6 Kōraku | lat=35.705556 | long=139.749167 | directions=near Tokyo Dome, a few minutes from Iidabashi Station on the Toei Ōedo Line
+| phone= | tollfree=
+| hours=09:00-17:00 (last entry 16:30), closed Dec 29-Jan 1 | price=&yen;300
+| wikipedia=Koishikawa-Kōrakuen | image=Koishikawa Korakuen (2008.09).JPG | wikidata=Q1778881
+| content=Laid out in the 17th century, this splendid traditional garden boasts a large collection of trees and flowering plants that provide touches of beauty all year round. Winding paths, wooded hills, ponds teeming with ducks and fish. The place can be a little crowded at certain times of year (such as during the cherry blossom season in late March-mid April), but there's plenty of room for everyone.
+}}
+
+[[File:Horaijima-2.JPG|thumb|Rikugien]]
+* {{see
+| name=Rikugien | alt=六義園 | url=http://www.tokyo-park.or.jp/park/format/index031.html | email=
+| address=Hon-Magome 6-16-3 | lat=35.733056 | long=139.746667 | directions=3 min from Komagome stn, Yamanote/Namboku line
+| phone= | tollfree= | fax=
+| hours= | price=&yen;300
+| wikipedia=Rikugi-en | image=Rikugien3.jpg | wikidata=Q1889010
+| content=A classical Japanese park with ponds, hills and teahouses, that was built in 1695 by Yanagisawa Yoshiyasu, a Tokugawa ''daimyo''. It's a popular cherry blossom spot in spring and is lit up at night at this time.
+}}
+* {{see
+| name=Koishikawa Botanical Garden of the University of Tokyo | alt=小石川植物園 | url=http://www.bg.s.u-tokyo.ac.jp/koishikawa/ | email=
+| address=Hakusan 3-7-1 | lat=35.716667 | long=139.75 | directions=a bit of a walk from Hakusan subway station; follow the signs
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=Koishikawa Botanical Gardens | image=Koishikawa Botanical Gardens, Tokyo - pond.jpg | wikidata=Q1064892
+| content=Not one of the great gardens of Japan and sometimes a bit shabby, but a pleasant stroll with interesting trees, a medicinal herb garden and several ponds. Not to be confused with Koishikawa Korakuen.
+}}
+
+===Temples & shrines===
+* {{see
+| name=Nezu Jinja | alt=根津神社 | url= | email=
+| address= | lat=35.720226 | long=139.760717 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Nezu Shrine | image=Nezu Shrine 2010.jpg | wikidata=Q335612
+| content=
+}}
+* {{see
+| name=Gokoku-ji | alt=護国寺 | url=http://www.gokokuji.or.jp/ | email=
+| address= | lat=35.721667 | long=139.725556 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Gokoku-ji | image=Gokoku-ji (main hall).jpg | wikidata=Q1534481
+| content=
+}}
+* {{see
+| name=Denzū-in | alt=伝通院 | url= | email=
+| address= | lat=35.712194 | long=139.746861 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| image=Denduin20131123.jpg | wikidata=Q11381448
+| content=
+}}
+
+===Other attractions===
+* {{see
+| name=St. Mary's Cathedral | alt=東京カテドラル聖マリア大聖堂 Tokyo Cathedral | url=https://tokyo.catholic.jp/archdiocese/cathedral/ | email=
+| address= | lat=35.71422 | long=139.726748 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=St. Mary's Cathedral, Tokyo | image=St. Mary's Cathedral Tokyo 2012.JPG | wikidata=Q1193480
+| content=Seat of the Roman Catholic Archdiocese of Tokyo. Designed by the famous architect Tange Kenzō, this ultramodern church was built in the 1960s to replace an older structure that was destroyed during the war.
+}}
+* {{see
+| name=Bunkyo Civic Center | alt=文京シビックセンター bunkyō shibikku sentaa | url=http://www.city.bunkyo.lg.jp/shisetsu/civiccenter/civic.html | email=
+| address= | lat=35.707872 | long=139.752424 | directions=Korakuen station of the Marunouchi line
+| phone= | tollfree=
+| hours= | price=Free
+| wikipedia=Bunkyo Civic Center | image=Bunkyo Civic Center 01.jpg | wikidata=Q2928236
+| content=The lavish government building for the Bunkyo ward of Tokyo, once described in the ''Japan Times'' as "a colossal Pez candy dispenser." A free observation deck on the 25th floor, jutting out of the top like the Starship Enterprise, commands a fine view of much of Tokyo.
+}}
+* {{see
+| name=Hijiri-bashi Bridge | alt=聖橋 | url= | email=
+| address= | lat=35.699722 | long=139.765556 | directions=next to {{marker|type=listing|name=Ochanomizu Station|lat=35.699722|long=139.763889| image=Tokyo Public Transportation L8609.jpg}}
+| phone= | tollfree= | fax=
+| hours= | price=
+| image=Hijiribashi Bridge.jpg | wikidata=Q11611065
+| lastedit=2016-05-15
+| content=On the Kanda river (神田川), on the border between Bunkyō and [[Tokyo/Chiyoda|Chiyoda]] wards. It offers one of the best spots in Tokyo to see trains, three lines crossing each other (on the west, so better seen in the afternoon). [[Tokyo/Akihabara|Akihabara]] district in 500 m/10 min away to the east. Its name means ''Saints bridge''. One side at Temple of Confucius '''Yushima Seido''' (湯島聖堂), the other side at cathedral of the Japanese Orthodox Church ''' St. Nicholas Church''' (ニコライ堂, Nikorai do).
+}}
+* {{see
+| name=Yushima Seido | alt=湯島聖堂 | url=http://www.seido.or.jp/ | email=
+| address= | lat=35.700833 | long=139.766389 | directions=Ochanomizu station of the Marunouchi line
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Yushima Seidō | image=Taisei-Den of Yushima Seido.JPG | wikidata=Q1760591
+| content=A temple of Confucius.
+}}
+
+==Do==
+Bunkyo ward is a nice place to walk, but it can be a tough stroll as this area is famous for a number of slopes. There being 433 slopes in Tokyo, as many as 173 of them are located in this ward. Some are named, and some are not. There stands a plate written its history on each slope. Even if you didn’t know anything about this area, it is fun to know its names. There are many unique names, such as ''Kaiun-zaka'' (Good luck slope), ''Yūrei-zaka'' (Ghost slope), or ''Ijin-zaka'' (Barbarian slope). You can look at these unique names on books, some of which only focus on the slopes.
+
+[[Image:TokyoDome8945.jpg|thumb|right|300px|Tokyo Dome City]]
+[[Image:JP-13 Bunkyo-ward Tokyo-Dome-City-Attractions.jpg|thumb|Going for a spin in Tokyo Dome City]]
+* {{do
+| name=Tokyo Dome City | alt= | url=http://www.tokyo-dome.co.jp/e/ | email=
+| address= | lat=35.7056 | long=139.752 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Tokyo Dome City | image=TokyoDome8945.jpg | wikidata=Q564554
+| lastedit=2018-07-11
+| content=An attractions complex featuring a large indoor stadium, an amusement park, bowling alley, off-track betting center, and the '''LaQua''' shopping mall/spa (see [[#Buy|Buy]]). Tokyo Dome is one of several Tokyo stadiums. It is home to the Yomiuri Giants baseball team and also hosts concerts, trade show events, and professional sports. Attached by a walkway is Korakuen Hall, a hub for Japanese martial arts and professional wrestling events held almost daily.
+}}[[Image:Tokyo Dome Inside.JPG|thumb|right|Inside the Tokyo Dome]]
+** {{do
+| name=Tokyo Dome | alt= | url=http://www.tokyo-dome.co.jp/e/ | email=
+| address= | lat=35.705658 | long=139.751914 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Tokyo Dome | image=Tokyo dome.JPG | wikidata=Q733748
+| content=
+}}
+** {{do
+| name=Baseball Hall of Fame and Museum | alt=野球殿堂博物館 | url=http://www.baseball-museum.or.jp | email=
+| address=1-3-61, Kōraku | lat=35.705591 | long=139.7531 | directions=Entrance to the right of Tokyo Dome's Gate 21
+| phone= | tollfree=
+| hours=Mar-Sep: Tu-Su 10:00-18:00, Oct-Feb: Tu-Su 10:00-17:00, closed Dec 29-Jan 1 | price=Adults ¥500, seniors ¥300, children ¥200; discounts for groups of 20 or more
+| wikipedia=Japanese Baseball Hall of Fame | image=Tokyo Dome-3.jpg | wikidata=Q496733
+| content=
+}}
+** {{do
+| name=Spa LaQua | alt= | url=https://www.laqua.jp/spa/ | email=
+| address= | lat= | long= | directions=Within the LaQua shopping mall
+| phone= | tollfree= | fax=
+| hours=11AM-9AM daily | price=¥3,230/2,640 adult/child on weekdays, weekends +¥990, nights +¥2420 after 1am
+| wikipedia= | image= | wikidata=
+| content=One of Tokyo's largest spa complexes, using water pumped from 1,700m below Tokyo.  Outdoor pools, saunas, beauty salons, restaurants and more across 5 floors.  No tattoos or children under 5. Children under 17 can only enter with an adult and must leave before 6pm.
+}}
+
+==Learn==
+Bunkyo is known as a seat of learning, with 15 institutions of higher education.
+
+=== University of Tokyo ===
+[[Image:JP-13 Bunkyo-ward Tokyo-Univ Yasuda auditorium.jpg|thumb|University of Tokyo campus]]
+
+The {{marker|type=learn|name=[http://www.u-tokyo.ac.jp/en/ University of Tokyo]|wikidata=Q7842}} (東京大学 ''Tōkyō daigaku''), formerly the Imperial University and still Japan's Harvard, Yale, and MIT all rolled into one, has its main Hongō campus in Bunkyo. Competition for admission is extremely fierce; not only do Japanese students need to ace the national high school exams, but they also have to sit for an additional fiendishly difficult entrance exam conducted by the university that is specific to the faculty they are applying to after making the initial cut. Around 2000 foreign students study at the University. The University of Tokyo also attracts many travelers as a place to look around and to have some food. You can get there via its very own subway station, ''Tōdaimae'', although ''Hongo-Sanchome'' is slightly closer.
+
+The '''Red Gate''' (赤門 ''Akamon'') on the Hongo street was built in 1827, when a daughter of the then Shogun, Ienari Tokugawa, married the Daimyo who lived in the premises. Inside the gate are the General Library and the Graduate Schools of Economics, Literature, and Education. To the left side of the gate is the '''Communication Center''' which is actually a souvenir shop, and to the right side, there is the university museum. The grounds are sprinkled liberally with large, stately gingko trees, whose leaf can be found on the seal of the university.
+
+At the center of the campus is the Japanese garden of '''Ikutoku-en''' (育徳園) &mdash; the Virtue-Teaching Garden &mdash; built around 1630 as the garden of
+Maeda Toshitsune, one of the wealthiest ''daimyo'' in the Tokugawa era. At its center is '''Sanshiro Pond''' (三四郎池 ''Sanshiro-ike''), in the shape of the Japanese character ''kokoro'' (心), meaning "heart" or "spirit". Both garden and pond are, regrettably, rather poorly kept.
+
+To the north of the pond there is the auditorium, '''Yasuda Kōdō''' (安田講堂) which became a symbol of the student activism in 1968-69, when the building was occupied by students as a base facility for activities to change the University registration. In the basement floor there is a large-scale student canteen called '''Chūō Shokudō''' (central canteen), offering cheap if rather mediocre food, and a University Co-op where you can buy T-shirts and ball-point pens with the university logo.
+
+To the east of the auditorium is the main building of the Graduate School of Science, where one of the largest photomultiplier tubes, which contributed to the [[Kamioka]] neutrino experiments, is exhibited.
+
+The campus has around 20 places to eat, including Starbucks, Subway and several student canteens.
+
+'''[http://www.capo-p.com/ Capo Pellicano]''' is on the 13th floor of the main (tallest) building of the Graduate School of Medicine. Lunch menus are for around &yen;900. The view of buildings in [[Shinjuku]] and [[Roppongi]] from the western side of the floor should not be missed.
+
+The university also has the Koishikawa Botanical Garden in Hakusan.
+
+* {{see
+| name=The Tōyō Bunko | alt=東洋文庫 | url=http://www.toyo-bunko.or.jp/toyobunko-e/index.php | email=
+| address=Honkomagome 2-28-21 | lat=35.731281 | long=139.748561 | directions=10 min from JR Komagome station
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Tōyō Bunko | image=Toyobunko new2.jpg | wikidata=Q1036261
+| content=The Toyo Bunko is a special library and a research institute of Oriental studies. The research focuses on Asian history and cultures. The Toyo Bunko collects and saves historical records of Asia. The collection of books exceeds 950,000 items. People can read the books free of charge. Library materials cannot leave the building. Photocopiers are available for use at a minimal charge.
+}}
+
+==Buy==
+* {{buy
+| name=La Qua | alt=ラクーア | url=https://www.laqua.jp/ | email=
+| address=Connected to Korakuen station | lat=35.707111 | long=139.752806 | directions=Marunouchi Line
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=La Qua is a new shopping mall with some attractions attached. It opened in 2003, replacing a section of the amusement park at Tokyo Dome City. There are boutiques, a grocery store, restaurants, a hairdresser, massage salon, and gym. In addition a roller coaster runs along the roof, and there are other amusement attractions including a water slide and a concert stage. Among all these, the main accommodation is the LaQua spa, see [[#Do|Do]].
+}}
+** {{buy
+| name=Seijo Ishii | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=The supermarket chain has a store in La Qua, with many imported foods and wines. Many frozen products are sold in restaurant packs.
+}}
+
+==Eat==
+* {{eat
+| name=Fire House | alt= | url=https://www.firehouse.co.jp/ | email=
+| address=Hongo 4-5-10 | lat= | long= | directions=from Hongo Sanchome station, Oedo or Marunouchi line, go to main intersection and look for roller coaster in distance. Go that direction, on right side of street; restaurant is before next traffic light
+| phone=+81 3-3815-6044 | tollfree=
+| hours= | price=
+| content=A popular hamburger restaurant decorated with American memorabilia.
+}}
+* {{eat
+| name=Hantei | alt=はん亭 | url=https://www.hantei.co.jp/ | email=
+| address=Nezu 2-12-15 | lat= | long= | directions=From Nezu Station, exit 2, cross main street (Rte 437), and turn left. Restaurant is halfway down the block
+| phone=+81 3-3828-1440 | tollfree=
+| hours= | price=
+| content=Serves kushiage (deep fried skewered food) in a rare old wooden building.
+}}
+* {{eat
+| name=Komatsuan | alt=小松庵 | url=http://komatuan.com/english/index.html | email=
+| address=Komagome 3-3-21 | lat= | long= | directions=5 min from JR Komagome station
+| phone=+81 3-3917-2536 | tollfree= | fax=
+| hours=11:00-22:00 | price=&yen;1000-3000
+|lastedit=2022-01-09| content=Obsessively perfectionist handmade soba noodles for connoisseurs, made using only buckwheat from a certain village in Hokkaido and rolled on the thighs of virgins &mdash; or at least that's what you'd expect from the price. Their famous ''sakurakiri soba'', available only from Apr-Jun, has real cherry blossom leaves mixed in.
+}}
+
+==Drink==
+
+==Sleep==
+
+===Mid-range===
+* {{sleep
+| name=Hotel Kizankan | alt=ホテル機山館 | url=https://kizankan.co.jp/ | email=
+| address=4-37-20 Hongo | lat= | long= | directions=from Hongo-Sanchome subway stations, go down the small street between the koban--police box--and McDonald's
+| phone= | tollfree=
+| checkin= | checkout= | price=Singles from &yen;7980, twins from &yen;8925
+| content=This basic business hotel is convenient for those visiting Tokyo University. Minutes from the Hongo-Sanchome stations of the Oedo and Marunouchi subway lines, and close to the many small restaurants in front of the university. Little English is spoken, but foreigners are welcome.
+}}
+* {{sleep
+| name=Toyoko Inn Korakuen Bunkyokuyakusho-mae | url=http://www.toyoko-inn.com/eng/ | email=
+| address= | lat= | long= | directions=nearest stations: Korakuen on the Namboku and Marunouchi Lines; Kasuga on the Oedo and Mita Lines
+| phone= | tollfree= | fax=
+| hours= | price=Singles, doubles and twins, all under &yen;10,000
+| checkin= | checkout=
+| content=Toyoko Inns are inexpensive business hotels, but have a good range of amenities. Their access maps are exceptionally clear, with an English version for you and Japanese for the taxi driver. This one is not near any tourist destinations but convenient to major subway lines.
+}}
+* {{sleep
+| name=Tokhouse Vacation House | url=http://www.tokhouse.com/ | email=tokhouse@gmail.com
+| address=3-52-9 Sendagi | lat=35.730613| long=139.762222 | directions=5 min walk from JR NishiNippori station, 10 min taxi from Ueno station
+| phone=+81 90 9674 4198 | tollfree= | fax=
+| hours= | price=
+| checkin= | checkout=
+| content=Long term rental of at least a month. Free internet Wi-FI.
+}}
+
+===Splurge===
+
+* {{sleep
+| name=Forest Hongo | alt=フォーレスト本郷 | url=https://forest-hongo.jp/ | email=
+| address=6-16-4 Hongo | lat= | long= | directions=
+| phone= | tollfree=
+| checkin= | checkout= | price=Singles from &yen;10,164, twins from &yen;18,480
+| content=A bit nicer (and more expensive) than the standard business hotel, this is a good choice for visitors to Tokyo University, but not convenient otherwise. Some English is spoken and the hotel hosts many foreign guests.
+}}
+* {{sleep
+| name=Tokyo Dome Hotel | url=http://www.tokyodome-hotels.co.jp/e/ | email=
+| address=1-3-61 Koraku | lat= | long= | directions=Nearest stations: Suidobashi on the JR and Mita Lines; Korakuen on the Marunouchi Line
+| phone=+81 3-5805-2111 | tollfree= | fax=
+| hours= | price=Doubles from &yen;24,000
+| checkin= | checkout=
+| content=This is an international hotel at competitive prices. Several restaurants, ranging from reasonable to very expensive.
+}}
+* {{sleep
+| name=Hotel Chinzanso Tokyo | alt=ホテル椿山荘東京 | url=http://www.hotel-chinzanso-tokyo.com/ | email=info@hotel-chinzanso.com
+| address=2-10-8 Sekiguchi | lat=35.7111 | long=139.7269 | directions=nearest station: Edogawabashi
+| phone=+81 3 3943-1111 | tollfree=
+| checkin=3PM | checkout=noon | price=Doubles from &yen;55,000; the Imperial Suite is ten times as much
+| wikidata=Q5911367
+| content=A flawless luxury hotel with prices to match. Location is a bit out of the way; expect to take taxis, though there is a shuttle bus connecting the hotel to Ikebukuro Station available on weekends and holidays.
+}}
+
+==Connect==
+
+{{usabledistrict}}
+{{IsPartOf|Tokyo}}
+{{geo|35.716667|139.75}}

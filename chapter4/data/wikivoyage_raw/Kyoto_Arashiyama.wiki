@@ -1,0 +1,393 @@
+{{pagebanner|Kyoto-Arashiyama-Nonomiya-banner.jpg|caption=Nonomiya shrine, inside the bamboo forest|unesco=yes}}
+[[Image:Ōkouchi sansou.JPG|thumb|250px|Ōkōchi Sansō]]
+'''Arashiyama''' (嵐山) is in [[Kyoto]].
+
+==Understand==
+While this western part of Kyoto is dismissed in most Western guidebooks in a brief paragraph suggesting "other attractions", the area is rightfully very popular with Japanese tourists and well worth a visit.
+
+==Get in==
+
+===By train===
+{{Mapframe|35.005|135.680|zoom=13}}
+The local '''JR Sagano Line (San'in Main Line)''' departs from Kyoto Station and stops at a number of stations in the northwest part of the city, including '''Sagaarashiyama''' (a good starting point for exploring the Arashiyama area). Both local and rapid service stops at Sagaarashiyama, but limited express does not.
+
+Arashiyama can also be accessed by the '''Hankyū Arashiyama Line''', which branches off from the Hankyū Kyōto Main Line at '''Katsura Station'''. The '''Matsuo Area''' can be reached by disembarking at the Matsuo station, just before Arashiyama.
+
+The '''Randen''' (Keifuku) tram line, Kyoto's only surviving streetcar, ends at Arashiyama Station, directly in the heart of the area. The main line runs from the central city at Shijo-Omiya, while the Kitano branch line travels to Hakubaichō, serving several sites in the [[Kyoto/North|northern city]]. Fare is a flat ¥250 for adults, or ¥120 for children 6–12 (2023).
+
+===By subway===
+Although the municipal subway system doesn't serve Arashiyama directly, travellers coming from other parts of the city (especially [[Kyoto/Central|Central]] and [[Kyoto/Higashiyama|Higashiyama]]) can use the '''Tōzai Line''' as far west as '''Nijō Station''', where they can transfer to JR trains running on the Sagano Line (San'in Main Line).
+
+===By bus===
+Kyoto City Bus 11, 28, 91, 93 and Kyoto Bus 72 - 86 will get you to the Arashiyama area. Kyoto Bus 72 - 86 leave from platform C6 at Kyoto Station. The 91 Bus will take you to Daikaku-ji. The Matsuo area can also be reached using Bus 28, and it's the only city bus that travels to this area from Kyoto Station. The ¥600 Bus One-Day Pass works for the Arashiyama or Matsuo-bound buses.
+
+==Get around==
+You will mostly want to walk and see all the sights. But there are also rickshaws available.
+
+==See==
+[[Image:Monkey Park in Arashiyama, Kyoto.jpg|thumb|250px|A family of macaque monkeys in Monkey Park Iwatayama]]
+* {{see
+| name=Bamboo Forest | alt= | url= | email=
+| address= | lat=35.0168446 | long=135.6716 | directions=
+| phone= | tollfree=
+| hours= | price=Free
+| wikidata=Q23579173
+| lastedit=2023-11-15
+| content=This is the reason why most people head into this area, all taking the same looking pictures. You should visit when the sun is at its highest point, because the forest is quite dark and will only let in a few sun rays — don't wait until the afternoon. Note, the bamboo forest is free, but you might get the impression that you have to cross through the ''Tenryū-ji'' temple and gardens to reach it, don't or it will cost you ¥500. Just take the walkway route just south of the railway tracks, which begins at the upper end of the main road leading north from the ''Randen'' tram terminal. 
+}}
+* {{see
+| name=Togetsukyō Bridge | alt=渡月橋 | url= | email=
+| address= | lat=35.012758 | long=135.677741 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=This picturesque bridge spans the '''Hozu River''', which usually has a healthy and fast current of water in it. Please note that the sidewalks are one-way.
+}}
+* {{see
+| name=Tenryū-ji | alt=天龍寺 | url=http://zen.rinnou.net/head_temples/10tenryu.html | email=
+| address=68 Saga Tenryū-ji Susukinobaba-chō | lat=35.015833 | long=135.673693 | directions=Main entrance near the busy Togetsukyō Bridge intersection
+| phone=+81 75-881-1235 | tollfree= | fax=
+| hours=Mar-Oct: daily 08:30-17:30; Nov-Feb: daily 08:30-17:00 | price=¥600 (garden + temple), or ¥500 (garden only)
+| content=One of the city's [[UNESCO World Heritage List|UNESCO World Heritage Sites]] and the main temple of the Rinzai sect of Buddhism in Kyoto; it's also considered one of Kyoto's Five Great Zen Temples. Tenryu-ji was founded in 1334, but the current buildings all date from the last century: pleasant, but unremarkable. However, there is a lovely garden and pond, designed by the Zen master Musō Soseki, that is worth a look - and well worth taking a leisurely stroll around. After your walk, head out the back way and through the splendid bamboo forest to reach the Ōkōchi Sansō villa (see below).
+}}
+
+* {{see
+| name=Ōkōchi Sansō | alt=大河内山荘 | url= | email=
+| address= | lat=35.017281 | long=135.669355 | directions=Near the bamboo grove behind Tenryū-ji
+| phone = +81 75-872-2233 | tollfree= | fax=
+| hours=Daily 09:00-17:00 | price=Entrance is &yen; 1000; the price includes a cup of ''matcha'' (green tea) and a small dessert in the villa's teahouse
+| content=A splendid mountain retreat, previously occupied by Japanese silent screen legend Ōkōchi Denjirō. The grounds have something beautiful to offer each season but are probably at their best during autumn, when the trees explode into fiery shades of red and gold. Take a long, leisurely walk through the villa's beautiful gardens and savour the fine views of the city below. There is a small museum on the grounds dedicated to the former owner's life and work.
+}}
+* {{see
+| name=Nonomiya Shrine | alt=野宮神社, Nonomiya-jinja | url=http://www.nonomiya.com/ | email=
+| address= | lat=35.017731 | long=135.674184 | directions=
+| phone = +81 75-871-1972 | tollfree= | fax=
+| hours=Daily 09:00-17:00 | price=Entrance is free
+| content=A small shrine located amidst Arashiyama's famous bamboo forest. It was here that women were once trained prior to becoming shrine maidens at [[Ise|Ise Shrine]], the holiest Shinto Shrine in Japan.
+}}
+
+* {{see
+| name=Iwatayama Monkey Park | alt= | url= | email=
+| address= | lat=35.011061 | long=135.676626 | directions=
+| phone= | tollfree= | fax=
+| hours=Daily 09:00-16:00 | price=¥550 to enter the park, ¥250 for children 4–15; peanuts cost extra, but you know the monkeys appreciate it
+| image=Iwatayama Monkey Park baby monkey.JPG
+| lastedit=2018-11-16
+| content=A great place for those looking to get away from the abundance of temples and shrines in the city, feeding the macaque monkeys atop the mountain is worth the entrance fee (and the demanding 20-minute climb!). Don't bring food up with you, though - peanuts and apple slices are on sale inside the shack on top of the mountains, and the monkeys are well aware of it. There's a pond next to the shack, and the monkeys seem particularly fond of the keeper's motorcycle, which is usually parked there. If you manage to pull yourself away from watching them, the mountain has a nice view of Kyoto as well.
+}}
+* {{see
+| name=19th Century Hall | alt=19世紀ホール | url= | email=
+| address= | lat= | long= | directions=Just outside Saga Arashiyama station
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=A museum covering the unlikely combination of steam locomotives and pianos. Probably best to look at it from the outside, and listen to the amusing tinny music it blasts out.
+}}
+
+[[Image:Kyotootagi.jpg|thumb|250px|Sharing a cup at Otagi Nenbutsu-ji]]
+*{{see
+| name=Otagi Nenbutsu-ji Temple | alt=愛宕念仏寺 | url= | email=
+| address=2-5 Fukatani-chō | lat=35.03135 | long=135.661131 | directions=By bus, take #72 from Kyoto station to Otagidera-Mae, or within Arashiyama, catch #62 or #72.
+| phone = +81 75-865-1231 | tollfree= | fax=
+| hours=Daily 08:00-17:00 | price=¥300
+| content=Despite being omitted from virtually all guidebooks, it's one of the true unknown gems of Kyoto. It was founded in the eighth century, and went through an unlucky patch for a millennium or so; by turns it was destroyed by flood, fire and typhoon, and had to move location a few times. Today, it sits a short distance from the end of Saga Toriimoto, one of Kyoto's three historic preservation districts. Two fierce statues guard the entrance. Once you're through the gate, though, you'll find over 1200 small (knee-to-waist high) statues, each with its own unique character - you'll see a cheerful boxer near the entrance, but you could spend hours checking out the rest, and you'll do it in relative seclusion, since this is well away from the tourist trail. The statues were carved in 1981 by amateurs under the direction of master sculptor Kocho Nishimura. Moss and forest have begun to reclaim the area, and if you've ever wondered what [[Angkor Wat]] would look like crossed with Japanese ''kawaii'', this is your chance.
+}}
+* {{see
+| name=Daikakuji Temple | alt=大覚寺 | url=http://www.daikakuji.or.jp/en/ | email=
+| address=4 Saga-Osawa-cho | lat=35.028325 | long=135.677803 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=While it is a temple today, originally, it was the villa of Emperor Saga. It is well-known by those who practice ''Ikebana'', the Japanese art of flower arranging, as it is the birthplace of Saga Goryu, a school of Ikebana. Often, there are examples of Saga Goryu near the entrance to the temple. The temple itself is reasonably large, with some artwork inside. The view of the Osawanoike Pond is quite relaxing.
+}}
+* {{see
+| name=Adashino Nenbutsu-ji | alt=化野念仏寺 | url=http://www.nenbutsuji.jp/ | email=
+| address= | lat=35.026817 | long=135.664545 | directions=
+| phone = +81 75-861-2221 | tollfree= | fax=
+| hours=Daily 09:00-16:30 | price=
+| content=The famous Priest Kūkai established this temple for the purpose of saying prayers for Arashiyama's dead. The temple grounds are filled with approximately 8000 Buddhist statues, each representing an unknown or forgotten person. Although it is famous for its statues, just like Otagi Nenbutsu-ji, Adashino Nenbutsu-ji is a spiritual place and a graveyard, so it has greater historical and spiritual significance, as well as impressive and beautiful. If you take a walk through the small bamboo-lined path to the upper area, you'll find actual grave sites instead of the statues in the lower area. There is also an area similar to the purification spots found at most temples however, at this one, you are supposed to pour water on each of the statues as you walk around it. This is a form of reverence and worship, and the Japanese who enter (particularly those who come to the upper area) come to pray, so while it may be fun, try also to be respectful.
+}}
+
+[[File:Giōji.jpg|thumb|250px|Giō-ji Temple]]
+*{{see
+| name=Giōji Temple | alt=祇王寺 | url=http://www.giouji.or.jp/ | email=
+| address= | lat=35.023363 | long=135.666765 | directions=
+| phone = +81 75-861-3574 | tollfree= | fax=
+| hours=Daily 09:00-17:00 | price=¥300
+| content=Mentioned in the Tales of Heike, this is the site where sisters Gio and Ginyo come to devote their lives to Buddhism. Although the temple itself is rather small, the visit is made worthwhile by its vivid bright green moss garden.
+}}
+*{{see
+| name=Takiguchi-dera Temple | alt=滝口寺 | url= | email=
+| address= | lat=35.023003 | long=135.666583 | directions= on the same road as Gioji, at the end
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=A quiet, peaceful temple of less interest than nearby Gioji Temple.
+}}
+*{{see
+| name=Jōjakkōji Temple | alt=常寂光寺 | url=http://www.jojakko-ji.or.jp/main.php | email=
+| address= | lat=35.019642 | long=135.668673 | directions=
+| phone = +81 75-861-0435 | tollfree= | fax=
+| hours=Daily 09:00-17:00 | price= ¥400
+| content=This temple is quite beautiful in the autumn when the leaves are changing, and the view of the city from just above the pagoda is a truly spectacular.
+}}
+*{{see
+| name=Nison-in Temple | alt=二尊院 | url= | email=
+| address= | lat=35.021218 | long=135.667881 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=¥500
+| content=A large temple complex that houses two ancient sculptures of Buddha; one of Shakamuni Buddha and the other of Amida Buddha. It also houses the graves of some famous Japanese people. Unless you have interest in visiting one of the graves, the complex seems expensive compared to other temples of the same price with much more interesting sites and history.
+}}
+*{{see
+| name=Hōkyō-in | alt=宝筐院 | url=http://www.houkyouin.jp/index.html | email=
+| address= | lat=35.022512 | long=135.673534 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Home to the graves of the court's former enemies, as well as a beautiful moss garden.
+}}
+*{{see
+| name=Seiryō-ji | alt=清凉寺; 峨釈迦堂, sagashaka-dō | url= | email=
+| address= | lat=35.023498 | long=135.674289 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=This is the former home of Minamoto no Tōru who is believed to be the man that the famous Tale of Genji's protagonist Genji was inspired by.
+}}
+*{{see
+| name=Hōrinji Temple | alt=法輪寺 | url=http://www.kokuzohourinji.com/ | email=
+| address= | lat=35.010219 | long=135.677001 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Hōrin-ji (Kyoto) | image=Horinji Kyoto.jpg | wikidata=Q3146371
+| content=One of the five head Shingon temples in Kyoto. The Boddhisatva Akasagarbha is enshrined in this temple. The complex offers a nice view of Kyoto City. The lights here are quite beautiful during the autumn Kyoto Light-Up.
+}}
+*{{see
+| name=Senkō-ji | alt=千光寺; 悲閣, Daihikaku | url= | email=
+| address= | lat=35.015807 | long=135.665579 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=This temple was built as a memorial temple for those who died while working on dams and other projects under Suminokura Ryōi. There are a variety of monuments and statues on the temple grounds, and a haiku from the famous poet Matsuo Bashō was written about the cherry blossoms on the temple grounds. The walk along the Hozu River leading to the temple is arguably more enjoyable than the temple itself, as the water often displays quite vivid blues and greens.
+}}
+*{{see
+| name=Kōryū-ji Temple | alt=広隆寺 | url= | email=
+| address=32 Hachiokacho | lat=35.015502 | long=135.70731 | directions=
+| phone = +81 75-861-1461 | tollfree= | fax=
+| hours=Daily 09:00-17:00 | price= ¥700
+| content=Of all the temples in Kyōto, Kōryū-ji is the oldest, dating back to the 12th century. It also houses the Miroku Bosatsu, the first item in the nation to be designated a National Treasure.
+}}
+*{{see
+| name=Toei Kyoto Studio Park | alt=東映太秦映画村, tōei uzumasa eiga mura | url=http://www.toei-eigamura.com/en/ | email=
+| address=10 Uzumasa Higashihachioka-chō | lat=35.016271 | long=135.708601 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=An active film studio built by the Toei Company, one of Japan's largest entertainment companies. The highlight is the backlot with recreated Edo-period streets, where many period dramas (時代劇 ''jidaigeki'') were filmed, and continues to be in active use so you may catch a filming session going on if you're lucky. Also has many shows and exhibits about filming techniques, as well as plenty of activities to keep the kids occupied, provided of course they can speak and understand Japanese.
+}}
+
+=== Matsuo area ===
+Located just south of Arashiyama, the Matsuo (officially Matsunoo) area is rarely mentioned in most guidebooks however, it does have a few interesting sites, particularly Kokedera, a [[World Heritage Site]] and Matsuo Taisha which the area is named after.
+
+*{{see
+| name=Matsunoo Taisha | alt=松尾大社, matsunoo-taisha; nickname: matsuo-taisha | url=http://www.matsunoo.or.jp/index-1/index.html | email=
+| address= | lat=34.999967 | long=135.68517 | directions=
+| phone = +81 75-871-5016 | tollfree= | fax=
+| hours=Shrine: 05:00-18:00; Treasure house 09:00-16:00 | price=Shrine is free, ¥500 to see shrine treasures and garden area
+| content=A shrine that's rarely visited by foreigners, Matsuo Taisha (as it's more commonly known) is a popular place for sake brewers to pray. The shrine existed prior to the establishment of Kyoto as Japan's capital and later received offerings from the Heian court. The shrine is famous for its water, said to be pure, as well as its interesting gardens and landscape.
+}}
+
+[[Image:Katsura Rikyuu.JPG|thumb|250px|Katsura Imperial Villa]]
+*{{see
+| name=Katsura Imperial Villa | alt=桂離宮, Katsura rikyū | url=http://sankan.kunaicho.go.jp/english/guide/katsura.html | email=
+| address= | lat=34.983991 | long=135.709572 | directions=about 15-20 minutes on foot from Katsura Station on the Hankyū Kyōto Main Line, 5-8 minutes on foot from Katsura Rikyū-mae bus stop
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=A real cultural treasure, renowned for its magnificent gardens and fine classical architecture. You can obtain permission to join a tour of the property either through the Imperial Household Agency's official website (which also contains a detailed list of instructions [http://sankan.kunaicho.go.jp/english/]) or by applying in person at the agency's Kyoto office (near the Imperial Palace). Be sure to apply well in advance of your visit: slots are extremely limited and the much sought-after online permits are rationed out through a lottery selection process.
+}}
+*{{see
+| name=Umenomiya Shrine | alt= | url=http://www.umenomiya.or.jp/ | email=
+| address= | lat=35.004172 | long=135.694908 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=The shrine grounds are free, but to enter the shrine costs ¥500
+| content=This shrine is oddly dedicated to gods of both easy delivery and sake, because it is believed that the goddess Saketokekono was so delighted at the birth of her son that she made and drank sake. In addition, the stone to the right (upon entering) is believed to ensure pregnancy to any woman who steps over it, as a former Empress originally who was originally thought to be barren got pregnant after stepping over this stone. Along with a plethora of folk beliefs, the shrine is also a popular place to view flowers in the summertime.
+}}
+*{{see
+| name=Suzumushi-dera | alt=鈴虫寺 | url=http://www.suzutera.or.jp/ | email=
+| address= | lat=34.993624 | long=135.684863 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content="Suzumushi-dera" means "cricket temple", and as you might guess, there is a large case of crickets all along the wall inside the temple. Ever since the temple was featured on the NHK, Japan's national television station, it has received quite large crowds of people waiting to enter, but don't let the crowds scare you away. The purpose is to enjoy the crickets chirping, so upon entering, visitors are treated to tea, a snack, and a speech by one of the temple's priests (in Japanese, of course) lasting roughly 20 minutes. He talks about the crickets and makes a shameless plug for the charms sold at the temple and then the next group is allowed in. The temple seats a large number of people, so even those waiting on the steps should be able to get in for the next session. In order to keep the crickets chirping, they have to keep the temple warm, making it great for winter travellers.
+}}
+*{{see
+| name=Kokedera | alt=苔寺; officially 西芳寺, Saihō-ji | url= | email=
+| address=56 Jingatani-cho, Matsuo | lat=34.991964 | long=135.683309 | directions=
+| phone = +81 75-391-3631 | tollfree= | fax=
+| hours=The temple will tell you when your reservation is scheduled for in their response letter if you have been accepted | price=Admission is ¥3000 (the most expensive temple in Kyoto)
+| content=Kokedera, also known as '''Saiho-ji''', is one of Kyoto's [[World Heritage Site|World Heritage Sites]] famous for is beautiful moss garden. In the past, visitors could come and go freely, like most temples however, due to tourists stepping on and killing the moss, the temple had to limit the number of visitors and now '''requires a reservation''' in order to visit. The only accepted method is by mail. You need to send a letter giving them your name, the number of people in your party, and the date(s) you prefer to visit along with a self-addressed stamped envelope for them to send their response back to you. Here is the temple's address: '''Saiho-ji Temple 56 Jingatani-cho, Matsuo Nishikyo-ku, Kyoto, 615-8286, Japan''' If accepted, you will pay on arrival. While the price is quite steep, keep in mind that along with a tour of the garden, you will also listen to a monk recite sutras and even get to copy the sutras yourself. For those lucky enough to be accepted for a visit, it is often one of their best memories.
+}}
+
+==Do==
+*{{do
+| name=Hozu River Cruise | alt= | url=http://www.hozugawakudari.jp/en/ | email=
+| address= | lat=35.01718 | long=135.58697 | directions=For a 16km trip down the river take the JR Sagano Line from JR Kyoto station to JR Kameoka Station (approx. 20 minutes by rapid express) and turn left when you exit the station. It is a 10 minute walk to the boarding site along a rather busy road.
+| phone= | tollfree=
+| hours=Departures run from mid March to the end of November roughly on the hour starting at 09:00. Last boat leaves at 15:30. During the winter boats with heated seats leave at 10:00, 11:30, 13:00 and 14:30 | price=¥3,900 for adults, ¥ 2,500 for children
+| content=To experience Arashiyama to the fullest, the river cruise is your best bet! A variety of boats, small or large, both rowed and motored, are waiting on either side of the river. Be sure to confirm how far and for how long the trip goes, though. Some are as long as two hours, and others will do a quick turnaround in less than twenty minutes. Be prepared to get splashed and take appropriate precautions for electronic equipment. The drop off point sets you down just outside the entrance to Iwatayama Monkey Park, a great location to begin your stroll around the sights of Arashiyama.
+}}
+*{{do
+| name=Ride in a Rickshaw | alt=人力車, jinrikisha | url=http://www.ebisuya.com/ | email=
+| address= | lat= | long= | directions=
+| phone = +81 75-864-4444 | tollfree= | fax=
+| hours= | price=Prices range from about ¥5000-7000, depending on where you go
+| content=For those looking to experience Kyoto from a different perspective, travelling in a rickshaw allows you to do just that. You can arrange where they will take you (and check the fees, of course) and then they will take a picture of you inside the rickshaw. Depending on where you are, you may even be able to get the Togetsukyo Bridge in the background. While you travel, the rickshaw puller will tell you about the area and the local sites, so you can learn a lot, if you understand Japanese. You can find the rickshaws around Togetsukyo Bridge.
+}}
+*{{do
+| name=Sagano Romantic Train | alt= | url=http://www.sagano-kanko.co.jp/en/ | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours=Trains depart from Torokko Saga Station every hour from 08:50 to 16:50 and from Torokko Arashiyama Station every hour from 08:53 to 16:53 | price=¥600
+| content=A scenic train clinging to the sides of the Hozu river gorge that runs from Arashiyama to Kameoka. Many people enjoy riding the train to Kameoka and then taking the '''Hozu River Cruise''' back to Arashiyama.
+}}
+
+==Buy==
+Most of the areas shops and dining are located along Tenryuji Tsukurimichi-cho, which runs from the Togetsukyo Bridge up to Seiryoji Temple.
+
+*{{buy
+| name=JJ Sagano | url= | email=
+| address=40-1 Tsukurimichi-cho | lat= | long= | directions=
+| phone = +81 75 882-0775 | tollfree= | fax=
+| hours=10:00-18:00, closed Tu | price=
+| content=A nice souvenir shop with a variety of Hello Kitty goods, as well as many local souvenirs.
+}}
+
+==Eat==
+===Budget===
+*{{eat
+| name=Shinpachi Tea House | alt=新八茶屋 | url=https://www.facebook.com/sinpachi55/ | email=
+| address=20-40 Saga Tenryuji Tsukurimichi-cho | lat= | long= | directions=
+| phone=+81 75 861-0117 | tollfree=
+| hours=Daily 09:00-18:00 | price=Gelatto single &yen;350, double &yen;400
+| content=Despite being called a teahouse, Shinpachi is popular for its gelatto ice cream. They also have ice cream cones and parfaits. It is also a souvenir shop, so visitors often enjoy eating their gelatto while browsing the shop.
+}}
+
+===Mid-range===
+*{{eat
+| name=Shintogetsu | alt=新渡月 | url=http://shintogetsu.net/ | email=
+| address= | lat= | long= | directions=
+| phone=+81 75 882-9884 | tollfree= | fax=
+| hours=11:00-17:00 | price=¥650-1300
+| content=Serves a variety of meal set, with soba and the famous Yodofu (tofu) being among the most popular.
+}}
+
+===Splurge===
+*{{eat
+| name=Hirokawa | alt=廣川 | url=https://unagi-hirokawa.jp/ | email=
+| address=48-1 Saga Tenryuji Kitatsukurimichi-cho | lat= | long= | directions=
+| phone=+81 75 871-5226 | tollfree=
+| hours=Tu-Su 11:00-15:00, 17:00-21:00 | price=&yen;1575-13,000
+| lastedit=2020-06-14
+| content=A great restaurant for those who enjoy eating eel. Reservations may be made one month in advance.
+}}
+
+==Drink==
+The Arashiyama has very few bars. Consider travelling to [[Kyoto/Central|Central Kyoto]] for the widest variety of drinking options.
+
+==Sleep==
+
+Most travelers will stay in [[Kyoto/Central#Sleep|Central]] or [[Kyoto/North#Sleep|Northern]] Kyoto instead, and visit Arashiyama only for the day.
+
+===Budget===
+
+====Temple lodgings====
+
+* {{sleep
+| name=Rokuō-in | alt=鹿王院 | url= | email= | wikidata=Q11677239
+| address=24 Kitahori-cho, Saga, Ukyo-ku | lat=35.016667 | long=135.684444 | directions=Near Arashimaya, six minutes by foot from Saga-Arashiyama Station on the JR Sagano Line
+| phone =+81 75-861-1645 | tollfree= | fax=
+| hours= | price=¥4,500 per person with breakfast
+| checkin= | checkout=
+| content=Only for female visitors. 10 rooms with a maximum capacity of 30; during peak season, guests traveling alone may be asked to share a room with another single guest; towels not provided; one bath. Crowded during autumn foliage season. Curfew at 19:30. Closed during New Year's holidays.
+}}
+
+====Hostels====
+* {{sleep
+| name=Bola Bola Guest House | url=http://www.bola-bola.jp/top_english.htm | email=
+| address=25-17 Horigauchi-cho Uzumasa, Ukyo-ku | lat= | long= | directions=near JR Uzumasa train station on the western part of Kyoto, 15 min. train ride from Kyoto station
+| image = Rokuo-in Kyoto Japan08s3.jpg
+| phone =+81 75-861-5663 | tollfree= | fax=
+| hours= | price=&yen;2500 dorm, &yen;3500 private room (&yen;2500 each for 2 or more people)
+| checkin=15:00-00:00 | checkout=11:00
+| content=A friendly and well kept guest house. The owner speaks English and is very willing to help foreign guests.
+}}
+* {{sleep
+| name=Utano Youth Hostel | alt=宇多野ユースホステル, utano yūsu hosuteru | url=http://yh-kyoto.or.jp/?page_id=34#n01 | email= | wikidata=Q17216981
+| address=9 Nakayama-cho, Uzumasa | lat= | long= | directions=
+| phone=+81 75-462-2288 | tollfree= | fax=
+| checkin=15:00-23:30 | checkout=10:00 | price=Prices start at ¥3,390 (¥2880 for ages 18 and under)
+| lastedit=2017-01-30
+| content=A convenient and affordable hostel in Arashiyama. They offer bike rentals for ¥600/day (or ¥200/hour), allowing you to easily see most of Arashiyama or explore much of [[Kyoto/North|Northwestern Kyoto]] in a day. They also have their own tennis court and barbeque grill available for use by guests. Reservations can be made online.
+}}
+
+===Splurge===
+* {{sleep
+| name=Hoshinoya Kyoto | alt=星のや京都 | url=http://hoshinoyakyoto.jp/en/?_ga=1.199609069.2108249247.1447565963 | email=
+| address=11-2, Arashiyama Genrokuzancho, Nishikyo-ku | lat= | long= | directions=
+| phone=+81 50-3786-0066 | tollfree=
+| checkin= | checkout= | price=
+| lastedit=2015-11-14
+| content=Modern ryokan with breathtaking views of the river. Very expensive, but service is very personalised, and some staff members are able to speak English. Guests are typically taken to the ryokan by boat on the river.
+}}
+
+==Go next==
+*[[Kyoto/Central|Central]]
+*[[Kyoto/Higashiyama|Higashiyama]] (Eastern Kyoto)
+*[[Kyoto/North|North]]
+*[[Kyoto/South|South]]
+
+{{routebox
+| image1=JR San-in icon.png
+| imagesize1=100
+| directionl1=W
+| majorl1=[[Toyooka]]
+| minorl1=[[Fukuchiyama]]
+| directionr1=E
+| majorr1=[[Kyoto/Central|Kyoto]]
+| minorr1=
+| image2=Number prefix Hankyu Kyoto line.png
+| imagesize2=30
+| directionl2=N
+| majorl2=END
+| minorl2=
+| directionr2=S
+| majorr2=[[Osaka/Kita|Umeda]]
+| minorr2=[[Kyoto/South|Katsura]] → into Kyoto mainline
+| image3=Number prefix Randen Arashiyama mainline.svg
+| imagesize3=30
+| directionl3=W
+| majorl3=END
+| minorl3=
+| directionr3=E
+| majorr3=[[Kyoto/Central|Shijō Ōmiya]]
+| minorr3=Uzumasa-Kōryūji
+| image4=Number prefix Randen Arashiyama mainline.svg
+| imagesize4=30
+| directionl4=W
+| majorl4=↑
+| minorl4=
+| directionr4=E
+| majorr4=[[Kyoto/North|Kitano Hakubaichō]]
+| minorr4=Katabiranotsuji → into [[File:Number prefix Randen Kitano line.svg|30px]]
+| image5=Subway KyotoTozai.png
+| imagesize5=30
+| directionl5=W
+| majorl5=END
+| minorl5=
+| directionr5=E
+| majorr5=[[Uji|Rokujizō]]
+| minorr5= [[Kyoto/Central|Karasuma Oike]] → [[Kyoto/Higashiyama|Yamashina]]
+| image6=Subway KyotoTozai.png
+| imagesize6=30
+| directionl6=W
+| majorl6=↑
+| minorl6=
+| directionr6=E
+| majorr6=[[Otsu|Hamaotsu]]
+| minorr6=[[Kyoto/Higashiyama|Misasagi]] → into [[File:Number prefix Otsu lines.svg|30px]]
+}}
+
+{{usabledistrict}}
+{{geo|35.008|135.710|zoom=13}}
+{{IsPartOf|Kyoto}}

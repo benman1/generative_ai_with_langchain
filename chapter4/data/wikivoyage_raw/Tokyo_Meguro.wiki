@@ -1,0 +1,232 @@
+{{pagebanner|Meguro Wikivoyage banner.jpg}}
+'''Meguro''' (目黒) ward is a largely residential district in southwest [[Tokyo]].
+
+==Understand==
+===Tourist information site===
+The local tourist association has a [https://meguro-kanko.com/ Japanese-only guide site] with integrated machine translation.
+
+==Get in==
+[[Image:Meguro-river.jpg|thumb|200px|right|Cherry blossom petals in the Meguro River]]
+The JR Yamanote, Metro Namboku (N), Toei Mita (I) and Tokyu Meguro lines all pass through Meguro station.
+
+Tokyu Toyoko line from Shibuya has 5 stations in the ward: Nakameguro (中目黒), Yutenji (祐天寺), Gakugei-daigaku (学芸大学), Toritsu-daigaku (都立大学) and Jiyugaoka (自由が丘). Metro Hibiya line (H) starts at Nakameguro.
+
+Komaba-todaimae (駒場東大前) station on Inokashira Line exists in the northernmost part of the ward in front of Tokyo University Komaba campus.
+
+==See==
+{{Mapframe|35.63212|139.68967|height=500|width=350|zoom=13}}
+{{Mapshape}}
+{{Mapshapes|Q682894}} <!-- Tokyo Metro -->
+{{Mapshapes|Q247782}} <!-- Toei Subway -->
+
+* {{see
+| name=Kumano Shrine | alt=熊野神社 | url= | email=
+| address= | lat=35.609889 | long=139.669139 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| image=Kumano jinja(Meguroku) torii.JPG | wikidata=Q11568958
+|lastedit=2025-12-05| content=Built 800 years ago. Surrounded by trees, people visit to pray or just for the peace and quiet. Some come for specific the worship practice of ''Yakuyoke'', a purification ritual to drive out evil spirits. Like all shrines, they sell protective amulets for health, good studies, or traffic safety, but these are distinctively cute. For a traditional shrine, they have a particularly flashy website that gives a good preview.
+}}
+* {{see
+| name=Meguro Parasitological Museum | alt=目黒寄生虫館 | url=http://www.kiseichu.org/Pages/english.aspx | email=
+| address=4-1-1 Shimomeguro | lat=35.63167 | long=139.70667 | directions=
+| phone=+81 3 3716-1264 | tollfree= | fax=+81 3 3716-2322
+| hours=Tu-Su 10:00-17:00; closed around New Years | price=Free; donations appreciated
+| content=One of a kind and oddly popular with couples on dates, although you might want to skip lunch before (or after) your visit here as the exhibits and pictures can be rather graphic. A compact two-story building, the most famous exhibit inside is an 8.8-meter-long tapeworm, with a matching string for you to take the measurement.
+}}
+* {{see
+| name=Meguro Gajoen | alt=目黒雅叙園 | url=https://www.hotelgajoen-tokyo.com/ | email=
+| address= | lat=35.63065 | long=139.71423 | directions=five-minute walk from the West exit of JR Meguro station, adjacent to the hulking Arco Tower office building
+| phone= | tollfree=
+| hours= | price=
+| content=A luxury hotel and wedding hall, with restaurants, cafes, and banquet rooms. One of the most popular attractions, though, is the spectacular public restroom.
+}}
+* {{see
+| name=Gohyakurakanji | alt=五百羅漢寺 | url=http://www.rakan.or.jp/ | email=
+| address= | lat=35.6289 | long=139.7093 | directions=
+| phone= | tollfree= | fax=
+| hours=09:00-17:00 all year round | price=¥300
+| lastedit=2015-11-03
+| content=This temple contains over 300 statues, all with different facial expressions. They were all carved by the same monk from 1687 to 1695.
+}}
+* {{see
+| name=Japan Folk Crafts Museum | alt=日本民藝館 | url=https://mingeikan.or.jp/ | email=
+| address=4-3-33 Komaba | lat= | long= | directions=7 min walk from Komaba Todai-mae station, in the Komaba Park
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q3789149
+| lastedit=2024-03-03
+| content=Founded in 1936. Must see for Japanese handicraft lovers.
+}}
+
+==Do==
+
+During cherry blossom season, the trees by the normally rather drab Meguro River bloom pink and Japanese congregate to picnic and drink by the riverside.
+
+The local chamber of commerce and neighborhood association is very active here staging more modern and fashionable events and festivals on many weekends. See a beautifully decorated Christmas tree or maybe an opera singer performing arias on the street. During the September festival you can watch people carry a sacred portable shrine or ''omikoshi''.
+
+==Buy==
+* {{buy
+| name=Kameyamannendo | alt=亀屋万年堂 | url= | email=
+| address=Jiyugaoka 1-15-12 | lat= | long= | directions=
+| phone=+81 3-3717-0400 | tollfree=
+| hours= | price=¥800
+| content=This Japanese-style confectionery shop was established in 1938.
+}}
+* {{buy
+| name=Wara | alt=和ら | url= | email=
+| address=2-14-8 Midorigaoka | lat= | long= | directions=
+| phone=+81 3-3725-7338 | tollfree=
+| hours= | price=¥5,000
+| content=There are many kinds of kimono which is gathered all over Japan. Money pouch (巾着) and bag which are made by cloth of kimono are popular. In this shop, you can learn how to put on kimono.
+}}
+
+==Eat==
+
+Meguro is famous throughout Japan for ''sanma'' (さんま), or Pacific saury, a type of ocean fish. It's obviously not fished in the area; rather, its fame comes from an old story. In September, there's a ''sanma festival'' where you can try it grilled by local vendors. If you need a cheap snack to sustain you go for a crepe, smoothie, or ''melon pan'' from one of the street vendors operating out of small trailers or funky old VWs. For many women in Tokyo, the neighborhood of Jiyugaoka is almost synonymous with sweets; it's impossible to list all of the many tea shops, cake shops, bakeries large and small, cafes, and chocolatiers.
+
+* {{eat
+| name=Sweets Forest | alt=スイーツフォレスト | url= | email=
+| address=Midorigaoka 2-25-7 | lat= | long= | directions=
+| phone=+81 3-5731-6600 | tollfree=
+| hours= | price=From ¥500
+| content=This is a mall dedicated to desserts. Multiple shops and cafes.
+}}
+* {{eat
+| name=Nana's Green Tea | url= | email=
+| address=Meguro-ku, Jiyugaoka 1-29-18 | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours=10:30-22:30 | price=¥600
+| content=This cafe has a lot of sweets and drinks made with powdered green tea and adzuki bean. Taste four kinds of Japanese tea. Try the Maccha chocolate latte.
+}}
+* {{eat
+| name=Hara-Donut | alt=はらドーナッツ 目黒店 | url=https://haradonuts.jp/meguro.html | email=
+| address=Meguro-ku, Jiyugaoka 1-3-13 | lat= | long= | directions=
+| phone=+81 3-3717-8850 | tollfree=
+| hours= | price=¥200
+| content=Organic donut shop. Seemingly oxymoronic healthy donuts are made with soy milk.
+}}
+* {{eat
+| name=Tonki | alt=とんき | url= | email=
+| address=Shimo-meguro 1-1-2 | lat= | long= | directions=Meguro West exit, down the hill on the left
+| phone=+81 3-3491-9928 | tollfree= | fax=
+| hours=Closed Tu and third M of the month | price=
+| content=Possibly good place to go for ''tonkatsu'' (breaded deep-fried pork cutlets), and popular with foreigners.
+}}
+*{{eat
+| name=Junkadelic | alt=ジャンカデリック | url=http://www.junkadelic.jp | email=
+| address=4-10-4 Kamimeguro, Meguro-ku | lat=35.640978 | long=139.694295 | directions=from the east exit of Nakameguro Station, follow the train tracks south, continue past the Family Mart, the restaurant is just under the train tracks from Natural Lawson
+| phone=+81 3-5725-5020 | tollfree=
+| hours=18:00-02:00 | price=Main dishes ¥800-1,600
+| content=Though the building looks a little old, this Mexican restaurant has some great Tex-Mex cuisine. The menu is not very large, but what it has is worth eating. Portions are reasonably sized, so consider getting an appetizer along with the main dish. For drinks, there are several Mexican beers and Mexican tequila available.
+}}
+* {{eat
+| name=Potager | alt=パティスリー ポタジエ | url=http://www.potager.co.jp/ | email=
+| address= | lat=35.64139 | long=139.69606 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=A bakery offering vegetable cakes
+}}
+* {{eat
+| name=Shutters | alt= | url=https://www.ys-int.com/jiyugaoka.html | email=
+| address=Setagaya-ku, Okusawa 5-27-15 | lat= | long= | directions=
+| phone=+81 3-3717-0111 | tollfree=
+| hours=11:30-23:00 | price=¥1,500~
+| content=Try the apple pie a la mode. Popular dishes here are the odd combination of spare ribs and apple pie. You can eat many flavors of tender spare ribs such as soy sauce, basil, and mustard. You can choose from sauces on your apple pie: cinnamon, blueberry, raspberry, chocolate and caramel--with vanilla ice cream too.
+}}
+* {{eat
+| name=Sushikou | alt=鮨幸 | url= | email=
+| address=Meguro-ku, Jiyugaoka 2-18-14 | lat= | long= | directions=
+| phone = +81 3-3717-1720 | tollfree= | fax=
+| hours= | price=¥10,000
+| content=Sushi.
+}}
+*{{eat
+| name=Jiyugaoka Burger | alt=自由が丘バーガー | url=https://www.jiyugaokaburgers.com/ | email=
+| address=Jiyugaoka 1-3-15 4F, Meguro-ku | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=Sets from ¥1100
+| content=Domestically-sourced, organic and thick burgers in a lush balcony setting.
+}}
+*{{eat
+| name=Kochoo | alt=コチュ | url=https://www.instagram.com/kochoo.jiyugaoka/ | email=
+| address=Okusawa 6-22-12, Setagaya-ku | lat= | long= | directions=3-min walk from Kuhonbutsu Station; 8-min walk from Jiyūgaoka Sta.
+| phone= | tollfree=
+| hours= | price=
+| content=Specializes in ''sundubu'', a Korean stew which actually has roots in Los Angeles. All-you-can-eat banchan, which is common practice in Korea but rare in Japan!
+}}
+*{{eat
+| name=Mangetsu Korean Cuisine | alt=韓国料理 満月 | url= | email=
+| address=Hills Spiga 2F, Jiyugaoka 1-14-16, Meguro-ku | lat=35.608644 | long=139.669715 | directions=2-min walk from Jiyūgaoka Sta. South Exit
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Korean-run establishment with an intimate atmosphere, great for an evening date. Good ''chijimi''!
+}}
+
+==Drink==
+For anyone looking below budget, exit the south side of the station, pick up a can at any convenience store, go to the tree-lined street one block south and sit on the benches. In the early evening you'll have plenty of company if the weather is good.
+
+* {{drink
+| name=Clann | alt= | url=https://www.instagram.com/clannirishpub/?hl=ja | email=
+| address=1-8-18 | lat= | long= | directions=
+| phone=+81 3-3725-9116 | tollfree=
+| hours=18:00-03:00 | price=
+| content=Irish pub with live music many nights.
+}}
+*{{drink
+| name=British Restaurant CLASH | alt= | url=http://clash.jp/ | email=
+| address=Shimomeguro 1-3-28, Sunwood Meguro Building 2F | lat= | long= | directions=Take either of the main roads leading downhill to the river from JR Meguro Station
+| phone= | tollfree=
+| hours= | price=
+| content=Formerly known as The Meguro Tavern. A British-style pub with plenty of draft beers and football on the telly.
+}}
+* {{drink
+| name=Rakuya | alt=楽屋 | url=https://www.rakuya.asia/ | email=
+| address=Kami-Meguro 2-15-6 | lat= | long= | directions=3 min from Naka-Meguro station
+| phone=+81 3-3714-2607 | tollfree=
+| hours= | price=
+| content=Spacious, classy but casual restaurant-bar with live music every night.
+}}
+*{{drink
+| name=Speyside Way | alt=スペイサイドウェイ | url=https://speysideway.jp/ | email=
+| address=Jiyugaoka 1-26-9 5F | lat= | long= | directions=North exit, take second right down a narrow street two short blocks to a T, across the street and just to the left. Look up for the sign.
+| phone=+81 3-3723-7807 | tollfree=
+| hours= | price=
+| content=Hundreds of whiskeys fill every available space. Hundreds. Short selection of micro-beers is also available.
+}}
+
+==Sleep==
+
+*{{sleep
+| name=Westin Hotel Tokyo | alt=ウェスティンホテル東京 | url=https://www.marriott.com/ja/hotels/tyowi-the-westin-tokyo/overview/ | email=
+| address=1-4-1 Mita | lat= | long= | directions=
+| phone=+81 3-5423-7000 | tollfree=
+| checkin= | checkout= | price=¥33,000 and up
+| content=Renovated in 2023. Rooms are elegant and well furnished with over-sized bathrooms and workout areas. Their in house spa offers a variety of services.
+}}
+* {{sleep
+| name=Tokyu Stay Meguro-Yutenji | alt= | url=http://www.tokyustay.co.jp/e/hotel/YU/index.html | email=
+| address=2-15-7 Yutenji | lat= | long= | directions=Yutenji station, on the Toyoko Line from Shibuya
+| phone=+81 3-5721-1109 | tollfree= | fax=+81 3-5401-1107
+| checkin= | checkout= | price=Singles start at ¥9,450, doubles at ¥17,850. Slight discounts are offered for extended stays
+| content=Part of the Tokyu Stay chain, these hotels are popular with business travelers. The small kitchenettes, washer/dryers, and free LAN access in all rooms makes these a good value.
+}}
+*{{sleep
+| name=Hotel Princess Garden | alt=ホテルプリンセスガーデン | url=https://www.princess-garden.co.jp/eng/ | email=
+| address=23 Kami-Osaki, 2 Chrome | lat= | long= | directions=
+| phone= | tollfree=
+| checkin= | checkout= | price=
+| content=Princess Garden offers rooms that are very comfortable. The beautiful garden and Japanese Tea Room on the hotel grounds add a level of beauty and serenity.
+}}
+* {{sleep
+| name=Hotel Pulitzer Jiyugaoka | alt=ホテル ピュリッツァー 自由が丘 | url=http://www.pulitzerjiyugaoka.com/ | email=
+| address=Jiyugaoka 2-11-18 | lat= | long= | directions=exit on the Rotary side; walk past Cafe Excelsior and on the left just before the next light
+| phone=+81 3-5726-3361 | tollfree=
+| checkin= | checkout= | price=¥15,000
+| content=Small hotel with only 18 rooms in the center of Jiyugaoka.
+}}
+
+
+{{geo|35.6333|139.6833}}
+{{usabledistrict}}
+{{IsPartOf|Tokyo}}

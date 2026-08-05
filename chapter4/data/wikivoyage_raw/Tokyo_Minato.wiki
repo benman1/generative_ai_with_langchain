@@ -1,0 +1,428 @@
+{{pagebanner|Sakura trees Roppongi Wikivoyage banner.jpg|caption=Cherry trees in Roppongi|pgname=Minato}}
+[[File:Tokyo_Wikivoyage_locator_maps_-_Minato.png|120px|thumb|right|Location of Minato in Tokyo]]
+'''Minato''' (港区) is a ward in central [[Tokyo]]. Its name means "port", referring to its seaside location, although many areas in the district are quite far from the sea now due to reclamation.
+
+==Understand==
+Minato is a fairly sprawling ward with no single center. It is known as a very wealthy part of Tokyo and home to most of Tokyo's foreign embassies, many of its large multinational corporations and a number of prestigious universities.
+
+The following parts of Minato have their own articles:
+
+* '''[[Tokyo/Akasaka|Akasaka]]''' - a business district and nightlife area near the government center
+* '''[[Tokyo/Odaiba|Odaiba]]''' - the Tokyo of the future built on reclaimed land in Tokyo Bay
+* '''[[Tokyo/Roppongi|Roppongi]]''' - Tokyo's hub for contemporary art and nightlife
+* '''[[Tokyo/Shinbashi|Shinbashi]]''' - an older business and commercial district
+* '''[[Tokyo/Shiodome|Shiodome]]''' - a still-growing cluster of brand new skyscrapers
+
+===Tourist Information Site===
+[https://visit-minato-city.tokyo/en/ Visit Minato City] is the ward's official multilingual guide site.
+
+==Get in==
+
+{{Mapframe|35.65176|139.74525|height=450|width=450|zoom=13}}
+{{Mapshape}}
+{{Mapshape|type=geoshape|wikidata=Q416131|fill=#aa6baa|title=[[Akasaka]]}}
+{{Mapshape|type=geoshape|wikidata=Q265071|fill=#aaee00|title=[[Roppongi]]}}
+{{Mapshape|type=geoshape|wikidata=Q1347299|fill=#ff6baa|title=[[Shinbashi]]}}
+{{Mapshape|type=geoshape|wikidata=Q211861|fill=#0033cc|title=[[Odaiba]]}}
+{{Mapshape|type=page|wikicommons=Shiodome for Wikivoyage.map}}
+{{Mapshapes|Q682894}} <!-- Tokyo Metro -->
+{{Mapshapes|Q247782}} <!-- Toei Subway -->
+{{Mapshape|wikidata=Q225095|type=geoline|stroke=#00b48d|stroke-width=4|stroke-opacity=1}} <!-- Rinkai Line -->
+
+===By train===
+* '''Hamamatsuchō''' (浜松町), terminus of the Tokyo Monorail from Haneda Airport; the closest station on the Yamanote to Tokyo Tower (10-min walk) and Roppongi (25-min walk).
+*'''Daimon''' (大門), By underground station Asakusa line and Oedo line.
+
+===By bus===
+* '''Hamamatsuchō Bus Terminal''' (浜松町バスターミナル), Exway buses came from [[Chiba (prefecture)|Chiba]] (ex [[Choshi]], [[Kisarazu]]) and [[Tohoku]] (ex [[Yamagata]], [[Hirosaki]]). '''Closed for re-building, reopen due March 2027.'''
+
+===By boat===
+* '''[http://www.tptc.co.jp/en/c_terminal/takeshiba Takeshiba Passenger Ship Terminal]''' (竹芝桟橋, Takeshiba Sanbashi) by boat from [[Izu Islands|Izu]] and [[Ogasawara Islands]].
+
+==See==
+[[File:Tokyotower.jpg|thumb|Tokyo Tower and the temple of Zōjōji]]
+* {{see
+| name=Tokyo Tower | alt=東京タワー Tōkyō Tawā | url=http://www.tokyotower.co.jp/ | email=
+| address= | lat=35.658611 | long=139.745556 | directions=the nearest station is Akabanebashi (5-min walk) although Hamamatsucho and Daimon are accessible through several lines and only slightly farther away
+| phone= | tollfree=
+| hours=Daily 09:00-22:00 | price=
+| wikipedia=Tokyo Tower | image=Tokyo Tower 20060211.JPG | wikidata=Q183536
+| lastedit=2024-02-09
+| content=This was a newly re-industrialized Japan's 1958 answer to [[Paris]]'s Eiffel Tower &mdash; a bit more modern-looking and 9 m taller. Entry to the Main Observatory (150m) is &yen;820, while ascending to the Special Observatory (250m) is an extra &yen;600. Your photo will be taken for purchase later (&yen;600). Tip: To get a good view of, and picture with, the tower, try the courtyard in front of Zojoji (nearby), or the second-floor deck outside the Mori Tower at Roppongi Hills. (Some consider that there are better alternatives for views, including the Tokyo SkyTree tower [[Tokyo/Sumida#See & Do|Sumida ward]] which is twice as high, or the [[Tokyo/Shinjuku|Shinjuku]]'s Metropolitan Government Building observatory instead).
+}}
+* {{see
+| name=Zōjō-ji Temple | alt=増上寺 | url=http://www.zojoji.or.jp/en/index.html | email=
+| address=Shibakoen 4-7-35 | lat=35.657479 | long=139.748376 | directions=Toei Mita Line Onarimon station
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=Zōjō-ji | image=Zojoji frontal steps.jpg | wikidata=Q249139
+| lastedit=2024-02-09
+| content=This grand old temple is the headquarters of the Jōdo-shū sect and houses the graves of 6 of the Tokugawa shoguns, but is a little off the beaten track and is rarely visited by tourists. Particularly beautiful around cherry blossom time. It hosts a variety of religious and non-religious festivals throughout the year.
+}}
+* {{see
+| name=Sengaku-ji | alt=泉岳寺 | url=http://www.sengakuji.or.jp/ | email=info@sengakuji.or.jp
+| address=Takanawa 2-11-1 | lat=35.637733 | long=139.736275 | directions=Toei Asakusa Line Sengakuji station exit A2
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Sengaku-ji | image=Sengakuji 03.JPG | wikidata=Q3176144
+| content=A temple most famous as the resting place of the '''47 Rōnin''', a famous group of ''samurai'' who banded together to avenge their unfairly slain master. Having obtained the head of the offender, they brought it to this very temple and then were condemned to commit ritual suicide, like their master. The story is told in ''Chūshingura'', the best-known of all Kabuki plays. History aside, the temple isn't much to look at, but the small museum has artifacts from the event and after, including wooden statues of all the ronin, the banner that the ronin posted during their raid, original letters, and the receipt that the priests wrote out for the head. The graves are a popular site of pilgrimage to this day.
+}}
+* {{see
+| name=Institute for Nature Study | alt=自然教育園 | url=http://www.ins.kahaku.go.jp/english/index.html | email=ins@kahaku.go.jp
+| address=5-21-5 Shirokanedai | lat=35.636007 | long=139.721312 | directions=adjacent to Teien Art Museum
+| phone=+81 3 3441-7176 | tollfree= | fax=+81 3 3441-7012
+| hours=Sep 1-Apr 30: 09:00-16:30, May 1-Aug 31: 09:00-17:00; closed Mondays, closed Dec 28-Jan 4 | price=Adults &yen;300, senior citizens and children free
+| image=Kokuritu kagaku hakubutukan huzoku sizen kyouikuen.jpg | wikidata=Q5557026
+| content=A 200,000 sq m nature preserve in the heart of the city, with birds and waterfowl, insects and marine life.
+}}
+* {{see
+| name=Rainbow Bridge | alt= | url=http://www.shutoko.jp/fun/lightup/rainbowbridge/ | email=
+| address= | lat=35.636389 | long=139.763611 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=Rainbow Bridge (Tokyo) | image=Rainbow Bridge, Tokyo, Japan, 2004.jpg | wikidata=Q1046736
+| lastedit=2024-02-09
+| content=Completed in 1993, this gateway to Odaiba is among the most beautiful modern bridges in Japan. Decorated with 444 lights, which change according to the seasons. Can be crossed by bus or metro.
+}}
+
+===Museums===
+* {{see
+| name=Tokyo Metropolitan Teien Art Museum | alt=東京都庭園美術館 | url=http://www.teien-art-museum.ne.jp/en/ | email=
+| address= | lat=35.636862 | long=139.719269 | directions=five minutes from the East exit of Meguro Station on Yamanote line
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=Tokyo Metropolitan Teien Art Museum | image=Tokyo Metropolitan Teien Art Museum.jpg | wikidata=Q743773
+| content=Art museum housed in a classic Art Deco style structure, connected to a small park with Japanese and Western gardens and outdoor sculptures.
+}}
+* {{see
+| name=Nezu Museum | alt= | url=http://www.nezu-muse.or.jp/ | email=
+| address=6-5-1 Minamiaoyama | lat=35.66216 | long=139.717603 | directions=
+| phone=+81 3-3400-2536 | tollfree= | fax=
+| hours= | price=
+| wikipedia=Nezu Museum | image=Nezu museum entrance tokyo 2014.jpg | wikidata=Q1047097
+| content=Showcases the private art collection of Nezu Kaichirō with many pieces from the Edo period.
+}}
+* {{see
+| name=Taro Okamoto Memorial Museum | alt= | url=http://www.taro-okamoto.or.jp/ | email=
+| address=6-1-19 Minamiaoyama | lat=35.661308 | long=139.715583 | directions=8 minutes from Omotesando station on foot
+| phone=+81 3-3406-0801 | tollfree=
+| hours= | price=
+| image=| wikidata=Q11473108
+| content=Former studio and house of Okamoto Taro. Unfinished works and paintings are shown. He made numerous masterpieces such as "Tower of the Sun" at the Expo 1970 and "Myth of the Future" mural now exhibited in [[Shibuya]].
+}}
+* {{see
+| name=TEPIA | alt= | url=http://www.tepia.jp/exhibition | email=
+| address=2 Chome-8-44 Kitaaoyama | lat=35.673056 | long=139.717222 | directions=
+| phone= | tollfree= | fax=
+| hours=Tu-Su 10:00-18:00, closed on holidays | price=Free
+| image=Tepia-Kita-Aoyama.jpg | wikidata=Q11319358
+| lastedit=2015-10-01
+| content=Science museum showcasing new technologies, robots, home automation. Explanations are in Japanese but playing with the objects is still fun for kids and adults.
+}}
+* {{see
+| name=Aquapark shinagawa | alt=アクアパーク品川 | url=http://www.aqua-park.jp/en/aqua/index.html | email=
+| address= | lat=35.628284 | long=139.732664 | directions=two minutes walk from Takanawa exit of Shinagawa station
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=Aqua Park Shinagawa | image=Aqua park shinagawa Wonder Tube.jpg | wikidata=Q3055859
+| content=A popular aquarium with exhibits that combine dolphin shows and technology. The tunnel tank includes manta rays, green sawfish, and the only dwarf sawfish on display in the world.
+}}
+* {{see
+| name=Japan Traditional Crafts Aoyama Square | alt=伝統工芸 青山スクエア | url=https://kougeihin.jp/ | email=
+| address=8-1-22 Akasaka | lat= | long= | directions=
+| phone= | tollfree=
+| hours=11:00-19:00 | price=Free
+| lastedit=2024-03-03
+| content=Gallery and shop for handicraft products from all over Japan.
+}}
+* {{see
+| name=Mori Building Digital Art Museum: teamLab Borderless | alt=森ビル デジタルアート ミュージアム：エプソン チームラボボーダレス (チームラボボーダレス, 麻布台ヒルズ, 東京) 
+| url=https://www.teamlab.art./e/tokyo | email=
+| address=Azabudai Hills Garden Plaza B B1 5-9, Toranomon, Minato-ku,
+| directions=Azabudai Hills Garden Plaza B B1F
+| image=TeamLab Borderless Azabudai Hills.jpg 
+| hours=Daily 08:30-21:00 | price = ¥3600-5600, depending on how far in advance you buy
+| wikidata=Q131314431
+| lastedit=2026-04-12
+| content=Art museum with immersive art exhibits. 
+}}
+
+==Do==
+* {{do
+| name=Tokyo Cruise | alt=水上バス 東京湾クルーズ (waterborne bus Tokyo Bay cruise) | url=http://www.suijobus.co.jp/en/ | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=Fares vary depending on routing
+| content=Plies the Sumida River and Tokyo Bay between Hamamatsucho, Odaiba, [[Tokyo/Asakusa|Asakusa]] and other points.
+}}
+
+==Buy==
+*{{buy
+| name=Tokyo Island | alt=東京愛らんど Tōkyō Airando | url=https://www.tokyoislands-net.jp/shop | email=
+| address=1-12-2 Kaigan | lat=35.653965 | long=139.76254 | directions=in Takeshiba Passenger Ship Terminal
+| phone=+81 3-5472-6559 | tollfree=
+| hours=Daily 09:00-22:30 | price=
+| content=Antenna shop of Izu Isands and Ogasawara Islands.
+}}
+*{{buy
+| name=Azabu-Jūban | alt=麻布十番 | url= | email=
+| address= | lat=35.65648 | long=139.73365 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Azabu-Jūban, Minato, Tokyo | image=Azabu-juban 0147.jpg | wikidata=Q4832008
+| content=A quieter commercial district to the southeast of Roppongi Hills, and a good place to spend a lazier afternoon browsing through shops and enjoying the local cafés. The surrounding residential area is popular among professional expats, so expect to see many international families as you walk through.
+}}
+* {{buy
+| name=Japan Sake and Shōchū Information Center | alt=日本の酒情報館 nihon no sake jōhōkan | url=http://www.japansake.or.jp/sake/information/ | email=
+| address=1-1-21 Nishi-Shinbashi | lat=35.669802 | long=139.752503 | directions=10 min from Shimbashi station
+| phone=+81 3-3519-2091 | tollfree=
+| hours=M-F 10:00-18:00, closed weekends and holidays | price=
+| content=This four-story complex run by the Central Brewers' Union sells anything and everything related to sake, including cups, glasses, books, hydrometers and, of course, the nectar itself. \315/515 gets you a taste of 3/5 sakes that change daily.
+}}
+
+==Eat==
+===Budget===
+
+Lunch boxes from supermarkets is another good option to save some money
+* {{eat
+| name=Daiei | alt= | url=http://shop.daiei.co.jp/shop/ShopPageTop.do?shopid=0766 | email=
+| address=Azabujuban 2-5-9 | lat=35.65633 | long=139.73383 | directions=between Azabujuban station and Hills, at the middle of Azabujuban's shopping street
+| phone= | tollfree=
+| hours=7:00-27:00 | price=One of the cheapest supermarket in the whole area
+| content=Two floors of food, drinks and more.
+}}
+* {{eat
+| name=Kua'aina | url=http://www.kua-aina.com/ | email=
+| address=Minami-Aoyama 1-10-4 | lat=35.662836 | long=139.710897 | directions=off of Omotesando
+| phone=+81 3-3409-3200 | tollfree= | fax=
+| hours=Daily 10:00-23:00 | price=Meal sets are available for ¥1000, higher after 17:00
+| content=Hawaiian hamburgers, order-at-the counter from a picture menu with English.
+}}
+
+===Mid-range===
+
+* {{eat
+| name=Worldstar Cafe | alt= | url=https://worldstarcafe.jp/ | email=
+| address=5-1-3 Roppongi, B1F Goto Bldg | lat=35.65633 | long=139.73383 | directions=
+| phone= | tollfree=
+| hours=Daily 11:00-06:00 daily | price=
+| content=Popular with business people or singles during lunchtime. Meal sets are ¥980–1200, comes w/ main, salad, drink; main being spaghetti, etc. Useful for a late night spot to hang around, since they're open until 06:00.
+}}
+* {{eat
+| name=Gonpachi | alt=権八 | url=http://www.gonpachi.jp/nishiazabu/?lang=en | email=
+| address=Nishi-Azabu 1-13-11 | lat=35.66014 | long=139.72356 | directions=Nishi-Azabu crossing, 5 min from Roppongi station
+| phone=+81 3 5771-0170 | tollfree= | fax=
+| hours= | price=
+| content=This lively and popular ''izakaya'', with a spectacular spacious interior and high-profile location, has served luminaries such as George W. Bush and former Prime Minister Koizumi, and was the model for the battle scene in [[Kill Bill tourism|Quentin Tarantino's film ''Kill Bill'']]. (The owner turned down the director's request to use the place itself.) Apart from this, it is a chain, so prices are reasonable food is not special, with all-you-can-drink deals from &yen;1500, noodles and rice dishes for under &yen;1000 and 6-course menus from &yen;3500. Make reservations and expect to see a lot of foreign visitors.
+}}
+* {{eat
+| name=Sarashina | alt=麻布永坂 更科本店 | url=http://www.sarashina-honten.com | email=
+| address= | lat=35.65655 | long=139.73679 | directions=
+| phone=+81 3-3584-9410 | tollfree= | fax=
+| hours= | price=¥2000 for lunch
+| lastedit=2015-05-20
+| content=One of the most famous restaurants for soba (buckwheat noodle). Try the various noodles they have, for instance egg noodles, with different colors. Their factory is still across the road despite sky-rocketing real estate prices.
+}}
+* {{eat
+| name=Tony Roma's | alt= | url=https://tonyromas.jp/en/ | email=
+| address=5-4-20 Roppongi | lat=35.65633 | long=139.73383 | directions=next to Hard Rock Cafe
+| phone=+81 3 3408-2748 | tollfree=
+| hours= | price=
+| lastedit=2022-12-18
+| content=Step out of Japan and into the United States; the bilingual staff and English-only menu might make you forget you are in Tokyo. The restaurant features their trademark ribs, worth the price which starts at ¥1880. The Texas Mud Pie is the cure for tiny Japanese desserts.
+}}
+* {{eat
+| name=Kushinobō | alt=串の坊 | url=https://kushinobo-roppongi.owst.jp/en/ | email=
+| address=Roppongi Hills West Walk 5F | lat=35.65633 | long=139.73383 | directions=
+| phone=+81 3 5771-0094 | tollfree=
+| hours=11:00-23:30 | price=meal for around ¥5000
+| content=for ''kushiage'' (deep-fried skewers).
+}}
+* {{eat
+| name=Nodaiwa | alt=野田岩 | url=http://www.nodaiwa.co.jp | email=
+| address=1-5-4 Higashi-Azabu | lat=35.658133 | long=139.743333 | directions=Nearest subway stops are Kamiyachō (H05), 550 meters north, and Akabanebashi (E-21), 400 meters south.
+| phone=+81 3-3583-7852 | tollfree=
+| hours=M-Sa 11:00-13:30, 17:00-20:00 | price=Around ¥4000 for lunch, ¥6000-10,000 for dinner
+| lastedit=2018-07-17
+| content=Perhaps the best spot in Japan to be served ''unagi'', or freshwater eel. Famous for always using naturally grown eels, never farmed ones. In the business for more than 200 years, Nodaiwa remains as popular as ever.
+}}
+* {{eat
+| name=Anniversaire Cafe | alt=アニヴェルセルカフェ | url=https://cafe.anniversaire.co.jp/omotesando/ | email=
+| address= | lat=35.666302 | long=139.711364 | directions=
+| phone=+81 3-5411-5988 | tollfree=
+| hours= | price=
+| content=This is a fashionable cafe of Paris style. You can enjoy elegant mood with seeing a row of houses and street of Omotesando. You can also choose fish or meat for lunch. Has another branch at Minato Mirai in Yokohama.
+}}
+
+===Splurge===
+* {{eat
+| name=Daigo | alt=醍醐 | url=http://www.atago-daigo.jp/ | email=
+| address=Atago 2 chome 3-1, Atago Green Hills Forest Tower, 2F, Atago | lat=35.663424 | long=139.749001 | directions=from the Ginza-sen Toranomon station, exit 10, east 60 m along Sotoboridori to the Shimbashi 1chome intersection, then south (right) 500 m along Iwada-dori
+| phone=+81 3-3431-0811 | tollfree= | fax=
+| hours=Daily: 11:30-14:00, 17:00-20:00 | price=Lunch ¥10,000, dinner ¥20,000-25,000 per person
+| content=Exquisite vegetarian or vegan "shojin ryori" cuisine. This is the traditional Buddhist spin on ''kaiseki''. Gracefully served by attentive kimono-clad staff. Small private dining rooms look out onto Japanese gardens. Very expensive, but a top-class experience.
+}}
+* {{eat
+| name=Narisawa | alt= | url=http://www.narisawa-yoshihiro.com | email=
+| address=2-6-15 Minamiaoyama | lat=35.671526 | long=139.721965 | directions=
+| phone=+81 3-5785-0799 | tollfree= | fax=
+| hours= | price=Menus from ¥20,000
+|lastedit=2020-03-24| content=Ranked among the world's best restaurants and with two Michelin stars. Expect a blend of classical French techniques with the finest Japanese ingredients. Narisawa also has a commitment to sustainability, which expresses itself at the table.
+}}
+* {{eat
+| name=Ristorante da Nino | alt= | url=http://ninolentini.jp | email=
+| address=Grande Maison Nogizaka 1F, 1-15-19 Minami Aoyama | lat=35.667946 | long=139.726638 | directions=
+| phone=+81 3 3401-9466 | tollfree=
+| hours=M–Sa 11:30–14:00, 18:00-23:00 | price=Weekday lunch courses from ¥1400 (Saturday lunch courses from ¥2800); dinner courses from ¥8000
+| content=Within easy walking distance from both Tokyo Midtown and Roppongi crossing, owner chef Antonino Lentini offers fine and fresh Sicilian dishes. Good wine selection.
+}}
+
+==Drink==
+===Clubs===
+
+==Sleep==
+
+===Mid-range===
+
+===Splurge===
+* {{sleep
+| name=Hotel Okura | alt= | url=http://www.hotelokura.co.jp/tokyo/en/ | email=
+| address=2-10-4 Toranomon | lat=35.66703 | long=139.74417 | directions=
+| phone=+81 3-3582-0111 | tollfree= | fax=+81 3-3582-3707
+| checkin= | checkout= | price=From ¥57,000
+| lastedit=2020-08-21
+| content=Luxury hotel that has been host to many celebrities since its opening in 1962.
+}}
+* {{sleep
+| name=Sheraton Miyako Hotel Tokyo | alt=シェラトン都ホテル東京 | url=https://www.miyakohotels.ne.jp/tokyo/ | email=
+| address=1-1-50, Shirokanedai | lat=35.638905 | long=139.730208 | directions=
+| phone=+81-3-3447-3111 | tollfree=
+| checkin= | checkout= | price=
+| lastedit=2017-03-04
+| content=Reasonably swish hotel. Good for a layover with its back garden and downstairs cigar bar. Probably a poor option for a tourist unless you have business in the area as it's about a ten minute walk from nearby transport and not close to attractions.
+}}
+* {{sleep
+| name=Tokyo Prince Hotel | alt=東京プリンスホテル | url=https://www.princehotels.com/tokyo/ | email=
+| address=3-3-1 Shibakoen | lat=35.65543 | long=139.74706 | directions=300 m from the Akabanebashi station on the O-Edo line
+| phone=+81 3 3432-1111 | tollfree=
+| checkin=14:00 | checkout=11:00 | price=From ¥13,500
+| image=Tokyo-Prince-Hotel-01.jpg
+| content=The hotel staff speak English, and the hotel has the amenities of its modern competitors. But it is a bit of a throwback. The beds are short, the decor is tacky, and everything (except the DSL) feels a little dated.
+}}
+* {{sleep
+| name=Akasaka Yoko Hotel | alt=赤坂陽光ホテル | url=http://www.yokohotel.co.jp/ | email=
+| address=6 Chome-14-12 Akasaka | lat=35.669575 | long=139.733187 | directions=
+| phone=+81 33-586-4050 | tollfree=
+| checkin=11:00 | checkout=10:00 | price=13000¥
+| lastedit=2025-10-26
+| content=It's quiet and it's a hotel near the station
+}}
+
+==Cope==
+*{{do
+| name=Tokyo Regional Immigration Bureau | alt=東京出入国在留管理局 | url=https://www.moj.go.jp/isa/ | email=
+| address= | lat=35.62816 | long=139.75665 | directions=exit JR Shinagawa Station on the Konan side, look to your left, and follow the signs to bus platform 8 serving Immigration
+| phone=+81 3-5796-7112 | tollfree=
+| hours=M-F 09:00-12:00 and 11:00-16:00 | price=
+| wikidata=Q11524534
+| content=This center serves foreign residents and long-term visitors. Also houses immigration detention. If going in the morning, get there early because a line forms outside long before opening hours.
+}}
+
+==Connect==
+
+==Go next==
+{{routebox
+| image1=JR JY line symbol.svg
+| imagesize1=30
+| directionl1=N
+| majorl1=[[Tokyo/Ueno|Ueno]]
+| minorl1=[[Tokyo/Akihabara|Akihabara]] ← [[Tokyo/Chiyoda|Tokyo]]
+| directionr1=W
+| majorr1=[[Tokyo/Shibuya|Shibuya]]
+| minorr1=[[Tokyo/Shinagawa|Shinagawa]] → [[Tokyo/Gotanda|Gotanda]]
+
+| image2=JR JK line symbol.svg
+| imagesize2=30
+| directionl2=N
+| majorl2=[[Kawaguchi]]
+| minorl2=[[Tokyo/North|Akabane]] ← [[Tokyo/Ueno|Ueno]]
+| directionr2=S
+| majorr2=[[Yokohama|Tsurumi]]
+| minorr2=[[Tokyo/Ota|Kamata]] → [[Kawasaki]]
+
+| image3=Subway TokyoGinza.png
+| imagesize3=30
+| directionl3=W
+| majorl3=[[Tokyo/Shibuya|Shibuya]]
+| minorl3=
+| directionr3=N
+| majorr3=[[Tokyo/Ueno|Ueno]]
+| minorr3=[[Tokyo/Ginza|Ginza]] → [[Tokyo/Akihabara|Suehirocho]]
+
+| image4=Logo of Tokyo Metro Hibiya Line.svg
+| imagesize4=30
+| directionl4=W
+| majorl4=[[Tokyo/Meguro|Naka Meguro]]
+| minorl4=[[Tokyo/Ebisu|Ebisu]]
+| directionr4=N
+| majorr4=[[Tokyo/Ueno|Ueno]]
+| minorr4=[[Tokyo/Ginza|Ginza]] → [[Tokyo/Chuo|Tsukiji]]
+
+| image5=Logo of Tokyo Metro Chiyoda Line.svg
+| imagesize5=30
+| directionl5=W
+| majorl5=[[Tokyo/Harajuku|Meijijingumae]]
+| minorl5=
+| directionr5=N
+| majorr5=[[Tokyo/East|Kitasenju]]
+| minorr5=[[Tokyo/Chiyoda|Nijubashimae]] → [[Tokyo/Bunkyo|Yushima]]
+
+| image6=Subway TokyoAsakusa.png
+| imagesize6=30
+| directionl6=W
+| majorl6=[[Tokyo/Ota|Nishi Magome]]
+| minorl6=[[Tokyo/Gotanda|Gotanda]]
+| directionr6=E
+| majorr6=[[Tokyo/Sumida|Oshiage]]
+| minorr6=[[Tokyo/Ginza|Higashi Ginza]] → [[Tokyo/Asakusa|Asakusa]]
+
+| image7=Subway TokyoMita.png
+| imagesize7=30
+| directionl7=W
+| majorl7=[[Tokyo/Meguro|Meguro]]
+| minorl7=
+| directionr7=N
+| majorr7=[[Tokyo/Toshima|Sugamo]]
+| minorr7=[[Tokyo/Chiyoda|Jinbocho]] → [[Tokyo/Bunkyo|Kasuga]]
+
+| image8=Subway TokyoOedo.png
+| imagesize8=30
+| directionl8=W
+| majorl8=[[Tokyo/North|Toshimaen]]
+| minorl8=[[Tokyo/Nakano|Higashi Nakano]] ← [[Tokyo/Shinjuku|Shinjuku]]
+| directionr8=N
+| majorr8=[[Tokyo/Sumida|Ryogoku]]
+| minorr8=[[Tokyo/Chuo|Tsukiji market]] → [[Tokyo/East|Kiyosumi-Shirakawa]]
+
+| image9=Yurikamome line symbol.svg
+| imagesize9=30
+| directionl9=W
+| majorl9=END
+| minorl9=
+| directionr9=E
+| majorr9=[[Tokyo/East|Toyosu]]
+| minorr9=[[Tokyo/Odaiba|Daiba]]
+
+| image10=Tokyo Monorail Line symbol.svg
+| imagesize10=30
+| directionl10=N
+| majorl10=END
+| minorl10=
+| directionr10=S
+| majorr10=[[Tokyo Haneda Airport|Haneda Airport]]
+| minorr10=[[Tokyo/Shinagawa|Ōi Horse Race Course]]
+}}
+
+{{usabledistrict}}
+{{geo|35.658069|139.751600|zoom=9}}
+{{IsPartOf|Tokyo}}

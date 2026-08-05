@@ -1,0 +1,235 @@
+{{pagebanner|Suginami WV banner.jpg|pgname=Suginami}}
+'''Suginami''' (杉並) is in [[Tokyo]], west of [[Tokyo/Shinjuku|Shinjuku]].
+*
+
+==Understand==
+Suginami is mostly a residential area which will provide a great view of real Japanese living in Tokyo.  The area's main points of interest are the clothing shops and nightspots of '''Kōenji''' and the antique shops of '''Ogikubo''' and '''Nishi-Ogikubo'''.
+===Tourist information site===
+The ward has a semi-official Japanese-only guide site and  [https://www.chuosen-rr.com/backnumber/ its Pamphlet section] has some materials in English.
+
+==Get in==
+{{Mapframe|35.69730|139.62662|zoom=13|width=500|height=500}}
+{{Mapshape}}
+
+JR Chuo Line and the Tokyo Metro Marunouchi Line both connect [[Tokyo/Shinjuku|Shinjuku]] to Ogikubo.
+Also JR Chuo line, JR Chuo Sobu line and Tokyo Metro Tozai line you can go to Kōenji (高円寺), Asagaya (阿佐ヶ谷), Ogikubo (荻窪) and Nishi-Ogikubo (西荻窪).
+''Be careful!''  During weekends and holidays Rapid service on JR Chuo line does not stop at Kōenji, Asagaya and Nishi-Ogikubo.
+
+Ōme Kaidō (青梅街道) is a main street which connects Shinjuku to the western burbs, running through Kōenji and Ogikubo. Straight down Ōme Kaidō, Kōenji is about a 19 minute drive, 70-minute walk or ¥2,500 taxi from Shinjuku Station.
+
+==See==
+[[Image:Myosyoji temple shimizu suginami tokyo.JPG|thumb|200px|Gate of Myosyoji temple]]
+* {{see
+| name=Suginami Historical Museum | alt=杉並区立郷土博物館 | url=https://www.city.suginami.tokyo.jp/histmus/ | email=
+| address= | lat=35.68594 | long=139.6454 | directions=In Wadabori Park
+| phone= | tollfree=
+| hours= | price=\100
+| content=It is small but has some interesting findings from the prehistoric and historic times.
+}}
+* {{see
+| name=Namisuke | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Namisuke is Suginami's official character and can be seen in posters on walls and loaves in convenience stores.
+}}
+* {{see
+| name=Myōshō-ji Temple | alt=妙正寺 | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Myosyoji Temple built in 1325, then rebuilt in 1646. Myosyoji park and Myosyoji river are nearby.
+}}
+* {{see
+| name=Myōshōji River | alt=妙正寺川, myōshōji-gawa | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content= The Myoshoji River starts from Myoshoji Pond in Myoshoji Park, then passes near Myoshoji Temple and finally meets the Kanda River. Cherry trees bow gracefully along the river.
+}}
+* {{see
+| name=Myōshōji Park | alt=妙正寺公園, myōshōji kōen | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content= Myoshoji Park is bigger than most other parks. One highlight is Myoshoji Pond, which has a fountain.
+}}
+* {{see
+| name=Suginami kōkaidō | alt=杉並公会堂 | url= | email=
+| address= | lat= | long= | directions=7-minute from Ogikubo station
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Suginami kōkaidō is a building that was built in 1957, then reconstructed in 2006. Many kinds of events take place here, including the coming of age ceremony for 20-year-olds.
+}}
+* {{see
+| name=Suginami Animation Museum | alt= | url=https://sam.or.jp/ | email=
+| address= | lat=35.710444 | long=139.607778 | directions=
+| phone= | tollfree=
+| hours= | price=price is free
+| wikidata=Q11095134
+| content=Suginami Animation Museum is for general animation. It shows animation and also gives people hands-on experience of making their own animation.
+}}
+*{{see
+| name=Omiya Hachimangū | alt=大宮八幡宮 | url=http://www.ohmiya-hachimangu.or.jp/hachimangu/ | email=
+| address=2-3-1 Omiya | lat=35.682375 | long=139.639664 | directions=
+| phone=+81 3-3311-0105 | tollfree=
+| hours=09:00-17:00 | price=
+| content=Built in 1053, the shrine is sometimes called "The Navel of Tokyo" because the center of Tokyo Metropolis lies there. It is said praying at the shrine brings easy delivery of your child.
+}}
+*{{see
+| name=Zenpukuji Park | alt=善福寺公園, zenpuku-ji kōen | url=http://www.tokyo-park.or.jp/park/format/index010.html | email=
+| address=3-9-10 Zenpukuji | lat=35.7148 | long=139.591 | directions=
+| phone=+81 3 3396-0825 | tollfree=
+| hours= | price=
+| content=Near Tokyo Women's Christian University. There is a lot of greenery. This park is well-known for water lily in the pond. You can take a boat and see them blooming in late May to early July.
+}}
+
+==Do==
+* {{do
+| name=Kōen-ji | alt=高円寺 | url= | email=
+| address= | lat=35.7037 | long=139.65285 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Has many used clothing and other shops and restaurants, as well as "live houses" where bands play all genres of music. After the war many temples and shrines were moved here and now there are many walking tours to visit them.
+}}
+* {{do
+| name=Tokyo Kōenji Awa Odori | alt=阿波おどり | url=http://www.koenji-awaodori.com/english/ | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=The Tokyo Kōenji Awa Odori is held yearly on the last Saturday and Sunday in August. About 1.2 million people show up to eat, drink and watch 188 groups (or 12,000 dancers) perform Awa dance to lively music and parade through the nine routes set up along the Shotengai station-front street. It is the second largest Awa Odori festival in Japan, after [[Tokushima]].
+}}
+* {{do
+| name=Wadabori Park | alt=和田堀公園 | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=A large park in Omiya that runs along Zenpukuji River. It is a popular place for groups and families to barbecue. There is a small pond, restaurant, and fishing tanks. There is also a children's park for bicycle training in a safe area with street signs and traffic signals. There is a traditional thatched roof house near the park as well. Kingfishers have their habitats in this area which is very rare in a city life. It's a fifteen minute walk from Nishieifuku Station on the Keio Inokashira Line, parking facilities available.
+}}
+
+==Buy==
+'''Kōenji''' (高円寺) has a long ''shōtengai'' (shopping street) that is well-known for its vintage clothing and bohemian-style shops. It more or less begins adjacent to Kōenji Station and runs south up to Ome-Kaido (Ome Highway) and Shin-Kōenji Station on Metro Marunouchi Line. It is composed of two sections: '''[http://www.koenji-pal.jp/ Kōenji Pal Shotengai]''', which is covered, and '''[http://koenjilook.com/ Kōenji Look Shotengai]'''.
+
+'''Asagaya''' (阿佐ヶ谷) also has a long series of shopping streets named '''[http://www.asagaya.or.jp/ Asagaya Pearl Center]''' and  [https://minamiasagaya-suzuranshotengai.com/ '''Suzuran Dori'''] running south from the JR station to Ome-Kaido (near Minami-asagaya station on Marunouchi line).
+
+'''Nishi-Ogikubo''' (西荻窪), one station down from Ogikubo, has a good selection of antique (骨董 ''kottō'') shops with reasonable prices, but they're scattered over a fairly large area.  Ask at the station for a map.
+
+==Eat==
+* {{eat
+| name=Baan-Esan | alt=バーン・イサーン | url=http://baan-esaan.com/ | email=
+| address=2F Mitsuwa Kaikan, 3-33-15 Kita Koenji | lat= | long= | directions=
+| phone=+81 3-5327-3629 | tollfree=
+| hours=17:00-03:00 | price=
+| content=A trip to Thailand just a minute's stroll from Koenji Station's south exit. Located on the Koenji ''shotengai'', they serve good-sized portions of traditional Thai food but not at Tokyo prices. Most dishes are ¥580 and great for sharing. The service is less than stellar, but the Thai woman in charge of the kitchen makes the wait worth it.
+}}
+* {{eat
+| name=Miyagawa | alt=みやがわ | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Another ''yakitori-ya''. It is small but has outdoor seating for about eight, and is some of the best yakitori you can find. Decorated with rock and blues paraphernalia spanning from the 1940s, it's got friendly staff, good prices and great food.
+}}
+* {{eat
+| name=Taishō | alt=大将 | url=https://koenji-yakitori.com/ | email=
+| address= | lat= | long= | directions=Right across from Kōenji Station's south exit
+| phone= | tollfree=
+| hours= | price=
+| content=A popular open-air ''yakitori'' restaurant. Cheap and good, it's crowded late into the night with the young and old working on tomorrow's hangover. Just look for the big red sign and tables made from milk crates. Two other locations of Taishō are also near the station: one about 100 m west of the station adjacent to the train tracks out the same exit, and another about two blocks straight north of the north exit.
+}}
+*{{eat
+| name=Ebisu Yakitori |alt=| url=http://www.yakitoriebisu.co.jp/ | email=
+| address= | lat= | long= | directions=turn right just outside Nishi Ogikubo's south exit and follow the smell of grilling chicken
+| phone= | tollfree= | fax=
+| hours= | price=Per piece from as low as ¥90
+|lastedit=2018-03-23| content=Don't let the glitzy photos on the website fool you. This branch consists of a sometimes changing string of tiny storefronts, kiosks, and rickety tables in the alley running west from the south exit of the station. Get ready for a raucous and very crowded and chaotic but fun experience.
+}}
+
+==Drink==
+* {{drink
+| name=B-Glad | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=A large restaurant-bar just north of the intersection of Ome-Kaido and the main street leading to Kōenji Station. The menu is a blend of Japanese and Western dishes (pasta, salad, pizza, yakitori) ranging from ¥450 to 1200. Located in the basement, it's extremely spacious by Japan standards, with comfortable seating, free billiards, and two electronic dart boards. Highballs are ¥550 and beer ¥600. Very friendly staff and 1950s music.
+}}
+* {{drink
+| name=Rad Bros Cafe | alt= | url=https://cafecreates.com/radbroscafe | email=
+| address=Koenjikita 1−4−2 | lat=35.705655 | long=139.655379 | directions=
+| phone= | tollfree=
+| hours=Sa-Su 10:00-18:00 | price=Coffee from ¥700
+| lastedit=2026-01-18
+| content=Clinical white & gray lab serving up fine coffee, both espresso and drip, and Basque (burnt) cheesecake. The most intriguing item on offer is a frozen cheesecake pudding served Mont Blanc style with freshly squeezed chestnut threads on top (¥1600, large enough for 2).
+}}
+
+==Sleep==
+* {{sleep
+| name=The Koenji | url=http://kouenji.seesaa.net/ | email=
+| address=2F,3F 3-22-2 Koenji | lat= | long= | directions=1 minute walk from Koenji Station on the Chou Line
+| phone=+81 80-3416-9048 | tollfree= | fax=
+| hours= | price=¥2500
+| checkin= | checkout=
+| content=The place has 7 rooms (4 single and 3 double) all efficiently laid out.  There may be noise from nearby bars on weekends.
+}}
+
+==Connect==
+
+==Go next==
+{{routebox
+| image1=JR Chuo icon.png
+| imagesize1=100
+| directionl1=W
+| majorl1=[[Nagoya]]
+| minorl1=[[Tachikawa]]
+| directionr1=E
+| majorr1=[[Tokyo]]
+| minorr1=[[Tokyo/Nakano]]
+
+| image2=JR Sobu icon.png
+| imagesize2=100
+| directionl2=W
+| majorl2=[[Mitaka]]
+| minorl2=
+| directionr2=E
+| majorr2=[[Tokyo/Shinjuku]]
+| minorr2=[[Tokyo/Nakano]]
+
+| image3=Seibu Shinjuku icon.png
+| imagesize3=100
+| directionl3=W
+| majorl3=[[Kawagoe|Hon-Kawagoe]]
+| minorl3=[[Tokorozawa]] ← [[Nishitokyo|Tanashi]]
+| directionr3=E
+| majorr3=[[Tokyo/Shinjuku|Seibu Shinjuku]]
+| minorr3=[[Tokyo/Nakano|Saginomiya]]
+
+| image4=Number prefix Inokashira.PNG
+| imagesize4=30
+| directionl4=N
+| majorl4=END
+| minorl4=
+| directionr4=S
+| majorr4=[[Tokyo/Shibuya|Shibuya]]
+| minorr4=[[Tokyo/Setagaya|Shimo Kitazawa]]
+
+| image5=Subway TokyoMarunouchi.png
+| imagesize5=30
+| directionl5=W
+| majorl5=END
+| minorl5=
+| directionr5=E
+| majorr5=[[Tokyo/Shinjuku|Shinjuku]]
+| minorr5=[[Tokyo/Nakano|Nakano Sakaue]]
+
+| image6=Japanese National Route Sign 0020.svg
+| imagesize6=30
+| directionl6=W
+| majorl6=[[Hachioji]]
+| minorl6=[[Fuchu (Tokyo)|Fuchu]] ← [[Chofu]]
+| directionr6=E
+| majorr6=[[Tokyo/Shinjuku|Shinjuku]]
+| minorr6=[[Tokyo/Setagaya|Setagaya]]
+}}
+
+{{usabledistrict}}
+{{geo|35.6833|139.6167}}
+{{IsPartOf|Tokyo}}

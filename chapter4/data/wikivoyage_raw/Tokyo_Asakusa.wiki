@@ -1,0 +1,408 @@
+{{pagebanner|Mena-asia_default_banner.jpg}}
+{{confused|[[Tokyo/Akasaka|Akasaka]], almost 7&nbsp;km (4 miles) away in the central [[Tokyo/Minato|Minato]] ward}}[[File:Kaminarimon1500.jpg|240px|thumb|Kaminarimon, Sensō-ji]]
+
+'''[http://www.jnto.go.jp/eng/location/regional/tokyo/asakusa.html Asakusa]''' ({{lang|ja|浅草}}) is a part of Tokyo's downtown [[Tokyo/Taito|Taito]] district, best known for its many temples, particularly '''Sensō-ji''', Tokyo's largest Buddhist temple.
+
+==Understand==
+Sensoji temple has been here since 645, but Asakusa only became a major '''entertainment district''' during the Edo period when the officials managing the rice warehouses in nearby Kuramae started coming here to party.  The area's golden age was during the Meiji and Taisho periods, when it boasted Tokyo's first Western bar (Kamiya Bar, see [[#Drink]]), its first amusement park (Hanayashiki, see [[#Do]]), countless theatres, and the gangsters, prostitutes and other colorful characters that came with the territory.  However, it was bombed flat during World War II and despite being rebuilt never quite recovered, with the action moving west to [[Shinjuku]], [[Roppongi]], etc.
+
+Today's Asakusa is Tokyo's '''tourist epicenter''', with lots of affordable accommodation, easy direct access to both Haneda and Narita airports, and plenty of businesses catering to visitors. You'll see lots of tourists being carted around the streets in rickshaws or walking the streets dolled up in kimonos and geisha makeup, and the crowds around Sensoji in particular can be immense, but quiet residential neighborhoods with little restaurants and local temples are only a block or two away from the beaten path.
+
+==Get in==
+===By plane===
+There are direct through train services from both [[Haneda Airport]] (40 min) and [[Narita Airport]] (1 hr) to Asakusa subway station on the Toei Asakusa Line.  From Narita it's around 15 min faster to take the Skyliner express via Ueno, but this costs more and requires a subway transfer.
+
+Alternatively, the [https://webservice.limousinebus.co.jp/web/en/ Airport Limousine] bus service runs every day from [[Narita Airport]] to Asakusa for ¥3,100. It arrives at Asakusa View Hotel, right next to Asakusa Station.
+
+A direct taxi from Haneda to Asakusa will run you around ¥9,000 including expressway tolls.
+
+===By train===
+Asakusa is the terminus of the Metro Ginza line (G19), which is the best way to get into the area, perhaps by connecting from the Yamanote line at [[Tokyo/Ueno|Ueno]].  Other options are to take the eponymous Toei Asakusa line (A18), which carves a path through eastern and southern Tokyo, or by taking the Toei Oedo Line to the Kuramae Station (E11), or by using the Tobu Skytree Line.  
+
+Asakusa is also the terminus of the Tobu Nikko line, offering direct access to the shrines and national parls of [[Nikko]], 2 hours away.
+
+Cruises down the Sumida River (''Sumida-gawa'') depart from a wharf only a 5-minute walk from the temple, by the Azuma-bashi bridge. There are a number of boat routes available, so have a look at the map and choose one. The largest operator is [http://www.suijobus.co.jp/en/cruise/asakusa/ Suijo Bus].
+
+==See==
+{{Mapframe|35.716|139.797|zoom=15|height=350|width=400}}
+{{Mapshape|type=geomask|wikidata=Q720644}}
+{{Mapshapes|Q682894}} <!-- Tokyo Metro -->
+{{Mapshapes|Q247782}} <!-- Toei Subway -->
+{{Mapshape|wikidata=Q225095|type=geoline|stroke=#00b48d|stroke-width=4|stroke-opacity=1}} <!-- Rinkai Line -->
+
+===Sensō-ji===
+[[File:Tokyo Asakusa Kannon.jpg|240px|thumb|Sensō-ji pagoda and Hōzōmon gate]]
+'''[https://www.senso-ji.jp/english/ Sensō-ji]''' (浅草寺), also known as '''Asakusa Kannon''', is Tokyo's largest Buddhist temple and a major attraction for Japanese and foreigners alike. Destroyed in World War 2, the main buildings and gates were rebuilt between 1951 and 1973. Take the Asakusa exit of the subway and follow the crowds.
+
+* {{see
+| name=Kaminarimon | alt=雷門, Thunder Gate | url=http://www.senso-ji.jp/guide/guide01.html | email=
+| address= | lat=35.71112 | long=139.79637 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=Kaminarimon
+| content=Up first, it features a much-photographed giant lantern and statues of guardian gods Raijin (god of thunder) and Fūjin (god of wind). First built in 942, the gate has been destroyed numerous times and the current incarnation dates to 1960. The Nakamise shopping arcade leading up to the temple starts after the gate (see [[#Buy|Buy]]).
+}}
+* {{see
+| name=Hōzōmon | alt=宝蔵門 | url=http://www.senso-ji.jp/guide/guide03.html | email=
+| address= | lat=35.71393 | long=139.79668 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=Hōzōmon
+| content=At the end of the arcade, it is the main gate, notable for a giant straw sandal (''waraji'') hung up on one side. This gate too is guarded by ferocious guardian gods. Rebuilt 1964.
+}}
+* {{see
+| name=Kannondō | alt=観音堂, Kannon Hall | url=http://www.senso-ji.jp/guide/guide04.html | email=
+| address= | lat=35.714736 | long=139.796725 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content= Behind the gate, the main hall of the temple is perennially busy with a steady stream of worshippers wafting incense over themselves and trooping up the steps to pray and donate. According to legend, the hall was first built in 628 to house a statue of Kannon, the Goddess of Mercy, fished out of the Sumida River by two brothers. Rebuilt 1951–58.
+}}
+* {{see
+| name=Gojūnotō | alt=五重塔, 5-Story Pagoda | url=http://www.senso-ji.jp/guide/guide06.html | email=
+| address= | lat=35.714102 | long=139.796041 | directions=to the west
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=It reputedly contains some of the ashes of the Buddha. Rebuilt 1973.
+}}
+
+===Other temples and shrines===
+* {{see
+| name=Asakusa Jinja | alt=浅草神社 | url= | email=
+| address= | lat=35.71500 | long=139.79743 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=To the east behind the temple is this Shinto shrine devoted to protecting the Buddhist temple in a typically Japanese arrangement. The fairly plain shrine is not much to look at, but is notable as the focal point of the Sanja Matsuri festival (see [[#Do|Do]]).
+}}
+* {{see
+| name=Chingodō Shrine | alt=鎮護堂 | url=http://www.senso-ji.jp/guide/guide14.html | email=
+| address= | lat=35.71312 | long=139.794759 | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=If you turn left before the Hōzōmon gate and head west for a few hundred meters, this quiet shrine is on your left. The shrine is dedicated to the Japanese raccoon god ''tanuki'', notably primarily for its big flask of sake and gigantic testicles (at least when depicted as a statue).
+}}
+* {{see
+| name=Dembō-in Temple | alt=伝法院 | url=http://www.senso-ji.jp/guide/guide13.html | email=
+| address= | lat=35.713236 | long=139.795459 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=¥300
+| content=This temple next to Sensō-ji, to which it belongs, has a spectacular Japanese garden. While generally closed to the public, it opens for exhibitions most years from roughly mid-March to early May. Other than the small garden, which is best in the cherry blossom (sakura) season, the exhibition also features some of the temple's cultural treasures. The entrance is close to the five-story pagoda (Gojūnotō) of the Sensō-ji temple (see above).
+}}
+
+==Do==
+* {{do
+| name=Sanja Matsuri | alt=三社祭 | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Organized at Asakusa Jinja yearly on the third weekend in May, this is Tokyo's largest festival (''matsuri'') and attracts up to 2 million spectators. The main event is a procession known as '''Daigyōretsu''', when traditional performers and musicians parade through the streets, while on the next two days portable shrines (''mikoshi'') are carried to and from the temple for purification.
+}}
+* {{do
+| name=Asakusa Samba Carnival | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Held on the last Saturday of August. The street parade, which features thousands of participants from all over Japan, is held in the afternoon around Sensō-ji, and there are some stage shows in the evening. The event started in 1981, it's the biggest party of the year for the many Japanese-Brazilian residents of Tokyo.
+}}
+* {{do
+| name=Hanayashiki | alt=花やしき | url=http://www.hanayashiki.net/ | email=
+| address= | lat=35.715497 | long=139.794689 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q863180
+| content=The oldest amusement park in Japan. Next to the Sensō-ji temple grounds is this small and somewhat lackluster carnival complex with rides, booths, and games. The neighborhood theatre specializes in showing classic Japanese films, as many of the tourists are elderly Japanese.
+}}
+
+==Buy==
+[[File:Nakamise_Arcade.JPG|thumb|240px|Nakamise shopping arcade]]
+
+* {{buy
+| name=Nakamise | alt=仲見世 | url=http://www.asakusa-nakamise.jp/e-index.html | email=
+| address= | lat=35.71188 | long=139.79645 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=This busy covered shopping arcade leads from the Kaminarimon gate to the temple, selling all sorts of Buddhist paraphernalia as well as assorted tourist kitsch. This is one of the best places in Tokyo to buy souvenirs (the other being the Oriental Bazaar in [[Tokyo/Harajuku#Buy|Omotesando]]), but more expensive items such as swords and kimono are likely to be of inferior quality.  Slightly nicer crafts, rather than mass-produced kitsch, can be found at good prices if you walk up to the temple, turn right, and turn right again on the first small street running parallel to Nakamise. You will see plenty of small shops in this general area which have better quality souvenirs and gifts, like handkerchiefs, strings of hand-made silk balls, and hairclips.
+}}
+
+==Eat==
+Asakusa is famous for its '''senbei''' rice crackers, grilled on the spot, flavored with soy and usually wrapped in seaweed.  There are many competing shops in the Nakamise arcade, and packages of ''senbei'' are a very popular souvenir among the Japanese as well.  '''Kaminari okoshi''', a sweet snack made of rice, peanuts, and syrup, originated from food stalls near Kaminarimon in the Edo period.  Asakusa is also famous for its '''tempura''', fried prawns and vegetables. You can find many tempura restaurants (high and low budget) in the streets near Nakamise-dori Street.
+
+===Budget===
+* {{eat
+| name=Kagetsudo | alt=花月堂 | url= | email=
+| address=Asakusa 1-18-11 | lat=35.711520 | long=139.796054 | directions=
+| phone=+81 3-5830-3534 | tollfree= | fax=
+| hours=Daily 09:00-17:00 | price=¥200 for one, ¥500 for three
+| lastedit=2016-01-12
+| content=This place has been making "melon pan" since 1945, and they haven't changed the decoration. It is a buttery and milky small cake with a crispy sweet crust.
+}}
+* {{eat
+| name=Naruto Taiyaki | alt=鳴門鯛焼 | url=https://www.taiyaki.co.jp/ | email=
+| address=Asakusa 1-28-1 | lat=35.7121 | long=139.7948 | directions=
+| phone=+83 3-5830-7668 | tollfree=
+| hours=Daily 10:00-23:00 | price=¥350 each
+| lastedit=2024-04-18
+| content=Freshly grilled ''taiyaki'', a traditional sweet waffle in the shape of a lucky fish, with your choice of red bean, sweet potato or custard filling.
+}}
+* {{eat
+| name=Nishiyama Sweets | alt=甘味処 西山 | url=http://www.asakusa-nishiyama.com/english-top/ | email=
+| address=Kaminarimon 2-19-10 | lat= | long= | directions=just off the main intersection, towards Kaminarimon
+| phone = +81 3 5830-3145 | tollfree= | fax=
+| hours=Th-Tu | price=
+| content=After an exhausting day visiting the temples, grab some hot steamed dumplings outside, or step inside for traditional desserts such as oshiruko (grilled rice cake in a sweet-bean porridge) or cream an-mitsu (gelatin cubes in molasses with candied fruit and ice cream). This very simple shop serving tea and sweets has been in business since 1852.
+}}
+* {{eat
+| name=Sansada | alt=三定 | url=http://www.tempura-sansada.co.jp/ | email=
+| address=Asakusa 1-2-2 | lat= | long= | directions=just right of Kaminarimon
+| phone = +81 3 3841-3400 | tollfree= | fax=
+| hours=Open from 11:30 | price=
+| content=Over 150 years of history. Try their tempura and soba set! Or the fresh deep fried flour/batter at the front of the restaurant. You can smell them from a mile away, because they use sesame oil.
+}}
+
+===Mid-range===
+[[File:Komakata Dozeu6.JPG|thumb|''Dojō nabe'' loach hotpot]]
+
+* {{eat
+| name=Aoi-Marushin | alt=葵丸進 | url=http://www.aoi-marushin.co.jp | email=
+| address=1-4-4 Asakusa | lat=35.711253 | long=139.794981 | directions=
+| phone=+81 3 3841-0110 | tollfree= | fax=
+| hours= | price=
+| lastedit=2016-12-29
+| content=Good tempura in a convenient location, with fifty years of history behind it.
+}}
+* {{eat
+| name=Benizuru | alt=紅鶴 | url= | email=
+| address=Nishiasakusa 2-1-11 | lat=35.7120 | long=139.7920 | directions=
+| phone= | tollfree= | fax=
+| hours=10:00-16:30 daily | price=Pancake stack from ¥1,200
+| lastedit=2024-04-17
+| content=Ludicrously fluffy pancakes served in wobbly stacks of three, with a selection of sweet and savoury toppings. Extremely popular among the Instagram crowd, the only way to get a guaranteed seat is to queue up in person before 8:30am and pay a ¥1000/person deposit. No English sign, but English menu available.
+}}
+* {{eat
+| name=Daikokuya | alt=大黒家 | url=http://www.tempura.co.jp/ | email=
+| address=1-38-10 Asakusa | lat=35.712764 | long=139.795524 | directions=
+| phone = +81 3 3844-1111 | tollfree= | fax=
+| hours= | price=Tendon from ¥2000
+| lastedit=2024-04-15
+| content=One of Tokyo's most famous tempura restaurants, opened in 1887. Be prepared for extremely long queues during meal times. An English menu is available on request.
+}}
+* {{eat
+| name=Komagata Dozeu | alt=駒形どぜう | url=https://www.dozeu.com/en/asakusa/ | email=
+| address=1-7-12 Asakusa | lat=35.70985 | long=139.79689 | directions=
+| phone = | tollfree= | fax=
+| hours= | price=From ¥2000
+| lastedit=2024-04-15
+| content=Another local institution, Komagata has been serving up loach hotpot (''dojō nabe'') for over 200 years. Small, bony and slimy, loach was the working man's alternative to eel, then as now an expensive luxury.  It's a bit of an acquired taste -- "tofu with bones" is a common description -- but it's very Asakusa and you can ladle on green onion and ''shichimi'' spice to add some flavor. Tatami seating downstairs, tables upstairs.
+}}
+* {{eat
+| name=Torijin | alt=鳥じん | url= | email=
+| address=1-1-12 Asakusa | lat= | long= | directions=
+| phone = | tollfree= | fax=
+| hours= | price=Set meals from ¥1500
+| lastedit=2024-04-15
+| content=Lurking in the dingy/atmospheric "mole alley" under Tobu Asakusa station, this friendly joint serves up ''yakitori'' grilled chicken skewers and, incongruously, a limited menu of Italian favorites.  Try the ''tsukimi tsukune'', a giant chicken meatball served with a raw egg for dipping.
+}}
+* {{eat
+| name=Tonkatsu Tōyama| alt=とんかつ とお山| url=https://to-yama.tokyo/ | email=
+| address=1-6-8 Hanakawado | lat=35.7125 | long=139.7984 | directions=next to Tōbu Asakusa stn north exit
+| phone = | tollfree= | fax=
+| hours=11:00-21:30| price=Set meals from ¥1200
+| lastedit=2024-04-19
+| content=Classic tonkatsu pork cutlets deep-fried to perfection, with your choice of fatty ''rōsu'' or leaner ''hire''.  Limited but extremely popular lunch menu (expect to queue for up to an hour), dinner menu has more options like katsu curry and katsudon.
+}}
+
+===Splurge===
+[[File:Yakatabune-nearodaiba-jan27-2015.jpg|thumb|Yakatabune]]
+
+Photogenic '''yakatabune''' (屋形船) boats lit up with red lanterns on both sides offer dinner cruises with drinks and traditional entertainment. These were once a staple of corporate entertainment but are now largely the domain of tourists. Like floating restaurants anywhere in the world, the experience is kitschy, mediocre and expensive, with an average 3-hour package clocking in at around ¥10,000/person &mdash; and remember, there's no escape once the karaoke starts.
+
+* {{eat
+| name=Amitatsu | alt= | url=https://www.amitatsu.jp/ | email=
+| address= | lat= | long= | directions=Departures from Asakusa's Azumabashi pier
+| phone= | tollfree= | fax=
+| hours= | price=From ¥13,000
+| lastedit=2024-04-17
+| content=One of the longer-running operators, with set meals of sashimi and tempura and daily departures sailing a loop from Asakusa to [[Tokyo/Odaiba|Odaiba]] and back.
+}}
+
+See the [https://www.yakatabune-kumiai.jp/ Yakatabune Association website] for a full list of options.
+
+There's a cluster of low-key sushi restaurants tucked away in the quiet streets north of Sensoji.
+
+* {{eat
+| name=Sushi Isshin | alt=鮨一新 | url= | email=
+| address=4-11-3 Asakusa | lat=35.7182 | long=139.7965 | directions=
+| phone=+83 3-5603-1108 | tollfree=
+| hours=M-Sa 18:00-22:00 | price=From ¥15,000
+| lastedit=2024-04-17
+| content=This tiny 8-seater restaurant has had a Michelin star for 13 years running thanks to its uncompromisingly old-school Edo-style sushi, prepared with seasonal seafood and ''akasu'' red vinegar made from sake lees. Reserve well in advance.
+}}
+
+==Drink==
+[[File:Kamiya bar7.JPG|thumb|Denki Bran at Kamiya Bar]]
+
+Given that it was once Tokyo's premier nightlife destination, Asakusa goes to bed pretty early these days. But there are still a few watering holes to be found if you look around.
+
+The local specialty is '''Denki Bran''' ("Electric Brandy"), a stiff brandy-based cocktail which originated at the '''Kamiya Bar''' but can be ordered at most drinking establishments in the area.  Tourist shops also hawk a green tea-beer abomination called Matcha Beer that has tea ceremony inventor Sen no Rikyu spinning in his grave.
+
+*{{drink
+| name=Kamiya Bar | alt=神谷バー | url=http://www.kamiya-bar.com | email=
+| address=Asakusa 1-1-1 | lat=35.710887 | long=139.797446 | directions=right on the corner at the main intersection
+| phone=+81 3 3841-5400 | tollfree= | fax=
+| hours=11:30-20:00 | price=Denki Bran ¥350
+| lastedit=2024-04-15
+| content=The home of the Denki Bran cocktail, this was Japan's first Western-style bar when it first opened in 1880 and remains a truly local institution. The ground floor is a large beer-hall-like bar, the second is a Western-style restaurant, and the upper floor serves Japanese food. Find a seat at one of the shared tables, buy your tickets at the counter, and join in the fun.  Beware the oddly limited operating hours: last order is 19:30!
+}}
+
+*{{drink
+| name=Asakusa Naniwaya | url=http://a-naniwaya.com/ | email=
+| address=Asakusa 2-12-4 | lat=35.714816 | long=139.792788 | directions=
+| phone=+81 3-3842-0988 | tollfree= | fax=
+| hours=Daily 10:00-19:00 | price=
+| lastedit=2016-12-29
+| content=Asakusa Naniwaya branch the original of Taiyaki Naniwaya Sohonten (Azabu Jyu-ban). You can enjoy green tea and coffee at the cafe in the shop, with all handmade Japanese sweets.
+}}
+
+==Sleep==
+Asakusa is a popular accommodation choice for budget travelers and there are many cheap ''ryokan'' catering to foreigners in the area.  For even cheaper (but less convenient) options, see the [[Tokyo/Taito|Taito]] district article.
+
+===Budget===
+
+* {{sleep
+| name=Khaosan Tokyo Guesthouse | url=http://www.khaosan-tokyo.com/ | email=
+| address= | lat= | long= | directions=
+| phone = +81 3 5856-6560 | tollfree= | fax=
+| hours= | price=¥2000
+| checkin= | checkout=
+| content=This group of guest houses has 3 hostels within 5 minutes of Asakusa station. They also run a travelers' bar and you get 1 free drink when you stay. There are dormitories as well as private rooms available.
+}}
+*{{sleep
+| name=Sakura Hostel Asakusa | alt=サクラホステル浅草 | url=http://www.sakura-hotel.co.jp/asakusa | email=info@sakura-hostel.co.jp
+| address=2-24-2 Asakusa | lat= | long= | directions=about 6 minutes from Tsukuba Express train station
+| phone = +81 3 3847-8111 | tollfree= | fax=
+| hours= | price=From &yen;2940 person/night
+| checkin=13:00 | checkout=11:00
+| content=The largest hostel in Tokyo, behind a theme park and with a direct view of Tokyo Skytree, the world's second tallest structure. Accommodations for individual backpackers, families, and group travelers. Very friendly English speaking staff.
+}}
+* {{sleep
+| name=Taito Ryokan | url=http://www.libertyhouse.gr.jp/ | email=
+| address= | lat= | long= | directions=the closest station is Tawaramachi on the Ginza Line
+| phone = +81 3 3843-2822 | tollfree= | fax=
+| hours= | price=&yen;3000 per person per night
+| checkin= | checkout=
+| content=An old post-war house converted into an inn. Friendly staff. Shared shower; two shared baths. No frills and thin walls, but you can't beat the price. A few blocks from Nakamise Street and Sensō-ji temple.
+}}
+* {{sleep
+| name=Tokyo Ryokan | url=http://www.tokyoryokan.com/ | email=
+| address= | lat= | long= | directions=
+| phone = +81 90 8879-3599 | tollfree= | fax=
+| hours= | price=&yen;3000
+| checkin= | checkout=
+| content=A modern inn of a high standard. Friendly staff. Shared shower and bathrooms. Just rooms and futons are provided, but at a low price.
+}}
+* {{sleep
+| name=Hotel Asakusa & Capsule | alt=ホテル 浅草 ＆ カプセル | url=http://hotelink.co.jp/asakusa/ | email=
+| address=台東区寿4-14-9 | lat= | long= | directions=several blocks east of Tawaramachi on the Ginza Line.
+| phone=+81 3 3847-4477 | tollfree= | fax=+81 3 3841-1525
+| checkin= | checkout= | price=Capsule &yen;2200
+| content='''Temporarily closed due to COVID-19.''' This is a co-ed capsule hotel (gender separated by floor). No English is spoken, but staff are familiar with foreigners and have information in English on printouts.
+}}
+* {{sleep
+| name=Ten Ten Guesthouse | alt= | url=http://www.tokyo-guesthouse.com/ | email=
+| address=3 Chome-4-12 Asakusa | lat=35.716311 | long=139.79739 | directions=
+| phone=+81 70-5652-8628 | tollfree=
+| checkin= | checkout= | price=Price for a dorm bed starts with &yen;3,500, &yen;20,000/week
+| content=The cheapest youth hostel in Tokyo. The owner also runs a monthly dormitory (\27,000/month) near Waseda University in [[Shinjuku]] (see the website for details).
+}}
+
+===Mid-range===
+* {{sleep
+| name=Ryokan Shigetsu | url=http://www.shigetsu.com | email=
+| address= | lat= | long= | directions=
+| phone = +81 3 3843-2345 | tollfree= | fax=
+| hours= | price=&yen;7665-21,000
+| checkin= | checkout=
+| content=A nice small hotel with a mix of Japanese-style and Western-style rooms next to the famous Nakamise Street. Friendly and helpful staff. Free internet in all rooms, two Japanese-style baths and showers.
+}}
+
+===Splurge===
+
+* {{sleep
+| name=Mimaru Asakusa Station | url=https://mimaruhotels.com/en/hotel/asakusa-station/
+ | email=
+| address= 2-20-4 Kaminarimon | lat=35.71024 | long=139.79761 | directions=
+| phone = +81 3 6231-7183 | tollfree= | fax=
+| hours= | price=&yen;50,000 and up
+| checkin= | checkout=
+| content=Modern serviced apartments that incorporate classical Japanese elements like sliding doors. Kitchen and laundry facilities. Studios, 1 and 2 bedroom available.  Located directly on top of Asakusa station; there is also a more high-end sister property, Mimaru Suites Asakusa, nearby.
+}}
+
+==Go next==
+The street markets and museums of [[Tokyo/Ueno|Ueno]] are directly west of Asakusa, while [[Tokyo/Sumida|Sumida]] of Skytree and sumo fame is immediately across the river.
+
+Asakusa is a large Tokyo hub of the private Tobu railway, and you can be transported to a different world in two hours:
+
+* [[Ashikaga]]
+* [[Kinugawa]] &mdash; a hot-spring resort fallen on hard times
+* [[Nikko]] &mdash; with its national parks and opulent shrines
+* [[Tatebayashi]]
+* [[Tochigi]] — A worthwhile day trip from Tokyo for its preserved architecture and old shops.
+
+{{routebox
+| image1=Tobu Skytree Line (TS) symbol.svg
+| imagesize1=30
+| directionl1=N
+| majorl1=[[Nikko]]
+| minorl1=[[Tochigi|Shin Tochigi]] ← into [[File:Tobu Nikko Line (TN) symbol.svg|30px]]  ← [[Tokyo/Sumida|Tokyo Skytree]]
+| directionr1=S
+| majorr1=END
+| minorr1=
+
+| image2=Tobu Skytree Line (TS) symbol.svg
+| imagesize2=30
+| directionl2=N
+| majorl2=[[Ashikaga]]
+| minorl2=[[Tatebayashi]] ← into [[File:Tobu Isesaki Line (TI) symbol.svg|30px]] ← [[Kasukabe]]
+| directionr2=S
+| majorr2=END
+| minorr2=
+
+| image3=Tsukuba Express.png
+| imagesize3=30
+| directionl3=W
+| majorl3=[[Tsukuba]]
+| minorl3=[[Misato (Saitama)|Misato Chuo]] ← [[Tokyo/North|Kitasenju]]
+| directionr3=E
+| majorr3=[[Akihabara]]
+| minorr3=
+
+| image4=Subway TokyoGinza.png
+| imagesize4=30
+| directionl4=W
+| majorl4=[[Tokyo/Ginza|Ginza]]
+| minorl4=[[Tokyo/Akihabara|Suehirocho]] ← [[Tokyo/Ueno|Ueno]]
+| directionr4=E
+| majorr4=END
+| minorr4=
+
+| image5=Subway TokyoAsakusa.png
+| imagesize5=30
+| directionl5=W
+| majorl5=[[Tokyo/Minato|Daimon]]
+| minorl5=[[Tokyo/Shinbashi|Shinbashi]] ← [[Tokyo/Chuo|Nihonbashi]]
+| directionr5=E
+| majorr5=[[Narita]]
+| minorr5=[[Tokyo/Sumida|Oshiage]] → into [[File:Number prefix Keisei.PNG|30px]] → [[Narashino|Tsudanuma]]
+
+| image6=Japanese National Route Sign 0006.svg
+| imagesize6=30
+| directionl6=N
+| majorl6=[[Mito]]
+| minorl6=[[Kashiwa]] ← [[Matsudo]]
+| directionr6=S
+| majorr6=[[Tokyo/Chuo|Nihonbashi]]
+| minorr6=
+}}
+
+{{guidedistrict}}
+{{IsPartOf|Tokyo}}
+{{geo|35.71472|139.79673}}

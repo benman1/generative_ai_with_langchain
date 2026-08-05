@@ -1,0 +1,376 @@
+{{pagebanner|Remote view of Mount Fuji Wikivoyage banner.jpg}}
+[[File:Owakudani Rocks Large.JPG|thumb|Steams of sulfur rise from the rocks at Owakudani]]
+
+'''Hakone''' (箱根) is a mountainous area west of [[Tokyo]] in [[Japan]]. The Hakone checkpoint on the historical [[The Tōkaidō road|Tokaido road]] marks the beginning of the [[Kanto]] region.
+
+==Understand==
+Hakone is extremely popular among domestic and foreign tourists alike for two reasons: it's close to [[Tokyo]], and it has good views of [[Mount Fuji]]. It's a key stop on the [[Golden Route]] from Tokyo to Osaka, and the default location for many visitors to Japan to experience a [[Public baths in Japan|''onsen'' hot spring]] and/or a ''[[ryokan]]'' traditional inn.
+
+However, due to its popularity, it's also crowded, expensive and kitschy. If you have more time on your hands, it's worth exploring other options further afield.
+
+===Tourist information site===
+Hakone is also the name of a town (箱根町). The local tourist association has a [https://www.hakone.or.jp/ Japanese-only guide site]. [https://www.hakone.or.jp/?p=4483&&pg=0&s=0 Its download section] has some guide maps in English - seek for 英語 ("English").
+
+==Get in==
+{{Mapframe|35.2284|139.0448|zoom=12|height=480|width=520}}
+===By plane===
+The nearest airports to Hakone are quite a distance away in the Tokyo area. If you are interested in booking a stay at a traditional ryokan in Hakone, it is strongly recommended that you plan to arrive in Hakone at least one day after you land in Tokyo. If you go to Hakone on the same day that you arrive, there is a good chance you might miss out on (and be charged for) dinner at the ryokan, or worse, you may be locked out of (and be charged for) your room at the ryokan's curfew time, if there is one.
+
+If you land at [[Haneda Airport]] early enough, there are two direct buses to Hakone-Yumoto train station, stopping in [[Yokohama]] along the way. Buses leave starting from the International Terminal/Terminal 3 at 08:25 and 12:35, with return trips leaving Hakone-Yumoto at 13:00 and 16:30. The one-way fare is ¥2000 and the trip takes about 2 hr.
+
+Otherwise, from Haneda, take the Keikyu Line to Yokohama, the JR Tokaido Line to Odawara, and finally the Hakone-Tozan Line to Hakone-Yumoto (2 hr, ¥1650). Alternatively, take the Keikyu Line to [[Tokyo/Shinagawa|Shinagawa]] and transfer to the ''shinkansen'' (see below).
+
+There are no direct transport links to Hakone from [[Narita Airport]]. Plan on allotting between 2½ and 4 hr if heading to Hakone, depending on the route taken. The easiest route with luggage may be to take the JR ''Narita Express'' or a highway bus to [[Tokyo/Shinjuku|Shinjuku]] and change to the Odakyu ''Romancecar'' (see below).
+
+===By train===
+
+The fastest and most expensive method of reaching Hakone from Tokyo is to take a '''Tokaido Shinkansen''' all-stop ''Kodama'' (こだま) train from Tokyo to [[Odawara]] which leave 1-2 times per hour, then transfer to the '''Hakone-Tozan Line''' for the run to Hakone-Yumoto (trains operated by Odakyu Railway). The one-way fare starts from ¥3600 for unreserved seating, but with a '''Japan Rail Pass''' you need only to pay ¥320 for the Hakone-Tozan line - easily done with a Suica or PASMO card (Limited Express trains require an extra ¥200 surcharge). With a good connection, the trip takes one hour.
+
+Be aware that any '''<u>JR East</u> Rail Pass''' will not provide access to the Tokaido Shinkansen and to make use of this pass you will need to ride the regular Tokaido Main Line to Odawara. From Tokyo, a convenient choice is the ''Odoriko''  limited express train, which operates a few times every day. Advance seat reservations are possible.
+
+Rail Pass holders can also use regular JR commuter trains to Odawara, which otherwise cost ¥1840 and take 75-90 min from Tokyo Station or [[Tokyo/Shinjuku|Shinjuku]]. Unreserved '''Green Car''' (First Class) seats are available on a first-come first-serve basis. The surcharge for Green Car seats between Tokyo and Odawara is ¥1000 on weekdays and ¥800 on weekends and holidays, purchased in advance using an IC card (e.g. Suica) or a ticket. You can also purchase a Green Car seat on the train for an additional fee.
+
+The affordable and more direct method of reaching Hakone from Tokyo is to take the '''Odakyu Odawara Line''' from Shinjuku. The fastest trains on the Odakyu Line are the ''Hakone'' (はこね) and ''Super Hakone'' (スーパーはこね) ''Romancecar'' services, which run twice an hour for most of the day. The 85-90 min journey costs ¥2330. Slower commuter trains reach Hakone in about 2 hr at a cost of ¥1220 (change trains in Odawara).
+
+Odakyu ''Super Hakone'' services also offer saloon seating - private compartments with a table that can seat up to 4 people. The saloon fare from Shinjuku to Hakone is ¥4440 for the compartment in addition to the basic fare for each passenger.
+
+Rail connections can be made at Odawara from [[Nagoya]] (2 1/2 hrs), [[Kyoto]] (3 hrs) and other locations throughout Japan. An alternate route from central and western Japan is to exit the Tokaido Shinkansen at [[Mishima]] and take the hourly Tokai Bus ''Orange Shuttle'' to Hakone-machi (42 min, ¥990) or Moto-Hakone (53 min, ¥1050).
+
+===By bus===
+'''Odakyu Hakone Highway Bus''' operates several buses from the Tokyo area to Hakone-Togendai via [[Gotemba]] Station. Most buses leave from the Shinjuku Expressway Bus Terminal (''Busta Shinjuku'') every 30 minutes between 06:35 and 14:05, then hourly until 19:05. Return buses leave Togendai at 07:30, 08:30, 09:30, then every 30 minutes until 18:00 (2 hr 30 min, ¥2040 each way). Odakyu Bus also operates four daily round-trips between [[Haneda Airport]], [[Yokohama]] and Togendai (¥1300/¥1990 respectively) and two express round-trips between Haneda, Yokohama and Hakone-Yumoto train station (¥2000/¥1550 respectively).
+
+Both Odakyu and '''JR Bus''' operate hourly trips between [[Tokyo/Shinjuku|Shinjuku]] Expressway Bus Terminal and Togendai (¥2040; ¥1940 if purchased in advance).
+
+==Get around==
+[[File:PirateShip Prow.JPG|thumb|Pirate ship on Lake Ashi (''Ashinoko'' in Japanese)]]
+
+Modes of transport in the Hakone region are many and varied.  Your options include:
+* The scenic '''Hakone-Tozan Line''' mountain railway from Odawara to Gora via Hakone-Yumoto
+* The '''Hakone-Tozan Cablecar''' up the mountainside from Gora to Sounzan
+* The '''Hakone Ropeway''' from Sounzan down to Togendai on Lake Ashinoko via the boiling sulphur pits of Owakudani
+* The '''Hakone Sightseeing Ships''', decked out like Disneyland versions of pirate ships, sailing across the lake from Togendai to Moto-Hakone and Hakone-machi
+* And positively dull in comparison, the '''Hakone-Tozan Bus''' back to Hakone-Yumoto or Odawara. The last bus from town to some of the faraway places leaves around 20:00.
+
+Information on these are gathered on [https://www.hakonenavi.jp/international/en/status_information Odakyu's Hakone Navi] website with a journey planner, info on how to pay the fare and route maps. 
+
+Some modes of transportation - in particular the ropeway - close from time to time for regular inspections, or in windy conditions. Buses will run replacement services in these cases.
+
+Most people opt for the '''[https://www.odakyu.jp/english/passes/hakone/ Odakyu Hakone Free Pass]''', which includes a return trip from Shinjuku and allows unlimited use of all of the above forms of transport for several days. In addition, pass holders can receive discounts at many hot springs, museums, restaurants, and other locations by showing their pass.
+
+The 2-day Free Pass costs ¥6100 from Shinjuku and ¥5000 from Odawara. A 3-day pass can be purchased for an extra ¥400. Additionally, if you have a Free Pass from Shinjuku you can use the ''Hakone'' Limited Express train by paying a surcharge of ¥1110 each way. You can also travel in a saloon compartment, if offered, at a cost of ¥4440 for the compartment. Holders of the Japan Rail Pass and JR East Rail Pass should travel to Odawara station by JR using the methods described earlier, and pay for the Free Pass from Odawara.
+
+=== Accessibility ===
+Despite the mountainous location and numerous transfers, [https://www.accessible-japan.com/hakone-round-course-wheelchair/ travelers with disabilities] can enjoy the entire Hakone Round Course. Unfortunately, getting to the many hot springs and art galleries is a different matter altogether as many mid-route stations are inaccessible or are on very steep hills.
+
+==See==
+[[File:LakeAshi and MtFuji Hakone.JPG|thumb|280px|right|Lake Ashi and Mt.Fuji]]
+
+The volcanically active '''Fuji-Hakone-Izu National Park''', centered on '''Lake Ashinoko''', is a popular tourist attraction well known for its onsen (hot springs) and its views of [[Mount Fuji]].
+
+* {{see
+| name=Great Boiling Valley | alt=大涌谷 ''&#332;wakudani'' | url= | email=
+| address= | lat=35.241916 | long=139.020667 | directions=Hakone Ropeway Owakudani Station
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q1134429
+| content=Volcanic hot spot full of sulphurous springs.
+}}
+* {{see
+| name=Hakone Jinja Shrine | alt= | url=http://hakonejinja.or.jp/ | email=
+| address= | lat=35.203889 | long=139.025556 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q705310
+| content=Nestled on the south shore of the lake, close to Moto-Hakone, is a picturesque Shinto shrine with ''torii'' gates in water.
+}}
+* {{see
+| name=Lake Ashi | alt=Ashinoko | url= | email=
+| address= | lat=35.21167 | long=139.00389 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q187053
+| content=Beautiful views of Mount Fuji but only on a clear day. As many tourists have found out, a visit to Lake Ashinoko does not guarantee a view of the mountain. The lake is crisscrossed by cartoonishly decorated "pirate ships".
+}}
+* {{see
+| name=Hakone Open Air Museum | alt=箱根 彫刻の森美術館, Hakone Choukoku no Mori Bijutsukan | url=https://www.hakone-oam.or.jp/en/ | email=
+| address=1121 Ninotaira | lat=35.244719 | long=139.051506 | directions=
+| phone=+81 460-82-1161 | tollfree=
+| hours=Daily 09:00-17:00 | price=¥1,600 (¥200 discount for holders of Hakone Free Pass, a ¥100 discount voucher is available on the museum's website)
+| wikidata=Q1134422
+| lastedit=2019-12-07
+| content=One of the top attractions in Hakone. Displays a wide variety of sculptures and artwork from celebrated Western and Japanese artists within a beautiful parkland setting. Also includes a dedicated Picasso pavilion (paintings and pottery).
+}}
+* {{see
+| name=Pola Museum of Art | alt=ポーラ美術館, Pola Bijutsukan | url=https://www.polamuseum.or.jp/english/ | email=
+| address=1285 Kozukayama, Sengokuhara | lat=35.256711 | long=139.021145 | directions=
+| phone=+81 460-84-2111 | tollfree=
+| hours=Daily 09:00-17:00 | price=¥1800
+| wikidata=Q1574475
+| lastedit=2017-12-31
+| content=The Pola Museum of Art's permanent collection is centered on works gathered over a 40-year period by Suzuki Tsuneshi, the son of the founder of Pola, a Japanese health and beauty company. The collection of around 10,000 items spans a wide range of genres including Western painting, Japanese Western-style painting, Japanese-style painting, prints, sculpture, Oriental ceramics, Japanese modern and contemporary ceramics, glasswork, and cosmetic utensils and other objects. Amongst Western masterpieces, the collection includes impressionist works from Monet, Manet, Renoir and Degas, as well as from Picasso.
+}}
+* {{see
+| name=Hakone Museum of Photography | alt=箱根写真美術館 or Hakone Shiashin Bijutsukan | url=http://hmop.com/img/eng_a.pdf | email=info@hmop.com
+| address=1300-432 Gora| lat=35.2498362 | long=139.0460562 | directions=
+| phone=+81 460-82-2717 | tollfree= | fax=
+| hours=Daily 10:00-17:00 | price=¥500
+| lastedit=2018-01-01
+| content=Small museum with nice pictures of Hakone and Mount Fuji.
+}}
+* {{see
+| name=Hakone Museum Of Art | alt=箱根美術館 | url=https://www.moaart.or.jp/hakone-en/ | email=
+| address= | lat=35.248167 | long=139.042667 | directions=
+| phone= | tollfree=
+| hours= | price=¥1300 adults, children free
+| wikidata=Q11284659
+| lastedit=2024-04-08
+| content=Museum with a collection of ancient Japanese earthenware. There is also a moss garden with a tearoom.
+}}
+
+==Do==
+No trip to Hakone would be complete without a dip at a [[Public baths in Japan|Japanese hot spring]] (''onsen''). If you're staying overnight, your lodgings may include bathing facilities, but if not many hotels open up their baths to visitors for around ¥500 or so.
+
+* {{do
+| name=Tenzan Tōjigō | alt= | url=http://tenzan.jp/ | email=
+| address= | lat=35.224931 | long=139.088341 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=(天山湯治郷), Hakone-Yumoto, Chaya 208. Large, popular hot spring operation with indoor and outdoor baths, sauna, etc. Free shuttle bus from outside the bus station. Open 11:00-20:00 daily. &yen;1000/630 adult/child.
+}}
+* {{do
+| name=Hakone Kowakien Yunessun | alt=箱根小涌園ユネッサン | url=https://www.yunessun.com/global/en/ | email=
+| address=Hakone-machi, 1297 Ninotaira | lat=35.239608 | long=139.046115 | directions=
+| phone= | tollfree=
+| hours=March to October daily 09:00-19:00 | price=\3500/1700 adult/child
+| wikidata=Q11603366
+| content=Indoor complex featuring rapids, Dead Sea-style salt baths and jacuzzis, while the outdoor area offers waterfalls, rocks and a water slide. The popular outdoor relaxation section includes a renowned sake bath, as well as coffee, green tea and wine baths. Mori No Yu is a traditional Onsen style Japanese spring in the same complex.
+}}
+* {{do
+| name=Hiking | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=The area has some nice hiking trails. The visitors' center in Togendai has a model of the area including many of the hikes around the Lake Ashi. For example there is a hike from Togendai to Owakudani and from there to Mt. Komagatake passing the peaks of Mt. Kanmurigatake and Mt. Kami. From Mt. Komagatake take the cable car down and the bus back to Togendai (beware: last cable car leaves Mt. Komagatake at 16:50). The hike takes between 2½ and 3 hours and covers quite a difference in altitude. Sturdy shoes are definitely helpful but not necessary.
+}}
+
+==Buy==
+{{buy
+| name=Hakone Yosegi Zaiku | alt=箱根寄木細工 | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Traditional Japanese parquetry.
+}}
+
+==Eat==
+[[File:Owakudani BlackEggs Large.JPG|thumb|240px|Two black eggs in a plate]]
+
+If you stay at a ryokan, dinner and breakfast might be included; make sure in advance.
+
+Hakone’s delicious natural spring water is also used to make soba, or thin noodles made from buckwheat flour. Soba is served in so many restaurants in the onsen town that it may replace rice to become the main course for your meals in Hakone. Soba can be served cold or hot, accompanied by delicious sides such as tofu, tempura or vegetables.
+
+* {{eat
+| name=Black eggs | alt=黒玉子 (kuro-tamago) | url= | email=
+| address= | lat=35.240001 | long=139.018687 | directions=near the fumes at Owakudani
+| phone= | tollfree= | fax=
+| hours= | price=
+| lastedit=2015-08-17
+| content=Boiled on site, their shells are a mottled black due to a chemical reaction with the sulphurous water, but the inside is quite tasty. According to Japanese legend, every one you eat will add seven years to your life. 5 eggs (and hence 35 years) will set you back just ¥500.
+}}
+* {{eat
+| name=Sagamiya | alt=さがみや | url=https://www.sagamiya-honten.co.jp/ | email=
+| address= | lat=35.233248 | long=139.104162 | directions=right in front of the bus stops besides Hakoneyumoto station
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2015-08-17
+| content=If you miss the taste of a warm brownie, try the '''mountain brownies''' at this shop. You can't miss the smell, as they are made on site! Also has a branch in [[Tokyo/Ginza|Ginza]], Tokyo.
+}}
+* {{eat
+| name=Nukafuku | alt=ぬかふく | url=https://www.instagram.com/nukafuku/ | email=
+| address= | lat=35.250476 | long=139.048038 | directions=opposite Gora station
+| phone= | tollfree=
+| hours=11AM-4PM | price=
+| lastedit=2024-04-08
+| content=Vegan and gluten-free bakery inside the souvenir shop, selling rice bran sweets, including doughnuts.
+}}
+* {{eat
+| name=Tamura Ginkatsu-Tei | alt=田むら銀かつ亭 | url=http://www.ginkatsutei.jp/ | email=
+| address= | lat=35.250655 | long=139.049268 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2024-04-08
+| content=Restaurant specialising in tofu katsuni, a dish containing tofu and pork, however they are able to make a vegetarian version on request. The restaurant is very popular and operates a ticket system, so it is recommended to arrive early.
+}}
+
+==Drink==
+{{drink
+| name=Hakone beer | alt=箱根ビール | url=https://www.kamaboko.com/shohin/beer/ | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=Craftman beer of Hakone.
+}}
+* {{drink
+| name=PUBSTOP Pizza & Bar | alt= | url=https://itoh-dining.co.jp/pubstop/ | email=
+| address= | lat=35.24763 | long=139.04606 | directions=
+| phone= | tollfree=
+| hours=11:30-14:30,16:00-20:30 | price=
+| lastedit=2024-03-23
+| content=Small bar serving draught beers from the Gora Brewery, and pizzas including vegetarian and vegan options. Accepts card payments.
+}}
+
+==Sleep==
+Hakone has many '''onsen ryokan''', traditional Japanese inns featuring hot springs. Facilities vary widely, although prices are generally somewhat elevated (especially on weekends) due to the proximity of Tokyo.
+
+===Budget===
+* {{sleep
+| name=Hotel Suimeisou | alt=箱根水明荘 | url=https://www.suimeisou.com/ | email=reserve@suimeisou.com
+| address=702 Yumoto | lat= | long= | directions=
+| phone=+81 460-85-5381 | tollfree= | fax=+81 460-85-6628
+| checkin=15:00-22:00 | checkout=10:00 | price=Room &yen;7245, room with breakfast &yen;10,500, room with dinner and breakfast &yen;14,500
+| content=This delightful Japanese style hotel is well-run. The main branch has 31 Japanese-style rooms. 12 Western-style single rooms with private bath are available at the annex across the street. There is free WiFi in the lobby, 24 hour natural spa baths (separated by gender) and a public open-air spa bath. Private open-air hot spring baths are available. Japanese banquet rooms, bar with a karaoke machine, karaoke rooms, meeting rooms, souvenir shop are available.
+}}
+* {{sleep
+| name=Kappa-tengoku | alt=かっぱ天国 | url=https://www.kappa1059.co.jp/ | email=
+| address=777 Yumoto, Hakone-machi | lat= | long= | directions=
+| phone=+81 460-856121 | tollfree=
+| checkin= | checkout=10:00 | price=Different prices for different rooms. They charge per person. ¥6780 after April 1 2014 for a room without bathroom for two people
+| content=A well-located if slowly crumbling cheap inn, featuring large open-air baths on the roof. Meals are optional and run &yen;1470 for dinner and &yen;840 for breakfast. The staff is very welcoming and helpful but speak very little English. You can also leave your luggage there before check-in and after check-out for free. You get more than what you pay for at this ryokan with the Japanese-style accommodation, all natural open-air baths, and good service.
+}}
+
+===Mid-range===
+[[File:HakoneOnsenStreet01.JPG|thumbnail|Hakone Yumoto Onsen Street]]
+* {{sleep
+| name=Fuji Hakone Guest House | alt=富士箱根ゲストハウス | url=http://www.fujihakone.com | email=hakone-@pop21.odn.ne.jp
+| address=912 Sengokuhara | lat= | long= | directions=take the "T" bus in the direction of Togendai from either Odawara or Hakone-Yumoto to the Senkyouro-Mae stop, about 50/40 minutes respectively
+| phone=+81 460-84-6577 | tollfree= | fax=+81 46084-6578
+| checkin= | checkout= | price=
+| content=Very well located guest house popular with Japanese and foreigners. Comfortable Japanese style rooms and breakfast are available. There are two natural hot baths available for guests' use - the indoors one is free, and the outdoors is ¥500 per half-hour. As you check in, you'll be prompted to choose the preferred times - the baths will be then reserved for your exclusive use. Staff speak English, and the owners, Mr and Mrs Takahashi, are happy to offer sightseeing advice.
+}}
+* {{sleep
+| name=Hotel Okuyumoto | alt=ホテルおくゆもと | url=http://www.okuyumoto.co.jp/en/index.html | email=
+| address=211 Yumoto Chaya | lat= | long= | directions=
+| phone=+81 460-85-6271 | tollfree=
+| checkin= | checkout= | price=
+| content=Featuring open-air baths beside a mountain stream, offers mostly Japanese-style ''tatami'' rooms but also has some Western-style rooms.
+}}
+* {{sleep
+| name=Hotel Okada | alt=ホテルおかだ | url=http://www.hotel-okada.co.jp/eng/ | email=
+| address=191 Yumoto Chaya | lat= | long= | directions=
+| phone=+81 460-85-6000 | tollfree=
+| checkin= | checkout= | price=
+| content=With 117 rooms, and 5 natural spring sources, Hotel Okada offers Western, Fusion and Japanese-style 'tatami' rooms.
+}}
+* {{sleep
+| name=Hotel Nanpuso | alt=ホテル南風荘 | url=http://www.nanpuso.co.jp/ | email=
+| address=Yumoto Chaya 179 | lat= | long= | directions=
+| phone=+81 460-85-5505 | tollfree=
+| checkin= | checkout= | price=
+| content=Popular for its spa and ladies esthetic salon, Nanpuso offers mainly Japanese style 'tatami' rooms.
+}}
+* {{sleep
+| name=Hotel Senkei | alt=ホテル仙景 | url=http://senkei.net/eng/ | email=senkei@palette.plala.or.jp
+| address=592 Yumoto Hakone-machi Ashigara-Shimogun Kanagawa 250-0311 | lat= | long= | directions=
+| phone=+81 460-85-5500 | tollfree= | fax=+81 460-85-7765
+| checkin=14:00 | checkout=10:00 | price=
+|lastedit=2019-03-03| content=A ryokan designed in a Japanese inn style. Offers excellent hot springs and an open-air bath is provided in each room.
+}}
+* {{sleep
+| name=Hakone Hotel Kowakien | alt=箱根ホテル小涌園 | url=https://www.hakone-hotelkowakien.jp/en/ | email=
+| address=1297 Ninotaira Hakone-machi, Ashigarashimo-gun, Kanagawa | lat= | long= | directions=
+| phone=+81 460-82-4111 | tollfree= | fax=+81 460-82-4123
+| checkin=14:00 | checkout=11:00 | price=
+| content=It is a resort hotel surrounded by nature in Hakone. The rooms vary from Japanese style, European style to Japanese-European style. There are open-air onsens so you can enjoy the bath and the view of nature. Restaurant is a smorgasbord style with European style meal, Japanese style meal, iron plate grills and so on. For guests who are not used to travel around Japan, there are many rooms, onsens, restaurants and other facilities so guests can enjoy the stay with no worries.
+}}
+* {{sleep
+| name=Ryokan Kiritani Hakoneso | alt=旅館桐谷箱根荘 | url=http://kiritani-hakoneso.com | email=kiritani@japanbooking.info
+| address=1320-598, Gora, Hakonemachi, Ashigarashimogun, Kamigawa | lat= | long= | directions=
+| phone=+81 460-82-2246 | tollfree= | fax=+81 460-82-1753
+| checkin=15:00 | checkout=10:00 | price=Japanese-style tatami rooms from &yen;10,000 per person including breakfast and dinner
+| content=A Japanese ryokan. Includes public and private (family room) natural hot spring bath. Quiet and surrounded by nature. Provides Japanese cuisine with seasonal, fresh ingredients. Run by the Kiritani Family who are friendly and eager to show foreigners about Japanese culture.
+}}
+* {{sleep
+| name=Asante Inn | alt=アサンテ・イン | url=https://asante-inn.com/ | email=
+| address= | lat=35.25159 | long=139.05464 | directions=
+| phone= | tollfree=
+| checkin=13:00 | checkout=10:00 | price=
+| lastedit=2024-03-23
+| content=Guest house with a Japanese garden and two private hot spring baths, which guests can reserve for an hour.
+}}
+
+===Splurge===
+* {{sleep
+| name=Hakone Onsen Lalaca Hotel | alt={{lang|ja|楽々花}} | url=http://www.lalaca.com | email=
+| address=1320-270 Gora, Hakone-machi, Ashigarashimo-gun 250-0408 | lat= | long= | directions=
+| phone=+81 460-86-0777 | tollfree=
+| checkin= | checkout= | price=
+| content=It is said that many people got to know about Hakone Onsen after Toyotomi Hideyoshi, a general during the age of civil wars fought at a battle in Odawara. In Edo Era, it attracted many people as one of the Onsens along Tokaido, one of 5 major boulevards in Japan. The hotel has 8 rooms, which range from 1 to 5 people, breakfast and dinner included in all rates, hotspring services available for all guests; enjoy brown cookies and tea service in every room. In the ages of Tokugawa Iemitsu, Tokugawa Tsunayoshi, Kenjyouyu, presentation of the hot spring water to General was often performed. Nowadays there are many museums and sightseeing spots around here. Since it is such a good place to see how the nature changes every season, many tourists, most of them are from metropolitan area of Tokyo, come and visit all year round.
+}}
+* {{sleep
+| name=Fujiya Hotel | alt={{lang|ja|富士屋ホテル}} | url=https://www.fujiyahotel.jp | email=
+| address=359 Miyanoshita, Hakone-machi, Kanagawa-ken 250-0 | lat= | long= | directions=
+| phone=+81 460-82-2211 | tollfree=
+| checkin= | checkout= | price=
+| wikidata=Q864344
+| content=One of the oldest Western-style hotels in Japan, dating back to 1891, it was inspired by Victorian American hostelry, but it has an English feel to it. The Fujiya has its own onsen, koi pond, and gardens. With a choice between the Japanese and Western breakfasts, go for the Japanese, with little portions of fish and vegetables. Although expensive, get the rate with the meals included, as there are few other options for dining in the area.
+}}
+* {{sleep
+| name=Hyatt Regency Hakone Resort and Spa | alt= | url=https://hakone.regency.hyatt.com | email=info@hyattregencyhakone.com
+| address=1320 Gora Hakone-machi, Ashigarashimo-gun, Hakone, Kanagawa Prefecture | lat= | long= | directions=
+| phone=+81 460 82 2000 | tollfree= | fax=
+| hours= | price=
+| checkin= | checkout=
+| content=The hotel has 56-60 m² guestrooms with large bathrooms and attracts both leisure and business travellers who are looking for a retreat from the city in the Fuji Hakone Izu National Park.
+}}
+* {{sleep
+| name=Gora Kadan | alt={{lang|ja|強羅花壇}} | url=http://www.gorakadan.com/ | email=info@gorakadan.com
+| address=1300 Gôra, Hakone Ashigarashimogun | lat= | long= | directions=
+| phone=+81 460 82 3331 | tollfree=
+| checkin= | checkout= | price=
+| content=This Relais Chateaux hotel has 37 guestrooms with large bathrooms. The hotel is styled after a ryokan, but boasts many more services including a pool, amazingly designed rooms and a spa. All that luxury doesn't come cheap, however.
+}}
+
+==Go next==
+* [[Gotemba]]
+* [[Odawara]]
+* [[Yugawara]]
+* [[Minamiashigara]]
+* [[Atami]]
+* [[Susono]]
+* [[Oyama]]
+* [[Fujiyoshida]]
+* [[Mount Fuji]]
+
+
+{{routebox
+| image1=Odakyu Hakone StaNo.svg
+| imagesize1=30
+| directionl1=W
+| majorl1=END
+| minorl1=
+| directionr1=E
+| majorr1=[[Odawara]]
+| minorr1=
+
+| image2=Japanese National Route Sign 0001.svg
+| imagesize2=30
+| directionl2=W
+| majorl2=[[Shizuoka]]
+| minorl2=[[Numazu]] ← [[Mishima]]
+| directionr2=E
+| majorr2=[[Yokohama]]
+| minorr2=[[Odawara]] → [[Fujisawa]]
+
+| image3=Japanese National Route Sign 0138.svg
+| imagesize3=30
+| directionl3=N
+| majorl3=[[Fuji Yoshida]]
+| minorl3=[[Fuji Five Lakes|Yamanakako]] ← [[Gotemba]]
+| directionr3=S
+| majorr3=[[Odawara]]
+| minorr3=
+}}
+
+{{geo|35.1833|139.0333}}
+{{IsPartOf|Kanagawa}}
+{{usablecity}}

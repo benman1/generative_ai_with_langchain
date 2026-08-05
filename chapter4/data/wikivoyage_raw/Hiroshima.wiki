@@ -1,0 +1,1123 @@
+{{pagebanner | Hiroshima banner Origami cranes.jpg|unesco=yes|dotm=yes | star=yes|caption=Origami cranes. See Read and watch.}}
+
+'''Hiroshima''' (広島) is an industrial city of wide boulevards and criss-crossing rivers along the coast of the [[Seto Inland Sea]]. Although many only know it for the horrific split-second on August 6, 1945 when it became the site of the world's first atomic bomb attack, it is now a modern cosmopolitan city with excellent cuisine and a bustling nightlife.
+
+==Understand==
+[[Image:Chuo koen blessings.jpg|thumb|350px|right|Blessings of Peace, Chuo Park]]
+Those expecting to step off the Shinkansen into a pile of smoldering rubble will be in for a surprise, as Hiroshima has all the ferroconcrete and blinking neon of any other modern Japanese city. Teenagers stream in and out of the station, where McDonald's and the latest ''keitai'' (mobile phones) await; hapless salarymen rush down Aioi-dori to their next meeting, casting a bloodshot eye toward the seedy bars of Nagarekawa as they pass. At first glance, it can be hard to imagine that anything out of the ordinary ever happened here.
+
+Hiroshima was founded in 1589 on the delta formed by the [[Ota]] River, flowing out to the Seto Inland Sea. The warlord Mori Terumoto built a castle there, only to lose it eleven years later to Tokugawa Ieyasu after the Battle of [[Sekigahara]], which marked the beginning of the Tokugawa shogunate. Control of the area was given to the Asano clan of samurai, who ruled without much incident for the next two and a half centuries. Their descendants embraced the rapid modernization of the Meiji period, and Hiroshima became the seat of government for the region, a major industrial center, and a busy port.
+
+By '''World War II''', Hiroshima was one of the larger cities in Japan, and a natural communications and supply center for the military. Forced laborers from Korea and China were shipped in by the tens of thousands, and local schoolchildren also spent part of their days working in munitions factories. Residents of the city must have felt curiously blessed for the first few years of the war, as Hiroshima had been left largely untouched by American bombing campaigns; that was, however, intended to ensure a more accurate measurement of the atomic bomb's effect on the candidate cities, which had been narrowed down to Hiroshima, [[Kitakyushu|Kokura]], [[Kyoto]], [[Nagasaki]], and [[Niigata]].
+
+[[Image:AtomicEffects-p42a.jpg|thumb|300px|2000 feet (600 meters) from ground zero, 1945]]
+On 6 August 1945 at 08:15 the American B-29 bomber ''Enola Gay'' dropped an '''atomic bomb''' dubbed "Little Boy" on Hiroshima. It is estimated that at least 70,000 people were killed in the explosion and its immediate aftermath. Most of the city was built of wood, and fires raged out of control across nearly {{squaremile|5}}, leaving behind a charred plain with a few scattered concrete structures. Corpses lay piled in rivers; medical treatment was virtually non-existent, as most of the city's medical facilities had been located near the hypocenter, and the few doctors left standing had no idea what hit them. That evening, radioactive materials in the atmosphere caused a poisonous "black rain" to fall.
+
+{{infobox|''Hibakusha''|The word ''hibakusha'' (被爆者) literally means "people affected by the bomb", which since WWII has been taken to exclusively mean the atomic bombs dropped on Hiroshima and Nagasaki. Discrimination against them is due to ignorance about the consequences of radiation sickness. Many people believed it's hereditary or even contagious, and survivors’ children were also discriminated against in many cases. It's now better understood that this is not the case, as we know from studying the survivors as well as many decades of using radiation therapy to treat cancer, although this has not entirely ended discrimination. Non-Japanese hibakusha (including Korean conscripts, Japanese-Americans who were studying or visiting, and other foreign survivors) also had a difficult time receiving recognition and health benefits until lawsuits several decades later largely resolved those issues.
+
+A homophone term that has gained traction since 2011 is 被曝者 (''hibakusha''), meaning "people affected by ''exposure''", which includes victims of any nuclear disaster, such as Fukushima.}}
+
+In the days ahead, many survivors began to come down with strange illnesses, such as skin lesions, hair loss, and fatigue. Between 70,000 and 140,000 people would eventually die from radiation-related diseases. Known as '''''hibakusha''''', the survivors were also subject to severe discrimination from other Japanese, but have since been at the forefront of Japan's post-war pacifism and its campaign against the use of nuclear weapons.
+
+Recovery was slow, given the scale of the devastation, and black markets thrived in the first few years after the war. However, the reconstruction of Hiroshima became a symbol of Japan's '''post-war pacifism'''. Today, Hiroshima has a population of more than 1.1 million. Automobiles are a major local industry, with Mazda's corporate headquarters nearby. There are three excellent art museums in the city center, some of Japan's most fanatical sports fans, and a wide range of culinary delights &mdash; most notably the city's towering contribution to bar cuisine, Hiroshima-style ''okonomiyaki''.
+
+Although many visitors, especially Americans, may feel apprehensive about visiting Hiroshima, it is a friendly, welcoming city, with as much interest in Western, especially American culture as anywhere else in Japan. Tourists are welcomed, and exhibits related to the atomic bomb are not concerned with blame or accusations. Bear in mind, though, that many ''hibakusha'' still live in the city, and even most of the young people in Hiroshima have family members who lived through the blast. As such, the average Hiroshima resident isn't likely to relish talking about it, although you needn't shy away from the topic if one of the chatty fellows around the Peace Park brings it up.
+
+===Climate===
+{{climate chart
+|Hiroshima
+|1.6 |9.9 |46.2
+|2.2 |10.9 |64.0
+|5.1 |14.5 |118.3
+|10.1 |19.8 |141.0
+|15.1 |24.4 |169.8
+|19.8 |27.2 |226.5
+|24.1 |30.9 |279.8
+|25.1 |32.8 |131.4
+|21.1 |29.1 |162.7
+|14.9 |23.7 |109.2
+|8.9 |17.7 |69.3
+|3.9 |12.1 |54.0
+|jansnow=30.0 |febsnow=30.0 |marsnow=0.0 |aprsnow=0.0 |maysnow=0.0 |junsnow=0.0 |julsnow=0.0 |augsnow=0.0 |sepsnow=0.0 |octsnow=0.0 |novsnow=0.0 |decsnow=20.0
+|float=right
+|clear=right
+| description = Source: '''[http://www.jma.go.jp/jma/indexe.html Japan Meteorological Agency]'''.
+}}
+
+Unfortunately, most travelers experience Hiroshima during the worst weather of the year, in July and August, when days of heavy rain give way to brutal, muggy heat. Don't book accommodation without air conditioning if that's when you're planning to visit. Also note that in the latter half of September, warm and pleasant days are interspersed with typhoons powerful enough to wreck buildings (such as the one that nearly destroyed '''Itsukushima Shrine''' on [[Miyajima]] in 2004) and keep travelers locked up in their hotels.
+
+October and November are ideal, with less rain and cool, refreshing temperatures. The winter months are fine for a visit &mdash; the weather is dry, with very little rain or snow, and the temperatures are rarely cold enough to keep you indoors. As elsewhere in Japan, though, a number of museums are closed from 29 Dec to 1 Jan (or 3 Jan).
+
+April and May also have excellent weather. The cherry blossoms come out in early April, and the parks around '''Hiroshima Castle''' turn into a mob scene with ''hanami'' parties. For ''sakura'' with a bit more solitude, go for a hike on '''Ushita-yama''', overlooking the north exit of JR Hiroshima Station (see [[Hiroshima#Recreation|Recreation]]). March is the ''very'' beginning of the tourist season, and the plum trees (''ume'') are in blossom, so if you want to see Hiroshima surrounded by pink flowers but don't want to fight with every tourist on the planet to photograph them, March is a good time to go.
+
+===Read and watch===
+
+* Eleanor Coerr's ''Sadako and the Thousand Paper Cranes'' tells the true story of Sadako Sasaki, a young bomb victim who was inspired to fold cranes by a Japanese folk tale, which said that anyone who folds over a thousand cranes will have their wish come true. According to some versions of the story, Sadako completed more than a thousand before she died of leukemia at the age of twelve; in Coerr's book, she finished about 640 before she died, and her schoolmates completed the rest in her memory.
+* John Hersey's ''Hiroshima'' is a short but gripping book that describes the experiences of six people &mdash; five Japanese citizens and a German priest &mdash; before and after the blast. It was first published as an issue-length article in ''The New Yorker'' in August 1946. Almost forty years later, Hersey returned to Hiroshima to write a follow-up article, which continues the survivors' stories in the post-war years, and it is included in new editions of the book.
+* Masuji Ibuse's ''Black Rain'' (黒い雨, ''Kuroi ame'') is a novel about the post-war experiences of a family of ''hibakusha'' as they face discrimination in post-war Japanese society for both employment and marriage, and cope with health problems from radiation poisoning, the consequences of which were barely understood by doctors of the time.
+* Keiji Nakazawa's ''Barefoot Gen'' (はだしのゲン, ''Hadashi no Gen'') is the most popular ''manga'' treatment of the atomic bomb story, based loosely on Nakazawa's own experience as a young boy in the days immediately after the blast.
+* Many Japanese people also associate Hiroshima with the ''yakuza'', thanks to the classic 1971 Bunta Sugawara/Kinji Fukasaku gangster film ''Battles Without Honor and Humanity'' (仁義なき戦い, ''Jingi naki tatakai'', also known as ''The Yakuza Papers'') and its four sequels, which were set in the city.
+
+===Money===
+There is an international ATM in the lobby of the central '''post office''', which is on your right as you exit the south side of JR Hiroshima Station. English menus should be available. International ATMs with English menus are also available at [http://www.sevenbank.co.jp/intlcard/service2.html '''7-Eleven''' convenience stores], which are open 24 hours in plentiful quantities throughout the city.
+
+If you need to change money, the bank across the street from the station &mdash; on the first floor of the Fukuya department store &mdash; can handle transactions to and from most major currencies.
+
+===Orientation===
+Most visitors arrive at '''JR Hiroshima Station''', which is a 25 minute walk from the Peace Park. If you arrive by Shinkansen, you will be at the north side of the station. There is an underground pedestrian walkway leading to the main side of the station (south exit), where all other trains arrive. Take the pedway and head upstairs; you will see the taxis, trams, and buses that lead to the city center. If you continue on the underground walkway, you'll reach an escalator that exits by a major bridge, with the station now behind you; you can walk to the Peace Park from there, branching right on Aioi-dori.
+
+There is a '''tourist information office''' on the first floor of the south side of the station, and another on the second floor of the north side. They are open 09:30-17:00 daily.
+
+Other visitors may arrive at the '''Hiroshima Bus Center''' ([http://www.h-buscenter.com 広島バスセンター]) on the third floor of the SOGO department store, which is just down the street from the Peace Park. Coin lockers are available at both the Hiroshima Bus Center and JR Hiroshima Station.
+
+Generally speaking, addresses in '''Minami-ku''' (Minami Ward) are in the station area, while '''Naka-ku''' (Naka Ward) covers the Peace Park and its surroundings.
+
+===Tourist information ===
+[https://dive-hiroshima.com/en/ Dive! Hiroshima] is the official multilingual guide site, jointly run by the prefecture's tourism association and the city's government.
+
+==Get in==
+{{Mapframe|34.394791|132.454718|zoom=12}}
+===By plane===
+* {{go
+| name=Hiroshima Airport | alt={{IATA|HIJ}} | url=https://www.hij.airport.jp/en/ | email=
+| address= | lat=34.436111 | long=132.919444 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Hiroshima Airport | image=Hiroshima airport japan.jpg | wikidata=Q82240
+| content=Connects from domestic destinations in Japan. ANA and JAL offer flights from [[Tokyo]] Haneda and [[Sapporo]] Chitose airports. ANA also offers flights from Narita, [[Sendai]] and [[Okinawa]]. There are direct international flights from [[Dalian]], [[Guam]], [[Shanghai]], [[Seoul]], [[Hong Kong]] and [[Taipei]].
+}}
+Buses connect the airport to JR Hiroshima Station (45-50 min, ¥1370) and the Hiroshima Bus Center (55 minutes, ¥1370). There are also buses from the airport to [[Okayama]], [[Onomichi]], [[Iwakuni]], [[Tottori]], and other spots in the [[Chugoku]] region. The departing frequency varies from 30 minutes to an hour.
+
+===By train===
+{{marker|type=go|name=Hiroshima Station (広島駅 Hiroshima-eki)|url=|wikidata= Q576459|lat= 34.39775|long=132.475472|image=}} is a major station on the '''[http://www.westjr.co.jp/english/global.html JR West]''' Sanyo Shinkansen line. On the fastest ''Nozomi'' and ''Mizuho'' trains, it is 35 minutes from [[Okayama]] (¥6350) and 80–85 minutes from Shin-[[Osaka]] (¥10630). [[Tokyo]] is around 3 hr 45 min away via ''Nozomi'' (¥19440). These prices are for reserved seats; unreserved seats, and seats on slower services such as the ''Sakura'' and ''Kodama'', cost slightly less.
+
+If you have a Japan Rail Pass, you cannot use ''Nozomi'' and ''Mizuho'' trains, unless you pay a surcharge of approx ¥6500 (adult) so if you are traveling from Tokyo or Nagoya you will have to take one of the two hourly ''Hikari'' trains and switch at Shin-Osaka (alternatively at Shin-[[Kobe]] or [[Himeji]]) to the ''Sakura'' or another ''Hikari'' train on the Sanyo Shinkansen line. With these trains you can travel from Tokyo to Hiroshima in approximately 4 hours 30 minutes. There are a few one-way ''Hikari'' departures from Nagoya in the morning that run directly to Hiroshima with no change of trains necessary. There is also a direct one-way morning ''Hikari'' service that departs from Shin-[[Yokohama]] at 06:00 and reaches Hiroshima in less than four hours.
+
+Traveling overnight by train from Tokyo, you can take the 22:00 ''Sunrise Izumo/Sunrise Seto'' train to Okayama, then take a ''Mizuho'' train to Hiroshima, arriving just before 07:30. If you have a Japan Rail Pass, you can book a carpeted floor space on the overnight service at no charge. Otherwise you can travel in a compartment or room by paying the applicable room fee and surcharges. Upon arriving at Okayama, Japan Rail Pass holders can transfer to a ''Hikari'' or ''Sakura'' at Okayama, arriving in Hiroshima just before 08:00.
+
+Regular train services run through Hiroshima on the Sanyo Main Line (between [[Kobe]] and [[Kitakyushu]]), along with several local lines.
+
+===By bus===
+Long-distance buses arrive and depart from the north exit of JR Hiroshima Station, where there is a JR Bus counter, and the Hiroshima Bus Center in the city center. There is service to and from cities in [[Kanto]], [[Kansai]], [[Kyushu]], [[Shikoku]], and much of the rest of Japan.
+
+====From Kantō====
+The ''New Breeze'' overnight bus, operated by JR Chugoku Bus and Odakyu City Bus, runs between [[Tokyo]] and Hiroshima. Pickup and discharge stops in Tokyo are at Tokyo Station and the Shinjuku Expressway Bus Terminal. There is one daily overnight bus, with a second bus added on a seasonal basis. Normally ¥13250 each way, advance discount fares can be purchased for as low as ¥7700.
+
+Other overnight services from Tokyo include those operated by Willer Express, starting at ¥7700 each way. Chugoku Bus operates an overnight service from [[Yokohama]], starting at ¥9600 each way for advance purchase.
+
+====From Kansai====
+
+JR Bus operates two daytime trips from [[Kyoto]] (starting at ¥3500 each way) and one overnight service (starting at ¥3800 each way) using high-density buses seating 4 per row. Trips from [[Osaka]], on the other hand, are operated with the high-density buses as well as standard buses that seat 3 to a row. For the standard services, daytime buses start at ¥3500 each way and the overnight service starts at ¥4500 each way.
+
+Willer Express also operates daytime services from Kyoto and Osaka (starting at ¥4600 each way) and overnight services (starting at ¥4300 each way).
+
+====From Chūbu====
+
+JR Bus' ''Hiroshima Dream Nagoya'' operates a daily overnight service from [[Nagoya]] Station and Oasis 21 to Hiroshima, with fares starting at ¥5890 each way.
+
+===By ferry===
+Ferries dock at {{marker|type=go|name='''Hiroshima Port Ujina Passenger Terminal''' (広島港宇品旅客ターミナル)|url=|wikidata= |lat= 34.3525087|long=132.4550276|image=}} which also serves as terminus for several tram lines. '''[http://www.ishizakikisen.co.jp/language/en/ Ishizaki Kisen]''' operates daily service to and from [[Matsuyama]] in [[Shikoku]], with some boats stopping in [[Kure]] along the way. The ride (known as "Superjet") takes 70–80 minutes to reach Matsuyama and costs ¥6980 each way. Slower ferries, which also carry motor vehicles, arrive in 2 hr 40 min at a much-reduced cost of ¥3670.
+
+===By car===
+From the San'yo Expressway, take exit 29 for Hiroshima. Heading southwest on National Highway Route 54 will take you to the center of town; Route 2 is the major east/west artery, south of the city center. Confirm in advance that your hotel offers parking &mdash; not all do, and public parking is both expensive and hard to find.
+
+[[Image:Hiroshima city map.png|thumb|625px|Hiroshima city map]]<br>
+<!--PRINT
+[[Image:Hiroshima key print.png|]]
+[[Image:Hiroshima print map.png|]]
+PRINT-->
+[[Image:Hiroden map.png|thumb|450px|Tram routes and stops]]
+
+==Get around==
+There is a ''Visit Hiroshima Tourist Pass'' that covers either 1-3 days of unlimited journeys inside the city or the prefecture. It can be obtained from the Information Center on the first floor of the airport, the JR station, the Hiroshima Bus Center, and other tourist locations.  Digital passes are also available [https://www.mobirytravel.jp/ online] and are suitable for travelers seeking to use public transportation frequently during their trip in the city.
+
+===By tram===
+[[Image:Hiroden6552.jpg|thumb|300px|Green Mover bound for Hiroshima Port]]
+Hiroshima has an extensive tram (streetcar) network, which is operated by '''[http://www.hiroden.co.jp/en/ Hiroden]''' (広電). It's a slow but reliable way of getting around. The trams themselves are a mix of old rattle-traps and sleek, new "Green Movers" &mdash; although they all run on the same lines for the same fares. There's no difference other than the smoothness of the ride. Because the trams were bought from other cities, you're getting a tour of Japanese transit history &mdash; some have been in service for more than fifty years, and that might be an old [[Kyoto]] tram taking you through Hiroshima. Trams 651 and 652, both of which survived the atomic bomb blast, are still sometimes used in regular service.
+
+Most lines originate from JR Hiroshima Station, and run frequently during daytime and evening hours, approximately one tram every 10 minutes per line. Boarding and payment procedures vary by tram; however, the entrance and exit are clearly marked in English. (If in doubt, just follow the locals.) Pay as you exit. Change machines are usually available on board if you don't have exact change &mdash; check near the front or back of the car. A of Nov 2025, trips are a flat ¥240 (¥120 for children ages 6-11; up to 3 children ages 1-5 may ride with a paying adult/older child). One-day passes are available from the tourist office for ¥700 (¥350 children). A day pass which also includes travel on the Matsudai Kisen ferry to Miyajima costs ¥1000 (¥550 children). Digital passes are also available [https://www.mobirytravel.jp/ online] and include 8/24 hour passes for ¥600/700 (¥300/350 children) and weekday (10:00-16:00) and weekend (8 hours) passes for ¥440 (¥220 children).
+
+===By bus===
+
+Bus lines run through Hiroshima and out to the suburbs. Generally speaking, these serve areas more likely to be used by locals than visitors. Signs include English, and buses depart next to the tram depot in front of JR Hiroshima Station. Japan Rail Pass holders can use a free sightseeing bus, which goes in a loop from and to Hiroshima station via all important sights in the city. There are three ''[https://www.chugoku-jrbus.co.jp/teikan/meipurupu/ meipuru-pu ("Maple + Loop")]'' bus lines operated under '''Chugoku JR Bus Company''' that circulates around the city's main tourist spots.
+
+===By metro===
+The modern '''[http://www.astramline.co.jp/ Astram]''' (アストラムライン) links the city center with the northern suburbs, although there aren't many tourist sights out that way. Trips range from ¥180-470 by distance, with departures every few minutes 06:00-00:00. The underground station at the end of Hon-dōri, near the Peace Park, is the terminus in the city center.
+
+===By bike===
+
+Hiroshima is a great city for cycling. Most of the sidewalks are fairly wide by Japanese standards; the paths along the branches of the rivers offer a very pleasant ride, and if you're looking to test your legs, head up to the hills around [[Hiroshima#Hijiyama Park area|Hijiyama Park]]. Many hotels will be happy to arrange bike rentals.
+
+* {{listing
+| name=Nippon Rent-a-Car | alt= | url=https://www.nrgroup-global.com/en/ | email=
+| address=3-14 Kojin-machi, Minami-ku | lat=34.39474 | long=132.47752 | directions=
+| phone=+81 82-264-0919 | tollfree=
+| hours=24 hours | price=
+| content=And rent-a-bicycle as well, with rates by the hour or the day.
+}}
+* {{listing
+| name=Hiroshima Navigator | url=http://www.hiroshima-navi.or.jp/en/qa/20132.php | email=
+| address= | lat= | long= | directions=
+| phone=+81 82-513-3389 | tollfree= | fax=
+| hours= | price=
+| content= Hiroshima Convention & Visitors Bureau maintains a list of bicycle rental outlets around the city.
+}}
+* Tourist information centers in JR Hiroshima station keep a map of associated rent-a-cycle outlets within downtown Hiroshima. Most of the outlets have their rental desks located in the lobbies of major hotels. The price is ¥1000 per day for an electric-assist bike, and the bikes can be rented from and returned to any of the associated outlets.
+
+==See==
+[[Image:Hiroshima Peace Memorial Park.png|300px|thumb|Map of Peace Memorial Park]]
+===Peace Memorial Park===
+[[Image:Genbaku dome.jpg|thumb|300px|A-Bomb Dome]]
+Most of the memorials related to the atomic bomb are in and around the '''[http://www.pcf.city.hiroshima.jp/top_e.html Peace Memorial Park]''' (平和公園 ''Heiwa-kōen''), reachable by tram line 2 or 6 to ''Genbaku Dome-mae''. Coming from JR Hiroshima Station, you'll see the Peace Park on your left just before crossing the T-shaped '''Aioi Bridge''', which is thought to have been the target of the bomb.
+
+Once part of the busy '''Nakajima''' merchant district, this area was destroyed almost in its entirety by the bomb. Today, there are more than fifty memorials, statues, and other structures in the Park. Some will be obscure in their meaning; others are immediate and devastating. There is no entry fee, save for the Peace Memorial Museum, and access to the grounds is not restricted at night.
+
+* {{see
+| name=A-Bomb Dome | alt=原爆ドーム ''Genbaku Dōmu'' | url= | email=
+| address= | lat=34.395472 | long=132.453528 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Hiroshima Peace Memorial | image=A-Bomb Dome close-up.jpg | wikidata=Q231140
+| lastedit=2017-04-30
+| content=The skeletal remains of the dome are the most recognizable symbol of the atomic bombing in Hiroshima. In another lifetime, the building was one of the city's best-known sights for an entirely different reason; designed by Czech architect Jan Letzel in 1915, the Hiroshima Prefectural Commercial Exhibition Hall (and its fanciful green dome) had a bold European style in a grimy, crowded city with few modern flourishes. Because the explosion took place almost directly above the building, the walls remained largely intact, even as the dome shattered and the people inside were killed by the heat of the blast. Initially, as the city rebuilt, it was left alone simply because it was more difficult to demolish than other remains in the area; gradually, the A-Bomb Dome became the symbol it is today. The "Hiroshima Peace Memorial" was declared a [[UNESCO World Heritage List|UNESCO World Heritage site]] in 1996 amid some controversy &mdash; the [[United States]] and [[China]] both voted against the nomination for reasons related to the war. Today, the benches around the Dome are a favorite spot for Hiroshima natives to read, eat lunch, or simply relax.
+}}
+* {{see
+| name=Hypocenter | alt= | url= | email=
+| address= | lat=34.394791 | long=132.454718 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| image=Atomic cloud over Hiroshima - NARA 542192 - Edit.jpg | wikidata=Q703203
+| lastedit=2017-04-30
+| content=One block east of the A-Bomb Dome (outside Shima Clinic) is a plaque which marks the exact point above which the bomb exploded.
+}}
+
+[[Image:AtomBomb Kannon.JPG|thumb|200px|right|Memorial Tower to the Mobilized Students]]
+
+* {{see
+| name=Children's Peace Monument | alt=(原爆の子の像 ''Genbaku no ko no zō'' | url= | email=
+| address= | lat=34.394142 | long=132.452776 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Children's Peace Monument | image=HiroshimaPaperCranes6682.jpg | wikidata=Q114718
+|lastedit=2023-03-19| content=Perennially draped in thousands of ''origami'' paper cranes folded by schoolchildren across Japan in the memory of the young bomb victim Sadako Sasaki (see [[Hiroshima#Literature|Literature]]). You can bring your own origami cranes and donate them to the memorial.
+}}
+* {{see
+| name=Memorial Tower to the Mobilized Students | alt= | url=http://www.pcf.city.hiroshima.jp/virtual/map-e/irei/tour_42_e.html | email=
+| address= | lat=34.3949 | long=132.4539 | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=Commemorates the 6,300 students who were conscripted to work in munitions factories and killed by the atomic bomb. There are statues of doves scattered throughout its five levels; at the base is a beautiful Kannon statue, always draped with origami cranes.
+}}
+* Tens of thousands of forced laborers from Korea were working in Hiroshima at the time of the attack. But the {{marker|type=see|name=Monument in Memory of the Korean Victims of the A-Bomb|lat=34.39319|long=132.45470}} was erected outside the Peace Park in 1970, and only moved within its boundaries in 1999. Today, the turtle at the base of the monument &mdash; symbolically carrying the dead to the afterlife &mdash; tends to be draped in his fair share of colorful origami cranes and flowers.
+* The {{marker|type=see|name=Peace Bell|lat=34.39797|long=132.45460}} is engraved with a world map, drawn without borders to symbolize unity. The public are welcomed to ring the bell &mdash; not coincidentally, the log is aimed to strike an atomic symbol. ''(Ring the bell gently, so as not to damage it.)''
+* The {{marker|type=see|name=Atomic Bomb Memorial Mound|lat=34.39466|long=132.45201}} holds the ashes of 70,000 bomb victims who were unidentified or had no living relatives to claim them. Services are held in their memory on the 6th of every month.
+* The {{marker|type=see|name=[https://hiroshima-resthouse.com/ Rest House]|lat=34.39378|long=132.45327}} was known as the '''Taishoya Kimono Shop''' at the time of the explosion. Only one employee, who was in the basement at the time, survived. However, the reinforced concrete building stayed mostly intact. (The interior has been entirely refurbished, but it is possible to visit the preserved basement with advance request.) Today, it holds a gift shop, some vending machines, a helpful tourist information office, and &mdash; as the name would suggest &mdash; a place to rest.
+
+[[Image:Cenotaph for A-Bomb Victims.JPG|thumb|200px|right|Cenotaph for the A-Bomb Victims]]
+
+* Inside the {{marker|type=see|name=Cenotaph for the A-Bomb Victims|lat=34.39297|long=132.45258}} is a stone chest with a registry that is intended to contain the names of every known person who died from the bombing, regardless of nationality. (Names are added as ''hibakusha'' pass away from diseases thought related to the radiation of the bomb.) The Japanese inscription reads, "Let all the souls here rest in peace, for the evil shall not be repeated." Note how the arch frames the A-Bomb Dome in the distance.
+* At the other end of the pond from the Cenotaph is the {{marker|type=see|name=Flame of Peace|lat=34.39344|long=132.45276}} (平和の灯 ''heiwa no tomoshibi''). It is said that the fire will burn until the last nuclear weapon is gone from the earth.
+* {{see
+| name=Hiroshima National Peace Memorial Hall for the Atomic Bomb Victims | alt= | url=https://www.hiro-tsuitokinenkan.go.jp/en/index.html | email=
+| address=1-6 Nakajima-chō, Naka-ku | lat=34.39333 | long=132.45349 | directions=
+| phone=+81 82-543-6271 | tollfree=
+| hours=Mar-Jul: 08:30-18:00, Aug: 08:30-19:00, Sep-Nov: 08:30-18:00, Dec-Feb: 08:30-17:00, closed Dec 29-Jan 1 | price=Free
+| wikipedia=Hiroshima National Peace Memorial Hall for the Atomic Bomb Victims | image=Hiroshima National Peace Memorial Hall for the Atomic Bomb Victims 2008 01.JPG | wikidata=Q114067
+| lastedit=2023-03-19
+| content=The Peace Memorial Hall is dedicated to collecting names and photographs of people who died in the blast. The entrance of the memorial hall leads downward to a quiet hall for contemplation, and then back up again to a set of kiosks with compelling stories and recollections from survivors (in English and Japanese). Like the Cenotaph and the Peace Memorial Museum, it was designed by architect Kenzo Tange.
+}}
+* {{see
+| name=Peace Memorial Museum | alt=平和記念資料館 Heiwa Kinen Shiryōkan | url=http://hpmmuseum.jp/?lang=eng | email=hpcf@pcf.city.hiroshima.jp
+| address=1-2 Nakajima-chō, Naka-ku | lat=34.39182 | long=132.45209 | directions=
+| phone=+81 82-241-4004 | tollfree= | fax=
+| hours=Mar-Jul: 08:30-18:00, Aug: 08:30-19:00, Sep-Nov: 08:30-18:00, Dec-Feb: 08:30-17:00, closed Dec 30-31 | price=Adults &yen;200, high school students &yen;100, children free. Audio guide &yen;200
+| wikipedia=Hiroshima Peace Memorial Museum | image=Hiroshima Peace Memorial Museum 2009.jpg | wikidata=Q1200076
+| lastedit=2018-11-09
+| content=This heart-wrenching museum documents the atomic bomb and its aftermath, from scale models of the city "before" and "after" to melted tricycles and other displays and artifacts related to the blast. Some are extremely graphic, evocative, and quite disturbing. The rest of the museum describes the post-war struggles of the ''hibakusha'' and an appeal for the abolition of nuclear weapons in the world today. Be warned: a visit here, while absolutely worthwhile, ''will'' ruin your day. Allow plenty of time afterward to decompress.
+}}
+* {{see
+| name=International Conference Center | alt= | url=http://www.pcf.city.hiroshima.jp/icch/english.html | email=
+| address=1-5 Nakajima-chō, Naka-ku | lat=34.392083 | long=132.451028 | directions=
+| phone=+81 82-242-7777, +81 82-240-7887 (Restaurant) | tollfree= | fax=
+| hours=Daily 09:00-21:00 | price=
+| image=International Conference Center Hiroshima 2008 01.JPG | wikidata=Q11484485
+| content=At the south end of the Peace Park, this complex of buildings has an '''International Exchange Lounge''' with English-language publications and city information; it also has the '''Restaurant Serenade''' (10:00-19:00).
+}}
+* The {{marker|type=see|name=Statue of Mother and Child in the Storm|lat=34.39111|long=132.45185}}, completed in 1960 by artist Shin Hongo, is among the most powerful works of art created in response to the atomic bomb. It depicts a woman shielding her child from the black rain. It's in front of the {{marker|type=see|name=Fountain of Prayer|lat=34.39137|long=132.45197}} just south of the Peace Memorial Museum.
+* The {{marker|type=see|name=Gates of Peace|lat=34.39064|long=132.45168}} were installed in 2005 on Heiwa-o-dori, just south of the Peace Park, by a pair of French artists. On the sidewalk and the surface of the gates, the word "peace" is written in 49 languages. The ten gates are meant to represent the nine circles of hell from Dante's ''Inferno'', plus a new one: the hell created by the atomic bombing.
+
+====Outside the Peace Park====
+* As you explore the city and outskirts, keep an eye out for maroon-colored marble '''historical markers''' such as the one outside the A-Bomb Dome or the one marking the Hypocenter, which have photographs and text in both Japanese and English. You'll come across markers as far as a few miles away from the Peace Park &mdash; which lends perspective to the distance and extent of the damage.
+* {{see
+| name=Honkawa Elementary School Peace Museum | alt=本川小学校平和資料館 | url= | email=
+| address=1-5-39 Honkawa-chō, Naka-ku | lat=34.395885 | long=132.450606 | directions=Genbaku Dome-mae tram stop
+| phone=+81 82-291-3396 | tollfree= | fax=
+| hours=Open during school hours | price=Free
+| wikipedia=Honkawa Elementary School Peace Museum | image=Honkawa Elementary School Peace Museum01.JPG | wikidata=Q11484615
+| content=Of the more than 400 students and teachers who were in the school when the bomb exploded, only one student and one teacher survived. After a new school was built, this section of the original structure was kept as a museum, housing a small collection of photos and artifacts.
+}}
+* {{see
+| name=Fukuro-machi Elementary School Museum | alt=袋町小学校平和資料館 | url=http://www.fukuromachi-e.edu.city.hiroshima.jp/shiryoukan-index.htm | email=
+| address=6-36 Fukuro-machi, Naka-ku | lat=34.39176 | long=132.458706 | directions=Fukuro-machi tram stop
+| phone=+81 82-541-5345 | tollfree= | fax=
+| hours=Daily 09:00-17:00| price=Free
+| wikipedia=Fukuromachi Elementary School Peace Museum | image=Fukuromachi Elementary School Peace Museum01.JPG | wikidata=Q5507712
+| content=Like Honkawa, part of the original school building that remained standing after the atomic bomb has been converted into a museum. In the days after the explosion, survivors used the school's chalk to leave messages for lost friends and family members on its blackened walls.
+}}
+* {{see
+| name=Former Bank of Japan | alt= | url= | email=
+| address=5-16 Fukuro-machi, Naka-ku | lat=34.3915 | long=132.4568 | directions=Fukuro-machi tram stop
+| phone= | tollfree=
+| hours= | price=
+| content=After the A-Bomb Dome, the former bank is the best-known pre-bomb structure in Hiroshima. Built in 1936, the city's main branch of the ''Nippon Ginko'' was only 380 m from the hypocenter; although its exterior remained intact, all 42 people inside the bank were killed by the heat of the blast. Remarkably, the bank was back in service only two days after the bomb and continued operation until 1992, when it was acquired by the city. Occasional art exhibitions are now held there. Hours of access are irregular, but it's worth stopping by to check.
+}}
+* Somewhat incongruously, the 1925 {{marker|type=see|name=Hiroshima Mitsui Bank|lat=34.39307|long=132.45853}} at 7-1 Hon-dori, Naka-ku (''Hon-dōri tram stop'') also survived the blast, and now serves as home of a busy Andersen Bakery. The ground-level renovations and the ceiling of the Hon-dori arcade combine to obscure its age, but there's a historical marker on the corner. Stepping out of Hon-dori to the side street gives a better view of the building &mdash; and how the city rebuilt around it.
+* There is a fascinating, little-known '''pre-bomb house''' on the outskirts of [[Hiroshima#Hijiyama Park area|Hijiyama Park]]. Walk up toward the park on the street branching upward from the Hijiyamashita tram stop. You'll see a temple on your left with a historical marker out front. Just past the temple is a set of stone steps, leading up to a small house and explanatory plaque. (Notice the vane at the top of the house, warped from the heat of the bomb.) Please note that while visitors are welcome in the front yard, the rest of the area is private property, including the house itself.
+* From the Shinkansen side of JR Hiroshima Station, you'll see an enigmatic silver tower on Futaba-yama, the mountain ahead. That's the {{marker|type=see|name=Peace Pagoda|lat=34.40590|long=132.47794}} (''Busshari-to''), built in 1966 in memory of those killed by the atomic bomb. To reach it, simply head uphill on the main street facing away from the station. You'll pass through a quiet, pleasant neighborhood of cafes and hillside houses, climb steps, and eventually reach {{marker|type=see|name=Toshogu Shrine|lat=34.40341|long=132.47555}}. Follow the road around the shrine and you'll reach the red lanterns and ''torii'' of {{marker|type=see|name=Kinko Inari Shrine|lat=34.40397|long=132.47570}}. Head through the gates and up the steps to reach the Peace Pagoda. It's an even more impressive sight from the top of the mountain; inside the Pagoda are two gifts containing ashes of the Buddha, which were a gift to Hiroshima from [[India]] and a group of [[Mongolia]]n Buddhists, along with thousands of prayer stones. You'll also be able to see the whole jumble of the city below.
+
+===Chuo Park area===
+[[Image:Hiroshima castle 2006.jpg|thumb|300px|right|Hiroshima Castle]]
+* {{see
+| name=Chuo Park | alt=中央公園 | url= | email=
+| address=Naka-ku | lat=34.401389 | long=132.454667 | directions=Genbaku dome-mae tram stop
+| phone= | tollfree= | fax=
+| hours= | price=
+| image=Motomachi Saikaihatsu Sekihi 130816-1.JPG | wikidata=Q17226480
+| content=A big, sprawling green space in the middle of the city. Broadly defined, the park grounds include many of the attractions below, including the castle and the Carp's old baseball stadium (scheduled for demolition). But Chuo Park is worthy of note in its own right, with nice, long walking paths and athletic fields &mdash; there are quite a lot of open-invitation soccer, football, and ultimate frisbee games that are regularly held here, so don't be shy about showing up with athletic shoes and seeing if anyone needs an extra.
+}}
+* {{see
+| name=Hiroshima Castle | alt=広島城 Hiroshima-jō | url=http://www.rijo-castle.jp/RIJO_HP/contents/01_home/01_top/01_index.html | email=
+| address=21-1 Moto-machi, Naka-ku | lat=34.402728 | long=132.459047 | directions=Genbaku dome-mae tram stop
+| phone=+81 82-221-7512 | tollfree=
+| hours=Mar-Nov: 09:00-18:00, Dec-Feb: 09:00-17:00 | price=Prior to its 2026 closure, the price was ¥370 adults and ¥180 children
+| wikipedia=Hiroshima Castle | image=HiroshimaCastle.jpg | wikidata=Q41977
+| lastedit=2026-05-08
+| content=As of 22 March 2026, the '''castle is closed''' due to structural deterioration, although the grounds are open are free to roam around. The original Carp Castle (''Rijō'') was built in the 1590s by Hideyoshi's warlord Terumoto Mōri, predating the city itself. It was destroyed by the atomic bomb, by which time it was serving as a military headquarters, and reconstructed in using modern materials in 1958. Some of the original stone foundations can still be seen. Today, the castle grounds are a nice place for a walk, and definitely Hiroshima's favorite place for ''hanami'' (cherry blossom parties), with more than 350 ''sakura'' trees. The five-story castle museum is an attractive reconstruction of the 16th century donjon, with interesting relics and armor to see (and try on), as well as some informative displays about the history of the castle and the city. The view from the top is worth the entrance fee all by itself. Photography is allowed for self-use only. Gift shop sells various Warring States period-related goods, while the stamp-collecting area for Japanese Top 100 Castles is outside the castle. No elevators are available - visitors will be walking the five stories by stairs.
+}}
+* {{see
+| name=Gokoku Shrine | alt=護国神社 Gokoku-jinja | url=http://www.h-gokoku.or.jp | email=
+| address=2-21 Motomachi, Naka-ku | lat=34.401167 | long=132.45875 | directions=Genbaku dome-mae tram stop
+| phone=+81 82-221-5590 | tollfree= | fax=
+| hours= | price=
+| wikipedia=Hiroshima Gokoku Shrine | image=Temple inside Hiroshima Castle.jpg | wikidata=Q84008
+| content=Located on the castle grounds, this concrete shrine has great significance to locals, having been rebuilt after the atomic blast and now the center for most annual Shinto traditions in the city. But other than a historical marker, there's not much to see for travelers, other than festivals (especially New Year's Eve).
+}}
+* {{see
+| name=Hiroshima Children's Museum | alt=広島市こども文化科学館 | url=http://www.pyonta.city.hiroshima.jp/english/index.html | email=
+| address=5-83 Motomachi, Naka-ku | lat=34.398667 | long=132.453639 | directions=Genbaku dome-mae tram stop
+| phone=+81 82-222-5346 | tollfree= | fax=
+| hours=Tu-Su 09:00-17:00 | price=&yen;500 adults, &yen;250 children
+| wikipedia=Hiroshima Children's Museum | image=Hiroshima Childrens Museum.jpg | wikidata=Q5771207
+| content=Great fun for kids, with hand-on science exhibits and a planetarium on the top floor. There's also a library with a few shelves of English language books.
+}}
+* {{see
+| name=Hiroshima Museum of Art | alt=ひろしま美術館 | url=http://www.hiroshima-museum.jp/ | email=
+| address=3-2 Motomachi, Naka-ku | lat=34.398669 | long=132.458061 | directions=Kamiya-cho nishi/higashi tram stops
+| phone=+81 82-223-2530 | tollfree= | fax=
+| hours=Daily 09:00-17:00| price=&yen;1000 adults, &yen;500 teens, &yen;200 children
+| wikipedia=Hiroshima Museum of Art | image=Hiroshima Museum of Art.jpg | wikidata=Q63828
+| content=Established by the Hiroshima Bank in 1978. The permanent collection covers European art from late Romanticism to early Picasso, including a couple of Japanese painters who painted in Western styles. There's at least one painting by every famous artist of the period, but no major works by any of them.
+}}
+
+===Hijiyama Park area===
+
+* {{see
+| name=Hijiyama Park | alt=比治山公園 | url= | email=
+| address=Minami-ku | lat=34.384059 | long=132.473484 | directions=Hijiyamashita tram stop
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=A huge park to the south of JR Hiroshima Station, between two branches of the river. (Follow Ekimae-dori from the station to the southeast, and you'll walk directly into it.) There are the usual areas for sitting in the sun (and rather a lot of stray cats), but much of the park remains refreshingly undeveloped forest, save for a futuristic tunnel to SATY, a neighboring shopping complex and movie theater.
+}}
+* {{see
+| name=Hiroshima City Manga Library | alt=広島市立まんが図書館 | url=https://www.library.city.hiroshima.jp/manga/en/index.html | email=
+| address=1-4 Hijiyama-koen, Minami-ku | lat=34.387722 | long=132.474444 | directions=Hijiyamashita tram stop
+| phone=+81 82-261-0330 | tollfree=
+| hours=Tu-Su 10:00-17:00 | price=Free
+| wikidata=Q11484530
+| content=Around the corner from the Museum of Contemporary Art (below). The vast majority of the ''manga'' are in Japanese, of course, but they do have a selection of Western superhero comics.
+}}
+* {{see
+| name=Hiroshima City Museum of Contemporary Art | alt=広島市現代美術館 | url=https://www.hiroshima-moca.jp | email=
+| address=1-1 Hijiyama-koen, Minami-ku | lat=34.38638 | long=132.473365 | directions=Hijiyamashita tram stop
+| phone=+81 82-264-1121 | tollfree= | fax=
+| hours=Tu-Su 10:00-17:00 | price=¥360 adults, ¥270 college students, and ¥170 for other students
+| wikipedia=Hiroshima City Museum of Contemporary Art | image=Hiroshima City Museum of Contemporary Art.jpg | wikidata=Q93425
+| content=Probably the most deserving of a visit among Hiroshima's art museums. There are a few famous Western names in its collection, including Andy Warhol and Frank Stella, but the real focus is on interesting modern Japanese artists working in their own styles, and the exhibition designers make creative use of the museum space. Special exhibitions cost extra. There is a sculpture garden outside that can be visited for free, and a decent city-view from the plaza near the museum's front steps.
+}}
+
+===Other sights===
+[[Image:Shukkeien Path Bridges.JPG|thumb|300px|Bridges in Shukkeien]]
+
+* {{see
+| name=Fudoin | alt=不動院 | url= | email=
+| address=3-4-9 Ushita Shin-machi, Higashi-ku | lat=34.427036 | long=132.637783 | directions=Astram to Fudoin-mae
+| phone=+81 82-221-6923 | tollfree=
+| hours= | price=Free
+| image=Fudoin Kondo.jpg | wikidata=Q73444
+| content=Only a short trip east of the city, this 14th century temple is another of the few structures in the area to have survived the atomic blast. The Main Hall is an impressive sight, and both the bell tower and the two-story gate are regarded as cultural treasures.
+}}
+* {{see
+| name=Numaji Transportation Museum | alt=ヌマジ交通ミュージアム | url=https://www.vehicle.city.hiroshima.jp/ | email=
+| address=2-12-2 Chorakuji, Asaminami-ku | lat=34.470861 | long=132.428641 | directions=Astram to Chorakuji Station
+| phone=+81 82-878-6211 | tollfree=
+| hours=Tu-Su 09:00-17:00 | price=Free on the first floor, elsewhere &yen;500 adults, &yen;250 children
+| wikipedia=Hiroshima City Transportation Museum | image=Hiroshima City Transportation Museum 2.jpg | wikidata=Q5358361
+| content=Changed names from Hiroshima City Transportation Museum by a naming rights deal. Located on the outskirts of the city, the Transportation Museum has exhibits and interactive games about planes, trains, ships, and cars of the past, present, and future &mdash; and a transit nerd's treasure trove of details about the history and model numbers of Hiroshima's streetcars. (Tram #654, which remained in service after the atomic blast, is on display.) Outside, behind the museum, there is a track with odd bicycles to ride. It's great fun for children.
+}}
+* {{see
+| name=Hiroshima Prefectural Museum of Art | alt=広島県立美術館 | url=http://www.hpam.jp/ | email=
+| address=2-22 Kaminobori-cho, Naka-ku | lat=34.399908 | long=132.466275 | directions=Shukkeien-mae tram stop
+| phone=+81 82-221-6246 | tollfree= | fax=
+| hours=Tu-Su 09:00-17:00, Sa to 19:00 | price=¥500 adults, ¥300 for college students, children free
+| wikipedia=Hiroshima Prefectural Art Museum | image=Hiroshima Prefectural Art Museum 01.jpg | wikidata=Q3330773
+| content=Has a good permanent collection of modern European art, including major works by Dali and Magritte, and a few modern Japanese artists as well. Special exhibitions are of a generally high quality, ranging from Persian carpets to ''The Legend of Ultraman''. It's located in front of Shukkeien.
+}}
+* {{see
+| name=Mazda Museum | alt=マツダミュージアム | url=http://www.mazda.com/mazdaspirit/museum/ | email=
+| address=3-1 Mukainada-chō, Fuchū | lat=34.377058 | long=132.503011 | directions=
+| phone=+81 82-252-5050 | tollfree= | fax=
+| hours=Tours weekdays 09:30 and 13:00 in Japanese, 10:00 in English, lasting around 90 minutes. Space is limited, and they ask that you call first to make a reservation. Bookings can be made in English | price=Free
+| image=Mazda-FAMILIA-rotary-coupe01.jpg | wikidata=Q11340571
+| content=Mazda's corporate headquarters are a short distance outside of Hiroshima. The tour is a must for any automobile fan, but if you have any serious technical questions, then you should go on the Japanese tour and bring along your own interpreter, as there's less detail on the English tour. Highlights include the Mazda Cosmos (the world's first car with a rotary engine) and the 4-Rotor Mazda 787B, which is the only Japanese car to win at Le Mans. From there you will be taken to their Ujina plant and the actual assembly line, with a look at some of their concept vehicles. From JR Hiroshima Station, take the San'yo Line in the direction of Saijō or Mihara to JR Mukainada Station (two stops); cross the rails and exit through the south exit. From the train station exit, head straight on the street a little to the right of the exit until you see the confusingly labelled pharmacy, called "Zoom-Zoom". Head down the stairs opposite Zoom Zoom into an underpass and you'll exit in the Mazda Admin building's parking lot.
+}}
+* {{see
+| name=Mitaki-dera | alt=三瀧寺 | url= | email=
+| address=411 Mitaki-yama, Nishi-ku | lat=34.420294 | long=132.437617 | directions=
+| phone=+81 82-237-0811 | tollfree= | fax=
+| hours= | price=Free
+| wikipedia=Mitaki-dera | image=Mitaki-dera Taho-to.jpg | wikidata=Q63712
+| content=It was founded in 809 AD. Mitaki-dera is a tranquil, lovely temple to the west of Hiroshima, known for its three waterfalls, which supply the water for the annual Peace Memorial Ceremony (see [[Hiroshima#Festivals|Festivals]]), as well as its gorgeous autumn colors and fascinating statues. The ''tahoto'' (treasure pagoda) was moved here from [[Wakayama]] in 1951 and consecrated in memory of the victims of the atomic bomb. From JR Hiroshima Station, take the Kabe Line to JR Mitaki Station. It's a short walk and hike from there.
+}}
+* {{see
+| name=Shukkeien | alt=縮景園 | url=http://shukkeien.jp/ | email=
+| address=2-11 Kami-noborimachi, Naka-ku | lat=34.400278 | long=132.4675 | directions=Shukkeien-mae tram stop
+| phone=+81 82-221-3620 | tollfree= | fax=
+| hours=Daily 09:00-17:00, April to 18:00 | price=&yen;250
+| wikipedia=Shukkei-en | image=Hiroshima Shukkei-en Pond.jpg | wikidata=Q2576732
+|lastedit=2018-04-09| content=While it's not one of [[Japan's Top 3]], this compact and beautifully landscaped Japanese garden is well worth a visit, and an ideal place to decompress from the atomic bomb sites. Despite high-rises peeping over the trees, Shukkeien can feel like an entirely different world, with little paths crossing ponds on bridges and winding their way around graceful teahouses and waterfalls. Visitors can feed the fish and turtles occasionally swimming near the paths. It's directly behind the Prefectural Art Museum, and combined admission tickets are available.
+}}
+
+==Do==
+
+===Festivals===
+
+* {{do
+| name=Flower Festival | alt=フラワーフェスティバル | url=http://www.hiroshima-ff.com | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours=First weekend of May | price=Free
+| wikipedia=Hiroshima Flower Festival | wikidata=Q3610588
+| content=This is Hiroshima's biggest festival, begun in 1975 to celebrate the Carp's first baseball championship. There are food vendors and things for sale, but live performances now dominate the program, with comedians and J-pop bands on stages along Heiwa-o-dori. It's the smaller performances that make the Flower Festival worthwhile, though, particularly in the stalls near Jizo-dori, where you might stumble across a phenomenal [[Okinawa]]n band or a local jazz combo.
+}}
+* {{do
+| name=Peace Memorial Ceremony | alt=広島平和記念式典 Heiwa Kinen Shikiten | url=http://www.city.hiroshima.lg.jp/shimin/shimin/shikiten/shikiten-e.html | email=
+| address=Peace Memorial Park | lat= | long= | directions=
+| phone=+81 82-504-2103 | tollfree= | fax=
+| hours=6 August | price=Free
+| content= Held each year on the anniversary of the atomic bombing, with many ''hibakusha'' in attendance. Ceremonies are held in the morning (8:15AM, the time the bomb was dropped). The air raid sirens sound, followed by a minute of silence, and then appeals for peace by the mayor of Hiroshima. There's also a ceremony in the evening (20:00), when a thousand colorful lanterns are floated down the river.
+}}
+* {{do
+| name=Sake Festival | alt=酒まつり Sake Matsuri | url=http://sakematsuri.com/ | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours=Early October | price=Tickets &yen;1000 in advance, &yen;1500 at the festival
+| wikipedia=Saijō Sake Matsuri | wikidata=Q446474
+| content=The suburb of '''Saijo''' is famous for its ''sake'' breweries and this annual boozy blow-out. For the price of entry, attendees can drink their fill of ''sake'' from local breweries. In short order, the festival area turns into a wild (yet reasonably well-behaved) display of public drunkenness involving people of all ages. Outside the festival area, tours of ''sake'' breweries are also available, with wood ''sake'' cups are available as souvenirs for your visit. JR Saijo Station is just a couple of stops from Hiroshima &mdash; you'll be swept up in the crowds as soon as you arrive.
+}}
+* {{do
+| name=Food Festival | url=http://www.rcc.net/event/foodfestival/ | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours=Last weekend in October | price=Free &mdash; pay for what you eat
+| content= This one's pretty simple &mdash; food, glorious food of all kinds, from international delicacies to local favorites, from roasted slabs of meat and seafood to delicious vegetarian-friendly dishes and desserts, served in stalls lining the moat of Hiroshima Castle and parts of Chuo Park. There's a flea market as well, and usually some cultural performances at the castle in the evening.
+}}
+
+===Recreation===
+{{infobox|Know Your Carp|The Hiroshima Carp have no competition for the city's sports loyalty. Some key facts to get you up to speed:
+
+* The Carp ''own'' the color red in Hiroshima, but it wasn't adopted by the team until 1973, along with their [[Cincinnati|Cincinnati Reds]]-style logo. Red is intended to symbolize a never-ending fighting spirit.
+* The 1978-80 '''''Akaheru''''' (Red Helmets) team was almost certainly the team's apex, setting league records for home runs and winning two championships.
+* The Carp's last pennant was 1991, giving them the longest title drought in Japanese baseball, but the 2013-14 squad reached NPB's Climax Series championship, spreading a new wave of excitement through the city.
+* Slugger '''Koji Yamamoto''' is '''Mr. Red Helmet''', the team's all-time great (now retired).
+* Cash has been a recurrent problem throughout the team's history, with local citizens pitching in to keep the team afloat on more than one occasion. Today, '''Mazda''' is the team's largest minority owner, but without a deep-pocketed sponsor like [[Tokyo]]'s Yomiuri Giants or even [[Sapporo]]'s Hokkaido Nippon Ham Fighters, the Carp struggle to hang on to free agents.
+* The Carp's mascot, '''Slyly''', bears a striking resemblance to the [[Philadelphia|Philly]] Phanatic because he was designed by the same firm.}}
+* {{do
+| name=Hiroshima Toyo Carp Baseball | alt= | url=https://www.carp.co.jp/ | email=
+| address=Mazda Zoom Zoom Stadium, 2-3-1 Minami-Kaniya, Minami-ku | lat=34.39184 | long=132.4846 | directions=10 minute walk east from JR Hiroshima Station, or a shorter walk from the Enkobashi-cho tram stop
+| phone=+81 82-223-2141 | tollfree=
+| hours= | price=
+| wikipedia=Hiroshima Toyo Carp | wikidata=Q247577
+| content=The much-beloved and much-bemoaned Carp are Hiroshima's entry in the Central League of '''[http://www.npb.or.jp/ Nippon Professional Baseball]'''. After more than fifty years in a stadium across the street from the Peace Park, the Carp moved to the new '''Mazda Zoom Zoom Stadium''' in 2009. While the team doesn't win much, the enthusiasm of the fans can hardly be faulted, and Hiroshima is as good a place as any to witness the fervor of Japanese baseball fandom. Tickets range from &yen;1800 to &yen;3500. Ask for the Carp Performance (カープ パフォーマンス) tickets &mdash; that's where the drums, chants, and excitement are. Tickets are sold at the stadium starting at 10:00, the "Green Window" at JR Hiroshima Station, and a number of convenience stores.
+}}
+* {{do
+| name=Hiroshima Sanfrecce Soccer | alt= | url=http://www.sanfrecce.co.jp/ | email=
+| address=Big Arch Stadium, 5-1-1 Ozukanishi, Numata-cho, Asa-Minami-ku | lat=34.44069 | long=132.39448 | directions=Astram to Koiki Koen-mae
+| phone=+81 82-233-3233 | tollfree=
+| hours= | price=Tickets are available at most convenience stores. Reserved seats &yen;3000-4500 in advance, &yen;500 more at the stadium; unreserved &yen;2300 in advance, &yen;300 more at the stadium
+| wikipedia=Sanfrecce Hiroshima | wikidata=Q630279
+| content=Sanfrecce (Japanese/Italian for "three arrows", from a Japanese folk tale) are Hiroshima's entry in the '''J-League''', although they date back to 1938 as a semi-pro team. Though coming off consecutive J-League championships, Sanfrecce struggle for attention in Carp-town, but the fans are great.
+}}
+* And if you're on a quest to complete the whole set of Hiroshima professional sports, visit the '''[http://www.jti.co.jp/knowledge/thunders/ JT Thunders]''' of the '''[http://www.vleague.or.jp/ V-League]''' (volleyball), who hold court at the {{marker|type=do|name=Nekoda Kinen Gymnasium|lat=34.37502|long=132.46309}}, and the '''[https://www.izumi-maplereds.com Hiroshima Maple Reds]''' of the '''[http://www.jhl.handball.jp/eng/ Japanese Handball League]''', Women's Division, who play at the Hirogin no mori Gymnasium.
+* {{do
+| name=Family Pool | url= | email=
+| address=4-41 Moto-machi, Naka-ku | lat= | long= | directions=Genbaku dome-mae tram stop
+| phone=+81 82-228-0811 | tollfree= | fax=
+| hours=Daily 09:00-18:00| price=¥670 adults, ¥340 kids
+| content= Open from 1 July-31 August, right when it's needed most, this huge, open-air pool/water park is a popular place for kids and families to beat the heat. And it's easy to find &mdash; in Chuo Park, right in the center of town.
+}}
+* {{do
+| name=Big Wave | alt= | url=https://www.sports-or.city.hiroshima.jp/facilities/sogo-p | email=
+| address= | lat= | long= | directions=Astram to Ushita
+| phone=+81 82-222-1860 | tollfree=
+| hours=Daily 09:00-21:00, except 08:30-21:30 July-early September | price=Swimming &yen;260 kids, &yen;530 adults; ice-skating &yen;910 kids, &yen;1520 adults
+| content=On the other hand, if you're a serious swimmer, Big Wave offers longer hours and Olympic-size 50-meter swim lanes from July to early September. Then, from November to April, it turns into an ice-skating rink. (Rental skates are available, although people with big feet may not manage.).
+}}
+* {{do
+| name=Hanbe Gardens | alt=半べえ | url=https://hanbe.jp/ | email=
+| address= | lat=34.37492 | long=132.488 | directions=Bus #4 from Hiroshima Station to Niho, get off at Yuenchi Iriguchi and follow the signs about 50 metres
+| phone=+81 82-282-7121 | tollfree=
+| hours= | price=Onsen &yen;800 adults, &yen;500 kids
+| content=If you want to take an onsen in Hiroshima, this hotel, restaurant, garden and onsen isn't bad. They have a good range of baths including a variety with jets, a "lap walking" bath, and a small outdoor area and a sauna. Not too remarkable as onsen go, but nice enough.
+}}
+* {{do
+| name=Round One | alt= | url=https://www.round1.co.jp/shop/tenpo/hiroshima-hiroshima.html | email=
+| address=3-11 Tatemachi, Naka Ward, 730-0032 | lat=34.39348 | long=132.46005 | directions=A block away from mid-Hondori
+| phone=+81 82-545-8910 | tollfree=
+| hours=09:00-06:00 | price=
+| lastedit=2018-02-27
+| content=Bowling alley and entertainment center, popular with locals of all ages in Hiroshima (it is also present elsewhere in Japan). The first three floors consist of an expansive arcade, with racing games, classical arcade games, horror games, claw machines, and gambling/slot machines. The following four floors have bowling alleys, and the final floor has food, billiards, ping pong, and darts. Prices depend on what you're doing, and for how long.
+}}
+* {{do
+| name=縮景園 (Shukkeien) | alt= | url=http://shukkeien.jp/ | email=
+| address=2-11 Kaminoboricho, Naka Ward, Hiroshima, 730-0014 일본 | lat=34.400297 | long=132.467024 | directions=
+| phone=+81 822213620 | tollfree=
+| hours=09:00-17:00 | price=200~300¥
+| lastedit=2024-09-20
+| content=There are carp ponds, tea houses, and flowering trees in the tranquil urban gardens that were created in the 16th century.
+}}
+
+==Work==
+Hiroshima features the standard array of English teaching opportunities, with branches of major ''eikaiwa'' like '''Geos''', '''AEON''' and '''ECC''' as well as small, niche language schools. The '''Hiroshima International Center''' (see [[Hiroshima#Connect|Connect]]) is a good place to make inquiries, as is a Saturday night at '''Kemby's''' (see [[Hiroshima#Drink|Drink]]).
+
+'''Mazda''' is the largest employer of foreign personnel in the area, due to their manufacturing plants in USA, Mexico, China and Southeast Asian countries. Contract workers from [[Southeast Asia]] and the [[South Pacific]] are brought in by Hiroshima-based firms for industries such as shipbuilding, notably in the nearby port city of [[Kure]].
+
+Some non-Japanese work illegally &mdash; or under-the-radar &mdash; as bartenders or sell jewelry in Nagarekawa, which motivates occasional visa crackdowns (see [[Hiroshima#Stay safe|Stay safe]]).
+<!--PRINT
+[[Image:Hiroden6552.jpg|thumb|Tram bound for Hiroshima Port]]
+PRINT-->
+
+==Buy==
+
+Shopping in Hiroshima is dominated by a few huge department stores. Hon-dori (本通り), a covered shopping arcade in the city center, is the place to wander with a wallet you'd like to empty.
+
+In terms of souvenirs, Hiroshima Carp memorabilia is the most widely found, although there's some spillover from the super-powered knick-knack engine that is [[Miyajima]].
+
+* {{buy
+| name=EDiON | alt=formerly DeoDeo | url=https://hiroshima.edion.com/ | email=
+| address=2-1-18 Kamiya-cho, Naka-ku | lat=34.3954 | long=132.4561 | directions=Kamiya-cho nishi tram stop
+| phone=+81 82-247-5111 | tollfree=
+| hours=Daily 10:00-20:00 | price=
+| content=This is the headquarters of the Hiroshima-based electronics giant, with an appropriately huge selection of computer and camera equipment, music and DVDs, and &mdash; somewhat incongruously &mdash; imported designer watches.
+}}
+* {{buy
+| name=Fukuya (Ekimae) | alt=福屋広島駅前店 | url=http://www.fukuya-dept.co.jp/ekimae | email=
+| address=9-1 Matsubara-cho, Minami-ku | lat=34.3965 | long=132.4738 | directions=across the street from the south exit of JR Hiroshima Station, or via underground walkway
+| phone=+81 82-568-3111 | tollfree=
+| hours=Daily 10:00-20:00 | price=
+| content=Upscale boutiques like Chanel, Armani, and Dior.
+}}
+* {{buy
+| name=Hiroshima PARCO | alt=広島パルコ | url=https://hiroshima.parco.jp/ | email=
+| address=10-1 Hon-dori, Naka-ku | lat=34.3921 | long=132.4619 | directions=Hatchobori tram stop
+| phone=+81 82-542-2111 | tollfree=
+| hours=Daily 10:00-20:30; food court to 22:30 | price=
+| content=For the latest in Japanese teen fashion, this is the place to look, with eight floors of clothes boutiques, and beauty supplies in the basement. There are also several music shops for a J-pop fix, and a good shop for soccer fans on the ninth floor. The concrete shape-jumble square behind the store is a popular hang-out space.
+}}
+* {{buy
+| name=SOGO | alt= | url=https://www.sogo-seibu.jp/hiroshima/ | email=
+| address=6-27 Moto-machi, Naka-ku | lat=34.396 | long=132.4571 | directions=Genbaku dome-mae tram stop
+| phone=+81 82-225-2111 | tollfree=
+| hours=Daily 10:00-20:00; food court to 22:00 | price=
+| content=This concrete behemoth is on the other side of the street from the Peace Park, and the Hiroshima Bus Center is on its third floor. There are groceries and coin lockers in the basement, and a food court on the 10th floor. If you make it past all of the toys on the 6th floor, you'll find a Kinokuniya bookstore, with foreign titles (not just English) and a good selection of Japanese language study books.
+}}
+* {{buy
+| name=SunMall | alt= | url=http://www.sunmall.co.jp/ | email=
+| address=2-2-18 Kamiya-cho, Naka-ku | lat= 34.3943 | long=132.4566 | directions=Hondori tram stop
+| phone=+81 82-245-6000 | tollfree= | fax=
+| hours=Daily 10:00-20:00 | price=
+| content=Another teen fashion favorite, with five floors of boutiques and a great secondhand shop on the top floor. Of note for travelers will be the Uniqlo on the 2nd floor, which has good, cheap clothing at foreigner-friendly sizes.
+}}
+* {{buy
+| name=Hands | alt= | url=https://hiroshima.hands.net/ | email=
+| address=16-10 Hatchobori, Naka-ku | lat=34.3945 | long=132.462 | directions=Hatchobori tram stop
+| phone=+81 82-228-3011 | tollfree=
+| hours=Daily 10:00-20:00 | price=
+| content=Mostly Japanese home goods and appliances, but the first floor is full of travel and camping supplies, and the second floor has some fun party supplies (along with a great selection of Halloween gear, when in season). If you scout around on the upper floors, you'll find some reasonably-priced traditional souvenirs like miniature ''sake'' barrels and tea sets.
+}}
+* {{buy
+| name=Costco | alt= | url=http://www.costco.co.jp/p/locations/hiroshima?lang=en | email=
+| address=2-3-4 Minami-Kaniya Minami-ku | lat=34.3912 | long=132.4864 | directions=
+| phone= | tollfree=
+| hours=Daily 10:00-20:00 | price=
+| lastedit=2018-05-21
+| content=Next to Mazda Stadium, about 20 minute walk from JR Hiroshima station or 8 min bus (extremely accessible for a typical Costco even in Japan). Food court is available (hot dog; cheese/pepperoni/combo pizza; green tea/hokkaido ice cream; clam chowder; bulgogi bake instead of chicken bake, though chicken bake is better). Requires any Costco membership card (Japan or international members, international members must stop by counter to fill out a form).
+}}
+* {{buy
+| name=WEGO 広島店 | alt= | url=https://wego.jp/ | email=
+| address=Naka Ward, Hondori, 9−4 広島ソシオテラス 1F～3F | lat=34.392543 | long=132.461241 | directions=
+| phone=+81 825453345 | tollfree=
+| hours=10:00-21:00 | price=
+| lastedit=2024-09-20
+| content=
+}}
+* {{buy
+| name=2nd Street | alt= | url=https://www.2ndstreet.jp/shop/details?shopsId=30993 | email=
+| address=Naka Ward, Hondori, 1−14 2nd Street | lat=34.392550 | long=132.461636 | directions=
+| phone=+81 825455052 | tollfree=
+| hours=10:00-21:00 | price=
+| lastedit=2024-09-20
+| content=
+}}
+* {{buy
+| name=LUSH | alt= | url=https://www.lush.com/jp/ja?y_source=1_MjUxMTY0NzctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D | email=
+| address=1-11 Hondori, Naka Ward | lat=34.392588 | long=132.461774 | directions=
+| phone= | tollfree=
+| hours=10:00-20:00 | price=
+| lastedit=2024-09-20
+| content=
+}}
+* {{buy
+| name=Daiso | alt= | url=https://www.daiso-sangyo.co.jp/shop/detail/2277?utm_source=google&utm_medium=maps&utm_campaign=top | email=
+| address=Naka Ward, Hondori, 1−11 １階 | lat=34.392663 | long=132.461848 | directions=
+| phone=+81 824200100 | tollfree=
+| hours=09:00-21:00 | price=
+| lastedit=2024-09-20
+| content=It is a general merchandise chain in Japan that sells household items, toys, stationery, decorative props, lunch box supplies, and souvenirs.
+}}
+
+==Eat==
+[[Image:Okonomiyaki prep.jpg|thumb|300px|right|Okonomiyaki preparation]]
+[[Image:Okonomiyaki, Miyajima.jpg|thumb|300px|right|Okonomiyaki, Hiroshima style]]
+Hiroshima is famous for its style of '''''okonomiyaki''''' (お好み焼き), which literally means "cook it as you like it". Often (and somewhat misleadingly) called "Japanese pizza", it is better described as a type of savory pancake made with egg, cabbage, soba noodles, and meat, seafood or cheese. It is grilled in layers on a hot plate in front of you and slathered liberally with ''okonomiyaki'' sauce, with optional extras such as mayonnaise, pickled ginger, and seaweed. It sounds and looks like a mess, but is very tasty and filling. To give you a sense of the civic pride involved here, the Hiroshima tourist information office offers a map with a whopping ''97'' shops serving ''okonomiyaki'' within city limits, and reports have several hundred more in the area. Micchan (みっちゃん) is the most famous of the Hiroshima- style okonomiyaki restaurants with long histories. It has a few branches in and around the center of Hiroshima.
+
+Hiroshima style and [[Osaka]] style are the two competing types of ''okonomiyaki'', and if you raise the subject of ''okonomiyaki'' with a local, be ready to state your preference between the two! Basically, in Hiroshima the ingredients are layered and pressed together while cooking, while in Osaka the batter is mixed together first, and the ingredients do not include noodles. According to local legend, both dishes originate from a cheap snack called ''issen yōshoku'' (一銭洋食) or "one-cent Western meal", which consisted of a wheat and water pancake served with scallions and sauce. Representing the other side of the pancake divide, Tokunaga (徳永) is the best-known Kansai-style okonomiyaki restaurant in Hiroshima.
+
+There are Japanese and American chain restaurants clustered near the station, including '''Starbucks''', '''McDonald's''', sushi shops and okonomiyaki shops among many others. Most will serve until 22:00, though McDonalds stays open later.
+
+Hiroshima is also famous for its '''oysters''' (available between October and March) and a maple-leaf-shaped pastry called '''''momiji manjū''''' (もみじ饅頭). (''Momiji'' is the leaf of a Japanese maple tree.) Momiji manjū are available with a variety of fillings, including the more traditional ''anko'' (あんこ), red bean and ''matcha'' (抹茶), or green tea; it's also available in cream cheese, custard, apple and chocolate flavors. Boxes of ''momiji manjū'' are considered the quintessential Hiroshima souvenir, but [[Miyajima]] is the best place to buy it fresh.
+
+===Budget===
+
+* {{eat
+| name=Okonomi-mura | alt=お好み村 | url=http://www.okonomimura.jp/ | email=
+| address=3-3 Nakamachi, Naka-ku | lat=34.391309 | long=132.461928 | directions=Hatchobori tram stop
+| phone=+81 82-241-2210 | tollfree= | fax=
+| hours=The shops keep their own hours, but most will be open around 11:00, and a few stay open until 02:00-03:00 | price=Figure on &yen;700-1500 for a meal
+| wikipedia=Okonomi-mura | image=お好み村1.jpg | wikidata=Q11263021
+| content=Three floors packed with no less than 27 ''okonomiyaki'' shops. This, indeed, is Hiroshima culinary nirvana. They all serve beer and ''okonomiyaki'' with some variations (kimchi, oysters, etc.), and they'll all start clamoring for your business as soon as you walk through the door. It's right behind PARCO, with a distinctive 'Okonomi-mura' arch out front.
+}}
+* {{eat
+| name=Organ-za | alt=ヲルガン座 | url=http://organ-za.com/ | email=
+| address=1-4-32 Tokaichi-machi, Naka-ku (Morimoto Building, 2F) | lat=34.3968 | long=132.4491 | directions=Tokaichi-machi tram stop
+| phone=+81 82-295-1553 | tollfree=
+| hours=M-F 17:30-02:00, Sa 11:30-02:00, Su 11:30-00:00 | price=Most entrees &yen;850, with dessert sets and drinks &yen;500
+| content=If you and your companion have completely different tastes in mind, Organ-za offers dishes from India, Japan, Thailand, Vietnam, and others direct from the imagination of a capable and creative chef. English menus are available. There's also a full bar (tended sometimes by Chie from the late, lamented '''Alcoholiday''') and frequent live music.
+}}
+* {{eat
+| name=Otis! | alt= | url=http://otis-hiroshima.com/main/ | email=
+| address=1-20 Kako-machi, Naka-ku | lat=34.3889 | long=132.4499 | directions=
+| phone=+81 82-249-3885 | tollfree=
+| hours=M-Sa 12:00-23:00, Su 17:00-23:00 | price=Most meals &yen;700-1200, shows &yen;2300-4500 including a drink
+| content=Serving Tex-Mex in Hiroshima for more than twenty years, Otis! is the most vegetarian/vegan/organic-friendly restaurant in town, with items clearly marked on their English menu. In addition to tacos, burritos, enchiladas, and nachos, they have a varied of made-from-scratch bakery items including muffins, brownies, and rye bread, as well as a handful of other items not easy to find in Japan such as ''jambalaya'' and lentil curry with brown rice. The atmosphere is more that of a small live house or indie cafe than a restaurant, with the walls covered in graffiti messages from passing musicians, and the corners stacked with audio equipment and unusual stringed instruments-- they also have a fairly busy schedule of live music, both Japanese and international.
+}}
+* {{eat
+| name=Sankanou | alt=三冠王 | url=http://okonomi-sankanou.net/ | email=
+| address=11-2 Ōsuga-cho, Higashi-ku | lat=34.398042 | long=132.473212 | directions=
+| phone= | tollfree= | fax=
+| hours=M W-Sa 17:30-23:30, Su to 22:30 | price=Food and a cold draught beer for about &yen;900
+| content=A tiny ''okonomi'' shop in a little back alley near the railroad tracks and beside Hiroshima Station. The shopkeep speaks English and is a friendly, enthusiastic young manga fan. He's decorated his shop with Gundam models, moe-moe figurines, manga posters and baseball and wrestling action figures. This shop serves ''okonomiyaki'' in the traditional method, directly on the hot griddle built into the table in front of you. Highly recommended for a visiting anime/manga nerd in search of true Hiroshima ''okonomiyaki'' (the same way Ukyo serves it in ''Ranma ½''!)
+}}
+* {{Eat|name=Micchan|alt=お好み焼 みっちゃん総本店|url=https://www.okonomi.co.jp/menu_english.html|address=8-4 Komachi, Naka-ku|lat=34.387077|long=132.459686|directions=Chuden-mae tram stop|phone=+81 82-248-3022|hours=W-M 11:30-14:30, 17:30-21:30 (Sa Su 17:00-21:30)|price=''Okonomiyaki'' \869|lastedit=2023-01-29|content=Reasonably priced okonomiyaki restaurant. There are branches in Hatchobori, Hiroshima Station, Sogo Department Store, Fukuya Department Store and Tokyo.}}
+* {{eat
+| name=Tachikoma | alt=たちこま | url= | email=
+| address=1-3-9 Dambara, Minami-ku | lat=34.390425 | long=132.474537 | directions=Dambara 1-chome tram stop
+| phone=+81 82-262-7635 | tollfree= | fax=
+| hours=F-W 17:00-23:30 | price=Figure on &yen;1000 for a meal
+| content=A tiny ''okonomoyaki'' shop where locals go, with very friendly owners. The ''okonomiyaki'' is quite good and filling, and there's beer to enjoy with it.
+}}
+* {{eat
+| name=Cocoruku | alt=ココクル | url= | email=
+| address=7-11 Hashimotocho, Naka Ward | lat=34.39369 | long=132.467752 | directions=
+| phone=+81 82-221-0087 | tollfree=
+| hours= | price=¥1000
+| lastedit=2023-10-01
+| content=Nice tiny okonomoyaki shop, where you get classic okonomiyaki with soba noodles, fried egg and plenty of delicious carp sauce. Drinks are primarily beer, shougu or sake. The owner is friendly and talkative (but speaks only a little English).
+}}
+* {{eat
+| name=生クリーム専門店 MILK | alt= | url= | email=
+| address=1-2 Tatemachi, Naka Ward | lat=34.428858 | long=132.465442 | directions=
+| phone= | tollfree=
+| hours= | price=500~2000JPY
+| lastedit=2024-09-20
+| content=
+}}
+* {{eat
+| name=壽ゑ廣餃子 立町店 | alt= | url=https://y186821.gorp.jp/ | email=
+| address= | lat=34.393878 | long=132.461553 | directions=
+| phone=+81 822428270 | tollfree=
+| hours=17:00-21:00 | price=
+| lastedit=2024-09-20
+| content=Izakaya sells gyoza dumplings
+}}
+* {{eat
+| name=Tonkatsu 16 | alt= | url= | email=
+| address=Nagarekawacho, 5−19 とんかつ16 カサブランカビル 1F奥 | lat=34.390142 | long=132.463756 | directions=
+| phone=+81 5037002252 | tollfree=
+| hours=11:30-20:00 | price=
+| lastedit=2024-11-07
+| content=It is a restaurant specializing in pork cutlet that is 100% operated by reservation. Since it is operated by reservation, you can taste food by selecting options that suit your preference.
+}}
+* {{eat
+| name=Hiroshima specialty oyster first | alt= | url=https://r.gnavi.co.jp/plan/8tjykbjv0000/plan-reserve/plan/plan_list/ | email=
+| address= Shintenchi, 5−13 新天地ＰＬＡＺＡ 1F | lat=34.391779 | long=132.461778 | directions=
+| phone=+81 5054859650 | tollfree=
+| hours=11:00-22:30 | price=
+| lastedit=2024-11-07
+| content=Here, you can taste a variety of dishes using oysters. At lunch, you can sell a set menu and have a hearty lunch made with oysters.
+}}
+* {{eat
+| name=Sumiyaki Wagaya | alt= | url= | email=
+| address=1-14 Nakamachi| lat=34.390859 | long=132.460062 | directions=
+| phone=+81 822475671 | tollfree=
+| hours= | price=
+| lastedit=2024-11-07
+| content=It is a restaurant where you can taste Japanese skewer dishes. Here, you can also taste various fried foods such as yakitori and karaage.
+}}
+* {{eat
+| name=Kushiyaki Teki Kamiyacho Branch | alt= | url=https://kushiyakiteki.gorp.jp/ | email=
+| address=1 Chome-5-5 Kamiyacho | lat=34.394276 | long=132.459418 | directions=
+| phone=+81 5054848331 | tollfree=
+| hours=17:00-11:00 | price=
+| lastedit=2024-11-07
+| content=It is a restaurant where you can taste Japanese skewers. It is a restaurant where you can enjoy various kinds of skewers and alcohol comfortably together.
+}}
+* {{eat
+| name=uutora | alt= | url=https://www.tora-tatinomi.com/tora-group/ | email=
+| address=Fukuromachi, 5−4 安部ビル １階 | lat=34.391771 | long=132.458034 | directions=
+| phone=+81 822442377 | tollfree=
+| hours=17:00-11:30 | price=
+| lastedit=2024-11-07
+| content=Seafood dishes. Inside, it is a restaurant where you can stand comfortably or sit down and eat. Fish balls are the main menu.
+}}
+* {{eat
+| name=Okonomimura | alt= | url=http://okonomimura.jp/index.html | email=
+| address=5-13 Shintenchi| lat=34.391600 | long=132.461805 | directions=
+| phone=+81 822412210 | tollfree=
+| hours= | price=
+| lastedit=2024-11-08
+| content=It is a restaurant specializing in okonomiyaki. You can eat Hiroshima's specialty food in the middle of the city.
+}}
+
+===Mid-range===
+
+* {{eat
+| name=Cusco Cafe | alt= | url=https://www.facebook.com/hiroshimacuscocafe/ | email=
+| address=5-23 Hatchobori, Naka-ku | lat=34.3969 | long=132.4635 | directions=Jogakuin-mae tram stop
+| phone=+81 82-502-7366 | tollfree=
+| hours=Su-Th 11:00-00:00, F Sa 11:00-13:00 | price=Lunch sets &yen;790, Multi-course set dinners from &yen;1500-3500; burgers, chicken, and other dishes from &yen;590-950; ''tapas'' from &yen;390 each
+| content=Spanish and Peruvian cuisine including paella and ceviche, plus a smattering of other dishes such as pizza and pasta. There's a pleasant, eclectic ambiance to the decor and the menu, and a full bar if you're not in a hurry.
+}}
+*{{eat
+| name=Caffe Ponte | alt= | url=http://www.caffeponte.com | email=
+| address=Motoyasu-bashi, Ote-machi | lat= 34.3940 | long=132.4543 | directions=5 minutes walk downriver from the A-bomb dome
+| phone=+81 82-2477471 | tollfree= | fax=
+| hours=M-F 10:00-22:00, Sa Su 08:00-22:00 | price=
+| content=Italian restaurant and cafe just next to Peace Memorial Park. Indoor seating for up to 30, but when the weather is not too hot or too cold there's a nice view of the Park and Motoyasu river outside on the terrace. Pasta and Drink set for ¥1280 is the most popular choice, but also offers 5-course dinners and wide selection of Italian food into the late evening. Menus in English, and there's usually some English speaking staff on hand.
+}}
+* {{eat
+| name=Roopali | alt=ルーパリ | url=http://www.roopali.jp/ | email=
+| address=14-32 Wakakusa-cho, Higashi-ku | lat=34.3976 | long=132.479 | directions=
+| phone=+81 82-264-1333 | tollfree=
+| hours=M-Sa 11:30-14:30, 17:00-21:30; Su 11:30-21:30 | price=Sets from &yen;2000
+| content=Good food on the quieter Shinkansen side of JR Hiroshima station. A wide range of curries are on offer, and there is plenty to eat for vegetarians. The ''thali'' sets are good and filling. Comprehensive English menus are available, and it's kid-friendly to boot. If you're just arriving in Hiroshima on an empty stomach, you can't do much better than this.
+}}
+* {{eat
+| name=Graffity Mexican Diner | alt= | url=https://graffity-good.gorp.jp/ | email=
+| address=4F Exa Bldg 6-4 Fukuromachi, Naka-ku | lat=34.39199 | long=132.45812 | directions=
+| phone=+81 82 243-3669 | tollfree=
+| hours=11:30-14:00, 18:00-01:00 | price=¥200-2500
+| content=Yes - good Mexican food does exist in Japan. The owner and chef worked in San Diego for many years, and the food is tasty, traditional mixed with experimental, and they even have hot sauces. Open for lunch and dinner, English spoken. Large groups welcome, call ahead.
+}}
+* {{eat
+| name=Ikinari Steak | alt= | url=http://ikinaristeak.com/shopinfo/hiroshimachuou/ | email=
+| address=2-1 Mikawacho | lat=34.390867 | long=132.462461 | directions=
+| phone= | tollfree= | fax=
+| hours=11:00-01:00 | price=From ¥2000
+| lastedit=2017-08-13
+| content=Range of quality Japanese and international steaks served on hotplates with corn. Some standing room, some tables, can get very busy.
+}}
+* {{eat
+| name=Standing Sushi Restaurant | alt= | url= | email=
+| address=2 Mikawacho | lat=34.390820 | long=132.462446 | directions=next door to Ikinari Steak
+| phone= | tollfree= | fax=
+| hours=17:00-03:00 | price=From ¥500
+| lastedit=2017-08-13
+| content=Standing room only at this good-value sushi bar. Start with a few here, then move next door for a steak!
+}}
+* {{Eat|name=Kiku honten|alt=喜久本店|url=https://takenaya.com/|address=2-6, Kyobashi-cho, Minami-ku|lat=34.395025|long=132.472487|directions=Hiroshima station|phone=+81 82-568-1888|hours=11:30-14:00, 17:00-22:00|price=Sea bream rice (large size) \3080|lastedit=2023-01-29|content=Restaurant serving seafood and other products from the Seto Inland Sea. You can taste sea bream rice, sea eel sashimi, oysters, etc.}}
+* {{eat
+| name=Akushu Cafe ORGANIC | alt=握手カフェ | url=https://akushucafe.com/ | email=
+| address=1F Orizuru Tower 1-2-1 Otemachi Naka Ward | lat=34.3957 | long=132.4548 | directions=at the bottom of Orizuru tower, across the road from the atomic bomb dome
+| phone= | tollfree=
+| hours=10:00-17:30 | price=
+| lastedit=2018-02-27
+| content=Reopened March 2024.
+}}
+
+===Splurge===
+
+* {{eat
+| name=Kanawa (Oyster Boat) | alt=かなわ | url=http://www.kanawa.co.jp/ | email=
+| address=Moored across from the Otemachi Building, Naka-ku | lat= 34.3935 | long=132.4545 | directions=Chuden-mae tram stop
+| phone=+81 82-241-7416 | tollfree= | fax=
+| hours=M-Sa 11:00-14:00, 17:00-21:00; Su to 20:30 | price=Lunch sets from ¥3100; dinner ¥7000–15,000, not including drinks
+| content=Docked just south of the Peace Park, this floating restaurant offers some of the tastiest oysters in Hiroshima, along with lovely traditional decor and nice river views (more so at night). There's plenty of room aboard, but it does fill up, so reservations are suggested.
+}}
+
+==Drink==
+
+'''Nagarekawa''' has the highest concentration of bars in Hiroshima &mdash; the good, the bad, and the hostess &mdash; but there are a number of good, quiet wine bars on Hakushima-dori, and plenty of foreigner-friendly pubs clustered around the giant PARCO building. Yagenbori-dori is full of bars and clubs that are spread across floors of the various high-rise buildings as well as a number of "soapland" brothels.
+
+Sake enthusiasts should not miss the chance to visit the breweries of '''Saijo''', particularly during the annual festival in October &mdash; see [[Hiroshima#Festivals|above]].
+
+* {{drink
+| name=Barcos | alt= | url=http://barco.ftw.jp/u4720.html | email=
+| address=7-9 Yagenbori-dori, Naka-ku (Sanwa Building, 2nd floor) | lat= 34.3902 | long=132.4645 | directions=Hatchobori tram stop
+| phone=+81 82-246-5800 | tollfree= | fax=
+| hours=Daily 08:00-17:00| price=
+| content=All races and creeds are in attendance on an average night at Barcos &mdash; from the locals to the international community (and not just English teachers), from fashionistas and lunkheads to lost souls and chatterboxes. If you come on a weekend or a holiday, be prepared for a massive crowd. The DJs play a wide range of music, including soul, techno, R&B, and Latin, but they're happy to take requests. '''Mambos Latin Bar''', on the third floor of the same building and with the same owner, focuses on the Latin music, with dance classes in various styles in the early evening before things get rolling.
+}}
+* {{drink
+| name=Club Quattro | alt= | url=https://www.club-quattro.com/hiroshima/ | email=
+| address=10-1 Hon-dori, Naka-ku (PARCO Building, 10F) | lat=34.3921 | long=132.4619 | directions=Hatchobori tram stop
+| phone=+81 82-542-2280 | tollfree=
+| hours=Doors open for most shows at 18:00 on weekdays, earlier on weekends | price=Tickets vary; anywhere between &yen;2-8000 depending on the band
+| content=The biggest rock venue in town, Club Quattro hosts most of the major touring bands that deign to visit Hiroshima.
+}}
+* {{drink
+| name=Fukuya Beer Garden | alt= | url=http://www.fukuya-dept.co.jp.e.vf.hp.transer.com/ekimae/floor/?p=11f | email=
+| address=9-1 Matsubara-cho (11F) | lat= 34.3965 | long=132.478 | directions=
+| phone=+81 82-568-3111 | tollfree= | fax=
+| hours=Daily 18:00-22:00, varies by season | price=
+| content=Many of the department stores have beer gardens on their roofs, and this is a nice one, directly across from JR Hiroshima Station &mdash; just you and a few hundred of your closest friends under the stars, sharing a terrific city view. Regardless of the crowds, though, there's plenty of room and the lines are well-managed. Admission varies from &yen;1000 to &yen;2500 by day of the week and season, which includes all you can drink, some desserts, and a ''ton'' of Western and Japanese fried food.
+}}
+* {{drink
+| name=Kemby's | alt= | url=https://www.kembysbrewpub.com/ | email=
+| address=2-9-13 Ote-machi, Naka-ku | lat=34.3915 | long=132.4552 | directions=Fukuro-machi tram stop
+| phone=+81 82-249-6201 | tollfree=
+| hours=Su-Th 18:00-01:00, F Sa 18:00-02:00 | price=
+| content=A big, friendly bar that's a favorite with locals for watching major sporting events. There's plenty of seating, and pool & darts as well. The English menu offers enough food (mostly Italian and Mexican) to make this a valid dinner spot.
+}}
+* {{drink
+| name=Mac Bar | alt= | url= | email=
+| address=6-18 Nagarekawa-cho, Naka-ku | lat= 34.3936 | long=132.4604 | directions=Hatchobori tram stop
+| phone=+81 82-243-0343 | tollfree= | fax=
+| hours=M-Sa open 18:00, close varies &mdash; as late as 06:00 | price=
+| content=A friendly, venerable hole-in-the-wall owned by a chatty fellow with a ''massive'' collection of rock CDs. He's happy to take requests or just talk about music.
+}}
+* {{drink
+| name=Molly Malone's | alt= | url=http://www.mollymalones.jp/ | email=
+| address=1-20 Shintenchi, Naka-ku (Teigeki Building, 4F) | lat=34.3918 | long=132.4633 | directions=Hatchobori tram stop
+| phone=+81 82-244-2554 | tollfree=
+| hours=Open 11:30 daily, close late. Happy Hour M-Sa 17:00-19:00 | price=
+| content=Another popular foreigner hang-out. It's a reliable source for rugby and soccer games, but arrive early if you want a good viewing spot. The Irish food is great (¥850-1800), and the desserts (¥700) are quite good with a beer.
+}}
+* {{drink
+| name=Mugen 5610 | alt= | url=https://www.facebook.com/mugen5610 | email=
+| address=1-3 Yagenbori-dori, Naka-ku (Atsuma Building, 2&3F) | lat=34.3908 | long=132.4664 | directions=Hatchobori tram stop
+| phone=+81 82-240-7788 | tollfree=
+| hours=Daily 10:00-04:00 | price=Cover is usually around &yen;1200, which may include a drink or two
+| content=Local and traveling DJs spin quality dubstep, reggae, and drum 'n bass with the aid of a great sound system. The two floors are split between a big dance space and a more laid-back bar area.
+}}
+
+{{infobox|Some perspective for weary travelers|If you've lost your luggage, checked into a shoebox-sized business hotel that reeks of smoke, and had your stomach pumped after eating some bad eel, you still haven't had a worse trip than '''Tsutomu Yamaguchi''' did.
+
+In August 1945, Yamaguchi was sent to Hiroshima on a business trip. With the job done, his co-workers left, but Yamaguchi realized that he had forgotten his personal seal for signing official documents, so he headed back into town to pick it up. That's when the atomic bomb was dropped on Hiroshima. Badly burned, deaf, and partially blind, he spent a night in the ruins of the city, and then found a railway station on the western edge of the city that was back in operation. He managed to catch a train home to [[Nagasaki]], where &mdash; as Yamaguchi explained to his disbelieving boss what had happened in Hiroshima &mdash; the second atomic bomb was dropped.
+
+In 2009, the Japanese government certified the still-living Tsutomu Yamaguchi as the first known person to have been at ground zero of both atomic blasts. A year later, Yamaguchi passed away from stomach cancer at the age of 93.}}
+* {{drink
+| name=Centre Point | alt= | url=https://www.facebook.com/CentrePointHiroshima | email=dgclimited@gmail.com
+| address=5F 3-12 Yagenbori, Naka-ku | lat=34.39104 | long=132.46456 | directions=Walk down Nagarekawa-douri and turn left just after you see Amipara game center on your left and Poplar convenience store on your right, head down to the end of the street and Centre Point Hiroshima is on the 5th Floor of the building on the left corner of the block facing you.
+| phone= | tollfree=
+| hours= | price=
+| content=Small and modern bar on the top floor of an office building. Owned by a DJ, he performs there and brings in visiting acts from across the country. Cocktails are a speciality, and beer on tap costs about ¥600 a glass.
+}}
+
+==Sleep==
+
+===Budget===
+
+For a short night before an early train, the cheapest digs in town will be to nap in the easy chairs at the two Internet cafes outside the south exit of JR Hiroshima Station (see [[Hiroshima#Connect|Connect]]), or possibly a Nagarekawa karaoke box. You won't be the only one doing it, particularly on weekends.
+
+* {{sleep
+| name=JMS Aster Plaza | alt=JMSアステールプラザ | url=https://hiyh.pr.arena.ne.jp/stay/ | email=
+| address=4-17 Kako-machi, Naka-ku | lat=34.3877 | long=132.448 | directions=Wel City/Kosei Nenkin Kaikan bus stop
+| phone=+81 82-247-8700 | tollfree=
+| checkin= | checkout= | price=¥5760 adults, ¥3620 minors (or event-related discount)
+| content=aka Hiroshima International Youth House (広島市国際青年会館). City convention center with guest rooms on top two floors. Cable Internet access in rooms, coin-fed access available in lounges, coin laundry facilities on 7th floor. Front door locked at midnight.
+}}
+* {{sleep
+| name=K's House | alt= | url=http://kshouse.jp/hiroshima-e | email=
+| address=1-8-9 Matoba-cho, Minami-ku | lat= 34.3925 | long=132.4738 | directions=Matoba-cho tram stop
+| phone=+81 82-568-7244 | tollfree= | fax=
+| checkin= | checkout= | price=&yen;2500 for a 6 person dorm, ¥10,800 for room for 3 people with private bathroom
+| content=Part of the popular hostel chain. No curfew or lockout, free wifi, computers with Internet access available in the lobby for a small fee, and laundry facilities. Take the south exit from JR Hiroshima Station, then follow the tram tracks across the river. When they split, follow the tracks that go along the river, and look down the streets to your right. You should see a large K's House sign.
+}}
+* {{sleep
+| name=J-Hoppers Trad Guesthouse | alt= | url=http://hiroshima.j-hoppers.com | email=
+| address=5-16 Dobashi-cho, Naka-ku | lat= 34.3930 | long=132.4472 | directions=Dobashi-cho tram stop
+| phone=+81 82-233-1360 | tollfree= | fax=
+| checkin= | checkout= | price=8 bed dorm &yen;2500, private rooms &yen;3000 per person
+| content=A lively hostel with English speaking staff. Every private room is Japanese style. They also offer free wifi with your laptop (&yen;100 per 30 min for hostel computers) and rental bikes (&yen;500 per day), with no curfew or lockout and held-luggage services.
+}}
+* {{sleep
+| name=Hiroshima Town Hotel 24 | alt=広島タウンホテル24 | url=https://www.townhotel24.co.jp/hotel/hiroshima | email=
+| address=6-20 Nishi Hiratsuka, Naka-ku | lat=34.3896 | long=132.4668 | directions=Hatchbori tram stop
+| phone=+81 82-546-0705 | tollfree=
+| checkin=all-time | checkout=all-time | price=
+| content=Sort of a hybrid of a business hotel and a love hotel, featuring a bewildering array of cheap rates from the 70 minute "shower" (¥2300) up to 20 hours (¥5900). It is clean, convenient, and comfortable.
+}}
+* {{sleep
+| name=Minshuku Ikedaya | alt= | url= | email=
+| address=6-36 Dobashi-cho, Naka-ku | lat= 34.3928 | long=132.4483 | directions=Dobashi-cho tram stop
+| phone=+81 82-231-3329 | tollfree= | fax=
+| checkin= | checkout= | price=Single rooms with/without bath from &yen;4200 to &yen;5775; double rooms from &yen;7350 to &yen;9450
+| content=The rooms at this ''minshuku'' are clean, bright, and pleasant. The staff speak enough English to get you checked in, although you may not see a trace of them afterward.
+}}
+
+===Mid-range===
+
+* {{sleep
+| name=Mitsui Garden Hotel Hiroshima | alt=三井ガーデンホテル広島 | url=https://www.gardenhotels.co.jp/hiroshima/eng/ | email=
+| address=9-12 Nakamachi, Naka-ku | lat=34.389436 | long=132.45919 | directions=
+| phone=+81-82-240-1131 | tollfree=
+| checkin= | checkout= | price=
+| lastedit=2018-04-09
+| content=Although the hotel is three-star, it provides many services such as free Wi-Fi, buffet breakfasts and three restaurant choices. Some guests have the chance to overlook the Hiroshima Peace Park right at the windows of their room, and there is a close to 360° view surrounding the Sky Restaurant where people enjoy their breakfast. Expect around ¥10000 for single and ¥15000 for double.
+}}
+* {{sleep
+| name=Chisun Hotel Hiroshima | alt=チサンホテル広島 | url=https://www.solarehotels.com/hotel/hiroshima/chisunhotel-hiroshima/ | email=
+| address=14-7 Nobori-cho, Naka-ku | lat=34.3937 | long=132.4669 | directions=Kanayama-cho tram stop
+| phone=+81 82-511-1333 | tollfree=
+| checkin= | checkout= | price=Economy to deluxe single rooms for one person range from &yen;7500-9500, including
+| content=Bright, new, small rooms. Buffet breakfast is available for ¥1200.
+}}
+* {{sleep
+| name=Hotel S-Plus Hiroshima Peace Park | alt=ホテルエスプル広島平和公園 | url=https://www.greens.co.jp/hshiroshima/ | email=
+| address=3-17 Komachi, Naka-ku | lat=34.3889 | long=132.4559 | directions=Chuden-mae tram stop
+| phone=+81 82-541-5555 | tollfree=
+| checkin= | checkout= | price=
+| content=
+}}
+* {{sleep
+| name=Dormy Inn Hiroshima | alt=ドーミーイン広島 | url=http://www.hotespa.net/hotels/hiroshima/ | email=
+| address=3-18 Komachi, Naka-ku | lat=34.389 | long=132.4567 | directions=Chuden-mae tram stop
+| phone=+81 82-240-1177 | tollfree=
+| checkin= | checkout= | price=Rooms from &yen;7500 single, &yen;9750 double
+| content=Centrally located along Heiwa-o-dori, this is a comfortable and friendly full-service hotel with Western-style rooms, free laundry facilities, bike rentals, and a great ''sento'' bath. There's a complimentary taxi service from JR Hiroshima Station with advance reservation.
+}}
+* {{sleep
+| name=Hiroshima Grand Intelligent Hotel | alt= | url=https://intelligent-hotel.co.jp/grand/en/ | email=
+| address=1-4 Kyobashi-cho, Minami-ku | lat= 34.3948 | long=132.4729 | directions=Inari-machi tram stop
+| phone=+81 82-263-5111 | tollfree= | fax=
+| checkin= | checkout= | price=Rooms from &yen;6300 single, &yen;10,000 double
+| content=A tall, pleasant Western-style hotel with a suitably grand lobby and comparatively modest guest rooms. Breakfast is served for ¥1350 buffet, ¥600 toast set. LAN Internet access is available in every room.
+}}
+* {{sleep
+| name=Hiroshima Intelligent Hotel Annex | alt= | url=https://intelligent-hotel.co.jp/annex/en/ | email=
+| address=3-27 Inari-machi, Minami-ku | lat= 34.3925 | long=132.4703 | directions=Inari-machi tram stop
+| phone=+81 82-263-7878 | tollfree= | fax=
+| checkin= | checkout= | price=Rooms from &yen;6300 single, &yen;10,000 double
+| content=Just down the street from the Grand, with comparable facilities.
+}}
+* {{sleep
+| name=Hotel Active! | alt= | url=http://www.hotel-active.com/hiroshima/ | email=
+| address=15-3 Nobori-machi, Naka-ku | lat= 34.3935 | long=132.4677 | directions=Kanayama-cho tram stop
+| phone=+81 82-212-0001 | tollfree= | fax=
+| checkin= | checkout= | price=Rooms from &yen;5980 single, including large Japanese-style breakfast
+| content=Cheaper than most business hotels, featuring small but modern, fashionable rooms with LAN Internet access, and helpful, cool staff.
+}}
+* {{sleep
+| name=Oriental Hotel Hiroshima | alt= | url=http://www.oriental-hiroshima.com/e/index.html | email=
+| address=6-10 Tanaka-machi, Naka-ku | lat= 34.3884 | long=132.4639 | directions=
+| phone=+81 82-240-7111 | tollfree= | fax=
+| checkin= | checkout= | price=Rooms from &yen;6000 double
+| content=Very stylish 4-star hotel (though the outside doesn't look like it). Features a lot of modern Japanese and European art. Make sure to check out the bar on the 23rd floor which is quite pricey but makes up for it with its 360° view of Hiroshima and an interesting ceiling.
+}}
+* {{sleep
+| name=Comfort Hotel Hiroshima Otemachi | alt= | url=https://www.choice-hotels.jp/hotel/otemachi/ | email=
+| address=3 Chome-7-9 Otemachi, Naka Ward, Hiroshima, 730-0051 일본 | lat=34.387824 | long=132.454564 | directions=
+| phone=+81 825457811 | tollfree=
+| checkin=15:00 | checkout=11:00 | price=5000¥~
+| lastedit=2024-11-08
+| content=As a three-star hotel, it provides a comfortable stay. There are also various services and convenience facilities inside.
+}}
+
+===Splurge===
+
+* {{sleep
+| name=Aioi Ryokan | alt=相生 | url=http://www.hiroshima-aioi.com/ | email=
+| address=1-3-14 Ote-machi, Naka-ku | lat=34.3955 | long=132.4545 | directions=Genbaku dome-mae tram stop
+| phone=+81 82-247-9331 | tollfree=
+| checkin= | checkout= | price=Rooms with private baths from &yen;21,000 single, &yen;37,800 double
+| content=The closest traditional Japanese accommodation to the Peace Park, although only the upper floors have a view. Breakfast and dinner are included in the rate, and their versatile kitchen earns rave reviews for dishes high and low on the elegance scale. All of their tastefully appointed rooms have private baths, but there are communal baths on the seventh floor with a memorable view of the A-Bomb Dome.
+}}
+* {{sleep
+| name=ANA Crowne Plaza Hiroshima | alt=ANAクラウンプラザ広島 | url=http://www.anacrowneplaza-hiroshima.jp/language/english/index.html | email=
+| address=7-20 Naka-machi, Naka-ku | lat= 34.3904 | long=132.4569 | directions=Fukuro-machi tram stop
+| phone=+81 82-241-1111 | tollfree= | fax=
+| checkin= | checkout= | price=Rooms &yen;16-20,000 single, &yen;24-33,000 twin
+|lastedit=2023-01-29| content=Great location near the Peace Park, with multiple restaurants, a health club, Internet access, and all the amenities the price would suggest.
+}}
+* {{sleep
+| name=Hotel Granvia | alt=ホテルグランヴィア広島 | url=http://www.hgh.co.jp/english/ | email=
+| address=1-5 Matsubara-cho, Minami-ku | lat= 34.3992 | long=132.4755 | directions=
+| phone=+81 82-262-1111 | tollfree= | fax=
+| checkin= | checkout= | price=
+|lastedit=2023-01-29| content=Located right outside the Shinkansen gates, this will be the most convenient hotel for any late-arriving travelers. The cheapest single rooms with no meals (&yen;7600) aren't much more than an average business hotel, but spending time at the elegant lounge and restaurant &mdash; and splurging on a luxury twin room with a terrific view (&yen;22,000) &mdash; will raise the price tag.
+}}
+* {{sleep
+| name=Rihga Royal Hiroshima | alt=リーガロイヤルホテル広島 | url=http://www.rihga.com/hiroshima | email=
+| address=6-78 Motomachi, Naka-ku | lat= 34.3974 | long=132.4577 | directions=Kamiya-cho nishi tram stop
+| phone=+81 82-502-1121 | tollfree= | fax=
+| checkin= | checkout= | price=Rooms start from &yen;16,170 single and &yen;23,100 double. Found a suitcase full of money? Royal suites clock in at a mere &yen;346,500
+|lastedit=2023-01-29| content=Overlooking the Peace Park, this luxury hotel is also the tallest building in Hiroshima. There are several restaurants and lounges on premises, and a massive swimming pool/sauna for a fee (¥3150 adults, ¥1575 kids). Baseball fans take note: this is where visiting teams stay when they're in town, so the lobby is a good place to pick up autographs.
+}}
+* {{Sleep|name=Grand Prince Hotel Hiroshima|alt=グランドプリンスホテル広島|url=https://www.princehotels.com/hiroshima/|address=23-1 Motoujina-machi, Minami-ku|lat=34.342739|long=132.4640808|directions=Moto-Ujina-guchi Electric Railway Station|phone=+81-82-256-1111|lastedit=2023-01-29|content=The hotel has 510 rooms, including hot spring facilities and rooms overlooking the Seto Inland Sea. Regular ferry services are also available from the hotel's pier. Local buses and hotel shuttle buses are available from Hiroshima Station. Regular ferry service 40 minutes from Miyajima.}}
+* {{sleep
+| name=Sheraton Grand Hotel Hiroshima | alt=シェラトングランドホテル広島 | url=http://www.sheraton-hiroshima.jp/ | email=
+| address=12-1 Wakakusacho | lat=34.398098 | long=132.477676 | directions=Next to main rail station
+| phone=+81 82-262-7111 | tollfree=
+| checkin= | checkout= | price=
+| lastedit=2015-05-13
+| content=Excellent quantity, modern well furnished, spacious sized rooms. Breakfast buffet reasonable but not the best.
+}}
+
+==Stay safe==
+[[Image:Hiroshima mother and child.jpg|thumb|250px|right|Mother and child, Peace Memorial Park]]
+Hiroshima has a rough reputation among Japanese people from other cities, thanks largely to the ''yakuza'' movies that were filmed in town. In reality it is much safer than any large Western city. As with most places in Japan, petty theft is virtually non-existent. Nagarekawa, the nightlife district, has the usual range of adult entertainment venues found in most large Japanese cities, including some hostess bars that may overcharge — so the standard caution applies.
+
+There have been a few surprise police raids on bars that offer dancing after 01:00, in accordance with a semi-obscure local law about public immorality that Hiroshima occasionally feels compelled to enforce &mdash; probably in order to catch people who are in the country illegally. Japanese citizens are generally allowed to leave right away, but foreigners have been made to stand in line to have their paperwork checked. If you find yourself in one of these situations, just stay calm, show the police your passport, and you'll eventually be allowed to leave without any trouble.
+
+==Connect==
+Public wireless LAN is available at public facilities in Hiroshima City and Miyajima Island, as well as on some ferries. Available locations can be found at [https://dive-hiroshima.com/en/information/wifi-area/ official tourist website]{{Dead link|date=July 2026 |bot=InternetArchiveBot }}.
+
+* {{listing
+| name=Aprecio | alt=アプレシオ | url=http://www.aprecio.co.jp/hiroshima_ekimae/ | email=
+| address=10-3 Matsubara-cho | lat= | long= | directions=
+| phone=+81 82-506-1323 | tollfree= | fax=
+| hours=24 hours | price=&yen;300 for membership; &yen;180 first 30 minutes, and &yen;70 every 10 minutes thereafter
+| content= An elegant net cafe with a wide variety of free drinks, ice cream and hot soup included in the price of admission. There's even a pool table and darts (and private showers towards the back). It's on the other side of the street from the south exit of JR Hiroshima Station, on the fifth floor of the building next to Fukuya and directly across the street from the post office.
+}}
+* {{listing
+| name=Global Lounge | alt=グローバルラウンジ | url=http://hiroshima-no1.com/lounge.html | email=
+| address=1-5-17 Kamiya-cho, Naka-ku | lat= 34.3941 | long=132.4595 | directions=Kamiya-cho highashi tram stop
+| phone=+81 82-244-8145 | tollfree= | fax=
+| hours=M-Th 12:00-21:00, F Sa 12:00-23:00 | price=
+| content=Part of a hodge-podge of foreigner-centric businesses &mdash; Outsider is a language school, Book Nook sells used books (albeit with a sorry selection), and the Global Lounge offers Internet access (&yen;200 for 15 min) and a meeting space. Coffee, tea, and soft drinks (&yen;200) are served, with beer and cocktails on Friday and Saturday nights.
+}}
+* {{listing
+| name=Hiroshima International Center | alt=ひろしま国際センター | url=http://hiroshima-ic.or.jp/en/use/ | email=
+| address=8-18 Naka-machi (Crystal Plaza Building, 6th floor) | lat= 34.3899 | long=132.4579 | directions=Chuden-mae tram stop
+| phone=+81 82-541-3777 | tollfree= | fax=
+| hours=Tu-Sa 09:00-20:30, Su 09:30-18:00 | price=Entry and basic facilities are free; some events require membership or a small fee
+| content=The HIC offers an English reference library and "friendship lounge" with books, newspapers, and local info. For long-term visitors, there are free Japanese language lessons, cultural events (such as the Saturday Salons), and help with residency issues. Take the tram or bus to the Fukuro-machi stop.
+}}
+
+==Cope==
+
+Hiroshima is a safe and friendly city, accustomed to and eager to receive foreign visitors. The average English level among Hiroshima residents is relatively high for a Japanese city, particularly around the Peace Park. Directions to the major sights are clearly sign-posted in English throughout the city.
+
+The Peace Memorial Park is a very popular school trip destination for Japanese students, and you may be accosted by kids working on school projects, asking you (in halting English) where you're from, what your name is, or whatever else their teacher has assigned them to ask. They travel in packs, so you should be able to see them coming from a distance and avoid (or engage) accordingly.
+
+As mentioned above, visiting the sights related to the atomic bomb can be an '''intense experience'''. If you only have one day set aside for Hiroshima, you'll naturally wind up spending most of it at the atomic bomb memorials. For your own peace of mind, though, try to set aside time to relax and reflect in other parts of the city, such as Chuo Park or Shukkeien, both of which are only a short walk from the Peace Park.
+
+==Go next==
+
+* [[Miyajima]] and its iconic floating ''torii'' are an easy day-trip from Hiroshima &mdash; about an hour away by tram or local train to the port of Miyajima-guchi and then a short ferry ride.
+* If WWII history brought you to Hiroshima, nearby [[Kure]] has more to see with the Yamato Museum
+* [[Higashihiroshima]] is home to Saijō, one of the nation's [[Japan's Top 3|top three sake districts]].
+* Trips from Hiroshima's Ujina Port can be made to other islands in the [[Seto Inland Sea]], such as [[Ninoshima]] and its old style Japanese village of Aki no Kofuji.
+* A longer ferry ride from Ujina could take you to [[Matsuyama]] for a day at the famed '''Dogo Onsen''' hot springs. The ferry company operating this service offers a '''foreigner discount''' of ~45% off the normal price. One way ticket price after discount from Hiroshima to [[Matsuyama]] is ¥2000 for the slow ferry and ¥3600 for fast one.
+* [[Iwakuni]], about 45 minutes away by train, features the '''Kintai-kyo''' samurai bridge and a scenic castle reconstruction.
+* [[Onomichi]], a hillside town of temples and Japanese novelists, is 75 minutes away by train.
+* [[Okayama]] is the other major transit hub for the region, about 45 minutes by Shinkansen. Aside from its own attractions, Okayama offers access to the museums and canals of [[Kurashiki]].
+
+{{routebox
+| image1=Sanyo Shinkansen icon.png
+| imagesize1=100
+| directionl1=W
+| majorl1=[[Hakata]]
+| minorl1=[[Iwakuni|Shin-Iwakuni]]
+| directionr1=E
+| majorr1=[[Osaka|Shin-Osaka]]
+| minorr1=[[Higashihiroshima]]
+
+| image2=JR Sanyo icon.png
+| imagesize2=100
+| directionl2=W
+| majorl2=[[Yamaguchi]]
+| minorl2=[[Hatsukaichi]]
+| directionr2=E
+| majorr2=[[Okayama]]
+| minorr2=[[Higashihiroshima|Saijyo (Higashihiroshima)]]
+
+| image3=Hiroden Line 2.png
+| imagesize3=45
+| directionl3=W
+| majorl3=[[Miyajima]]guchi
+| minorl3=[[Hatsukaichi|Hiroden Hatsukaichi]]
+| directionr3=E
+| majorr3=END
+| minorr3=
+
+| image4=Chugoku Expwy Route Sign.svg
+| imagesize4=100
+| directionl4=W
+| majorl4=[[Yamaguchi]]
+| minorl4=[[Hatsukaichi|Yoshiwa]]
+| directionr4=E
+| majorr4=[[Kobe]]
+| minorr4=[[Miyoshi (Hiroshima)|Miyoshi]]
+
+| image5=Sanyo Expwy Route Sign.svg
+| imagesize5=100
+| directionl5=W
+| majorl5=[[Yamaguchi]]
+| minorl5=[[Hatsukaichi]]
+| directionr5=E
+| majorr5=[[Okayama]]
+| minorr5=[[Higashihiroshima|Saijyo (Higashihiroshima)]]
+
+| image6=Hiroshima-Kure Road Route Sign.svg
+| imagesize6=100
+| directionl6=W
+| majorl6=END
+| minorl6=
+| directionr6=E
+| majorr6=[[Kure]]
+| minorr6=[[Saka]]
+
+| image7=Japanese National Route Sign 0054.svg
+| imagesize7=30
+| directionl7=N
+| majorl7=[[Matsue]]
+| minorl7=[[Miyoshi (Hiroshima)|Miyoshi]]
+| directionr7=S
+| majorr7=END
+| minorr7=
+}}
+
+{{starcity}}
+{{geo|34.385278|132.455278}}
+{{IsPartOf|Hiroshima_(prefecture)}}

@@ -1,0 +1,362 @@
+{{pagebanner|Akihabara_banner_wikivoyage.jpg}}
+[[File:Akihabara2019spring.jpg|alt=hobby shop of Akihabara|thumb|Volks Akihabara ]]
+
+'''Akihabara''' (秋葉原), or '''Akiba''' in slang, is [[Tokyo]]'s "Electric Town" on the eastern side of the central [[Tokyo/Chiyoda|Chiyoda]] ward. The area houses thousands of shops selling every technological gadget you can imagine, from computers to gaming consoles and vacuums to DVDs, at reasonable prices. This area is also known as the "Gamer's Mecca" and has become strongly identified with ''anime/manga'' subculture, with the legions of ''otaku'' geeks traipsing down on weekends known as ''Akiba-kei''.
+
+===Tourist information===
+* {{listing
+| name=Akiba Info | alt= | url=https://tokyotouristinfo.com/detail/M0005 | email=
+| address=2F Akihabara UDX building | lat= | long= | directions=4 min walk from the station
+| phone= | tollfree=
+| hours=11:00-17:30  | price=
+| image=
+| lastedit=2019-05-04
+| content=Available languages: English and Chinese
+}}
+*[https://www.akiba-information.jp/html/multi/multiple/index.html '''Akiba-i'''] is a multilingual guide site by the local Town Management Organization.
+
+==Get in==
+
+===By train===
+Akihabara is centered on {{marker|type=go|name=Akihabara Station|wikidata=Q800374}}, which is on the JR Yamanote, Keihin-Tohoku, and Chuo-Sobu Local Lines. Take the "Akihabara Electric Town" exit to be dropped into the middle of the action.
+
+Akihabara is also the terminal of the '''Tsukuba Express Line''', which runs to [[Tsukuba]] and other stations in [[Ibaraki]] and northern [[Chiba (prefecture)|Chiba]] prefectures. (45 minutes to/from Tsukuba via ''kaisoku'')
+
+Getting to Akihabara by subway is also quite easy; travel to Akihabara Station by the Hibiya line (H15), or to {{marker|type=go|name=Suehirocho Station|wikidata=Q347988}} (G14) or {{marker|type=go|name=Kanda Station|lat=35.6943|long=139.7707|wikidata=Q800989}} (G13; take exit 6 or 5) by the Ginza line. The Toei Shinjuku line is also a 10-minute walk to Akihabara from {{marker|type=go|name=Iwamotocho Station|wikidata=Q128319}} (S08).
+
+There is no ''direct'' connection to the airports, but it's readily reached from [[Narita Airport]] with a brief connection on the Yamanote, either from Nippori for the Keisei Skyliner (55 minutes, ¥2550) or from Tokyo via the Narita Express (75 minutes, ¥2940). Taking the often-crowded Keisei limited express (''tokkyu'') increases travel time to 90 minutes, but lowers the fare to ¥1150. In the evening, ''Access Tokkyu'' commuter trains between Narita Airport and Nippori shave 20 minutes off of the overall travel time against a ¥200 additional fare.
+
+You can also use the Keisei limited express from Narita Airport to Funabashi, then walk to the JR Funabashi station and take a Sobu Line local train to Akihabara (90 minutes, ¥1100).
+
+For [[Haneda|Haneda Airport]], the Yamanote will also take you to Hamamatsucho; transfer there to the airport-bound Tokyo Monorail (40 minutes, ¥620).
+
+==See and do==
+{{Mapframe|35.69995|139.77225|zoom=16}}
+{{Mapshapes|Q682894}} <!-- Tokyo Metro -->
+{{Mapshapes|Q247782}} <!-- Toei Subway -->
+{{Mapshape|wikidata=Q225095|type=geoline|stroke=#00b48d|stroke-width=4|stroke-opacity=1|title=Rinkai Line}}
+{{Mapshape|wikidata=Q693036|type=geoline|stroke=#9acd32|stroke-width=4|stroke-opacity=1|title=Yamanote Line}}
+{{Mapshape|wikidata=Q1091295|type=geoline|stroke=#ffd700|stroke-width=4|stroke-opacity=1|title=Chuo-Sobu Line}}
+{{Mapshape|wikidata=Q1197028|type=geoline|stroke=#00bfff|stroke-width=4|stroke-opacity=1|title=Keihin-Tohoku Line}}
+{{Mapshape|wikidata=Q1377699|type=geoline|stroke=#000084|stroke-width=4|stroke-opacity=1|title=Tsukuba Express}}
+{{Mapmask |35.6984,139.7689 |35.6971,139.7710 |35.6970,139.7719 |35.6969,139.7754 |35.6996,139.7755 |35.6997,139.7744 |35.7008,139.7745 |35.7016,139.7744 |35.7017,139.7733 |35.7028,139.7737 |35.7030,139.7717 |35.7030,139.7696 |35.7022,139.7694 |35.6987,139.7690 |35.6984,139.7689}}
+
+[[File:Akihabara Ad Manga.JPG|thumb|240px|Evangelion-themed pachinko parlor]]
+
+Akihabara is all about shopping. One of its few sights, the Transportation Museum, moved to [[Saitama]] as the Railway Museum.
+
+* {{do
+| name=AKB48 theater | alt= | url= | email=
+| address= | lat= | long= | directions=top floor of Don Quijote
+| phone= | tollfree= | fax=
+| hours= | price=¥3000 for men, ¥2000 for women
+| content=AKB48 is a home-grown, all-girl idol group — their name comes from <u>Ak</u>iha<u>b</u>ara — which started in 2005 and quickly became the best-selling female group in Japan. They perform 6 days a week. If you are into J-pop music and cute girls all rolled into one (and are lucky enough to win the ticket lottery), don't miss this.
+}}
+* {{see
+| name=Kanda Myojin Shrine | alt= | url=http://www.kandamyoujin.or.jp/what/ | email=
+| address=2-16-2 Sotokanda | lat=35.7017 | long=139.7677 | directions=to the left off of Chūō-dōri as you walk towards Ueno
+| phone=+81 3-3254-0753 | tollfree= | fax=
+| hours= | price=Free
+| content=Akihabara's own temple. You can buy a multi-piece charm for ¥1,000 which will protect your electronic devices from evil. It's mostly noteworthy for the festival it organizes around May. On this occasion, a massive shrine is traditionally carried through the streets of Akihabara, providing an interesting contrast with all the high-tech to say the least.
+}}
+* Take '''''purikura''''' in one of the dozens of '''photo sticker booths'''. Most photobooths can lend you cosplay clothes should you deem them necessary.
+* On '''Sundays''', the main thoroughfare Chūō-dōri is closed to vehicles, and it turns into an unofficial stage for '''cosplayers''' (people dressed up as anime characters) and local bands to strut their stuff. Sadly, this is not as populated as it once was following a bizarre 2008 incident where a knife-wielding man stabbed and killed many people at random, but the cosplayers are slowly returning.
+* Akihabara is also perhaps the last stronghold in the world for classic '''arcade gaming'''. Although arcades are still everywhere in Japan, and more so in Tokyo, the concentration (and skill of play) is especially high in Akihabara. The huge towers of Sega, Taito, and others can't be missed, but more obscure ones have comparatively more obscure games. Recommended for a nostalgic trip back to the 1980s, and to see the latest gaming crazes and check out the pros.
+** {{do
+| name=Taito Station | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=Another arcade, "Hey" on Chuo Dori is also run by Taito.
+}}
+** {{do
+| name=GiGO | alt= | url=https://tempo.gendagigo.jp/ | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=Formerly run by Sega, four locations in Akihabara. As of July 31, 2025, the first store of gigo was closed.
+}}
+
+==Buy==
+===Electronics===
+[[File:Akihabara_LightShop.JPG|thumb|Fluorescent light dealer, Radio City]]
+Unless you're blind, you can't miss the massive neon-lit storefronts that line the main street, '''Chūō-dōri''' (中央通り). Sprawled in every direction are smaller streets with even more electronics stores. Note that the further from the main street you go, the better the prices — but the more you stray, the less foreigner-friendly the shops are. The Internet has taken a big bite out of business though, and some specialist shops, like the legendary two-floor electronic components warren of Radio Store, have shut their doors and moved online. (Its competitors Radio Center and Radio Depart remain open.)
+
+On Sunday afternoons, the main street is blocked to vehicle traffic and the area becomes a bit of a flea market — you can walk freely along the main avenue and many small vendors set up tables on the side streets. You can't miss the street performers; everything from maid-fetish karaoke to Incan music can be heard on a good Sunday.
+
+Though battery-powered electronics are basically the same world-wide, AC-powered electronics designed for the Japanese market use 100 volts, so "native" Japanese electronics may require a step-down transformer outside Japan; even the U.S. standard 110&nbsp;V is too high for many devices. Also, the majority of these products have no international warranty, and are labeled and documented only in Japanese. Head for the many duty-free shops to find export models, but note that they are priced at a premium.
+
+Larger shops can arrange sales tax exemptions for purchases of over ¥10,000, saving you 5%. Unlike most countries, in Japan the tax is waived immediately, so there is no need to run through complicated reclaiming hoops. However, you will have to show your passport, and you're supposed to clear your purchase through customs at the airport on the way out, although there is zero enforcement of this. Many shops take credit cards, but some may charge you a small percentage added to the transaction. This is not permitted by credit card companies, and some will reimburse the charge if properly reported.
+
+Also keep an eye out for '''used''' (中古 ''chūko'') electronics stores, which offer pre-owned computers, MP3 players, smartphones, and other hardware at rock-bottom prices. '''Street vendors''' peddle a dizzying array of very specific wares, such as batteries in every shape and size imaginable, old hard-to-find camera lenses, electronic components, and more.
+
+* {{buy
+| name=LaOX Duty Free | alt= | url=http://www.laox.co.jp/stores/akihabara/ | email=
+| address=1-15-3 Soto-Kanda | lat=35.698000 | long=139.770979 | directions=on Chuo-dori, close to JR Akihabara station
+| phone=+81 3-5207-5027 | tollfree= | fax=
+| hours=M-Th 10:00-20:00, F Sa 10:00-21:00, Su holiday 10:00-20:00 | price=
+| content=LaOX Duty Free specializes in export products and has multilingual staff on hand.
+}}
+* {{buy
+| name=ONODEN Tax-Free Department | alt= | url=http://www.onoden.co.jp/ | email=
+| address=1-2-7 Soto-Kanda | lat=35.698277 | long=139.771014 | directions=on Chuo-dori, close to JR Akihabara station, Electric Town exit
+| phone=+81 3-3253-4742 | tollfree= | fax=
+| hours=Daily 10:00-20:00 | price=
+| content=ONODEN specializes in overseas electronics. Multilingual staff.
+}}
+* {{buy
+| name=Radio Center | alt=ラジオセンター | url=http://www.radiocenter.jp/ | email=
+| address=1-14-2 Soto-Kanda | lat=35.698443 | long=139.771714 | directions=take JR Akihabara Electric Town exit, then turn right
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Radio Center is an unbelievable two-floor warren of tiny shops, each specializing in (for example) LEDs, voltage meters, ceramic capacitors or miniature cameras. Heaven for the do-it-yourself electronics aficionado, and these days a flashback to the Akiba of yesteryear.
+}}
+* {{buy
+| name=Yodobashi Akiba | alt= | url=http://www.yodobashi-akiba.com/ | email=
+| address= | lat=35.698985 | long=139.774729 | directions=at JR Akihabara Showa-dori Exit
+| phone=+81 3-5209-1010 | tollfree= | fax=
+| hours= Daily 09:30-22:00 | price=
+| content=Electronics giant Yodobashi's massive 9-story flagship store selling anything that beeps or clicks, from PCs to games to cameras. Many languages spoken, tax-free and credit cards no problem, and their famous Gold Point Card system gets you credit worth 10% of your purchase, usable for two years starting the next day. ''Or'' you can have your purchase tax-free.
+}}
+
+===Anime and manga===
+{{seealso|Anime and manga in Japan}}
+Some of Akihabara's largest anime-goods stores can be found along Chūō-dōri. Just head for the street from JR Akihabara Station and walk north.
+* {{buy
+| name=Melon Books | alt=メロンブックス | url=https://www.melonbooks.co.jp/ | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| lastedit=2015-06-26
+| content=In the basement of Taito HEY, it is mostly a mind-boggingly huge selection of fanart (Manga heaven, in a way).
+}}
+* {{buy
+| name=Animate | alt=アニメイト | url=http://www.animate.co.jp/shop/shop_east/akihabara/ | email=
+| address= | lat=35.700492 | long=139.771690 | directions=on Chūō-dōri, located right next to Comic Toranoana
+| phone=+81 3-5209-3330 | tollfree= | fax=
+| hours=Daily 10:00-21:00 | price=
+| content=Seven floors - plus one basement level - of pure otaku goodness. From DVDs and manga to character goods and games, the variety of merchandise on offer is mind-bogglingly vast and will make anime/manga fans wish they were made of money.
+}}
+* {{buy
+| name=Comic Toranoana | alt=コミックとらのあな | url=http://www.toranoana.jp/shop/akihabara/index.html | email=
+| address= | lat=35.700433 | long=139.771657 | directions=on Chūō-dōri, next to Animate
+| phone=+81 3-5294-0123 | tollfree= | fax=
+| hours=Daily 10:00-22:00 | price=
+| content=Looking for dōjinshi? This is the place to head for. Look next to the Taito Station.
+}}
+* {{buy
+| name=Book-Off | alt= | url=http://www.bookoff.co.jp/ | email=
+| address= | lat=35.697765 | long=139.773385 | directions=Across from the large electronic building
+| phone= | tollfree= | fax=
+| hours= | price=&yen;105 and up
+| content=About 8 or 9 floors of all books. The thing that sets this book-off apart from others though is that the top two floors are dedicated exclusively to manga. There is a small section for dōjinshi as well but selection is limited.
+}}
+* {{buy
+| name=Mandarake | alt= | url=http://www.mandarake.co.jp/shop/index_cmp.html | email=
+| address= | lat=35.700388 | long=139.770504 | directions=across Chūō-dōri
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=An 8-floor second-hand shop dealing manga, dōjinshi, video games, toys, and collector's items. To buy toys from these show cases you need to find a slip of paper and write down the code of the toy you want, then take the paper to the counter and the attendant will retrieve the toy for you. It's easy and effective, although the stores can becomes quite busy at times. Check their online [http://www.mandarake.co.jp/shop/floor/cmp.html floor guide].
+}}
+* {{buy
+| name=K-Books | alt=ケイブックス | url=https://www.k-books.co.jp/shop/akihabara_honkan | email=
+| address= | lat=35.69959 | long=139.7705 | directions=across from Mandarake, has a huge sign, can't miss it
+| phone= | tollfree=
+| hours= | price=&yen;105 and up
+| content=Only two floors. First floor is half adult manga/hentai while the second floor is half dojinshi. There is plenty of space though to browse around and they have tons of doujinshi there. Some cheap figures and a whole row of shelves dedicated to body pillow cases. If you want regular manga they have that on both floors as well.
+}}
+* {{buy
+| name=Radio kaikan | alt=秋葉原ラジオ会館 | url=http://www.akihabara-radiokaikan.co.jp/ | email=
+| address=1 Chome-15-16 Sotokanda | lat=35.698054 | long=139.771979 | directions=
+| phone= | tollfree=
+| hours=10:00 ~ 20:00 | price=
+| lastedit=2025-10-19
+| content=This is Akihabara's cartoon, anima shop, with several separate stores on each floor. You can buy various figures and anime related goods.
+}}
+
+===Figurines and models===
+The first rule is pretty obvious: don't buy what you want as soon as you see it — chances are that another store will have it cheaper, sometimes up to half the price. Unfortunately, it's not as simple as prices getting cheaper the further you go from the station. There is an interesting dynamic where things sometimes get cheaper the further you climb the stairs. Due to a lack of standardization it would seem, you can also find the same item in the same shop for multiple prices. Naturally, be careful as if the price is very low you may have walked into a secondhand or cast-offs store.
+
+===Other goods===
+Besides electronics, Akihabara also has a great number of specialty hobbyist stores, ranging from collectible toys to military and railway fandom.
+* {{buy
+| name=Don Quijote | alt=ドン・キホーテ | url=http://www.donki.com/ | email=
+| address=4-3-3 Sotokanda | lat= | long= | directions=Chuo-dori
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Japanese discount store chain offering an incredibly wide range of items at low prices, from snack food to clothing to gag gifts. The Akihabara outlet also has well-stocked costume and adult toy departments to cater to the local crowd. About half way up as well there is an arcade. If you want to play rhythm-based games like DDR or Jubeat it has the cheapest machines in town.
+}}
+* {{buy
+| name=Gachapon Hall | alt=ガチャポン会館 ''Gachapon kaikan'' | url=http://www.akibagacha.com/ | email=
+| address=3-15-5 Sotokanda | lat=35.7019 | long=139.7713 | directions=
+| phone=+81 3-5209-6020 | tollfree= | fax=
+| hours=M-F 11:00-20:00, Sa Su 11:00-19:00 | price=Most gachapon around ¥200-300/each
+| content=An entire store full of ''gachapon'': capsule toy vending machines. Put in a few coins, turn the crank, and out pops a capsule containing a random trinket. The small toys and figurines, some of which attach to your keys or phone case, are of fairly high quality, and many are collector's items.
+}}
+
+==Eat==
+There is a large number of good eateries in Akihabara, but not much in the way of ''haute cuisine''. Under the railway tracks around Okachimachi station (JR Yamanote line), on the East side, you will find ramen noodle bars, izakayas and the like.
+
+* {{eat
+| name=Yoshinoya | url= | email=
+| address= | lat= | long= | directions=across the road from the north exit of Yodobashi Camera
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Chain fast food restaurant selling gyudon beef bowls. Meals start from around &yen;400-500
+}}
+* {{eat
+| name=Tenya | alt=てんや | url= | email=
+| address= | lat= | long= | directions=a few blocks down Chuo-dori towards Metro Suehirocho
+| phone = +81 3-5807-8422 | tollfree= | fax=
+| hours= | price=Basic ''tendon'' bowl costs &yen;560, a steal by any standard
+| content=Cheap fast-food tempura.
+}}
+* {{eat
+| name=Traveler's Dining Pushup | alt=世界一周旅ダイニング居酒屋秋葉原駅店 | url=http://pushup365.com/ | email=
+| address=Akihabara 1-5 2F | lat= | long= | directions=in an alley right behind the Akihabara Capsule Inn
+| phone=+81 8039343640 | tollfree=
+| hours=M-Sa 11:30 - 21:30 | price=
+| content=A tiny place, convenient for anyone staying there. Serves Japanese and foreign food. The owner, Yuki, is a former backpacker and will happily give advice on choosing the right sho-chu from a selection of 60 kinds. Try the raw octopus (tako) in tomato sauce or the kimchi risotto.
+}}
+* {{eat
+| name=Marugo tonkatsu | alt=丸五 | url=https://tonkatsumarugo.shop/ | email=
+| address=1 Chome-8-14 Sotokanda | lat=35.699443 | long=139.769900 | directions=
+| phone=+81 3-3255-6595 | tollfree=
+| hours=W-Su 11:30-)14:00, 17:00-20:00 | price=¥2000~3000
+| lastedit=2025-10-19
+| content=It is a donkatsu shop in Akihabara. It sells high-quality donkatsu even if there is a small amount of money.
+}}
+
+==Drink==
+Akihabara has many '''maid cafes''', where pretty girls dressed up as French maids serve you drinks and dote on you, some going as far as to spoon-feed you.
+
+* {{drink
+| name=@home cafe | alt=あっとほぉーむｃａｆｅ | url=https://www.cafe-athome.com/ | email=
+| address=4F Mitsuwa Bldg, Sotokanda 1-11-4 | lat=35.69956 | long=139.770751 | directions=
+| phone = +81 3-3255-2808 | tollfree= | fax=
+| hours=11:30-22:00 | price=Seating &yen;500; drinks &yen;600; food &yen;1100
+| content=This maid cafe has card games, drinks, food, and young women dressed up as maids to serve you. If you order an omelet, they'll draw a picture of a cute animal on the top in ketchup. In addition to this shop, there are 3 branch stores elsewhere in Akihabara.
+}}
+
+* {{drink
+| name=Cure Maid Cafe | url=http://www.curemaid.jp | email=
+| address=Jisto Akiba 6F, 3-15-5 Sotokanda | lat=35.701845 | long=139.771307 | directions=
+| phone=+81 3-3258-3161 | tollfree= | fax=
+| hours=Daily 11:00-19:00 (or later) | price=At least &yen;500
+| content=The original and not quite as over-the-top (or expensive) as some of the competition. A long line can form on weekends.
+}}
+* {{drink
+| name=Neko JaLaLa | alt=ねこJaLaLa | url=http://www.nekojalala.com | email=shop@nekojalala.com
+| address=1F, Sotokanda 3-5-5 | lat=35.701893 | long=139.769547 | directions=8 min from Akihabara station: on the next main road west after Chuo-doori, about 7-8 blocks north of the Chuo railway line; look for a brown sliding door with a cat's foot
+| phone = +81 3-3258-2525 | tollfree= | fax=
+| hours=Daily 11:00-19:00 | price=&yen;500 for first 30 minutes; &yen;150 for each ten minutes; drinks &yen;300 to &yen;500
+| content=A 'cat cafe': you play with the shop's (very clean) cats while drinking tea. You'll be asked to remove your shoes and wash your hands on entry. You'll also be gently pressured to order one of their drinks. It's a different experience.
+}}
+
+==Sleep==
+
+There are only a few places to sleep in Akihabara. Most visitors camp out elsewhere in the city; [[Tokyo/Ueno|Ueno]], in particular, offers cheap lodging and is just minutes away.
+
+=== Budget ===
+
+*{{sleep
+| name=First Cabin Akihabara | alt= | url=http://www.first-cabin.jp/ | email=fc_akihabara@first-cabin.jp
+| address=3-38 Sakuma, Chiyoda-ku | lat=35.697657 | long=139.777112 | directions=
+| phone=+81 3 6240-9798 | tollfree=
+| checkin=17:00 | checkout=10:00 | price=Singles ¥4800-5800
+| lastedit=2016-09-25
+| content=Nice capsule hotel that's more spacious than your usual affair. Unlike other capsule hotels, the capsules are not vertically stacked, and the first class cabins have enough room to stand in and lay out your luggage. The staff speaks English well enough to check you in and respond to any special requests. Breakfast costs ¥300 and includes two rice balls (onigiri) and miso soup, and there are also vending machines in the lobby for drinks and hot meals.
+}}
+
+===Mid-range===
+
+*{{sleep
+| name=Akihabara Washington Hotel | alt= | url=http://akihabara.washington-hotels.jp | email=info@akihabara-wh.com
+| address=1-8-3 Sakuma, Chiyoda-ku | lat=35.697315 | long=139.773824 | directions=
+| phone=+81 3 3255-3311 | tollfree= | fax=+81 3 3255-7343
+| checkin= | checkout= | price=Singles ¥13,000, doubles/twins ¥17,000
+| lastedit=2016-09-25
+| content=Small rooms but excellent value and extremely convenient to transportation.
+}}
+*{{sleep
+| name=Remm Akihabara Hotel | alt= | url=http://www.hankyu-hotel.com/cgi-bin2/cms2/index_en.cgi?hid=51remmakihabara | email=
+| address=1-6-5 Sakuma, Chiyoda-ku | lat=35.697763 | long=139.773694 | directions=
+| phone=+81 3 3254-0606 | tollfree=
+| checkin= | checkout= | price=Singles from¥14,275, twins ¥24,450
+| lastedit=2016-09-25
+| content=Small rooms that are priced in a mid-range of hotel rates. Despite the small rooms, the hotel is very comfortable and rooms are well appointed.
+}}
+
+==Go next==
+
+Akihabara is within walking distance of the [[Tokyo/Chiyoda|Ochanomizu]] and [[Tokyo/Ueno|Ueno]] areas. The station also connects to both the Sobu-Chuo and the Yamanote JR Lines.
+
+{{routebox
+| image1=JR JY line symbol.svg
+| imagesize1=30
+| directionl1=N
+| majorl1=[[Tokyo/Toshima|Ikebukuro]]
+| minorl1=[[Tokyo/Toshima|Sugamo]] ← [[Tokyo/Ueno|Ueno]]
+| directionr1=S
+| majorr1=[[Tokyo/Shinagawa|Shinagawa]]
+| minorr1=[[Tokyo/Chiyoda|Tokyo]] → [[Tokyo/Minato|Hamamatsucho]]
+
+| image2=JR JB line symbol.svg
+| imagesize2=30
+| directionl2=W
+| majorl2=[[Tokyo/Nakano|Nakano]]
+| minorl2=[[Tokyo/Shinjuku|Shinjuku]] ← [[Tokyo/Bunkyo|Suidobashi]]
+| directionr2=E
+| majorr2=[[Chiba]]
+| minorr2=[[Tokyo/Sumida|Ryogoku]] → [[Ichikawa]]
+
+| image3=Subway TokyoGinza.png
+| imagesize3=30
+| directionl3=N
+| majorl3=[[Tokyo/Asakusa|Asakusa]]
+| minorl3=[[Tokyo/Ueno|Ueno]]
+| directionr3=S
+| majorr3=[[Tokyo/Akasaka|Akasaka Mitsuke]]
+| minorr3=[[Tokyo/Chuo|Nihonbasi]] → [[Tokyo/Ginza|Ginza]]
+
+| image4=Logo of Tokyo Metro Hibiya Line.svg
+| imagesize4=30
+| directionl4=N
+| majorl4=[[Kasukabe]]
+| minorl4=into [[File:Tobu Skytree Line (TS) symbol.svg|30px]] ←[[Tokyo/North|Kitasenju]] ← [[Tokyo/Ueno|Ueno]]
+| directionr4=S
+| majorr4=[[Tokyo/Roppongi|Roppongi]]
+| minorr4=[[Tokyo/Chuo|Tsukiji]] → [[Tokyo/Ginza|Ginza]]
+
+| image5=Subway TokyoShinjuku.png
+| imagesize5=30
+| directionl5=W
+| majorl5=[[Chofu]]
+| minorl5=into [[File:Number prefix Keiō.PNG|30px]] ←[[Tokyo/Shinjuku|Shinjuku]] ← [[Tokyo/Chiyoda|Jinbocho]]
+| directionr5=E
+| majorr5=[[Ichikawa|Motoyawata]]
+| minorr5=[[Tokyo/East|Sumiyoshi]] → [[Tokyo/East|Funabori]]
+
+| image6=Tsukuba Express.png
+| imagesize6=40
+| directionl6=N
+| majorl6=[[Tsukuba]]
+| minorl6=[[Kashiwa]] ← [[Tokyo/Asakusa|Asakusa]]
+| directionr6=S
+| majorr6=END
+| minorr6=
+
+| image7=Shuto Urban Expwy Sign 1-Ueno.svg
+| imagesize7=30
+| directionl7=N
+| majorl7=[[Tokyo/Taito|Iriya]]
+| minorl7=[[Tokyo/Ueno|Ueno]]
+| directionr7=S
+| majorr7=[[Tokyo/Shiodome|Shiodome]]
+| minorr7=into [[File:Shuto Urban Expwy Sign C1.svg|30px]] → [[Tokyo/Ginza|Ginza]]
+}}
+{{usabledistrict}}
+
+
+{{IsPartOf|Tokyo}}
+{{geo|35.69836|139.77313}}

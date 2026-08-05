@@ -1,0 +1,243 @@
+{{pagebanner|Ebisu_Banner.jpg}}
+'''Ebisu''' (恵比寿, archaically also ''Yebisu'') is the southernmost district of [[Tokyo/Shibuya|Shibuya]] ward, in [[Tokyo]], [[Japan]].
+
+==Get in==
+{{Mapframe|35.646643|139.710045|zoom=14}}
+{{Mapshape}}
+{{Mapshapes|Q682894}} <!-- Tokyo Metro -->
+{{Mapshapes|Q247782}} <!-- Toei Subway -->
+{{Mapshape|wikidata=Q225095|type=geoline|stroke=#00b48d|stroke-width=4|stroke-opacity=1}} <!-- Rinkai Line -->
+
+Ebisu is a station on the JR Yamanote line, one stop south of [[Tokyo/Shibuya|Shibuya]].  The Metro Hibiya subway line from [[Tokyo/Roppongi|Roppongi]] also stops in Ebisu.
+The Saikyo line and the Shonan-Shinjuku Line also stop in JR Ebisu station.
+* {{go
+| name=Ebisu Station | alt= | url= | email=
+| address= | lat=35.646692 | long=139.710108 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q800715
+| lastedit=2022-12-12
+| content=
+}}
+
+==Get around==
+Ebisu is compact enough to cover on foot.  A convenient '''moving walkway''' connects to the popular Ebisu Garden Place.
+Daikanyama, Nakameguro, Hiroo and Shibuya are close to Ebisu. You can walk to those places easily.
+
+==See==
+The neighborhood immediately outside of the metro station has dozens of restaurants and several fun bars. Ebisu offers nightlife without the sleaziness of Shinjuku or Roppongi. Another attraction is the '''[https://gardenplace.jp/ Yebisu Garden Place]''', a new "city in a city" developed on the site of a former brewery. Access is via the JR station's Garden Place exit, which leads to a moving walkway leading into the district.
+
+* {{see
+| name=Tokyo Metropolitan Museum of Photography | alt=東京都写真美術館, Tokyo-to Shashin Bijutsukan | url=http://topmuseum.jp/ | email=
+| address=in Yebisu Garden Place | lat=35.6417 | long=139.7132 | directions=
+| phone=+81 3-3280-0099 | tollfree=
+| hours= | price=Entrance fees depend on the exhibits you wish to visit but there are often some free ones
+| image=Tokyo Metropolitan Museum of Photography entrance 2011 January.jpg | wikidata=Q862884
+| lastedit=2022-12-12
+| content=A must for fans of photography, with multiple floors of constantly changing exhibitions of the best photography from around Japan and the world.
+}}
+* {{see
+| name=Yebisu Brewery Tokyo | alt=former Beer Museum | url=https://www.sapporobeer.jp/brewery/y_museum/ | email=
+| address=in Yebisu Garden Place | lat=35.643088 | long=139.714541 | directions=
+| phone= | tollfree=
+| hours=Tu-Su 10:00-18:00 | price=Entry is free, and you can sample 6 types of beer for &yen;400 each if so inclined. Alternatively there are guided tours in Japanese which include two beers and cost &yen;500
+| lastedit=2022-12-12
+| content=A mildly interesting permanent exhibition covering the brewing process in general and the history of Japan Beer Brewery Company which developed Yebisu beer, and which is now a part of Sapporo Breweries. There is even a Virtual Brewery Adventure to try.
+}}
+
+==Do==
+* {{event
+| name = Ebisu Ekimae Summer Festival
+| frequency = End of July every year
+| location = Ebisu Station area
+| content = Annual summer festival held near the station.
+}}
+* {{do
+| name = Pirates of Tokyo Bay
+| alt = パイレーツ・オブ・東京湾
+| url = https://www.piratesoftokyobay.com/shows
+| email =
+| address = What the Dickens!, Roob 6 Bldg 4F, 1-13-3 Ebisu-nishi, Shibuya-ku
+| lat = 35.6479
+| long = 139.7078
+| directions = 5-min walk from JR Ebisu Station west exit
+| phone =
+| tollfree =
+| hours = Last Sun of each month, doors 19:00
+| price = ¥2,500 (includes 1 drink)
+| wikidata = Q138448067
+| lastedit = 2026-05-01
+| content = Tokyo's long-running English and Japanese improv comedy group has performed unscripted shows at [[#What The Dickens|What the Dickens]]! since 2010. The international cast takes audience suggestions in both languages and builds scenes on the spot using physical comedy and pantomime, keeping things accessible regardless of language ability. Book tickets online in advance as shows can sell out.
+}}
+
+==Buy==
+* There is a large shopping mall and department store right in JR Ebisu station, but this pales compared with the offerings in next-door [[Tokyo/Shibuya|Shibuya]].
+* {{buy
+| name=Yebisu Garden Place | alt= | url=https://gardenplace.jp/ | email=
+| address= | lat=35.642145 | long=139.713487 | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=Has its fair share of boutiques. The Beer Museum's '''souvenir shop''' deserves a special mention.
+}}
+* {{buy
+| name=Good Day Books | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Moved to [[Tokyo/Gotanda|Gotanda]].
+}}
+
+==Eat==
+Ebisu has a good selection of places to eat, mostly slightly upmarket. The Garden Place also has a large number of restaurants.
+
+* {{eat
+| name=Kabuto | alt=兜 | url=https://kabuto-ebisu.owst.jp/ | email=
+| address=Ebisu-Nishi 1-5-5 | lat=35.648274 | long=139.708028 | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=Charcoal grill (''sumibiyaki'') restaurant that looks way more expensive than it actually is. Not a bad choice just for drinks either, which start at &yen;400 for a draft beer.
+}}
+*{{eat
+| name=Hiiragi | alt=ひいらぎ | url=https://www.instagram.com/ebisutaiyakihiiragi/ | email=
+| address=Ebisu 1-4-1 | lat=35.647670 | long=139.711637 | directions=
+| phone=+81 3-3473-7050 | tollfree=
+| hours= | price=
+| content=A famous Taiyaki shop.
+}}
+*{{eat
+| name=Kimu Katsu | alt=キムカツ | url=https://www.kimukatsu.com/ebisu/ | email=
+| address=Ebisu 4-9-5 | lat= | long= | directions=
+| phone=+81 3-5420-2929 | tollfree=
+| hours= | price=
+| content=A cutlet shop. The special cheese cutlet is recommended.
+}}
+
+==Drink==
+Ebisu is also a trendy nightlife district, with many slightly quirky bars and clubs.
+* {{drink
+| name=Buri | alt= | url=https://www.facebook.com/buri.tokyo.bar/?locale=ja_JP | email=
+| address=Ebisu Nishi 1-14-1 | lat= | long= | directions=look right from the Ebisu statue as you exit the station and take the street between KFC and Wendy's; Buri's on the third corner on your left
+| phone=+81 3-3496-7744 | tollfree=
+| hours=17:00-03:00 | price=
+| content=A small standing bar with many high quality varieties of sake available in cup-size bottles: great for tasting several from all over Japan. All sake is initially served cold, but the staff will warm each cup to your desired temperature.
+}}
+* {{drink
+| name=The FooTNiK | alt= | url=https://footnik.com/ | email=
+| address=Ebisu 1-11-2-1F | lat= | long= | directions=East exit, on Ebisu-Dori
+| phone=+81 3-5795-0144 | tollfree=
+| hours= | price=
+| content=A British pub where there's always football on the telly.
+}}
+* {{drink
+| name=Liquid Room | alt= | url=http://www.liquidroom.net/ | email=
+| address=3-16-6 Higashi | lat= | long= | directions=near crossing of Meiji-dori and Komazawa-dori
+| phone=+81 3-5464-0800 | tollfree=
+| hours= | price=Varies, but around &yen;3500
+| content=One of Tokyo's best-known and oldest-running nightclubs, although it used to be in [[Tokyo/Shinjuku|Kabukichō]] before 2004.
+}}
+* {{drink
+| name=What The Dickens | alt= | url=http://www.whatthedickens.jp/ | email=
+| address=Roob 6 Bldg 4F, Ebisu-Nishi 1-13-3 | lat= | long= | directions=
+| phone= | tollfree=
+| hours=Closed Mondays | price=
+| content=An extremely popular British pub in the heart of Ebisu. Fairly expensive (anything imported costs close to &yen;1000), but has one of the best selections of British beer and cider in town.
+}}
+*{{drink
+| name=Sapporo Beer | alt=in Ebisu Garden Place | url= | email=
+| address=Ebisu 4-20-1 | lat= | long= | directions=
+| phone=+81 3-5423-7255 | tollfree= | fax=
+| hours= | price=
+| content=You can try a lot of beer at a low price.
+}}
+*{{drink
+| name=Ippo | alt= | url=https://tabelog.com/tokyo/A1303/A130302/13032678/ | email=
+| address=Ebisu 1-22-10, Kamasuya 2F | lat= | long= | directions=
+| phone=+81 3 3445-8418 | tollfree=
+| hours=18:00-01:00 | price=
+| content=A small restaurant on the second floor of an unassuming building behind the Ebisu Station; it features fresh fish and a large selection of sake. The menus are in Japanese but the staff speaks English.
+}}
+
+==Sleep==
+===Budget===
+* {{sleep
+| name=Siesta Capsule Hotel | alt= | url=https://siesta.intokyohotels.com/en/ | email=
+| address=1-8-1 Ebisu | lat= | long= | directions=right next to the JR Ebisu station
+| phone= | tollfree=
+| checkin= | checkout= | price=
+| content=Capsule hotel.
+}}
+
+===Mid-range===
+* {{sleep
+| name=Hotel Excellent Ebisu | alt=ホテルエクセレント恵比寿 | url=http://hotelexcellent.jp/english/ | email=
+| address= | lat=35.647 | long=139.708327 | directions=directly west of Ebisu JR station
+| phone=+81 3-5458-0087 | tollfree=
+| checkin=15:00 | checkout=10:00 | price=Single ¥9,950, Double ¥12,700, Twin ¥14,600, add ¥100 if single occupancy in a double or a twin room
+| lastedit=2022-12-12
+| content=Affordable and clean business hotel, with a total of 127 rooms (single, double, and twin). Breakfast is available at an additional charge.
+}}
+
+===Splurge===
+* {{sleep
+| name=Westin Hotel Tokyo | alt=ウェスティンホテル東京 | url=https://www.marriott.co.jp/hotels/travel/tyowi-the-westin-tokyo/ | email=
+| address=Yebisu Garden Place 1-4-1 Mita, Meguro-ku | lat=35.641556 | long=139.715511 | directions=
+| phone=+81 3-5423-7000 | tollfree=
+| checkin= | checkout= | price=
+| lastedit=2022-12-12
+| content=Slick 5-star hotel. Renewal completed in Dec 2023.
+}}
+
+==Connect==
+* {{listing
+| name=Jiyu Kukan | alt=自遊空間 | url=https://jiqoo.jp/shop/?9931239 | email=
+| address=Higashi-Ebisu 1-13-2, Sanki Building 4F | lat= | long= | directions=outside JR Ebisu West Exit, down alley between KFC and St. Marc Cafe
+| phone= | tollfree=
+| hours=24 hours | price=&yen;450/hour, discounted rates at night
+| content=Standard-issue Japanese manga/internet cafe with a variety of seats and free drinks.
+}}
+
+== Go next ==
+{{routebox
+| image1=JR JY line symbol.svg
+| imagesize1=30
+| directionl1=N
+| majorl1=[[Tokyo/Shinjuku|Shinjuku]]
+| minorl1=[[Tokyo/Harajuku|Harajuku]] ← [[Tokyo/Shibuya|Shibuya]]
+| directionr1=S
+| majorr1=[[Tokyo/Shinagawa|Shinagawa]]
+| minorr1=[[Tokyo/Gotanda|Gotanda]]
+
+| image2=JR JA line symbol.svg
+| imagesize2=30
+| directionl2=N
+| majorl2=[[Saitama|Ōmiya]]
+| minorl2=[[Tokyo/Toshima|Ikebukuro]] ← [[Tokyo/Shinjuku|Shinuku]]
+| directionr2=S
+| majorr2=[[Tokyo/Odaiba|Tōkyō Teleport]]
+| minorr2=[[Tokyo/Shinagawa|Ōsaki]] → into [[File:Rinkai Line symbol.svg|30px]]
+
+| image3=JR JS line symbol.svg
+| imagesize3=30
+| directionl3=N
+| majorl3=[[Utsunomiya]]
+| minorl3=into [[File:JR JU line symbol.svg|30px]] ← [[Saitama|Ōmiya]] ← [[Tokyo/Shinjuku|Shinjuku]]
+| directionr3=S
+| majorr3=[[Yokohama]]
+| minorr3=[[Tokyo/Shinagawa|Ōsaki]] → into [[File:JR JO line symbol.svg|30px]]
+
+| image4=Logo of Tokyo Metro Hibiya Line.svg
+| imagesize4=30
+| directionl4=W
+| majorl4=[[Tokyo/Meguro|Naka Meguro]]
+| minorl4=
+| directionr4=E
+| majorr4=[[Tokyo/Ginza|Ginza]]
+| minorr4=[[Tokyo/Minato|Hiroo]] → [[Tokyo/Roppongi|Roppongi]]
+}}
+
+
+
+
+{{usabledistrict}}
+{{IsPartOf|Tokyo}}
+{{geo|35.646643|139.710045}}
