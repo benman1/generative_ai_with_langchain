@@ -1,0 +1,26 @@
+# Chapter 4 - Retrieval Augmented Generation
+# Pinned, because both LangChain and RAGAS have moved symbols between packages.
+# Install:  pip install -r requirements.txt
+
+langchain>=1.3,<2
+langchain-core>=1.5,<2
+langchain-classic>=1.0        # compression retrievers, rerankers, legacy chains
+langgraph>=1.2,<2
+langchain-openai>=1.4         # only for the hosted path
+langchain-community>=0.4      # ARCHIVED upstream: loaders, BM25Retriever, cross-encoders
+langchain-experimental>=0.4   # SUNSET upstream: SemanticChunker
+
+# retrieval
+rank-bm25
+numpy<2                       # torch on macOS is not yet built against numpy 2
+pandas
+
+# local models, so the notebooks run with no API key
+model2vec                     # static CPU embeddings (potion-retrieval-32M)
+sentence-transformers         # cross-encoder reranker
+transformers<5                # 5.x needs a newer torch than macOS wheels provide
+
+# data model and figures
+pydantic>=2
+matplotlib
+requests
