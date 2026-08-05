@@ -37,3 +37,5 @@ cache/
 # Logs
 logs/
 *.log
+chapter4/__pycache__/
+chapter4/data/japan_corpus.json
