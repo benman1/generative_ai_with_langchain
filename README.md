@@ -121,7 +121,7 @@ Please check the instructions for setting up the environment either in the book 
 We welcome contributions from developers of all levels. If you'd like to contribute, please check our [contributing guidelines](./CONTRIBUTING.md) and help make this repository and the book more accessible.
 
 ---
-[![Star History Chart](https://api.star-history.com/svg?repos=benman1/generative_ai_with_langchain&type=Timeline)](https://star-history.com/#benman1/generative_ai_with_langchain&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=benman1/generative_ai_with_langchain&type=Timeline)](https://star-history.dera.page/#benman1/generative_ai_with_langchain&Date)
 
 
 ## ❤️ Contributors
